@@ -89,34 +89,34 @@
 \contentsline {subsubsection}{\numberline {5.2.5.3}Exerc^^c3^^adcio 3 - Seno}{159}{subsubsection.332}%
 \contentsline {subsubsection}{\numberline {5.2.5.4}Exerc^^c3^^adcio 4 - Cosseno}{165}{subsubsection.341}%
 \contentsline {subsubsection}{\numberline {5.2.5.5}Exerc^^c3^^adcio 5 - Tangente}{170}{subsubsection.350}%
-\contentsline {section}{\numberline {5.3}Resumo}{173}{section.353}%
-\contentsline {chapter}{\numberline {6}Conclus^^c3^^a3o}{174}{chapter.354}%
-\contentsline {section}{\numberline {6.1}Considera^^c3^^a7^^c3^^b5es Finais}{174}{section.355}%
-\contentsline {section}{\numberline {6.2}Trabalhos Futuros}{175}{section.356}%
-\contentsline {chapter}{\numberline {A}Perfil de aplica^^c3^^a7^^c3^^a3o OBAA}{185}{appendix.358}%
-\contentsline {chapter}{\numberline {B}Estudo de Caso: Atividade 1}{193}{appendix.359}%
-\contentsline {section}{\numberline {B.1}Atividade 1: Plano de Aula}{193}{section.360}%
-\contentsline {section}{\numberline {B.2}Atividade 1: Apresenta^^c3^^a7^^c3^^a3o em Slides}{194}{section.362}%
-\contentsline {chapter}{\numberline {C}Estudo de Caso: Atividades 2 e 3}{201}{appendix.363}%
-\contentsline {section}{\numberline {C.1}Atividade 2: Plano de Aula}{201}{section.364}%
-\contentsline {section}{\numberline {C.2}Atividade 3: Plano de Aula}{202}{section.365}%
-\contentsline {section}{\numberline {C.3}Atividades 2 e 3: Apresenta^^c3^^a7^^c3^^a3o em Slides}{204}{section.366}%
-\contentsline {section}{\numberline {C.4}Atividade 2: Exerc^^c3^^adcio de Fixa^^c3^^a7^^c3^^a3o}{221}{section.367}%
-\contentsline {section}{\numberline {C.5}Atividade 3: Interfaces F^^c3^^adsicas do Player Tang^^c3^^advel}{223}{section.373}%
-\contentsline {subsection}{\numberline {C.5.1}Interface F^^c3^^adsica A01}{223}{subsection.374}%
-\contentsline {subsection}{\numberline {C.5.2}Interface F^^c3^^adsica A02}{224}{subsection.376}%
-\contentsline {subsection}{\numberline {C.5.3}Interface F^^c3^^adsica A03}{225}{subsection.378}%
-\contentsline {subsection}{\numberline {C.5.4}Interface F^^c3^^adsica A04}{226}{subsection.380}%
-\contentsline {subsection}{\numberline {C.5.5}Interface F^^c3^^adsica A05}{227}{subsection.382}%
-\contentsline {subsection}{\numberline {C.5.6}Interface F^^c3^^adsica A06}{228}{subsection.384}%
-\contentsline {chapter}{\numberline {D}OTA - Exerc^^c3^^adcio 1}{229}{appendix.386}%
-\contentsline {chapter}{\numberline {E}OTA - Exerc^^c3^^adcio 2}{240}{appendix.387}%
-\contentsline {chapter}{\numberline {F}OTA - Exerc^^c3^^adcio 3}{261}{appendix.388}%
-\contentsline {chapter}{\numberline {G}OTA - Exerc^^c3^^adcio 4}{269}{appendix.389}%
-\contentsline {chapter}{\numberline {H}OTA - Exerc^^c3^^adcio 5}{277}{appendix.390}%
-\contentsline {chapter}{\numberline {I}OTA - Exerc^^c3^^adcio 1 - Anal^^c3^^adticos}{283}{appendix.391}%
-\contentsline {chapter}{\numberline {J}OTA - Exerc^^c3^^adcio 2 - Anal^^c3^^adticos}{315}{appendix.392}%
-\contentsline {chapter}{\numberline {K}OTA - Exerc^^c3^^adcio 3 - Anal^^c3^^adticos}{347}{appendix.393}%
-\contentsline {chapter}{\numberline {L}OTA - Exerc^^c3^^adcio 4 - Anal^^c3^^adticos}{358}{appendix.394}%
-\contentsline {chapter}{\numberline {M}OTA - Exerc^^c3^^adcio 5 - Anal^^c3^^adticos}{368}{appendix.395}%
-\contentsline {chapter}{\numberline {N}Formul^^c3^^a1rio de Experi^^c3^^aancia do Usu^^c3^^a1rio}{373}{appendix.396}%
+\contentsline {section}{\numberline {5.3}Resumo}{174}{section.359}%
+\contentsline {chapter}{\numberline {6}Conclus^^c3^^a3o}{175}{chapter.360}%
+\contentsline {section}{\numberline {6.1}Considera^^c3^^a7^^c3^^b5es Finais}{175}{section.361}%
+\contentsline {section}{\numberline {6.2}Trabalhos Futuros}{176}{section.362}%
+\contentsline {chapter}{\numberline {A}Perfil de aplica^^c3^^a7^^c3^^a3o OBAA}{186}{appendix.364}%
+\contentsline {chapter}{\numberline {B}Estudo de Caso: Atividade 1}{194}{appendix.365}%
+\contentsline {section}{\numberline {B.1}Atividade 1: Plano de Aula}{194}{section.366}%
+\contentsline {section}{\numberline {B.2}Atividade 1: Apresenta^^c3^^a7^^c3^^a3o em Slides}{195}{section.368}%
+\contentsline {chapter}{\numberline {C}Estudo de Caso: Atividades 2 e 3}{202}{appendix.369}%
+\contentsline {section}{\numberline {C.1}Atividade 2: Plano de Aula}{202}{section.370}%
+\contentsline {section}{\numberline {C.2}Atividade 3: Plano de Aula}{203}{section.371}%
+\contentsline {section}{\numberline {C.3}Atividades 2 e 3: Apresenta^^c3^^a7^^c3^^a3o em Slides}{205}{section.372}%
+\contentsline {section}{\numberline {C.4}Atividade 2: Exerc^^c3^^adcio de Fixa^^c3^^a7^^c3^^a3o}{222}{section.373}%
+\contentsline {section}{\numberline {C.5}Atividade 3: Interfaces F^^c3^^adsicas do Player Tang^^c3^^advel}{224}{section.379}%
+\contentsline {subsection}{\numberline {C.5.1}Interface F^^c3^^adsica A01}{224}{subsection.380}%
+\contentsline {subsection}{\numberline {C.5.2}Interface F^^c3^^adsica A02}{225}{subsection.382}%
+\contentsline {subsection}{\numberline {C.5.3}Interface F^^c3^^adsica A03}{226}{subsection.384}%
+\contentsline {subsection}{\numberline {C.5.4}Interface F^^c3^^adsica A04}{227}{subsection.386}%
+\contentsline {subsection}{\numberline {C.5.5}Interface F^^c3^^adsica A05}{228}{subsection.388}%
+\contentsline {subsection}{\numberline {C.5.6}Interface F^^c3^^adsica A06}{229}{subsection.390}%
+\contentsline {chapter}{\numberline {D}OTA - Exerc^^c3^^adcio 1}{230}{appendix.392}%
+\contentsline {chapter}{\numberline {E}OTA - Exerc^^c3^^adcio 2}{241}{appendix.393}%
+\contentsline {chapter}{\numberline {F}OTA - Exerc^^c3^^adcio 3}{262}{appendix.394}%
+\contentsline {chapter}{\numberline {G}OTA - Exerc^^c3^^adcio 4}{270}{appendix.395}%
+\contentsline {chapter}{\numberline {H}OTA - Exerc^^c3^^adcio 5}{278}{appendix.396}%
+\contentsline {chapter}{\numberline {I}OTA - Exerc^^c3^^adcio 1 - Anal^^c3^^adticos}{284}{appendix.397}%
+\contentsline {chapter}{\numberline {J}OTA - Exerc^^c3^^adcio 2 - Anal^^c3^^adticos}{316}{appendix.398}%
+\contentsline {chapter}{\numberline {K}OTA - Exerc^^c3^^adcio 3 - Anal^^c3^^adticos}{348}{appendix.399}%
+\contentsline {chapter}{\numberline {L}OTA - Exerc^^c3^^adcio 4 - Anal^^c3^^adticos}{359}{appendix.400}%
+\contentsline {chapter}{\numberline {M}OTA - Exerc^^c3^^adcio 5 - Anal^^c3^^adticos}{369}{appendix.401}%
+\contentsline {chapter}{\numberline {N}Formul^^c3^^a1rio de Experi^^c3^^aancia do Usu^^c3^^a1rio}{374}{appendix.402}%
