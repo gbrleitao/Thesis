@@ -1,0 +1,51 @@
+<xml xmlns="https://developers.google.com/blockly/xml">
+  <block type="entradas" id="|jbD+JpnI9:GuLr?,p1f" x="27" y="-340">
+    <field name="tipo">EF</field>
+    <field name="id">1</field>
+  </block>
+  <block type="entradas" id="eI0F5t8_(+~,UFc]druX" x="25" y="-307">
+    <field name="tipo">EV</field>
+    <field name="id">1</field>
+  </block>
+  <block type="entradas" id=")`_Y(%A$xfL]ndi@;lbH" x="27" y="-273">
+    <field name="tipo">EV</field>
+    <field name="id">2</field>
+  </block>
+  <block type="entradas" id="#Tp)8#6zokBc%qMT[St%" x="28" y="-242">
+    <field name="tipo">EV</field>
+    <field name="id">3</field>
+  </block>
+  <block type="entradas" id="F9O6]5#1Z/X@H}SPo[0]" x="29" y="-210">
+    <field name="tipo">EV</field>
+    <field name="id">4</field>
+  </block>
+  <block type="entradas" id="*8H,.=40#5RhJzvLf(B3" x="28" y="-179">
+    <field name="tipo">EV</field>
+    <field name="id">5</field>
+  </block>
+  <block type="saidas" id="[ch!.o+AnEpqgST%=R]x" x="27" y="-105">
+    <field name="saida">SV</field>
+    <field name="nome_saida">1</field>
+    <field name="valor_saida">Mova o ponteiro no sentido horário!</field>
+  </block>
+  <block type="saidas" id="Q)?FCE4d6n!9kB51bw4!" x="27" y="-76">
+    <field name="saida">SV</field>
+    <field name="nome_saida">2</field>
+    <field name="valor_saida">Mova o ponteiro no sentido anti-horário!</field>
+  </block>
+  <block type="saidas" id="yo+hCH)PRgC_1eR9`O.]" x="27" y="-48">
+    <field name="saida">SV</field>
+    <field name="nome_saida">3</field>
+    <field name="valor_saida">Posição está correta!</field>
+  </block>
+  <block type="saidas" id="7~5{j|]8?DP]r?O|tFxs" x="27" y="-21">
+    <field name="saida">SV</field>
+    <field name="nome_saida">4</field>
+    <field name="valor_saida">Resposta está correta!</field>
+  </block>
+  <block type="saidas" id="lH0b?NSBF+R#Cy2gR{Ps" x="28" y="8">
+    <field name="saida">SV</field>
+    <field name="nome_saida">5</field>
+    <field name="valor_saida">Alguma das respostas precisa ser revista!</field>
+  </block>
+</xml>

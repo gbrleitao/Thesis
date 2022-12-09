@@ -1,0 +1,358 @@
+%% ----------------------------------------------------------------
+%% Thesis.tex
+%% ---------------------------------------------------------------- 
+\documentclass[twoside,hidelinks]{ecsthesis}      % Use the Thesis Style
+% \hypersetup{colorlinks=false}   % Set to false for black/white printing
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
+%% ---------------- INCLUDES EXTRAS
+\usepackage[brazilian]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lscape}
+\usepackage{graphicx,url}
+\usepackage{graphics}
+% \usepackage[dvips]{color}
+% \usepackage{color, colortbl}
+\usepackage[usenames,dvipsnames]{color,colortbl}
+\usepackage{multirow}
+\usepackage{graphicx}
+
+\usepackage{caption}
+%\usepackage{subcaption}
+
+\usepackage{epigraph}
+\usepackage{array}
+\usepackage{bigstrut}
+\usepackage{subfigure}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{scalefnt}
+\usepackage{txfonts} 
+\usepackage[mathscr]{euscript}
+\usepackage{upgreek}
+\definecolor{orange}{RGB}{255,127,0}
+\definecolor{bittersweet}{rgb}{1.0, 0.44, 0.37}
+\usepackage{listings}
+\makeatletter
+\usepackage[portuguese, ruled, linesnumbered]{algorithm2e}
+% \usepackage{algorithm,algorithmic}
+\usepackage{enumitem}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{adjustbox}
+\usepackage{nicefrac}
+\usepackage{tikz,pgfplots}
+\usepgfplotslibrary{statistics}
+\usepackage{adjustbox}
+\usepackage{scalefnt}
+\usepackage{tabularx}
+\usepackage{longtable}
+\usepackage{xltabular}
+\usepackage{pdfpages}
+
+%\usepackage{mwe}    % loads »blindtext« and »graphicx«
+%\usepackage{subfig}
+
+\renewcommand\tabularxcolumn[1]{m{#1}} %centralizar linha da tabela verticalmente
+
+\usepackage{minted} % ajusta cores das palavras reservadas no código-fonte
+
+\usepgfplotslibrary{dateplot}
+\pgfplotsset{compat=1.9}
+
+% REMOVE OS HIPENS... MANTENDO AS PALAVRAS SEM QUEBRA-LAS EM SILABAS...
+\usepackage[none]{hyphenat} % Nao separa as silabas... diante de quebras de linhas em um paragrafo.
+\tolerance=1
+\emergencystretch=\maxdimen
+\hyphenpenalty=10000
+\hbadness=10000
+
+
+
+
+\usepackage{natbib}            % Use Natbib style for the refs.
+\removecolourlinks    % Uncomment this command to remove colour from any links
+\input{chapters/definicoes.tex}            % Include your abbreviations
+
+\usepackage[nounderscore]{syntax}
+\usepackage{etoolbox}
+\newenvironment{BNF}
+{\captionsetup{type=lstlisting}}
+{}
+
+\makeatletter
+% define the main command on the model of the original one
+% we add stepping the counter and typesetting the number
+\def\gr@implnumbereditem<#1> #2 {%
+	\stepcounter{grammarline}%
+	\sbox\z@{\hskip\labelsep\grammarlabel{#1}{#2}}
+	\strut\@@par%
+	\vskip-\parskip%
+	\vskip-\baselineskip%
+	\hrule\@height\z@\@depth\z@\relax%
+	\item[%
+	\rlap{\hskip\dimexpr\linewidth+\grammarindent\relax %% add the number
+		\llap{(\thegrammarline)}}%
+	\unhbox\z@]%
+	\catcode`\<\active%
+}
+% copy the grammar environment under a new name
+\let\numberedgrammar\grammar
+\let\endnumberedgrammar\endgrammar
+% now patch the new environment
+\pretocmd\numberedgrammar{\setcounter{grammarline}{0}}{}{}
+\patchcmd\numberedgrammar
+{\gr@implitem}
+{\gr@implnumbereditem}
+{}{}
+\patchcmd\numberedgrammar
+{\def\alt{\\\llap{\textbar\quad}}}
+{\let\alt\alt@num}
+{}{}
+
+% the command for numbering the \alt lines
+\def\alt@num{\\\relax
+	%   \stepcounter{grammarline}%
+	%   \rlap{\hskip\dimexpr\linewidth-\labelwidth+\grammarindent-\labelsep\relax
+		%          \llap{(\thegrammarline)}}% add the number
+	\llap{\textbar\quad}
+}
+
+\newcounter{grammarline}
+\makeatother
+
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
+
+\newcommand{\novo}[1]{\textcolor{blue}{#1}}
+
+\begin{document}
+% Desabilita a opção de impressão como livro
+\setboolean{@twoside}{false}
+
+\frontmatter
+%\title      {Método para Criação e Utilização de Objetos Tangíveis de Aprendizagem com Verificação da Aprendizagem Baseada em Métricas}
+\title      {Objetos Tangíveis de Aprendizagem: um caminho para criação, utilização e verificação da aprendizagem baseada em métricas}
+\authors    {\texorpdfstring
+	{\href{mailto:gabriel.leitao@gmail.com}{Gabriel de Souza Leitão}}
+	{Gabriel de Souza Leitão}
+}
+\department {\href{http://icomp.ufam.edu.br}{Instituto de Computação - IComp}}
+\group      {\href{http://icomp.ufam.edu.br}{Grupo de Interesse em Sistemas Embarcados - GISE}}
+\university	{\href{http://www.ufam.edu.br}{Universidade Federal do Amazonas - UFAM}}
+\faculty	{\href{http://icomp.ufam.edu.br}{Programa de Pós-Graduação em Informática - PPGI}}
+\addresses  {\groupname\\\deptname\\\univname}
+\date       {\today}
+\subject    {}
+\keywords   {}
+\textoFinalidadeDissertacao	{Tese apresentada ao Programa de Pós-Graduação em Informática 
+	da Universidade Federal do Amazonas, como parte dos requisitos necessários
+	à obtenção do título de Doutor em Informática.}
+
+
+
+% BEGIN... Informacoes_adicionais...
+\datadefesa		{Manaus - Amazonas\\ MM de AAAA}
+\dataaprovacao		{DD/MM/AAAA}
+\orientadorname		{Prof. Dr. Raimundo da Silva Barreto}
+\orientadoruniversity		{Universidade Federal do Amazonas - UFAM}
+\membroumname		{Prof. Dra...}
+\membroumuniversity{Universidade Federal do Amazonas - UFAM}
+\membrodoisname		{Prof. Dra...}
+\membrodoisuniversity{Universidade Federal do Amazonas - UFAM}
+\membrotresname		{Prof. Dra...}
+\membrotresuniversity{Universidade...}
+% \membroumname		{Prof. Dra. Elaine Harada Teixeira de Oliveira}
+% \membroumuniversity		{Universidade Federal do Amazonas - UFAM}
+% \membrodoisname		{Prof. Dra. Francisca Maria Coelho Cavalcanti}
+% \membrodoisuniversity		{Universidade Federal do Amazonas - UFAM}
+% \membrotresname		{Prof. Dr. Tiago Thompsen Primo}
+% \membrotresuniversity{Universidade Federal de Pelotas - UFPel}
+%END..Informacoes_adicionais...
+
+\maketitle % capa
+
+\makesubtitle % contra capa
+
+
+%\imprimirfolhadeaprovacao
+
+%TODO:BEGIN: Parametros de inicializacao da pagina de catalogacao do trabalho...
+\nomeorientadorcatalogacao	{Barreto, Raimundo da Silva}
+\nomeautorcatalogacao		{Leitão, Gabriel de Souza}
+\localcatalogacao			{Manaus, BR - AM}
+\anocatalogacao				{2019}
+\referenciacatalogacao		{L533u, 92f.: color.; 31cm}
+\graucatalogacao			{Tese (Doutorado em Informática)}
+\paginarefbibcatalogacao	{72 - 76}
+\palavraschavecatalogacao	{1. Educação Digital. 2. Sistemas de Tutoria. 3. Avaliação de Desempenho. 4. Físico-Virtual. 5. Objetos de Aprendizagem. }
+
+
+\imprimirfolhadecatalogacao
+%TODO: END : Parametros de inicializacao da pagina de catalogacao do trabalho...
+
+
+
+
+
+
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
+% % -------------------- Código para personalização
+%para os códigos em C
+\lstset{language=C,basicstyle=\scriptsize}
+% 
+% 
+\lstset{numbers=left, numberstyle=\tiny, stepnumber=1, numbersep=5pt}
+\lstset{firstnumber=1}
+\lstset{frame=single}
+\lstset{showstringspaces=false}
+\lstset{showspaces=false}
+\lstset{showtabs=false}
+\lstset{tabsize=2}
+\lstset{
+	language={C},
+	morekeywords={assert,uchar,sizeof_FORTES}
+}
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
+
+
+
+
+
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
+% % % % % Begin Chapters
+
+% -----------------------------------------------------------------
+% => DEDICATORIA
+% -----------------------------------------------------------------
+\input{chapters/dedicatoria.tex}
+
+% -----------------------------------------------------------------
+% => AGRADECIMENTOS
+% -----------------------------------------------------------------
+\input{chapters/agradecimentos.tex}
+
+% -----------------------------------------------------------------
+% => EPIGRAFE
+% -----------------------------------------------------------------
+\input{chapters/epigrafe.tex}
+
+% -----------------------------------------------------------------
+% => ABSTRACT
+% -----------------------------------------------------------------
+\input{chapters/resumo.tex}
+\input{chapters/abstract.tex} 
+
+
+
+% % % % % % 
+% Sumario
+% % % % % % 
+\pdfbookmark{\contentsname}{toc} % NEW
+\tableofcontents
+
+\listoffigures
+\listoftables
+
+\newpage
+%\phantomsection \label{listalgorithmcfname}
+%\addcontentsline{toc}{chapter}{\listalgorithmcfname}
+%\listofalgorithms
+
+\renewcommand{\listingscaption}{Código-fonte}
+\renewcommand\listoflistingscaption{Lista de Códigos-fonte}
+\listoflistings
+
+% Empty page
+\newpage
+\thispagestyle{empty} 
+\mbox{}
+
+
+
+
+% -----------------------------------------------------------------
+% => LISTA DE ABREVIACOES E ACRONIMOS
+% -----------------------------------------------------------------
+\input{chapters/listaAbreviacoesAcronimos.tex}
+
+\mainmatter
+
+
+
+
+% -----------------------------------------------------------------
+% => INTRODUCTION - 1 [DOING]
+% -----------------------------------------------------------------
+% 
+\input{chapters/introduction.tex}
+
+% -----------------------------------------------------------------
+% => BACKGROUND - 2 [DOING]
+% -----------------------------------------------------------------
+%% 
+\input{chapters/background.tex}
+
+% -----------------------------------------------------------------
+% => RELATED WORKS - 3 [DOING]
+% -----------------------------------------------------------------
+%% 
+\input{chapters/refworks.tex}
+
+% -----------------------------------------------------------------
+% => SYSTEMATIC REVIEW - 4 [DOING]
+% -----------------------------------------------------------------
+%% 
+%\input{chapters/sysreview_inv.tex}
+
+% -----------------------------------------------------------------
+% => PROPOSED METHOD - 5 [DOING]
+% -----------------------------------------------------------------
+%% 
+\input{chapters/proposedMethod.tex} 
+
+% \input{chapters/methodology.tex}
+
+
+% -----------------------------------------------------------------
+% => PARTIAL RESULTS - 6 [DOING]
+% -----------------------------------------------------------------
+%% 
+\input{chapters/expResults.tex}
+
+% -----------------------------------------------------------------
+% => CONCLUSIONS AND FUTURE WORKS - 7 [DOING]
+% -----------------------------------------------------------------
+%% 
+\input{chapters/end.tex}
+
+
+
+
+% % % % % End Chapters
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
+
+
+%\backmatter
+
+\bibliographystyle{ecs}
+\bibliography{references}
+
+\appendix
+\input{chapters/appendixA.tex}
+\input{chapters/appendixLesson.tex}
+\input{chapters/appendixLesson2.tex}
+\input{chapters/appendixB.tex}
+\input{chapters/appendixC.tex}
+\input{chapters/appendixSeno.tex}
+\input{chapters/appendixCosseno.tex}
+\input{chapters/appendixTangente.tex}
+\input{chapters/appendixAnaliticos.tex}
+\input{chapters/appendixAnaliticosA02.tex}
+\input{chapters/appendixAnaliticosA03.tex}
+\input{chapters/appendixAnaliticosA04.tex}
+\input{chapters/appendixAnaliticosA05.tex}
+\input{chapters/appendixUX.tex}
+\end{document}
+
+%% ----------------------------------------------------------------
+
+

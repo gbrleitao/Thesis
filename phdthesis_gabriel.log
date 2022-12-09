@@ -1,0 +1,4070 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.12.8)  8 DEC 2022 23:55
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**./phdthesis_gabriel.tex
+(phdthesis_gabriel.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-09-28> (ecsthesis.cls
+Document Class: ecsthesis 2011/11/10 v2.0 LaTeX document class
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/base\bk11.clo
+File: bk11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/vmargin\vmargin.sty
+Package: vmargin 2004/07/15 V2.5 set document margins (VK)
+
+Package: vmargin 2004/07/15 V2.5 set document margins (VK)
+\PaperWidth=\dimen139
+\PaperHeight=\dimen140
+) (D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip49
+\f@nch@O@elh=\skip50
+\f@nch@O@erh=\skip51
+\f@nch@O@olh=\skip52
+\f@nch@O@orh=\skip53
+\f@nch@O@elf=\skip54
+\f@nch@O@erf=\skip55
+\f@nch@O@olf=\skip56
+\f@nch@O@orf=\skip57
+) (D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip58
+
+For additional information on amsmath, use the `?' option.
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen141
+))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count194
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count195
+\leftroot@=\count196
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count197
+\DOTSCASE@=\count198
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count199
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count266
+\dotsspace@=\muskip16
+\c@parentequation=\count267
+\dspbrk@lvl=\count268
+\tag@help=\toks17
+\row@=\count269
+\column@=\count270
+\maxfields@=\count271
+\andhelp@=\toks18
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks19
+\multlinegap=\skip59
+\multlinetaggap=\skip60
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amscd.sty
+Package: amscd 2017/04/14 v2.1 AMS Commutative Diagrams
+\athelp@=\toks21
+\minaw@=\dimen150
+\bigaw@=\dimen151
+\minCDarrowwidth=\dimen152
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip61
+\thm@postskip=\skip62
+\thm@headsep=\skip63
+\dth@everypar=\toks27
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@example=\count272
+\c@theorem=\count273
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks28
+)
+\caption@tempdima=\dimen153
+\captionmargin=\dimen154
+\caption@leftmargin=\dimen155
+\caption@rightmargin=\dimen156
+\caption@width=\dimen157
+\caption@indent=\dimen158
+\caption@parindent=\dimen159
+\caption@hangindent=\dimen160
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count274
+\c@continuedfloat=\count275
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+\stockwidth=\dimen161
+\stockheight=\dimen162
+))
+\Gin@req@height=\dimen163
+\Gin@req@width=\dimen164
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf.s
+ty
+Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+ (D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+)))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip64
+\subfigcapskip=\skip65
+\subfigcaptopadj=\dimen165
+\subfigbottomskip=\skip66
+\subfigcapmargin=\dimen166
+\subfiglabelskip=\skip67
+\c@subfigure=\count276
+\c@lofdepth=\count277
+\c@subtable=\count278
+\c@lotdepth=\count279
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.cfg
+)
+\subfig@top=\skip68
+\subfig@bottom=\skip69
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen167
+\lightrulewidth=\dimen168
+\cmidrulewidth=\dimen169
+\belowrulesep=\dimen170
+\belowbottomsep=\dimen171
+\aboverulesep=\dimen172
+\abovetopsep=\dimen173
+\cmidrulesep=\dimen174
+\cmidrulekern=\dimen175
+\defaultaddspace=\dimen176
+\@cmidla=\count280
+\@cmidlb=\count281
+\@aboverulesep=\dimen177
+\@belowrulesep=\dimen178
+\@thisruleclass=\count282
+\@lastruleclass=\count283
+\@thisrulewidth=\dimen179
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count284
+\rotFPtop=\skip70
+\rotFPbot=\skip71
+\rot@float@box=\box53
+\rot@mess@toks=\toks29
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count285
+\lst@gtempboxa=\box54
+\lst@token=\toks30
+\lst@length=\count286
+\lst@currlwidth=\dimen180
+\lst@column=\count287
+\lst@pos=\count288
+\lst@lostspace=\dimen181
+\lst@width=\dimen182
+\lst@newlines=\count289
+\lst@lineno=\count290
+\lst@maxwidth=\dimen183
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count291
+\lst@skipnumbers=\count292
+\lst@framebox=\box55
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/xifthen\xifthen.sty
+Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count293
+\calc@Bcount=\count294
+\calc@Adimen=\dimen184
+\calc@Bdimen=\dimen185
+\calc@Askip=\skip72
+\calc@Bskip=\skip73
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count295
+\calc@Cskip=\skip74
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/ifmtarg\ifmtarg.sty
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen186
+\ar@mcellbox=\box56
+\extrarowheight=\dimen187
+\NC@list=\toks31
+\extratabsurround=\skip75
+\backup@length=\skip76
+\ar@cellbox=\box57
+)
+\TX@col@width=\dimen188
+\TX@old@table=\dimen189
+\TX@old@col=\dimen190
+\TX@target=\dimen191
+\TX@delta=\dimen192
+\TX@cols=\count296
+\TX@ftn=\toks32
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2022-09-22 v7.00t Hypertext links for LaTeX
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count297
+)
+\@linkdim=\dimen193
+\Hy@linkcounter=\count298
+\Hy@pagecounter=\count299
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2022-09-22 v7.00t Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count300
+ (D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2022-09-22 v7.00t Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4045.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4045.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4045
+.
+Package hyperref Info: Option `hypertexnames' set `false' on input line 4045.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4045.
+Package hyperref Info: Option `unicode' set `true' on input line 4045.
+Package hyperref Info: Option `breaklinks' set `true' on input line 4045.
+Package hyperref Info: Hyper figures OFF on input line 4162.
+Package hyperref Info: Link nesting OFF on input line 4167.
+Package hyperref Info: Hyper index ON on input line 4170.
+Package hyperref Info: Plain pages OFF on input line 4177.
+Package hyperref Info: Backreferencing OFF on input line 4182.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4410.
+\c@Hy@tempcnt=\count301
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4748.
+\XeTeXLinkMargin=\dimen194
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count302
+\Field@Width=\dimen195
+\Fld@charsize=\dimen196
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring ON on input line 6045.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count303
+\c@Item=\count304
+\c@Hfootnote=\count305
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2022-09-22 v7.00t Hyperref driver for pdfTeX
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count306
+\c@bookmark@seq@number=\count307
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip77
+)
+\c@dummy=\count308
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip78
+\LTright=\skip79
+\LTpre=\skip80
+\LTpost=\skip81
+\LTchunksize=\count309
+\LTcapwidth=\dimen197
+\LT@head=\box58
+\LT@firsthead=\box59
+\LT@foot=\box60
+\LT@lastfoot=\box61
+\LT@gbox=\box62
+\LT@cols=\count310
+\LT@rows=\count311
+\c@LT@tables=\count312
+\c@LT@chunks=\count313
+\LT@p@ftn=\toks33
+))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2022/10/04 3.81 The Babel package
+\babel@savecnt=\count314
+\U@D=\dimen198
+\l@unhyphenated=\language79
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count315
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/babel-portuges\brazilia
+n.ldf
+Language: portuges 2021/07/09 v1.2t Portuguese support from the babel system
+Package babel Info: Hyphen rules for 'brazilian' set to \l@portuguese
+(babel)             (\language56). Reported on input line 111.
+Package babel Info: Making " an active character on input line 143.
+))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/pt\babel
+-brazilian.tex
+Package babel Info: Importing font and identification data for brazilian
+(babel)             from babel-pt-BR.ini. Reported on input line 11.
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks34
+\inpenc@posthook=\toks35
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+) (D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
+\everycr=\toks36
+\minrowclearance=\skip82
+\rownum=\count316
+) (D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip83
+\multirow@cntb=\count317
+\multirow@dima=\skip84
+\bigstrutjot=\dimen199
+) (D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/epigraph\epigraph.sty
+Package: epigraph 2020/01/02 v1.5e typesetting epigraphs
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/nextpage\nextpage.sty
+Package: nextpage 2009/09/03 v1.1a additional page commands
+)
+\beforeepigraphskip=\skip85
+\afterepigraphskip=\skip86
+\epigraphwidth=\skip87
+\epigraphrule=\skip88
+) (D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/multirow\bigstrut.sty
+Package: bigstrut 2021/03/15 v2.8 Provide larger struts in tabulars
+) (D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty
+) (D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\txfonts.sty
+Package: txfonts 2008/01/22 v3.2.1
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/txr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/txr/m/n --> OT1/txr/bx/n on input line 22.
+\symitalic=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `italic' in version `bold'
+(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 26.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/bx/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/bx/n on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/txr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/txr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 31.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/txss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/txss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/txss/m/n --> OT1/txss/b/n on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/txtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/txtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/txtt/m/n --> OT1/txtt/b/n on input line 51.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/txmi/m/it --> OML/txmi/bx/it on input line 59.
+\symlettersA=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/txmia/m/it --> U/txmia/bx/it on input line 67.
+LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 70.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/txsy/m/n --> OMS/txsy/bx/n on input line 78.
+LaTeX Font Info:    Redeclaring symbol font `AMSa' on input line 93.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `normal'
+(Font)                  U/msa/m/n --> U/txsya/m/n on input line 93.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/msa/m/n --> U/txsya/m/n on input line 93.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/txsya/m/n --> U/txsya/bx/n on input line 94.
+LaTeX Font Info:    Redeclaring symbol font `AMSb' on input line 102.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `normal'
+(Font)                  U/msb/m/n --> U/txsyb/m/n on input line 102.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/msb/m/n --> U/txsyb/m/n on input line 102.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/txsyb/m/n --> U/txsyb/bx/n on input line 103.
+\symsymbolsC=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/txsyc/m/n --> U/txsyc/bx/n on input line 113.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/txex/m/n --> OMX/txex/bx/n on input line 121.
+\symlargesymbolsA=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `largesymbolsA' in version `bold'
+(Font)                  U/txexa/m/n --> U/txexa/bx/n on input line 129.
+LaTeX Font Info:    Redeclaring math symbol \mathsterling on input line 164.
+LaTeX Info: Redefining \not on input line 1043.
+LaTeX Info: Redefining \textsquare on input line 1063.
+LaTeX Info: Redefining \openbox on input line 1064.
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\euscript.sty
+Package: euscript 2009/06/22 v3.00 Euler Script fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
+(Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/was\upgreek.sty
+Package: upgreek 2003/02/12 v2.0 (WaS)
+Package upgreek Info: Using Euler Roman for upright Greek on input line 31.
+\symugrf@m=\mathgroup10
+LaTeX Font Info:    Overwriting symbol font `ugrf@m' in version `bold'
+(Font)                  U/eur/m/n --> U/eur/b/n on input line 38.
+)
+(algorithm2e.sty
+Package: algorithm2e 2013/01/06 v5.00 algorithms environments
+\c@AlgoLine=\count318
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/relsize\relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+********************************************************
+Package `algorithm2e' Release 5.0 -- january 06 2013 --
+- algorithm2e-announce@lirmm.fr mailing list for announcement about releases
+- algorithm2e-discussion@lirmm.fr mailing list for discussion about package
+subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
+- Author: Christophe Fiorio (cfiorio@um2.fr)
+********************************************************
+\skiptotal=\skip89
+\skiplinenumber=\skip90
+\skiprule=\skip91
+\skiphlne=\skip92
+\skiptext=\skip93
+\skiplength=\skip94
+\algomargin=\skip95
+\skipalgocfslide=\skip96
+\algowidth=\dimen256
+\inoutsize=\dimen257
+\inoutindent=\dimen258
+\interspacetitleruled=\dimen259
+\interspacealgoruled=\dimen260
+\interspacetitleboxruled=\dimen261
+\algocf@inoutbox=\box63
+\algocf@inputbox=\box64
+\AlCapSkip=\skip97
+\AlCapHSkip=\skip98
+\algoskipindent=\skip99
+\algocf@nlbox=\box65
+\algocf@hangingbox=\box66
+\algocf@untilbox=\box67
+\algocf@skipuntil=\skip100
+\algocf@capbox=\box68
+\algoheightruledefault=\skip101
+\algoheightrule=\skip102
+\algotitleheightruledefault=\skip103
+\algotitleheightrule=\skip104
+\c@algocfline=\count319
+\c@algocfproc=\count320
+\c@algocf=\count321
+\algocf@algoframe=\box69
+\algocf@algobox=\box70
+) (D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip105
+\enit@outerparindent=\dimen262
+\enit@toks=\toks37
+\enit@inbox=\box71
+\enit@count@id=\count322
+\enitdp@description=\count323
+) (D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+LaTeX Info: Redefining \color on input line 711.
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks38
+\XKV@tempa@toks=\toks39
+)
+\XKV@depth=\count324
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.s
+ty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box72
+)
+\tc@llx=\dimen263
+\tc@lly=\dimen264
+\tc@urx=\dimen265
+\tc@ury=\dimen266
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen267
+\adjbox@Height=\dimen268
+\adjbox@Depth=\dimen269
+\adjbox@Totalheight=\dimen270
+\adjbox@pwidth=\dimen271
+\adjbox@pheight=\dimen272
+\adjbox@pdepth=\dimen273
+\adjbox@ptotalheight=\dimen274
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count325
+) (D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box73
+\sift@deathcycles=\count326
+\@vwid@loff=\dimen275
+\@vwid@roff=\dimen276
+)) (D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/units\nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip106
+\L@UnitsRaiseTextstyle=\skip107
+\L@UnitsRaiseScriptstyle=\skip108
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
+\pgfutil@everybye=\toks40
+\pgfutil@tempdima=\dimen277
+\pgfutil@tempdimb=\dimen278
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common-lists.tex))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
+\pgfutil@abb=\box74
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks41
+\pgfkeys@temptoks=\toks42
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+filtered.code.tex
+\pgfkeys@tmptoks=\toks43
+))
+\pgf@x=\dimen279
+\pgf@y=\dimen280
+\pgf@xa=\dimen281
+\pgf@ya=\dimen282
+\pgf@xb=\dimen283
+\pgf@yb=\dimen284
+\pgf@xc=\dimen285
+\pgf@yc=\dimen286
+\pgf@xd=\dimen287
+\pgf@yd=\dimen288
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count327
+\c@pgf@countb=\count328
+\c@pgf@countc=\count329
+\c@pgf@countd=\count330
+\t@pgf@toka=\toks44
+\t@pgf@tokb=\toks45
+\t@pgf@tokc=\toks46
+\pgf@sys@id@count=\count331
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count332
+\pgfsyssoftpath@bigbuffer@items=\count333
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
+\pgfmath@dimen=\dimen289
+\pgfmath@count=\count334
+\pgfmath@box=\box75
+\pgfmath@toks=\toks47
+\pgfmath@stack@operand=\toks48
+\pgfmath@stack@operation=\toks49
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
+\c@pgfmathroundto@lastzeros=\count335
+))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen290
+\pgf@picmaxx=\dimen291
+\pgf@picminy=\dimen292
+\pgf@picmaxy=\dimen293
+\pgf@pathminx=\dimen294
+\pgf@pathmaxx=\dimen295
+\pgf@pathminy=\dimen296
+\pgf@pathmaxy=\dimen297
+\pgf@xx=\dimen298
+\pgf@xy=\dimen299
+\pgf@yx=\dimen300
+\pgf@yy=\dimen301
+\pgf@zx=\dimen302
+\pgf@zy=\dimen303
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen304
+\pgf@path@lasty=\dimen305
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen306
+\pgf@shorten@start@additional=\dimen307
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box76
+\pgf@hbox=\box77
+\pgf@layerbox@main=\box78
+\pgf@picture@serial@count=\count336
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen308
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen309
+\pgf@pt@y=\dimen310
+\pgf@pt@temp=\dimen311
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen312
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen313
+\pgf@sys@shading@range@num=\count337
+\pgf@shadingcount=\count338
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box79
+))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box80
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen314
+\pgf@nodesepend=\dimen315
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex)
+\pgffor@iter=\dimen316
+\pgffor@skip=\dimen317
+\pgffor@stack=\toks50
+\pgffor@toks=\toks51
+))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count339
+\pgfplotmarksize=\dimen318
+)
+\tikz@lastx=\dimen319
+\tikz@lasty=\dimen320
+\tikz@lastxsaved=\dimen321
+\tikz@lastysaved=\dimen322
+\tikz@lastmovetox=\dimen323
+\tikz@lastmovetoy=\dimen324
+\tikzleveldistance=\dimen325
+\tikzsiblingdistance=\dimen326
+\tikz@figbox=\box81
+\tikz@figbox@bg=\box82
+\tikz@tempbox=\box83
+\tikz@tempbox@bg=\box84
+\tikztreelevel=\count340
+\tikznumberofchildren=\count341
+\tikznumberofcurrentchild=\count342
+\tikz@fig@count=\count343
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count344
+\pgfmatrixcurrentcolumn=\count345
+\pgf@matrix@numberofcolumns=\count346
+)
+\tikz@expandcount=\count347
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.rev
+ision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.cod
+e.tex
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscore
+.code.tex
+\t@pgfplots@toka=\toks52
+\t@pgfplots@tokb=\toks53
+\t@pgfplots@tokc=\toks54
+\pgfplots@tmpa=\dimen327
+\c@pgfplots@coordindex=\count348
+\c@pgfplots@scanlineindex=\count349
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplots
+sysgeneric.code.tex))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfplot
+slibrary.code.tex)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompat
+ib\pgfplotsoldpgfsupp_loader.code.tex
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryfpu.code.tex))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sutil.code.tex
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsliststructure.code.tex)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsliststructureext.code.tex)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count350
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsmatrix.code.tex)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\pgf
+plotstableshared.code.tex
+\c@pgfplotstable@counta=\count351
+\t@pgfplotstable@a=\toks55
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsdeque.code.tex)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sbinary.code.tex
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sbinary.data.code.tex))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sutil.verb.code.tex)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibr
+arypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count352
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflibra
+rypgfplots.surfshading.pgfsys-pdftex.def)))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+scolormap.code.tex
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+scolor.code.tex))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsstac
+kedplots.code.tex)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsplot
+handlers.code.tex
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmesh
+plothandler.code.tex
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmesh
+plotimage.code.tex)))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.sca
+ling.code.tex)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscoor
+dprocessing.code.tex)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.err
+orbars.code.tex)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.mar
+kers.code.tex)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotstick
+s.code.tex)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.pat
+hs.code.tex)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.code.tex
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+decorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen328
+\pgfdecoratedremainingdistance=\dimen329
+\pgfdecoratedinputsegmentcompleteddistance=\dimen330
+\pgfdecoratedinputsegmentremainingdistance=\dimen331
+\pgf@decorate@distancetomove=\dimen332
+\pgf@decorate@repeatstate=\count353
+\pgfdecorationsegmentamplitude=\dimen333
+\pgfdecorationsegmentlength=\dimen334
+)
+\tikz@lib@dec@box=\box85
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.pathmorphing.code.tex
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.pathmorphing.code.tex))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.pathreplacing.code.tex
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.pathreplacing.code.tex))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlib
+rarypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count354
+\pgfplots@xmin@reg=\dimen335
+\pgfplots@xmax@reg=\dimen336
+\pgfplots@ymin@reg=\dimen337
+\pgfplots@ymax@reg=\dimen338
+\pgfplots@zmin@reg=\dimen339
+\pgfplots@zmax@reg=\dimen340
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlib
+rarypgfplots.statistics.code.tex)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/xltabular\xltabular.sty
+Package: xltabular 2020/11/04 v0.2e `xltabular' package (hv,RN)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/ltablex\ltablex.sty
+Package: ltablex 2014/08/13 v1.1 Modified tabularx
+))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2022/10/09 v0.5w Insert pages of external PDF documents (AM)
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen341
+\ESO@tempdimb=\dimen342
+)
+\AM@pagewidth=\dimen343
+\AM@pageheight=\dimen344
+\AM@fboxrule=\dimen345
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2022/10/09 v0.5w Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count355
+\AM@pagebox=\box86
+\AM@global@opts=\toks56
+\AM@pagecnt=\count356
+\AM@toc@title=\toks57
+\c@AM@survey=\count357
+\AM@templatesizebox=\box87
+) (D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/minted\minted.sty
+Package: minted 2021/12/24 v2.6 Yet another Pygments shim for LaTeX
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/fvextra\fvextra.sty
+Package: fvextra 2022/11/30 v1.5 fvextra - extensions and patches for fancyvrb
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count358
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/fancyvrb\fancyvrb.sty
+Package: fancyvrb 2022/06/06 4.5 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count359
+\FV@InFile=\read4
+\FV@TabBox=\box88
+\c@FancyVerbLine=\count360
+\FV@StepNumber=\count361
+\FV@OutFile=\write4
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/upquote\upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/lineno\lineno.sty
+Package: lineno 2022/07/30 line numbers on paragraphs v5.0
+\linenopenalty=\count362
+\output=\toks58
+\linenoprevgraf=\count363
+\linenumbersep=\dimen346
+\linenumberwidth=\dimen347
+\c@linenumber=\count364
+\c@pagewiselinenumber=\count365
+\c@LN@truepage=\count366
+\c@internallinenumber=\count367
+\c@internallinenumbers=\count368
+\quotelinenumbersep=\dimen348
+\bframerule=\dimen349
+\bframesep=\dimen350
+\bframebox=\box89
+\linenoamsmath@ams@eqpen=\count369
+LaTeX Info: Redefining \\ on input line 3114.
+)
+\c@FV@TrueTabGroupLevel=\count370
+\c@FV@TrueTabCounter=\count371
+\FV@TabBox@Group=\box90
+\FV@TmpLength=\skip109
+\c@FV@HighlightLinesStart=\count372
+\c@FV@HighlightLinesStop=\count373
+\FV@LoopCount=\count374
+\FV@NCharsBox=\box91
+\FV@BreakIndent=\dimen351
+\FV@BreakIndentNChars=\count375
+\FV@BreakSymbolSepLeft=\dimen352
+\FV@BreakSymbolSepLeftNChars=\count376
+\FV@BreakSymbolSepRight=\dimen353
+\FV@BreakSymbolSepRightNChars=\count377
+\FV@BreakSymbolIndentLeft=\dimen354
+\FV@BreakSymbolIndentLeftNChars=\count378
+\FV@BreakSymbolIndentRight=\dimen355
+\FV@BreakSymbolIndentRightNChars=\count379
+\c@FancyVerbLineBreakLast=\count380
+\FV@LineBox=\box92
+\FV@LineIndentBox=\box93
+\c@FV@BreakBufferDepth=\count381
+\FV@LineWidth=\dimen356
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/tools\shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Unrestricted shell escape enabled on input line 75.
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/ifplatform\ifplatform.s
+ty
+Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/catchfile\catchfile.s
+ty
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
+\integerpart=\count382
+\decimalpart=\count383
+)
+Package: xstring 2021/07/21 v1.84 String manipulations (CT)
+) (D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/framed\framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip110
+\fb@frw=\dimen357
+\fb@frh=\dimen358
+\FrameRule=\dimen359
+\FrameSep=\dimen360
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count384
+\float@exts=\toks59
+\float@box=\box94
+\@float@everytoks=\toks60
+\@floatcapt=\box95
+)
+\minted@appexistsfile=\read5
+\minted@bgbox=\box96
+\minted@code=\write5
+\c@minted@FancyVerbLineTemp=\count385
+\c@minted@pygmentizecounter=\count386
+\@float@every@listing=\toks61
+\c@listing=\count387
+)
+runsystem(if not exist _minted-phdthesis_gabriel mkdir _minted-phdthesis_gabrie
+l)...executed.
+
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlib
+rarypgfplots.dateplot.code.tex
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfcalend
+ar.sty
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfcale
+ndar.code.tex
+File: pgfcalendar.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+\pgfcalendarcurrentjulian=\count388
+\pgf@cal@easter@Y=\count389
+\pgf@cal@easter@G=\count390
+\pgf@cal@easter@C=\count391
+\pgf@cal@easter@X=\count392
+\pgf@cal@easter@Z=\count393
+\pgf@cal@easter@D=\count394
+\pgf@cal@easter@E=\count395
+\pgf@cal@easter@N=\count396
+\pgf@cal@easter@M=\count397
+\pgf@cal@easter@julianday=\count398
+)))
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/hyphenat\hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language80
+LaTeX Info: Redefining \_ on input line 43.
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip111
+\bibsep=\skip112
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count399
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 73.
+
+(chapters/definicoes.tex)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/mdwtools\syntax.sty
+Package: syntax 1996/05/17 1.07 Syntax typesetting (MDW)
+\grammarparsep=\skip113
+\grammarindent=\dimen361
+\sdstartspace=\skip114
+\sdendspace=\skip115
+\sdmidskip=\skip116
+\sdtokskip=\skip117
+\sdfinalskip=\skip118
+\sdrulewidth=\dimen362
+\sdcirclediam=\dimen363
+\sdindent=\dimen364
+)
+\c@grammarline=\count400
+runsystem(for ^%i in (pygmentize.exe pygmentize.bat pygmentize.cmd) do set > ph
+dthesis_gabriel.aex <nul: /p x=^%~$PATH:i>> phdthesis_gabriel.aex)...executed.
+
+runsystem(del phdthesis_gabriel.aex)...executed.
+
+LaTeX Font Info:    Trying to load font information for T1+txr on input line 12
+7.
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\t1txr.fd
+File: t1txr.fd 2000/12/15 v3.1
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count401
+\l__pdf_internal_box=\box97
+) (phdthesis_gabriel.aux)
+\openout1 = `phdthesis_gabriel.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 127.
+LaTeX Font Info:    Trying to load font information for OML+txmi on input line 
+127.
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\omltxmi.fd
+File: omltxmi.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 127.
+LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 
+127.
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\omstxsy.fd
+File: omstxsy.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 127.
+LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 127.
+LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 127.
+LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 127.
+LaTeX Font Info:    Trying to load font information for OMX+txex on input line 
+127.
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\omxtxex.fd
+File: omxtxex.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 127.
+LaTeX Font Info:    Trying to load font information for U+txexa on input line 1
+27.
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\utxexa.fd
+File: utxexa.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 127.
+LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 127.
+LaTeX Font Info:    ... okay on input line 127.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: rotating package is loaded.
+Package caption Info: subfigure package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count402
+\scratchdimen=\dimen365
+\scratchbox=\box98
+\nofMPsegments=\count403
+\nofMParguments=\count404
+\everyMPshowfont=\toks62
+\MPscratchCnt=\count405
+\MPscratchDim=\dimen366
+\MPnumerator=\count406
+\makeMPintoPDFobject=\count407
+\everyMPtoPDFconversion=\toks63
+)
+\c@lstlisting=\count408
+Package hyperref Info: Link coloring ON on input line 127.
+ (phdthesis_gabriel.out) (phdthesis_gabriel.out)
+\@outlinefile=\write6
+\openout6 = `phdthesis_gabriel.out'.
+
+
+Package pgfplots notification 'compat/show suggested version=true': you might b
+enefit from \pgfplotsset{compat=1.18} (current compat level: 1.9).
+
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nom
+etadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+------------------------------------------------------------------------------
+ Title Page
+------------------------------------------------------------------------------
+Package epstopdf Info: Source file: <imgs/ufam.eps>
+(epstopdf)                    date: 2021-03-08 22:21:39
+(epstopdf)                    size: 865161 bytes
+(epstopdf)             Output file: <imgs/ufam-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-03-08 22:21:39
+(epstopdf)                    size: 101882 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=imgs/uf
+am-eps-converted-to.pdf imgs/ufam.eps>
+(epstopdf)             \includegraphics on input line 171.
+Package epstopdf Info: Output file is already uptodate.
+<imgs/ufam-eps-converted-to.pdf, id=494, 347.2975pt x 336.25626pt>
+File: imgs/ufam-eps-converted-to.pdf Graphic file (type pdf)
+<use imgs/ufam-eps-converted-to.pdf>
+Package pdftex.def Info: imgs/ufam-eps-converted-to.pdf  used on input line 171
+.
+(pdftex.def)             Requested size: 99.58464pt x 96.41895pt.
+LaTeX Font Info:    Font shape `T1/txr/b/n' in size <12> not available
+(Font)              Font shape `T1/txr/bx/n' tried instead on input line 171.
+LaTeX Font Info:    Font shape `T1/txr/b/n' in size <20.74> not available
+(Font)              Font shape `T1/txr/bx/n' tried instead on input line 171.
+[1
+
+
+
+{C:/Users/gabri/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./imgs/ufam-
+eps-converted-to.pdf>]
+------------------------------------------------------------------------------
+ Sub Title Page
+------------------------------------------------------------------------------
+Package epstopdf Info: Source file: <imgs/brasao_federacao.eps>
+(epstopdf)                    date: 2021-03-08 22:21:39
+(epstopdf)                    size: 3007209 bytes
+(epstopdf)             Output file: <imgs/brasao_federacao-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2021-03-08 22:21:39
+(epstopdf)                    size: 50866 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=imgs/br
+asao_federacao-eps-converted-to.pdf imgs/brasao_federacao.eps>
+(epstopdf)             \includegraphics on input line 173.
+Package epstopdf Info: Output file is already uptodate.
+<imgs/brasao_federacao-eps-converted-to.pdf, id=509, 392.46625pt x 394.47375pt>
+
+File: imgs/brasao_federacao-eps-converted-to.pdf Graphic file (type pdf)
+<use imgs/brasao_federacao-eps-converted-to.pdf>
+Package pdftex.def Info: imgs/brasao_federacao-eps-converted-to.pdf  used on in
+put line 173.
+(pdftex.def)             Requested size: 71.13188pt x 71.49577pt.
+
+Overfull \hbox (60.18188pt too wide) in paragraph at lines 173--173
+[][] 
+ []
+
+LaTeX Font Info:    Trying to load font information for OT1+txr on input line 1
+73.
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\ot1txr.fd
+File: ot1txr.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txsya on input line 1
+73.
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\utxsya.fd
+File: utxsya.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txsyb on input line 1
+73.
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\utxsyb.fd
+File: utxsyb.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txmia on input line 1
+73.
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\utxmia.fd
+File: utxmia.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txsyc on input line 1
+73.
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\utxsyc.fd
+File: utxsyc.fd 2000/12/15 v3.1
+)
+Package epstopdf Info: Source file: <imgs/ufam.eps>
+(epstopdf)                    date: 2021-03-08 22:21:39
+(epstopdf)                    size: 865161 bytes
+(epstopdf)             Output file: <imgs/ufam-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-03-08 22:21:39
+(epstopdf)                    size: 101882 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=imgs/uf
+am-eps-converted-to.pdf imgs/ufam.eps>
+(epstopdf)             \includegraphics on input line 173.
+Package epstopdf Info: Output file is already uptodate.
+File: imgs/ufam-eps-converted-to.pdf Graphic file (type pdf)
+<use imgs/ufam-eps-converted-to.pdf>
+Package pdftex.def Info: imgs/ufam-eps-converted-to.pdf  used on input line 173
+.
+(pdftex.def)             Requested size: 71.13188pt x 68.8714pt.
+
+Overfull \hbox (60.18188pt too wide) in paragraph at lines 173--173
+[][] 
+ []
+
+LaTeX Font Info:    Font shape `T1/txr/b/n' in size <14.4> not available
+(Font)              Font shape `T1/txr/bx/n' tried instead on input line 173.
+[1
+
+
+ <./imgs/brasao_federacao-eps-converted-to.pdf>]
+------------------------------------------------------------------------------
+ CIP - CATALOGA\c {C}\~{A}O NA PUBLICA\c {C}\~{A}O
+------------------------------------------------------------------------------
+[1
+
+
+]
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+)
+(chapters/dedicatoria.tex
+------------------------------------------------------------------------------
+ Dedicatory
+------------------------------------------------------------------------------
+[1
+
+]) (chapters/agradecimentos.tex
+------------------------------------------------------------------------------
+ Agradecimentos
+------------------------------------------------------------------------------
+[2
+
+]) (chapters/epigrafe.tex
+------------------------------------------------------------------------------
+ Dedicatory
+------------------------------------------------------------------------------
+[3
+
+]) (chapters/resumo.tex
+------------------------------------------------------------------------------
+ Abstract Page
+------------------------------------------------------------------------------
+[4
+
+]) (chapters/abstract.tex
+------------------------------------------------------------------------------
+ Abstract Page
+------------------------------------------------------------------------------
+[5
+
+])
+------------------------------------------------------------------------------
+ Table of Contents
+------------------------------------------------------------------------------
+LaTeX Font Info:    Font shape `T1/txr/b/n' in size <24.88> not available
+(Font)              Font shape `T1/txr/bx/n' tried instead on input line 250.
+(phdthesis_gabriel.toc
+LaTeX Font Info:    Font shape `T1/txr/b/n' in size <10.95> not available
+(Font)              Font shape `T1/txr/bx/n' tried instead on input line 2.
+ [6
+
+
+] [7] [8])
+\tf@toc=\write7
+\openout7 = `phdthesis_gabriel.toc'.
+
+ [9]
+------------------------------------------------------------------------------
+ Lista de Figuras
+------------------------------------------------------------------------------
+(phdthesis_gabriel.lof [10
+
+
+] [11])
+\tf@lof=\write8
+\openout8 = `phdthesis_gabriel.lof'.
+
+ [12]
+------------------------------------------------------------------------------
+ Lista de Tabelas
+------------------------------------------------------------------------------
+(phdthesis_gabriel.lot [13
+
+
+] [14])
+\tf@lot=\write9
+\openout9 = `phdthesis_gabriel.lot'.
+
+ [15] (phdthesis_gabriel.lol)
+\tf@lol=\write10
+\openout10 = `phdthesis_gabriel.lol'.
+
+ [16
+
+
+]
+(chapters/listaAbreviacoesAcronimos.tex) [17] (chapters/introduction.tex
+Cap\'{\i }tulo 1.
+------------------------------------------------------------------------------
+ 1 Introdu^^c3^^a7^^c3^^a3o
+------------------------------------------------------------------------------
+[1
+
+
+] [2] [3] [4] [5] [6]
+<imgs/METODOLOGIA_v2.png, id=1351, 526.96875pt x 419.31656pt>
+File: imgs/METODOLOGIA_v2.png Graphic file (type png)
+<use imgs/METODOLOGIA_v2.png>
+Package pdftex.def Info: imgs/METODOLOGIA_v2.png  used on input line 191.
+(pdftex.def)             Requested size: 345.54279pt x 274.96466pt.
+ [7 <./imgs/METODOLOGIA_v2.png>]) [8]
+(chapters/background.tex [9]
+Cap\'{\i }tulo 2.
+------------------------------------------------------------------------------
+ 2 Conceitos e Defini^^c3^^a7^^c3^^b5es
+------------------------------------------------------------------------------
+[10
+
+] [11] [12] [13] [14] [15] [16]
+LaTeX Font Info:    Trying to load font information for TS1+txr on input line 1
+70.
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\ts1txr.fd
+File: ts1txr.fd 2000/12/15 v3.1
+)
+<chapters/background/arquitetura_IoT.png, id=1517, 760.34062pt x 502.12593pt>
+File: chapters/background/arquitetura_IoT.png Graphic file (type png)
+<use chapters/background/arquitetura_IoT.png>
+Package pdftex.def Info: chapters/background/arquitetura_IoT.png  used on input
+ line 180.
+(pdftex.def)             Requested size: 388.73152pt x 256.72443pt.
+
+[17] [18 <./chapters/background/arquitetura_IoT.png>] [19]
+<chapters/background/GUIandTUI_redesenhado.png, id=1581, 410.7345pt x 218.7372p
+t>
+File: chapters/background/GUIandTUI_redesenhado.png Graphic file (type png)
+<use chapters/background/GUIandTUI_redesenhado.png>
+Package pdftex.def Info: chapters/background/GUIandTUI_redesenhado.png  used on
+ input line 253.
+(pdftex.def)             Requested size: 302.34747pt x 161.01855pt.
+<chapters/background/MCRpd_2.png, id=1590, 385.44pt x 184.43906pt>
+File: chapters/background/MCRpd_2.png Graphic file (type png)
+<use chapters/background/MCRpd_2.png>
+Package pdftex.def Info: chapters/background/MCRpd_2.png  used on input line 26
+2.
+(pdftex.def)             Requested size: 259.15874pt x 124.00974pt.
+ [20 <./chapters/background/GUIandTUI_redesenhado.png>] [21 <./chapters/backgro
+und/MCRpd_2.png>]
+[22] [23] [24]) (chapters/refworks.tex [25]
+Cap\'{\i }tulo 3.
+------------------------------------------------------------------------------
+ 3 Trabalhos Correlatos
+------------------------------------------------------------------------------
+LaTeX Font Info:    Font shape `T1/txr/b/it' in size <12> not available
+(Font)              Font shape `T1/txr/bx/it' tried instead on input line 20.
+[26
+
+]
+<chapters/works/zacharia2011.png, id=1767, 781.92125pt x 550.055pt>
+File: chapters/works/zacharia2011.png Graphic file (type png)
+<use chapters/works/zacharia2011.png>
+Package pdftex.def Info: chapters/works/zacharia2011.png  used on input line 29
+.
+(pdftex.def)             Requested size: 388.73152pt x 273.45729pt.
+ [27 <./chapters/works/zacharia2011.png>]
+<chapters/works/salehi-1.png, id=1785, 243.91125pt x 137.7647pt>
+File: chapters/works/salehi-1.png Graphic file (type png)
+<use chapters/works/salehi-1.png>
+Package pdftex.def Info: chapters/works/salehi-1.png  used on input line 53.
+(pdftex.def)             Requested size: 199.16928pt x 112.49478pt.
+<chapters/works/salehi-2.png, id=1786, 229.60782pt x 188.95593pt>
+File: chapters/works/salehi-2.png Graphic file (type png)
+<use chapters/works/salehi-2.png>
+Package pdftex.def Info: chapters/works/salehi-2.png  used on input line 55.
+(pdftex.def)             Requested size: 182.09746pt x 149.8646pt.
+ [28 <./chapters/works/salehi-1.png> <./chapters/works/salehi-2.png>] [29]
+<chapters/works/ha2018.png, id=1823, 400.49625pt x 310.15875pt>
+File: chapters/works/ha2018.png Graphic file (type png)
+<use chapters/works/ha2018.png>
+Package pdftex.def Info: chapters/works/ha2018.png  used on input line 102.
+(pdftex.def)             Requested size: 302.34747pt x 234.16133pt.
+<chapters/works/ha2018_VPM.png, id=1831, 444.91219pt x 328.22626pt>
+File: chapters/works/ha2018_VPM.png Graphic file (type png)
+<use chapters/works/ha2018_VPM.png>
+Package pdftex.def Info: chapters/works/ha2018_VPM.png  used on input line 111.
+
+(pdftex.def)             Requested size: 302.34747pt x 223.05066pt.
+LaTeX Font Info:    Font shape `TS1/txr/b/n' in size <10.95> not available
+(Font)              Font shape `TS1/txr/bx/n' tried instead on input line 124.
+ [30 <./chapters/works/ha2018.png>]
+[31 <./chapters/works/ha2018_VPM.png>]
+<chapters/works/azad2016.png, id=1867, 459.21562pt x 318.43968pt>
+File: chapters/works/azad2016.png Graphic file (type png)
+<use chapters/works/azad2016.png>
+Package pdftex.def Info: chapters/works/azad2016.png  used on input line 161.
+(pdftex.def)             Requested size: 259.15874pt x 179.71953pt.
+ [32]
+<chapters/works/azad2016_remote1.png, id=1880, 281.55188pt x 198.7425pt>
+File: chapters/works/azad2016_remote1.png Graphic file (type png)
+<use chapters/works/azad2016_remote1.png>
+Package pdftex.def Info: chapters/works/azad2016_remote1.png  used on input lin
+e 171.
+(pdftex.def)             Requested size: 199.16928pt x 140.58958pt.
+<chapters/works/azad2016_remote2.png, id=1881, 283.81032pt x 222.8325pt>
+File: chapters/works/azad2016_remote2.png Graphic file (type png)
+<use chapters/works/azad2016_remote2.png>
+Package pdftex.def Info: chapters/works/azad2016_remote2.png  used on input lin
+e 173.
+(pdftex.def)             Requested size: 182.09746pt x 142.97612pt.
+ [33 <./chapters/works/azad2016.png (PNG copy)> <./chapters/works/azad2016_remo
+te1.png (PNG copy)> <./chapters/works/azad2016_remote2.png (PNG copy)>]
+<chapters/works/blikstein2012.png, id=1905, 546.54187pt x 438.13687pt>
+File: chapters/works/blikstein2012.png Graphic file (type png)
+<use chapters/works/blikstein2012.png>
+Package pdftex.def Info: chapters/works/blikstein2012.png  used on input line 1
+89.
+(pdftex.def)             Requested size: 345.54279pt x 277.00375pt.
+ [34 <./chapters/works/blikstein2012.png (PNG copy)>]
+LaTeX Font Info:    Font shape `T1/txr/b/it' in size <10.95> not available
+(Font)              Font shape `T1/txr/bx/it' tried instead on input line 222.
+ [35]
+<chapters/works/santos2014_arquitetura.png, id=1947, 532.23843pt x 463.7325pt>
+File: chapters/works/santos2014_arquitetura.png Graphic file (type png)
+<use chapters/works/santos2014_arquitetura.png>
+Package pdftex.def Info: chapters/works/santos2014_arquitetura.png  used on inp
+ut line 227.
+(pdftex.def)             Requested size: 345.54279pt x 301.07582pt.
+ [36 <./chapters/works/santos2014_arquitetura.png (PNG copy)>]
+<chapters/works/santos2014_modelo_v2.png, id=1966, 633.86812pt x 477.28313pt>
+File: chapters/works/santos2014_modelo_v2.png Graphic file (type png)
+<use chapters/works/santos2014_modelo_v2.png>
+Package pdftex.def Info: chapters/works/santos2014_modelo_v2.png  used on input
+ line 236.
+(pdftex.def)             Requested size: 388.73152pt x 292.70807pt.
+
+[37 <./chapters/works/santos2014_modelo_v2.png>]
+<chapters/works/imamura2018.png, id=1990, 319.94531pt x 234.1247pt>
+File: chapters/works/imamura2018.png Graphic file (type png)
+<use chapters/works/imamura2018.png>
+Package pdftex.def Info: chapters/works/imamura2018.png  used on input line 258
+.
+(pdftex.def)             Requested size: 259.15874pt x 189.6471pt.
+ [38 <./chapters/works/imamura2018.png (PNG copy)>]
+<chapters/works/imamura2018_LCFV.png, id=2002, 517.935pt x 252.4632pt>
+File: chapters/works/imamura2018_LCFV.png Graphic file (type png)
+<use chapters/works/imamura2018_LCFV.png>
+Package pdftex.def Info: chapters/works/imamura2018_LCFV.png  used on input lin
+e 268.
+(pdftex.def)             Requested size: 302.34747pt x 147.38411pt.
+ [39 <./chapters/works/imamura2018_LCFV.png>]
+<chapters/works/lima2016.png, id=2019, 980.16188pt x 401.24907pt>
+File: chapters/works/lima2016.png Graphic file (type png)
+<use chapters/works/lima2016.png>
+Package pdftex.def Info: chapters/works/lima2016.png  used on input line 287.
+(pdftex.def)             Requested size: 431.92685pt x 176.8134pt.
+<chapters/works/lima2016-2.png, id=2025, 351.56343pt x 308.65312pt>
+File: chapters/works/lima2016-2.png Graphic file (type png)
+<use chapters/works/lima2016-2.png>
+Package pdftex.def Info: chapters/works/lima2016-2.png  used on input line 297.
+
+(pdftex.def)             Requested size: 199.16928pt x 174.85559pt.
+<chapters/works/lima2016-3.png, id=2026, 392.21532pt x 277.035pt>
+File: chapters/works/lima2016-3.png Graphic file (type png)
+<use chapters/works/lima2016-3.png>
+Package pdftex.def Info: chapters/works/lima2016-3.png  used on input line 299.
+
+(pdftex.def)             Requested size: 182.09746pt x 128.62126pt.
+ [40 <./chapters/works/lima2016.png> <./chapters/works/lima2016-2.png> <./chapt
+ers/works/lima2016-3.png>]
+<chapters/works/lima2016-4.png, id=2038, 423.08063pt x 322.95656pt>
+File: chapters/works/lima2016-4.png Graphic file (type png)
+<use chapters/works/lima2016-4.png>
+Package pdftex.def Info: chapters/works/lima2016-4.png  used on input line 310.
+
+(pdftex.def)             Requested size: 259.15874pt x 197.8311pt.
+<chapters/works/gluz2018.png, id=2043, 590.205pt x 298.86656pt>
+File: chapters/works/gluz2018.png Graphic file (type png)
+<use chapters/works/gluz2018.png>
+Package pdftex.def Info: chapters/works/gluz2018.png  used on input line 321.
+(pdftex.def)             Requested size: 345.54279pt x 174.97531pt.
+ [41 <./chapters/works/lima2016-4.png> <./chapters/works/gluz2018.png>]
+<chapters/works/gluz2018-mesa.png, id=2060, 582.67688pt x 232.61906pt>
+File: chapters/works/gluz2018-mesa.png Graphic file (type png)
+<use chapters/works/gluz2018-mesa.png>
+Package pdftex.def Info: chapters/works/gluz2018-mesa.png  used on input line 3
+35.
+(pdftex.def)             Requested size: 388.73152pt x 155.19374pt.
+ [42 <./chapters/works/gluz2018-mesa.png>]
+<chapters/works/orlandi2012.png, id=2091, 947.54pt x 598.235pt>
+File: chapters/works/orlandi2012.png Graphic file (type png)
+<use chapters/works/orlandi2012.png>
+Package pdftex.def Info: chapters/works/orlandi2012.png  used on input line 404
+.
+(pdftex.def)             Requested size: 345.54279pt x 218.1577pt.
+ [43]
+<chapters/works/guterres2014.png, id=2104, 991.705pt x 327.2225pt>
+File: chapters/works/guterres2014.png Graphic file (type png)
+<use chapters/works/guterres2014.png>
+Package pdftex.def Info: chapters/works/guterres2014.png  used on input line 41
+3.
+(pdftex.def)             Requested size: 345.54279pt x 114.0153pt.
+<chapters/works/guterres2014_objetos.png, id=2113, 1241.63875pt x 372.39125pt>
+File: chapters/works/guterres2014_objetos.png Graphic file (type png)
+<use chapters/works/guterres2014_objetos.png>
+Package pdftex.def Info: chapters/works/guterres2014_objetos.png  used on input
+ line 423.
+(pdftex.def)             Requested size: 431.92685pt x 129.54337pt.
+ [44 <./chapters/works/orlandi2012.png> <./chapters/works/guterres2014.png>]
+<chapters/works/Lucena2015_5162-6882-1-PB_arquitetura.png, id=2126, 1434.35875p
+t x 741.77126pt>
+File: chapters/works/Lucena2015_5162-6882-1-PB_arquitetura.png Graphic file (ty
+pe png)
+<use chapters/works/Lucena2015_5162-6882-1-PB_arquitetura.png>
+Package pdftex.def Info: chapters/works/Lucena2015_5162-6882-1-PB_arquitetura.p
+ng  used on input line 449.
+(pdftex.def)             Requested size: 388.73152pt x 201.02794pt.
+ [45 <./chapters/works/guterres2014_objetos.png>]
+<chapters/works/Lucena2015.png, id=2144, 970.62625pt x 665.48625pt>
+File: chapters/works/Lucena2015.png Graphic file (type png)
+<use chapters/works/Lucena2015.png>
+Package pdftex.def Info: chapters/works/Lucena2015.png  used on input line 468.
+
+(pdftex.def)             Requested size: 388.73152pt x 266.52487pt.
+ [46 <./chapters/works/Lucena2015_5162-6882-1-PB_arquitetura.png>]
+<chapters/works/Nunes2016.png, id=2164, 1226.5825pt x 450.68375pt>
+File: chapters/works/Nunes2016.png Graphic file (type png)
+<use chapters/works/Nunes2016.png>
+Package pdftex.def Info: chapters/works/Nunes2016.png  used on input line 490.
+(pdftex.def)             Requested size: 431.92685pt x 158.70442pt.
+ [47 <./chapters/works/Lucena2015.png> <./chapters/works/Nunes2016.png>]
+[48]
+<chapters/works/Sales2019_LearningVectors_FatorB2.png, id=2195, 695.59875pt x 4
+76.78125pt>
+File: chapters/works/Sales2019_LearningVectors_FatorB2.png Graphic file (type p
+ng)
+<use chapters/works/Sales2019_LearningVectors_FatorB2.png>
+Package pdftex.def Info: chapters/works/Sales2019_LearningVectors_FatorB2.png  
+used on input line 559.
+(pdftex.def)             Requested size: 194.36575pt x 133.22137pt.
+<chapters/works/Sales2019_LearningVectors.png, id=2206, 1057.9525pt x 560.0925p
+t>
+File: chapters/works/Sales2019_LearningVectors.png Graphic file (type png)
+<use chapters/works/Sales2019_LearningVectors.png>
+Package pdftex.def Info: chapters/works/Sales2019_LearningVectors.png  used on 
+input line 570.
+(pdftex.def)             Requested size: 431.92685pt x 228.66513pt.
+ [49 <./chapters/works/Sales2019_LearningVectors_FatorB2.png>] [50 <./chapters/
+works/Sales2019_LearningVectors.png>]) (chapters/proposedMethod.tex
+[51]
+Cap\'{\i }tulo 4.
+------------------------------------------------------------------------------
+ 4 M^^c3^^a9todo Proposto
+------------------------------------------------------------------------------
+<chapters/proposedMethod/arquitetura_v4_1.png, id=2287, 869.49844pt x 440.39531
+pt>
+File: chapters/proposedMethod/arquitetura_v4_1.png Graphic file (type png)
+<use chapters/proposedMethod/arquitetura_v4_1.png>
+Package pdftex.def Info: chapters/proposedMethod/arquitetura_v4_1.png  used on 
+input line 14.
+(pdftex.def)             Requested size: 431.92685pt x 218.77249pt.
+[52
+
+ <./chapters/proposedMethod/arquitetura_v4_1.png>]
+<chapters/proposedMethod/arquitetura_compositor.png, id=2296, 554.289pt x 268.9
+32pt>
+File: chapters/proposedMethod/arquitetura_compositor.png Graphic file (type png
+)
+<use chapters/proposedMethod/arquitetura_compositor.png>
+Package pdftex.def Info: chapters/proposedMethod/arquitetura_compositor.png  us
+ed on input line 43.
+(pdftex.def)             Requested size: 388.73152pt x 188.60812pt.
+ [53] [54 <./chapters/proposedMethod/arquitetura_compositor.png>]
+<chapters/proposedMethod/compositor_questoes.png, id=2318, 591.71063pt x 606.76
+688pt>
+File: chapters/proposedMethod/compositor_questoes.png Graphic file (type png)
+<use chapters/proposedMethod/compositor_questoes.png>
+Package pdftex.def Info: chapters/proposedMethod/compositor_questoes.png  used 
+on input line 94.
+(pdftex.def)             Requested size: 388.73152pt x 398.63419pt.
+ [55 <./chapters/proposedMethod/compositor_questoes.png>]
+<chapters/proposedMethod/modelo_OTA.png, id=2330, 571.38469pt x 377.15906pt>
+File: chapters/proposedMethod/modelo_OTA.png Graphic file (type png)
+<use chapters/proposedMethod/modelo_OTA.png>
+Package pdftex.def Info: chapters/proposedMethod/modelo_OTA.png  used on input 
+line 131.
+(pdftex.def)             Requested size: 345.54279pt x 228.08698pt.
+<chapters/proposedMethod/bpmn_ofva.png, id=2334, 912.40875pt x 370.38374pt>
+File: chapters/proposedMethod/bpmn_ofva.png Graphic file (type png)
+<use chapters/proposedMethod/bpmn_ofva.png>
+Package pdftex.def Info: chapters/proposedMethod/bpmn_ofva.png  used on input l
+ine 145.
+(pdftex.def)             Requested size: 431.92685pt x 175.33502pt.
+ [56 <./chapters/proposedMethod/modelo_OTA.png>]
+<chapters/proposedMethod/bpmn_servicos.png, id=2343, 745.28438pt x 328.22626pt>
+
+File: chapters/proposedMethod/bpmn_servicos.png Graphic file (type png)
+<use chapters/proposedMethod/bpmn_servicos.png>
+Package pdftex.def Info: chapters/proposedMethod/bpmn_servicos.png  used on inp
+ut line 154.
+(pdftex.def)             Requested size: 388.73152pt x 171.19449pt.
+ [57 <./chapters/proposedMethod/bpmn_ofva.png> <./chapters/proposedMethod/bpmn_
+servicos.png>]
+<chapters/proposedMethod/Blockly.png, id=2358, 963.6pt x 312.41719pt>
+File: chapters/proposedMethod/Blockly.png Graphic file (type png)
+<use chapters/proposedMethod/Blockly.png>
+Package pdftex.def Info: chapters/proposedMethod/Blockly.png  used on input lin
+e 197.
+(pdftex.def)             Requested size: 431.92685pt x 140.03821pt.
+[58]
+<chapters/proposedMethod/arquitetura_servidor.png, id=2367, 465.23813pt x 270.2
+5969pt>
+File: chapters/proposedMethod/arquitetura_servidor.png Graphic file (type png)
+<use chapters/proposedMethod/arquitetura_servidor.png>
+Package pdftex.def Info: chapters/proposedMethod/arquitetura_servidor.png  used
+ on input line 220.
+(pdftex.def)             Requested size: 345.54279pt x 200.73544pt.
+ [59 <./chapters/proposedMethod/Blockly.png>] [60 <./chapters/proposedMethod/ar
+quitetura_servidor.png>]
+<chapters/proposedMethod/arquitetura_player.png, id=2388, 738.50906pt x 304.889
+07pt>
+File: chapters/proposedMethod/arquitetura_player.png Graphic file (type png)
+<use chapters/proposedMethod/arquitetura_player.png>
+Package pdftex.def Info: chapters/proposedMethod/arquitetura_player.png  used o
+n input line 256.
+(pdftex.def)             Requested size: 431.92685pt x 178.31984pt.
+ [61 <./chapters/proposedMethod/arquitetura_player.png>]
+\openout4 = `phdthesis_gabriel.pyg'.
+
+ (_minted-phdthesis_gabriel/default.pygstyle)
+(_minted-phdthesis_gabriel/C81BAFAE219153DB8B33012C89B1630965A8B11B65A68915C380
+BC7899F7EB26.pygtex
+LaTeX Font Info:    Trying to load font information for T1+txtt on input line 1
+.
+
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\t1txtt.fd
+File: t1txtt.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Font shape `T1/txtt/b/n' in size <9> not available
+(Font)              Font shape `T1/txtt/bx/n' tried instead on input line 3.
+)
+Package hyperref Info: bookmark level for unknown listing defaults to 0 on inpu
+t line 307.
+<chapters/proposedMethod/msg_websocket.png, id=2398, 584.1825pt x 305.64188pt>
+File: chapters/proposedMethod/msg_websocket.png Graphic file (type png)
+<use chapters/proposedMethod/msg_websocket.png>
+Package pdftex.def Info: chapters/proposedMethod/msg_websocket.png  used on inp
+ut line 317.
+(pdftex.def)             Requested size: 388.73152pt x 203.38919pt.
+
+[62] [63 <./chapters/proposedMethod/msg_websocket.png>]
+<chapters/proposedMethod/msg_token.png, id=2413, 542.77782pt x 343.2825pt>
+File: chapters/proposedMethod/msg_token.png Graphic file (type png)
+<use chapters/proposedMethod/msg_token.png>
+Package pdftex.def Info: chapters/proposedMethod/msg_token.png  used on input l
+ine 371.
+(pdftex.def)             Requested size: 388.73152pt x 245.86415pt.
+ [64 <./chapters/proposedMethod/msg_token.png>] [65]
+<chapters/proposedMethod/msg_dadosv2.png, id=2431, 592.46344pt x 298.11375pt>
+File: chapters/proposedMethod/msg_dadosv2.png Graphic file (type png)
+<use chapters/proposedMethod/msg_dadosv2.png>
+Package pdftex.def Info: chapters/proposedMethod/msg_dadosv2.png  used on input
+ line 484.
+(pdftex.def)             Requested size: 388.73152pt x 195.60483pt.
+ [66] [67 <./chapters/proposedMethod/msg_dadosv2.png>]
+<chapters/proposedMethod/msg_reconexao.png, id=2443, 541.27219pt x 189.70876pt>
+
+File: chapters/proposedMethod/msg_reconexao.png Graphic file (type png)
+<use chapters/proposedMethod/msg_reconexao.png>
+Package pdftex.def Info: chapters/proposedMethod/msg_reconexao.png  used on inp
+ut line 517.
+(pdftex.def)             Requested size: 388.73152pt x 136.24861pt.
+ [68 <./chapters/proposedMethod/msg_reconexao.png>] [69] [70]
+Package pgfplots info on input line 709: Using 'lua backend=false' for axis: x 
+coord trafo unsupported.
+ [71] [72]
+<chapters/proposedMethod/exemplo_tempo_questao.png, id=2493, 738.50906pt x 417.
+05812pt>
+File: chapters/proposedMethod/exemplo_tempo_questao.png Graphic file (type png)
+
+<use chapters/proposedMethod/exemplo_tempo_questao.png>
+Package pdftex.def Info: chapters/proposedMethod/exemplo_tempo_questao.png  use
+d on input line 778.
+(pdftex.def)             Requested size: 345.54279pt x 195.13913pt.
+
+[73 <./chapters/proposedMethod/exemplo_tempo_questao.png (PNG copy)>] [74]
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 924.
+LaTeX Font Info:    Calculating math sizes for size <> on input line 928.
+
+[75] [76]
+<chapters/proposedMethod/bpmn_metricas.png, id=2543, 1720.92938pt x 855.195pt>
+File: chapters/proposedMethod/bpmn_metricas.png Graphic file (type png)
+<use chapters/proposedMethod/bpmn_metricas.png>
+Package pdftex.def Info: chapters/proposedMethod/bpmn_metricas.png  used on inp
+ut line 1000.
+(pdftex.def)             Requested size: 431.92685pt x 214.63338pt.
+<chapters/proposedMethod/bpmn_metricas_NCQ.png, id=2545, 1012.5328pt x 404.2603
+1pt>
+File: chapters/proposedMethod/bpmn_metricas_NCQ.png Graphic file (type png)
+<use chapters/proposedMethod/bpmn_metricas_NCQ.png>
+Package pdftex.def Info: chapters/proposedMethod/bpmn_metricas_NCQ.png  used on
+ input line 1009.
+(pdftex.def)             Requested size: 388.73152pt x 155.20581pt.
+ [77 <./chapters/proposedMethod/bpmn_metricas.png> <./chapters/proposedMethod/b
+pmn_metricas_NCQ.png>]
+<chapters/proposedMethod/bpmn_metricas_NP.png, id=2555, 701.62125pt x 219.82124
+pt>
+File: chapters/proposedMethod/bpmn_metricas_NP.png Graphic file (type png)
+<use chapters/proposedMethod/bpmn_metricas_NP.png>
+Package pdftex.def Info: chapters/proposedMethod/bpmn_metricas_NP.png  used on 
+input line 1022.
+(pdftex.def)             Requested size: 388.73152pt x 121.79427pt.
+<chapters/appendixAnalytics/CASO1NPEF1.png, id=2558, 402.00188pt x 338.76563pt>
+
+File: chapters/appendixAnalytics/CASO1NPEF1.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO1NPEF1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO1NPEF1.png  used on inp
+ut line 1032.
+(pdftex.def)             Requested size: 259.15874pt x 218.391pt.
+ [78 <./chapters/proposedMethod/bpmn_metricas_NP.png> <./chapters/appendixAnaly
+tics/CASO1NPEF1.png>]
+<chapters/proposedMethod/bpmn_metricas_NT.png, id=2568, 716.6775pt x 322.95656p
+t>
+File: chapters/proposedMethod/bpmn_metricas_NT.png Graphic file (type png)
+<use chapters/proposedMethod/bpmn_metricas_NT.png>
+Package pdftex.def Info: chapters/proposedMethod/bpmn_metricas_NT.png  used on 
+input line 1041.
+(pdftex.def)             Requested size: 388.73152pt x 175.17747pt.
+<chapters/proposedMethod/bpmn_metricas_Duvida.png, id=2572, 712.16063pt x 355.3
+275pt>
+File: chapters/proposedMethod/bpmn_metricas_Duvida.png Graphic file (type png)
+<use chapters/proposedMethod/bpmn_metricas_Duvida.png>
+Package pdftex.def Info: chapters/proposedMethod/bpmn_metricas_Duvida.png  used
+ on input line 1050.
+(pdftex.def)             Requested size: 388.73152pt x 193.95055pt.
+<chapters/proposedMethod/bpmn_metricas_NA.png, id=2573, 570.63188pt x 371.13657
+pt>
+File: chapters/proposedMethod/bpmn_metricas_NA.png Graphic file (type png)
+<use chapters/proposedMethod/bpmn_metricas_NA.png>
+Package pdftex.def Info: chapters/proposedMethod/bpmn_metricas_NA.png  used on 
+input line 1059.
+(pdftex.def)             Requested size: 345.54279pt x 224.73935pt.
+ [79 <./chapters/proposedMethod/bpmn_metricas_NT.png> <./chapters/proposedMetho
+d/bpmn_metricas_Duvida.png>]
+<chapters/proposedMethod/tools/composer_ota.png, id=2581, 730.22812pt x 511.159
+68pt>
+File: chapters/proposedMethod/tools/composer_ota.png Graphic file (type png)
+<use chapters/proposedMethod/tools/composer_ota.png>
+Package pdftex.def Info: chapters/proposedMethod/tools/composer_ota.png  used o
+n input line 1070.
+(pdftex.def)             Requested size: 410.32918pt x 287.23021pt.
+ [80 <./chapters/proposedMethod/bpmn_metricas_NA.png> <./chapters/proposedMetho
+d/tools/composer_ota.png>]
+<chapters/proposedMethod/tools/blockly_ota.png, id=2593, 726.46407pt x 455.4515
+7pt>
+File: chapters/proposedMethod/tools/blockly_ota.png Graphic file (type png)
+<use chapters/proposedMethod/tools/blockly_ota.png>
+Package pdftex.def Info: chapters/proposedMethod/tools/blockly_ota.png  used on
+ input line 1085.
+(pdftex.def)             Requested size: 410.32918pt x 257.26111pt.
+ [81 <./chapters/proposedMethod/tools/blockly_ota.png>] [82]
+<chapters/proposedMethod/tools/OFVA_quadrotrigonometrico.jpeg, id=2611, 1284.8p
+t x 935.495pt>
+File: chapters/proposedMethod/tools/OFVA_quadrotrigonometrico.jpeg Graphic file
+ (type jpg)
+<use chapters/proposedMethod/tools/OFVA_quadrotrigonometrico.jpeg>
+Package pdftex.def Info: chapters/proposedMethod/tools/OFVA_quadrotrigonometric
+o.jpeg  used on input line 1170.
+(pdftex.def)             Requested size: 302.34747pt x 220.14111pt.
+<chapters/proposedMethod/tools/OFVA_VIRTUAL.png, id=2618, 556.32843pt x 487.069
+69pt>
+File: chapters/proposedMethod/tools/OFVA_VIRTUAL.png Graphic file (type png)
+<use chapters/proposedMethod/tools/OFVA_VIRTUAL.png>
+Package pdftex.def Info: chapters/proposedMethod/tools/OFVA_VIRTUAL.png  used o
+n input line 1179.
+(pdftex.def)             Requested size: 302.34747pt x 264.70822pt.
+ [83 <./chapters/proposedMethod/tools/OFVA_quadrotrigonometrico.jpeg> <./chapte
+rs/proposedMethod/tools/OFVA_VIRTUAL.png>]
+<chapters/proposedMethod/tools/OFVA_FISICO_SENSORES.png, id=2629, 383.9946pt x 
+348.8232pt>
+File: chapters/proposedMethod/tools/OFVA_FISICO_SENSORES.png Graphic file (type
+ png)
+<use chapters/proposedMethod/tools/OFVA_FISICO_SENSORES.png>
+Package pdftex.def Info: chapters/proposedMethod/tools/OFVA_FISICO_SENSORES.png
+  used on input line 1210.
+(pdftex.def)             Requested size: 388.73152pt x 353.14429pt.
+ [84 <./chapters/proposedMethod/tools/OFVA_FISICO_SENSORES.png (PNG copy)>]
+<chapters/appendixC/entrada1.png, id=2637, 125.71968pt x 24.84282pt>
+File: chapters/appendixC/entrada1.png Graphic file (type png)
+<use chapters/appendixC/entrada1.png>
+Package pdftex.def Info: chapters/appendixC/entrada1.png  used on input line 12
+48.
+(pdftex.def)             Requested size: 86.38405pt x 17.0699pt.
+<chapters/appendixC/entrada2.png, id=2638, 127.22531pt x 24.09pt>
+File: chapters/appendixC/entrada2.png Graphic file (type png)
+<use chapters/appendixC/entrada2.png>
+Package pdftex.def Info: chapters/appendixC/entrada2.png  used on input line 12
+51.
+(pdftex.def)             Requested size: 86.38405pt x 16.35744pt.
+<chapters/appendixC/entrada3.png, id=2639, 129.48375pt x 22.58438pt>
+File: chapters/appendixC/entrada3.png Graphic file (type png)
+<use chapters/appendixC/entrada3.png>
+Package pdftex.def Info: chapters/appendixC/entrada3.png  used on input line 12
+52.
+(pdftex.def)             Requested size: 86.38405pt x 15.06769pt.
+<chapters/appendixC/saidas.png, id=2640, 400.49625pt x 135.50626pt>
+File: chapters/appendixC/saidas.png Graphic file (type png)
+<use chapters/appendixC/saidas.png>
+Package pdftex.def Info: chapters/appendixC/saidas.png  used on input line 1263
+.
+(pdftex.def)             Requested size: 345.54279pt x 116.91974pt.
+ [85]
+<chapters/appendixB/c1r1.png, id=2648, 202.50656pt x 147.55125pt>
+File: chapters/appendixB/c1r1.png Graphic file (type png)
+<use chapters/appendixB/c1r1.png>
+Package pdftex.def Info: chapters/appendixB/c1r1.png  used on input line 1304.
+(pdftex.def)             Requested size: 172.7681pt x 125.88518pt.
+ [86 <./chapters/appendixC/entrada1.png> <./chapters/appendixC/entrada2.png> <.
+/chapters/appendixC/entrada3.png> <./chapters/appendixC/saidas.png>]
+<chapters/appendixB/c1r2.png, id=2657, 202.50656pt x 146.04562pt>
+File: chapters/appendixB/c1r2.png Graphic file (type png)
+<use chapters/appendixB/c1r2.png>
+Package pdftex.def Info: chapters/appendixB/c1r2.png  used on input line 1326.
+(pdftex.def)             Requested size: 172.7681pt x 124.60063pt.
+<chapters/appendixB/c1r3.png, id=2662, 203.25937pt x 145.29282pt>
+File: chapters/appendixB/c1r3.png Graphic file (type png)
+<use chapters/appendixB/c1r3.png>
+Package pdftex.def Info: chapters/appendixB/c1r3.png  used on input line 1358.
+(pdftex.def)             Requested size: 172.7681pt x 123.50168pt.
+ [87 <./chapters/appendixB/c1r1.png> <./chapters/appendixB/c1r2.png>]
+<chapters/proposedMethod/tools/servidor_log.png, id=2672, 405.76593pt x 303.383
+44pt>
+File: chapters/proposedMethod/tools/servidor_log.png Graphic file (type png)
+<use chapters/proposedMethod/tools/servidor_log.png>
+Package pdftex.def Info: chapters/proposedMethod/tools/servidor_log.png  used o
+n input line 1381.
+(pdftex.def)             Requested size: 345.54279pt x 258.3632pt.
+ [88 <./chapters/appendixB/c1r3.png>]
+<chapters/proposedMethod/tools/servidor_log_tangivel.png, id=2679, 191.21437pt 
+x 234.1247pt>
+File: chapters/proposedMethod/tools/servidor_log_tangivel.png Graphic file (typ
+e png)
+<use chapters/proposedMethod/tools/servidor_log_tangivel.png>
+Package pdftex.def Info: chapters/proposedMethod/tools/servidor_log_tangivel.pn
+g  used on input line 1390.
+(pdftex.def)             Requested size: 172.7681pt x 211.54979pt.
+ [89 <./chapters/proposedMethod/tools/servidor_log.png> <./chapters/proposedMet
+hod/tools/servidor_log_tangivel.png>]
+<chapters/proposedMethod/tools/analiticos_ponderada_entradas_.png, id=2689, 200
+.24812pt x 364.36125pt>
+File: chapters/proposedMethod/tools/analiticos_ponderada_entradas_.png Graphic 
+file (type png)
+<use chapters/proposedMethod/tools/analiticos_ponderada_entradas_.png>
+Package pdftex.def Info: chapters/proposedMethod/tools/analiticos_ponderada_ent
+radas_.png  used on input line 1426.
+(pdftex.def)             Requested size: 193.47882pt x 352.06229pt.
+<chapters/proposedMethod/tools/analiticos_ponderada_casos.png, id=2690, 229.607
+82pt x 359.84438pt>
+File: chapters/proposedMethod/tools/analiticos_ponderada_casos.png Graphic file
+ (type png)
+<use chapters/proposedMethod/tools/analiticos_ponderada_casos.png>
+Package pdftex.def Info: chapters/proposedMethod/tools/analiticos_ponderada_cas
+os.png  used on input line 1428.
+(pdftex.def)             Requested size: 207.7052pt x 325.53711pt.
+ [90 <./chapters/proposedMethod/tools/analiticos_ponderada_entradas_.png> <./ch
+apters/proposedMethod/tools/analiticos_ponderada_casos.png>]
+<chapters/proposedMethod/tools/NCQ_topicos.png, id=2702, 259.7203pt x 150.5625p
+t>
+File: chapters/proposedMethod/tools/NCQ_topicos.png Graphic file (type png)
+<use chapters/proposedMethod/tools/NCQ_topicos.png>
+Package pdftex.def Info: chapters/proposedMethod/tools/NCQ_topicos.png  used on
+ input line 1446.
+(pdftex.def)             Requested size: 215.96342pt x 125.19656pt.
+<chapters/proposedMethod/tools/NCQ_entradas.png, id=2705, 653.44125pt x 245.416
+87pt>
+File: chapters/proposedMethod/tools/NCQ_entradas.png Graphic file (type png)
+<use chapters/proposedMethod/tools/NCQ_entradas.png>
+Package pdftex.def Info: chapters/proposedMethod/tools/NCQ_entradas.png  used o
+n input line 1455.
+(pdftex.def)             Requested size: 431.92685pt x 162.21902pt.
+File: chapters/appendixAnalytics/CASO1NPEF1.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO1NPEF1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO1NPEF1.png  used on inp
+ut line 1470.
+(pdftex.def)             Requested size: 259.15874pt x 218.391pt.
+
+Overfull \hbox (5.54541pt too wide) in paragraph at lines 1465--1474
+ [][] 
+ []
+
+[91 <./chapters/proposedMethod/tools/NCQ_topicos.png> <./chapters/proposedMetho
+d/tools/NCQ_entradas.png>] [92]) (chapters/expResults.tex [93]
+Cap\'{\i }tulo 5.
+------------------------------------------------------------------------------
+ 5 Resultados
+------------------------------------------------------------------------------
+[94
+
+]
+NOTE: coordinate (Classe1,0) has been dropped because it is unbounded (in y). (
+see also unbounded coords=jump). 
+NOTE: coordinate (Classe2,0) has been dropped because it is unbounded (in y). (
+see also unbounded coords=jump). 
+NOTE: coordinate (Classe1,0) has been dropped because it is unbounded (in y). (
+see also unbounded coords=jump). 
+[95] [96] [97] [98] [99] [100] [101]
+Package pgfplots info on input line 499: Using 'lua backend=false' for axis: x 
+coord trafo unsupported.
+ [102] [103] [104] [105] [106] [107]
+PGFPlots: reading {"chapters/results/Fase 1/TR_pre_posteste_GB.txt"}
+
+Missing character: There is no ` in font nullfont!
+PGFPlots: reading {"chapters/results/Fase 1/TR_pre_posteste_GB.txt"}
+Missing character: There is no ` in font nullfont!
+PGFPlots: reading {"chapters/results/Fase 1/TR_pre_posteste_GB.txt"}
+Missing character: There is no ` in font nullfont!
+PGFPlots: reading {"chapters/results/Fase 1/TR_pre_posteste_GB.txt"}
+Missing character: There is no ` in font nullfont!
+PGFPlots: reading {"chapters/results/Fase 1/TR_pre_posteste_GB.txt"}
+Missing character: There is no ` in font nullfont!
+PGFPlots: reading {"chapters/results/Fase 1/TR_pre_posteste_GB.txt"}
+Missing character: There is no ` in font nullfont!
+PGFPlots: reading {"chapters/results/Fase 1/TR_pre_posteste_GB.txt"}
+Missing character: There is no ` in font nullfont!
+PGFPlots: reading {"chapters/results/Fase 1/TR_pre_posteste_GB.txt"}
+Missing character: There is no ` in font nullfont!
+PGFPlots: reading {"chapters/results/Fase 1/TR_pre_posteste_GB.txt"}
+Missing character: There is no ` in font nullfont!
+PGFPlots: reading {"chapters/results/Fase 1/TR_pre_posteste_GB.txt"}
+Missing character: There is no ` in font nullfont!
+PGFPlots: reading {"chapters/results/Fase 1/TR_pre_posteste_GB.txt"}
+Missing character: There is no ` in font nullfont!
+PGFPlots: reading {"chapters/results/Fase 1/TR_pre_posteste_GB.txt"}
+Missing character: There is no ` in font nullfont!
+PGFPlots: reading {"chapters/results/Fase 1/TR_pre_posteste_GB.txt"}
+Missing character: There is no ` in font nullfont!
+PGFPlots: reading {"chapters/results/Fase 1/TR_pre_posteste_GB.txt"}
+Missing character: There is no ` in font nullfont!
+PGFPlots: reading {"chapters/results/Fase 1/TR_pre_posteste_GB.txt"}
+Missing character: There is no ` in font nullfont!
+
+Overfull \hbox (4.5977pt too wide) in paragraph at lines 1605--1606
+ [][] 
+ []
+
+[108] [109] [110] [111] [112] [113] [114] [115] [116]
+Overfull \hbox (4.59569pt too wide) in paragraph at lines 1855--1857
+ [][] 
+ []
+
+[117] [118] [119] [120] [121] [122] [123] [124] [125] [126]
+<chapters/proposedMethod/tools/NCQ_case.png, id=3036, 802.49812pt x 469.755pt>
+File: chapters/proposedMethod/tools/NCQ_case.png Graphic file (type png)
+<use chapters/proposedMethod/tools/NCQ_case.png>
+Package pdftex.def Info: chapters/proposedMethod/tools/NCQ_case.png  used on in
+put line 2267.
+(pdftex.def)             Requested size: 431.92685pt x 252.83961pt.
+ [127]
+<chapters/results/Fase 3/E1_Virtual_2.png, id=3052, 718.93594pt x 586.44093pt>
+File: chapters/results/Fase 3/E1_Virtual_2.png Graphic file (type png)
+<use chapters/results/Fase 3/E1_Virtual_2.png>
+Package pdftex.def Info: chapters/results/Fase 3/E1_Virtual_2.png  used on inpu
+t line 2282.
+(pdftex.def)             Requested size: 345.54279pt x 281.86427pt.
+ [128 <./chapters/proposedMethod/tools/NCQ_case.png>] [129 <./chapters/results/
+Fase 3/E1_Virtual_2.png>] [130] [131]
+File: chapters/appendixAnalytics/CASO1NPEV2.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO1NPEV2.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO1NPEV2.png  used on inp
+ut line 2425.
+(pdftex.def)             Requested size: 388.73152pt x 261.12099pt.
+ [132] [133 <./chapters/appendixAnalytics/CASO1NPEV2.png>] [134]
+Overfull \hbox (8.94305pt too wide) in paragraph at lines 2546--2740
+ [][] 
+ []
+
+[135] [136] [137] [138] [139] [140] [141]
+Overfull \hbox (12.38136pt too wide) in paragraph at lines 3798--3845
+ [][] 
+ []
+
+[142] [143] [144]
+<chapters/results/Fase 3/E2_Virtual.png, id=3194, 727.96968pt x 639.13782pt>
+File: chapters/results/Fase 3/E2_Virtual.png Graphic file (type png)
+<use chapters/results/Fase 3/E2_Virtual.png>
+Package pdftex.def Info: chapters/results/Fase 3/E2_Virtual.png  used on input 
+line 3990.
+(pdftex.def)             Requested size: 388.73152pt x 341.30632pt.
+ [145] [146 <./chapters/results/Fase 3/E2_Virtual.png>]
+[147] [148] [149] [150] [151] [152] [153] [154] [155] [156] [157] [158]
+Overfull \hbox (342.25813pt too wide) in paragraph at lines 4976--4996
+ [][] 
+ []
+
+<chapters/results/Fase 3/E3_Virtual.png, id=3299, 727.96968pt x 541.27219pt>
+File: chapters/results/Fase 3/E3_Virtual.png Graphic file (type png)
+<use chapters/results/Fase 3/E3_Virtual.png>
+Package pdftex.def Info: chapters/results/Fase 3/E3_Virtual.png  used on input 
+line 5004.
+(pdftex.def)             Requested size: 388.73152pt x 289.04504pt.
+[159] [160 <./chapters/results/Fase 3/E3_Virtual.png>] [161] [162] [163]
+[164]
+<chapters/results/Fase 3/E4_Virtual.png, id=3343, 723.45282pt x 496.10344pt>
+File: chapters/results/Fase 3/E4_Virtual.png Graphic file (type png)
+<use chapters/results/Fase 3/E4_Virtual.png>
+Package pdftex.def Info: chapters/results/Fase 3/E4_Virtual.png  used on input 
+line 5408.
+(pdftex.def)             Requested size: 388.73152pt x 266.57469pt.
+ [165] [166 <./chapters/results/Fase 3/E4_Virtual.png>] [167] [168]
+[169]
+<chapters/results/Fase 3/E5_Virtual.png, id=3379, 765.6103pt x 638.385pt>
+File: chapters/results/Fase 3/E5_Virtual.png Graphic file (type png)
+<use chapters/results/Fase 3/E5_Virtual.png>
+Package pdftex.def Info: chapters/results/Fase 3/E5_Virtual.png  used on input 
+line 5641.
+(pdftex.def)             Requested size: 388.73152pt x 324.1401pt.
+ [170] [171 <./chapters/results/Fase 3/E5_Virtual.png>] [172]
+
+LaTeX Warning: Reference `sec:resultados:mapeamentos' on page 173 undefined on 
+input line 5885.
+
+) (chapters/end.tex [173]
+Cap\'{\i }tulo 6.
+------------------------------------------------------------------------------
+ 6 Conclus^^c3^^a3o
+------------------------------------------------------------------------------
+[174
+
+] [175]) (phdthesis_gabriel.bbl [176] [177
+
+] [178] [179] [180] [181]
+[182] [183]) (chapters/appendixA.tex [184]
+Ap\^endice A.
+------------------------------------------------------------------------------
+ A Perfil de aplica^^c3^^a7^^c3^^a3o OBAA
+------------------------------------------------------------------------------
+
+Overfull \hbox (1.38351pt too wide) in paragraph at lines 144--144
+\T1/txr/m/n/10.95 (``http://www.ond.vlaanderen.be/onderwijsinv 
+ []
+
+
+Overfull \hbox (0.98936pt too wide) in paragraph at lines 144--144
+[]\T1/txr/m/n/10.95 laanderen/Default.htm^^Q,^^Pkandidatuursonderw 
+ []
+
+[185
+
+] [186] [187] [188] [189] [190] [191]) (chapters/appendixLesson.tex
+[192]
+Ap\^endice B.
+------------------------------------------------------------------------------
+ B Estudo de Caso: Atividade 1
+------------------------------------------------------------------------------
+[193
+
+]
+
+pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula1Base20220611.
+pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+<chapters/appendixLesson/Aula1Base20220611.pdf, id=3505, 597.55246pt x 845.0772
+4pt>
+File: chapters/appendixLesson/Aula1Base20220611.pdf Graphic file (type pdf)
+<use chapters/appendixLesson/Aula1Base20220611.pdf>
+Package pdftex.def Info: chapters/appendixLesson/Aula1Base20220611.pdf  used on
+ input line 40.
+(pdftex.def)             Requested size: 431.92685pt x 610.85359pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula1Base20220611.
+pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+<chapters/appendixLesson/Aula1Base20220611.pdf, id=3506, page=2, 597.55246pt x 
+845.07724pt>
+File: chapters/appendixLesson/Aula1Base20220611.pdf Graphic file (type pdf)
+<use chapters/appendixLesson/Aula1Base20220611.pdf, page 2>
+Package pdftex.def Info: chapters/appendixLesson/Aula1Base20220611.pdf , page2 
+used on input line 46.
+(pdftex.def)             Requested size: 431.92685pt x 610.85359pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula1Base20220611.
+pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+<chapters/appendixLesson/Aula1Base20220611.pdf, id=3507, page=3, 597.55246pt x 
+845.07724pt>
+File: chapters/appendixLesson/Aula1Base20220611.pdf Graphic file (type pdf)
+<use chapters/appendixLesson/Aula1Base20220611.pdf, page 3>
+Package pdftex.def Info: chapters/appendixLesson/Aula1Base20220611.pdf , page3 
+used on input line 47.
+(pdftex.def)             Requested size: 431.92685pt x 610.85359pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula1Base20220611.
+pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+<chapters/appendixLesson/Aula1Base20220611.pdf, id=3508, page=4, 597.55246pt x 
+845.07724pt>
+File: chapters/appendixLesson/Aula1Base20220611.pdf Graphic file (type pdf)
+<use chapters/appendixLesson/Aula1Base20220611.pdf, page 4>
+Package pdftex.def Info: chapters/appendixLesson/Aula1Base20220611.pdf , page4 
+used on input line 48.
+(pdftex.def)             Requested size: 431.92685pt x 610.85359pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula1Base20220611.
+pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+<chapters/appendixLesson/Aula1Base20220611.pdf, id=3509, page=5, 597.55246pt x 
+845.07724pt>
+File: chapters/appendixLesson/Aula1Base20220611.pdf Graphic file (type pdf)
+<use chapters/appendixLesson/Aula1Base20220611.pdf, page 5>
+Package pdftex.def Info: chapters/appendixLesson/Aula1Base20220611.pdf , page5 
+used on input line 49.
+(pdftex.def)             Requested size: 431.92685pt x 610.85359pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula1Base20220611.
+pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+<chapters/appendixLesson/Aula1Base20220611.pdf, id=3510, page=6, 597.55246pt x 
+845.07724pt>
+File: chapters/appendixLesson/Aula1Base20220611.pdf Graphic file (type pdf)
+<use chapters/appendixLesson/Aula1Base20220611.pdf, page 6>
+Package pdftex.def Info: chapters/appendixLesson/Aula1Base20220611.pdf , page6 
+used on input line 50.
+(pdftex.def)             Requested size: 431.92685pt x 610.85359pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula1Base20220611.
+pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+<chapters/appendixLesson/Aula1Base20220611.pdf, id=3511, page=7, 597.55246pt x 
+845.07724pt>
+File: chapters/appendixLesson/Aula1Base20220611.pdf Graphic file (type pdf)
+<use chapters/appendixLesson/Aula1Base20220611.pdf, page 7>
+Package pdftex.def Info: chapters/appendixLesson/Aula1Base20220611.pdf , page7 
+used on input line 51.
+(pdftex.def)             Requested size: 431.92685pt x 610.85359pt.
+) (chapters/appendixLesson2.tex [194 <./chapters/appendixLesson/Aula1Base202206
+11.pdf>] [195 <./chapters/appendixLesson/Aula1Base20220611.pdf>] [196 <./chapte
+rs/appendixLesson/Aula1Base20220611.pdf>] [197 <./chapters/appendixLesson/Aula1
+Base20220611.pdf>] [198 <./chapters/appendixLesson/Aula1Base20220611.pdf>]
+[199 <./chapters/appendixLesson/Aula1Base20220611.pdf>] [200 <./chapters/append
+ixLesson/Aula1Base20220611.pdf>]
+Ap\^endice C.
+------------------------------------------------------------------------------
+ C Estudo de Caso: Atividades 2 e 3
+------------------------------------------------------------------------------
+
+Overfull \hbox (1.72472pt too wide) in alignment at lines 39--39
+ [] [] 
+ []
+
+
+Overfull \hbox (1.72472pt too wide) in alignment at lines 39--39
+ [] [] 
+ []
+
+
+Overfull \hbox (1.72472pt too wide) in alignment at lines 39--39
+ [] [] 
+ []
+
+
+Overfull \hbox (1.72472pt too wide) in alignment at lines 39--39
+ [] [] 
+ []
+
+
+Overfull \hbox (1.72472pt too wide) in alignment at lines 39--39
+ [] [] 
+ []
+
+[201
+
+]
+Overfull \hbox (1.72472pt too wide) in alignment at lines 78--78
+ [] [] 
+ []
+
+
+Overfull \hbox (1.72472pt too wide) in alignment at lines 78--78
+ [] [] 
+ []
+
+
+Overfull \hbox (1.72472pt too wide) in alignment at lines 78--78
+ [] [] 
+ []
+
+
+Overfull \hbox (1.72472pt too wide) in alignment at lines 78--78
+ [] [] 
+ []
+
+
+Overfull \hbox (1.72472pt too wide) in alignment at lines 78--78
+ [] [] 
+ []
+
+[202] [203]
+
+pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
+clusion: found PDF version <1.7>, but at most version <1.5> allowed
+<chapters/appendixLesson/Aula2.pdf, id=3624, 597.55246pt x 845.07724pt>
+File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
+<use chapters/appendixLesson/Aula2.pdf>
+Package pdftex.def Info: chapters/appendixLesson/Aula2.pdf  used on input line 
+85.
+(pdftex.def)             Requested size: 431.92685pt x 610.85359pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
+clusion: found PDF version <1.7>, but at most version <1.5> allowed
+<chapters/appendixLesson/Aula2.pdf, id=3625, page=2, 597.55246pt x 845.07724pt>
+
+File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
+<use chapters/appendixLesson/Aula2.pdf, page 2>
+Package pdftex.def Info: chapters/appendixLesson/Aula2.pdf , page2 used on inpu
+t line 91.
+(pdftex.def)             Requested size: 431.92685pt x 610.85359pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
+clusion: found PDF version <1.7>, but at most version <1.5> allowed
+<chapters/appendixLesson/Aula2.pdf, id=3626, page=3, 597.55246pt x 845.07724pt>
+
+File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
+<use chapters/appendixLesson/Aula2.pdf, page 3>
+Package pdftex.def Info: chapters/appendixLesson/Aula2.pdf , page3 used on inpu
+t line 92.
+(pdftex.def)             Requested size: 431.92685pt x 610.85359pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
+clusion: found PDF version <1.7>, but at most version <1.5> allowed
+<chapters/appendixLesson/Aula2.pdf, id=3627, page=4, 597.55246pt x 845.07724pt>
+
+File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
+<use chapters/appendixLesson/Aula2.pdf, page 4>
+Package pdftex.def Info: chapters/appendixLesson/Aula2.pdf , page4 used on inpu
+t line 93.
+(pdftex.def)             Requested size: 431.92685pt x 610.85359pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
+clusion: found PDF version <1.7>, but at most version <1.5> allowed
+<chapters/appendixLesson/Aula2.pdf, id=3628, page=5, 597.55246pt x 845.07724pt>
+
+File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
+<use chapters/appendixLesson/Aula2.pdf, page 5>
+Package pdftex.def Info: chapters/appendixLesson/Aula2.pdf , page5 used on inpu
+t line 94.
+(pdftex.def)             Requested size: 431.92685pt x 610.85359pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
+clusion: found PDF version <1.7>, but at most version <1.5> allowed
+<chapters/appendixLesson/Aula2.pdf, id=3629, page=6, 597.55246pt x 845.07724pt>
+
+File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
+<use chapters/appendixLesson/Aula2.pdf, page 6>
+Package pdftex.def Info: chapters/appendixLesson/Aula2.pdf , page6 used on inpu
+t line 95.
+(pdftex.def)             Requested size: 431.92685pt x 610.85359pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
+clusion: found PDF version <1.7>, but at most version <1.5> allowed
+<chapters/appendixLesson/Aula2.pdf, id=3630, page=7, 597.55246pt x 845.07724pt>
+
+File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
+<use chapters/appendixLesson/Aula2.pdf, page 7>
+Package pdftex.def Info: chapters/appendixLesson/Aula2.pdf , page7 used on inpu
+t line 96.
+(pdftex.def)             Requested size: 431.92685pt x 610.85359pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
+clusion: found PDF version <1.7>, but at most version <1.5> allowed
+<chapters/appendixLesson/Aula2.pdf, id=3631, page=8, 597.55246pt x 845.07724pt>
+
+File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
+<use chapters/appendixLesson/Aula2.pdf, page 8>
+Package pdftex.def Info: chapters/appendixLesson/Aula2.pdf , page8 used on inpu
+t line 97.
+(pdftex.def)             Requested size: 431.92685pt x 610.85359pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
+clusion: found PDF version <1.7>, but at most version <1.5> allowed
+<chapters/appendixLesson/Aula2.pdf, id=3632, page=9, 597.55246pt x 845.07724pt>
+
+File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
+<use chapters/appendixLesson/Aula2.pdf, page 9>
+Package pdftex.def Info: chapters/appendixLesson/Aula2.pdf , page9 used on inpu
+t line 98.
+(pdftex.def)             Requested size: 431.92685pt x 610.85359pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
+clusion: found PDF version <1.7>, but at most version <1.5> allowed
+<chapters/appendixLesson/Aula2.pdf, id=3633, page=10, 597.55246pt x 845.07724pt
+>
+File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
+<use chapters/appendixLesson/Aula2.pdf, page 10>
+Package pdftex.def Info: chapters/appendixLesson/Aula2.pdf , page10 used on inp
+ut line 99.
+(pdftex.def)             Requested size: 431.92685pt x 610.85359pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
+clusion: found PDF version <1.7>, but at most version <1.5> allowed
+<chapters/appendixLesson/Aula2.pdf, id=3634, page=11, 597.55246pt x 845.07724pt
+>
+File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
+<use chapters/appendixLesson/Aula2.pdf, page 11>
+Package pdftex.def Info: chapters/appendixLesson/Aula2.pdf , page11 used on inp
+ut line 100.
+(pdftex.def)             Requested size: 431.92685pt x 610.85359pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
+clusion: found PDF version <1.7>, but at most version <1.5> allowed
+<chapters/appendixLesson/Aula2.pdf, id=3635, page=12, 597.55246pt x 845.07724pt
+>
+File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
+<use chapters/appendixLesson/Aula2.pdf, page 12>
+Package pdftex.def Info: chapters/appendixLesson/Aula2.pdf , page12 used on inp
+ut line 101.
+(pdftex.def)             Requested size: 431.92685pt x 610.85359pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
+clusion: found PDF version <1.7>, but at most version <1.5> allowed
+<chapters/appendixLesson/Aula2.pdf, id=3636, page=13, 597.55246pt x 845.07724pt
+>
+File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
+<use chapters/appendixLesson/Aula2.pdf, page 13>
+Package pdftex.def Info: chapters/appendixLesson/Aula2.pdf , page13 used on inp
+ut line 102.
+(pdftex.def)             Requested size: 431.92685pt x 610.85359pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
+clusion: found PDF version <1.7>, but at most version <1.5> allowed
+<chapters/appendixLesson/Aula2.pdf, id=3637, page=14, 597.55246pt x 845.07724pt
+>
+File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
+<use chapters/appendixLesson/Aula2.pdf, page 14>
+Package pdftex.def Info: chapters/appendixLesson/Aula2.pdf , page14 used on inp
+ut line 103.
+(pdftex.def)             Requested size: 431.92685pt x 610.85359pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
+clusion: found PDF version <1.7>, but at most version <1.5> allowed
+<chapters/appendixLesson/Aula2.pdf, id=3638, page=15, 597.55246pt x 845.07724pt
+>
+File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
+<use chapters/appendixLesson/Aula2.pdf, page 15>
+Package pdftex.def Info: chapters/appendixLesson/Aula2.pdf , page15 used on inp
+ut line 104.
+(pdftex.def)             Requested size: 431.92685pt x 610.85359pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
+clusion: found PDF version <1.7>, but at most version <1.5> allowed
+<chapters/appendixLesson/Aula2.pdf, id=3639, page=16, 597.55246pt x 845.07724pt
+>
+File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
+<use chapters/appendixLesson/Aula2.pdf, page 16>
+Package pdftex.def Info: chapters/appendixLesson/Aula2.pdf , page16 used on inp
+ut line 105.
+(pdftex.def)             Requested size: 431.92685pt x 610.85359pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
+clusion: found PDF version <1.7>, but at most version <1.5> allowed
+<chapters/appendixLesson/Aula2.pdf, id=3640, page=17, 597.55246pt x 845.07724pt
+>
+File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
+<use chapters/appendixLesson/Aula2.pdf, page 17>
+Package pdftex.def Info: chapters/appendixLesson/Aula2.pdf , page17 used on inp
+ut line 106.
+(pdftex.def)             Requested size: 431.92685pt x 610.85359pt.
+[204 <./chapters/appendixLesson/Aula2.pdf>] [205 <./chapters/appendixLesson/Aul
+a2.pdf>] [206 <./chapters/appendixLesson/Aula2.pdf>] [207 <./chapters/appendixL
+esson/Aula2.pdf>] [208 <./chapters/appendixLesson/Aula2.pdf>] [209 <./chapters/
+appendixLesson/Aula2.pdf>] [210 <./chapters/appendixLesson/Aula2.pdf>] [211 <./
+chapters/appendixLesson/Aula2.pdf>] [212 <./chapters/appendixLesson/Aula2.pdf>]
+[213 <./chapters/appendixLesson/Aula2.pdf>] [214 <./chapters/appendixLesson/Aul
+a2.pdf>] [215 <./chapters/appendixLesson/Aula2.pdf>] [216 <./chapters/appendixL
+esson/Aula2.pdf>] [217 <./chapters/appendixLesson/Aula2.pdf>] [218 <./chapters/
+appendixLesson/Aula2.pdf>] [219 <./chapters/appendixLesson/Aula2.pdf>] [220 <./
+chapters/appendixLesson/Aula2.pdf>]
+<chapters/appendixLesson/Q2.jpg, id=3815, 281.55188pt x 234.8775pt>
+File: chapters/appendixLesson/Q2.jpg Graphic file (type jpg)
+<use chapters/appendixLesson/Q2.jpg>
+Package pdftex.def Info: chapters/appendixLesson/Q2.jpg  used on input line 136
+.
+(pdftex.def)             Requested size: 281.55118pt x 234.87692pt.
+<chapters/appendixLesson/circulo_trigonometrico.png, id=3816, 579.1236pt x 803.
+6424pt>
+File: chapters/appendixLesson/circulo_trigonometrico.png Graphic file (type png
+)
+<use chapters/appendixLesson/circulo_trigonometrico.png>
+Package pdftex.def Info: chapters/appendixLesson/circulo_trigonometrico.png  us
+ed on input line 159.
+(pdftex.def)             Requested size: 431.92685pt x 599.40715pt.
+ [221 <./chapters/appendixLesson/Q2.jpg>]
+[222 <./chapters/appendixLesson/circulo_trigonometrico.png>]
+<chapters/appendixLesson/Interface_A01.png, id=3831, 535.7616pt x 764.8575pt>
+File: chapters/appendixLesson/Interface_A01.png Graphic file (type png)
+<use chapters/appendixLesson/Interface_A01.png>
+Package pdftex.def Info: chapters/appendixLesson/Interface_A01.png  used on inp
+ut line 176.
+(pdftex.def)             Requested size: 388.73152pt x 554.9568pt.
+ [223
+
+ <./chapters/appendixLesson/Interface_A01.png>]
+<chapters/appendixLesson/Interface_A02.png, id=3837, 598.3956pt x 846.0408pt>
+File: chapters/appendixLesson/Interface_A02.png Graphic file (type png)
+<use chapters/appendixLesson/Interface_A02.png>
+Package pdftex.def Info: chapters/appendixLesson/Interface_A02.png  used on inp
+ut line 183.
+(pdftex.def)             Requested size: 388.73152pt x 549.6231pt.
+ [224
+
+ <./chapters/appendixLesson/Interface_A02.png>]
+<chapters/appendixLesson/Interface_A03.png, id=3843, 536.4843pt x 764.8575pt>
+File: chapters/appendixLesson/Interface_A03.png Graphic file (type png)
+<use chapters/appendixLesson/Interface_A03.png>
+Package pdftex.def Info: chapters/appendixLesson/Interface_A03.png  used on inp
+ut line 190.
+(pdftex.def)             Requested size: 388.73152pt x 554.22154pt.
+ [225
+
+ <./chapters/appendixLesson/Interface_A03.png>]
+<chapters/appendixLesson/Interface_A04.png, id=3849, 536.4843pt x 764.8575pt>
+File: chapters/appendixLesson/Interface_A04.png Graphic file (type png)
+<use chapters/appendixLesson/Interface_A04.png>
+Package pdftex.def Info: chapters/appendixLesson/Interface_A04.png  used on inp
+ut line 197.
+(pdftex.def)             Requested size: 388.73152pt x 554.22154pt.
+ [226
+
+ <./chapters/appendixLesson/Interface_A04.png>]
+<chapters/appendixLesson/Interface_A05.png, id=3855, 527.8119pt x 808.4604pt>
+File: chapters/appendixLesson/Interface_A05.png Graphic file (type png)
+<use chapters/appendixLesson/Interface_A05.png>
+Package pdftex.def Info: chapters/appendixLesson/Interface_A05.png  used on inp
+ut line 204.
+(pdftex.def)             Requested size: 388.73152pt x 595.45105pt.
+ [227
+
+ <./chapters/appendixLesson/Interface_A05.png>]
+<chapters/appendixLesson/Interface_A06.png, id=3862, 579.1236pt x 808.4604pt>
+File: chapters/appendixLesson/Interface_A06.png Graphic file (type png)
+<use chapters/appendixLesson/Interface_A06.png>
+Package pdftex.def Info: chapters/appendixLesson/Interface_A06.png  used on inp
+ut line 211.
+(pdftex.def)             Requested size: 388.73152pt x 542.68956pt.
+) (chapters/appendixB.tex [228
+
+ <./chapters/appendixLesson/Interface_A06.png>]
+Ap\^endice D.
+------------------------------------------------------------------------------
+ D OTA - Exerc^^c3^^adcio 1
+------------------------------------------------------------------------------
+[229
+
+]
+File: chapters/appendixC/entrada1.png Graphic file (type png)
+<use chapters/appendixC/entrada1.png>
+Package pdftex.def Info: chapters/appendixC/entrada1.png  used on input line 65
+.
+(pdftex.def)             Requested size: 86.38405pt x 17.0699pt.
+File: chapters/appendixC/entrada2.png Graphic file (type png)
+<use chapters/appendixC/entrada2.png>
+Package pdftex.def Info: chapters/appendixC/entrada2.png  used on input line 65
+.
+(pdftex.def)             Requested size: 86.38405pt x 16.35744pt.
+File: chapters/appendixC/entrada3.png Graphic file (type png)
+<use chapters/appendixC/entrada3.png>
+Package pdftex.def Info: chapters/appendixC/entrada3.png  used on input line 65
+.
+(pdftex.def)             Requested size: 86.38405pt x 15.06769pt.
+File: chapters/appendixC/saidas.png Graphic file (type png)
+<use chapters/appendixC/saidas.png>
+Package pdftex.def Info: chapters/appendixC/saidas.png  used on input line 65.
+(pdftex.def)             Requested size: 345.54279pt x 116.91974pt.
+ [230]
+File: chapters/appendixB/c1r1.png Graphic file (type png)
+<use chapters/appendixB/c1r1.png>
+Package pdftex.def Info: chapters/appendixB/c1r1.png  used on input line 221.
+(pdftex.def)             Requested size: 172.7681pt x 125.88518pt.
+File: chapters/appendixB/c1r2.png Graphic file (type png)
+<use chapters/appendixB/c1r2.png>
+Package pdftex.def Info: chapters/appendixB/c1r2.png  used on input line 221.
+(pdftex.def)             Requested size: 172.7681pt x 124.60063pt.
+File: chapters/appendixB/c1r3.png Graphic file (type png)
+<use chapters/appendixB/c1r3.png>
+Package pdftex.def Info: chapters/appendixB/c1r3.png  used on input line 221.
+(pdftex.def)             Requested size: 172.7681pt x 123.50168pt.
+File: chapters/appendixB/c2r1.png Graphic file (type png)
+<use chapters/appendixB/c2r1.png>
+Package pdftex.def Info: chapters/appendixB/c2r1.png  used on input line 221.
+(pdftex.def)             Requested size: 215.96342pt x 151.17795pt.
+File: chapters/appendixB/c2r2.png Graphic file (type png)
+<use chapters/appendixB/c2r2.png>
+Package pdftex.def Info: chapters/appendixB/c2r2.png  used on input line 221.
+(pdftex.def)             Requested size: 172.7681pt x 120.13254pt.
+File: chapters/appendixB/c2r3.png Graphic file (type png)
+<use chapters/appendixB/c2r3.png>
+Package pdftex.def Info: chapters/appendixB/c2r3.png  used on input line 221.
+(pdftex.def)             Requested size: 172.7681pt x 95.74051pt.
+
+Overfull \hbox (2.43794pt too wide) in paragraph at lines 221--221
+[]|[]| 
+ []
+
+File: chapters/appendixB/c2r1.png Graphic file (type png)
+<use chapters/appendixB/c2r1.png>
+Package pdftex.def Info: chapters/appendixB/c2r1.png  used on input line 221.
+(pdftex.def)             Requested size: 172.7681pt x 120.93875pt.
+File: chapters/appendixB/c2r2.png Graphic file (type png)
+<use chapters/appendixB/c2r2.png>
+Package pdftex.def Info: chapters/appendixB/c2r2.png  used on input line 221.
+(pdftex.def)             Requested size: 172.7681pt x 120.13254pt.
+File: chapters/appendixB/c2r3.png Graphic file (type png)
+<use chapters/appendixB/c2r3.png>
+Package pdftex.def Info: chapters/appendixB/c2r3.png  used on input line 221.
+(pdftex.def)             Requested size: 172.7681pt x 95.74051pt.
+
+Overfull \hbox (2.43794pt too wide) in paragraph at lines 221--221
+[]|[]| 
+ []
+
+File: chapters/appendixB/c4r1.png Graphic file (type png)
+<use chapters/appendixB/c4r1.png>
+Package pdftex.def Info: chapters/appendixB/c4r1.png  used on input line 221.
+(pdftex.def)             Requested size: 172.7681pt x 118.44113pt.
+File: chapters/appendixB/c4r2.png Graphic file (type png)
+<use chapters/appendixB/c4r2.png>
+Package pdftex.def Info: chapters/appendixB/c4r2.png  used on input line 221.
+(pdftex.def)             Requested size: 172.7681pt x 117.79953pt.
+File: chapters/appendixB/c4r3.png Graphic file (type png)
+<use chapters/appendixB/c4r3.png>
+Package pdftex.def Info: chapters/appendixB/c4r3.png  used on input line 221.
+(pdftex.def)             Requested size: 172.7681pt x 115.18088pt.
+File: chapters/appendixB/c4r1.png Graphic file (type png)
+<use chapters/appendixB/c4r1.png>
+Package pdftex.def Info: chapters/appendixB/c4r1.png  used on input line 221.
+(pdftex.def)             Requested size: 172.7681pt x 118.44113pt.
+File: chapters/appendixB/c4r2.png Graphic file (type png)
+<use chapters/appendixB/c4r2.png>
+Package pdftex.def Info: chapters/appendixB/c4r2.png  used on input line 221.
+(pdftex.def)             Requested size: 172.7681pt x 117.79953pt.
+File: chapters/appendixB/c4r3.png Graphic file (type png)
+<use chapters/appendixB/c4r3.png>
+Package pdftex.def Info: chapters/appendixB/c4r3.png  used on input line 221.
+(pdftex.def)             Requested size: 172.7681pt x 115.18088pt.
+File: chapters/appendixB/c6r1.png Graphic file (type png)
+<use chapters/appendixB/c6r1.png>
+Package pdftex.def Info: chapters/appendixB/c6r1.png  used on input line 221.
+(pdftex.def)             Requested size: 172.7681pt x 117.83063pt.
+File: chapters/appendixB/c6r2.png Graphic file (type png)
+<use chapters/appendixB/c6r2.png>
+Package pdftex.def Info: chapters/appendixB/c6r2.png  used on input line 221.
+(pdftex.def)             Requested size: 172.7681pt x 118.40363pt.
+File: chapters/appendixB/c6r3.png Graphic file (type png)
+<use chapters/appendixB/c6r3.png>
+Package pdftex.def Info: chapters/appendixB/c6r3.png  used on input line 221.
+(pdftex.def)             Requested size: 172.7681pt x 81.26247pt.
+File: chapters/appendixB/c6r1.png Graphic file (type png)
+<use chapters/appendixB/c6r1.png>
+Package pdftex.def Info: chapters/appendixB/c6r1.png  used on input line 221.
+(pdftex.def)             Requested size: 172.7681pt x 117.83063pt.
+File: chapters/appendixB/c6r2.png Graphic file (type png)
+<use chapters/appendixB/c6r2.png>
+Package pdftex.def Info: chapters/appendixB/c6r2.png  used on input line 221.
+(pdftex.def)             Requested size: 172.7681pt x 118.40363pt.
+File: chapters/appendixB/c6r3.png Graphic file (type png)
+<use chapters/appendixB/c6r3.png>
+Package pdftex.def Info: chapters/appendixB/c6r3.png  used on input line 221.
+(pdftex.def)             Requested size: 172.7681pt x 81.26247pt.
+File: chapters/appendixB/c8r1.png Graphic file (type png)
+<use chapters/appendixB/c8r1.png>
+Package pdftex.def Info: chapters/appendixB/c8r1.png  used on input line 221.
+(pdftex.def)             Requested size: 172.7681pt x 116.59132pt.
+File: chapters/appendixB/c8r2.png Graphic file (type png)
+<use chapters/appendixB/c8r2.png>
+Package pdftex.def Info: chapters/appendixB/c8r2.png  used on input line 221.
+(pdftex.def)             Requested size: 172.7681pt x 117.19542pt.
+File: chapters/appendixB/c8r3.png Graphic file (type png)
+<use chapters/appendixB/c8r3.png>
+Package pdftex.def Info: chapters/appendixB/c8r3.png  used on input line 221.
+(pdftex.def)             Requested size: 172.7681pt x 93.99979pt.
+[231] [232 <./chapters/appendixB/c2r1.png>] [233 <./chapters/appendixB/c2r2.png
+> <./chapters/appendixB/c2r3.png>] [234 <./chapters/appendixB/c4r1.png>]
+[235 <./chapters/appendixB/c4r2.png> <./chapters/appendixB/c4r3.png>] [236 <./c
+hapters/appendixB/c6r1.png>] [237 <./chapters/appendixB/c6r2.png> <./chapters/a
+ppendixB/c6r3.png>] [238 <./chapters/appendixB/c8r1.png>])
+(chapters/appendixC.tex [239 <./chapters/appendixB/c8r2.png> <./chapters/append
+ixB/c8r3.png>]
+Ap\^endice E.
+------------------------------------------------------------------------------
+ E OTA - Exerc^^c3^^adcio 2
+------------------------------------------------------------------------------
+[240
+
+]
+File: chapters/appendixC/entrada1.png Graphic file (type png)
+<use chapters/appendixC/entrada1.png>
+Package pdftex.def Info: chapters/appendixC/entrada1.png  used on input line 65
+.
+(pdftex.def)             Requested size: 86.38405pt x 17.0699pt.
+File: chapters/appendixC/entrada2.png Graphic file (type png)
+<use chapters/appendixC/entrada2.png>
+Package pdftex.def Info: chapters/appendixC/entrada2.png  used on input line 65
+.
+(pdftex.def)             Requested size: 86.38405pt x 16.35744pt.
+File: chapters/appendixC/entrada3.png Graphic file (type png)
+<use chapters/appendixC/entrada3.png>
+Package pdftex.def Info: chapters/appendixC/entrada3.png  used on input line 65
+.
+(pdftex.def)             Requested size: 86.38405pt x 15.06769pt.
+File: chapters/appendixC/saidas.png Graphic file (type png)
+<use chapters/appendixC/saidas.png>
+Package pdftex.def Info: chapters/appendixC/saidas.png  used on input line 65.
+(pdftex.def)             Requested size: 345.54279pt x 116.91974pt.
+ [241]
+File: chapters/appendixC/c1r1.png Graphic file (type png)
+<use chapters/appendixC/c1r1.png>
+Package pdftex.def Info: chapters/appendixC/c1r1.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 125.08649pt.
+File: chapters/appendixC/c1r2.png Graphic file (type png)
+<use chapters/appendixC/c1r2.png>
+Package pdftex.def Info: chapters/appendixC/c1r2.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 120.63654pt.
+File: chapters/appendixC/c1r3.png Graphic file (type png)
+<use chapters/appendixC/c1r3.png>
+Package pdftex.def Info: chapters/appendixC/c1r3.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 93.74017pt.
+File: chapters/appendixC/c2r1.png Graphic file (type png)
+<use chapters/appendixC/c2r1.png>
+Package pdftex.def Info: chapters/appendixC/c2r1.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 123.14886pt.
+File: chapters/appendixC/c2r2.png Graphic file (type png)
+<use chapters/appendixC/c2r2.png>
+Package pdftex.def Info: chapters/appendixC/c2r2.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 120.56264pt.
+File: chapters/appendixC/c2r3.png Graphic file (type png)
+<use chapters/appendixC/c2r3.png>
+Package pdftex.def Info: chapters/appendixC/c2r3.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 80.73659pt.
+File: chapters/appendixC/c3r1.png Graphic file (type png)
+<use chapters/appendixC/c3r1.png>
+Package pdftex.def Info: chapters/appendixC/c3r1.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 121.92351pt.
+File: chapters/appendixC/c3r2.png Graphic file (type png)
+<use chapters/appendixC/c3r2.png>
+Package pdftex.def Info: chapters/appendixC/c3r2.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 119.2344pt.
+File: chapters/appendixC/c3r3.png Graphic file (type png)
+<use chapters/appendixC/c3r3.png>
+Package pdftex.def Info: chapters/appendixC/c3r3.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 95.54681pt.
+File: chapters/appendixC/c4r1.png Graphic file (type png)
+<use chapters/appendixC/c4r1.png>
+Package pdftex.def Info: chapters/appendixC/c4r1.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 120.38239pt.
+File: chapters/appendixC/c4r2.png Graphic file (type png)
+<use chapters/appendixC/c4r2.png>
+Package pdftex.def Info: chapters/appendixC/c4r2.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 121.62985pt.
+File: chapters/appendixC/c4r3.png Graphic file (type png)
+<use chapters/appendixC/c4r3.png>
+Package pdftex.def Info: chapters/appendixC/c4r3.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 94.67426pt.
+File: chapters/appendixC/c5r1.png Graphic file (type png)
+<use chapters/appendixC/c5r1.png>
+Package pdftex.def Info: chapters/appendixC/c5r1.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 118.81789pt.
+File: chapters/appendixC/c5r2.png Graphic file (type png)
+<use chapters/appendixC/c5r2.png>
+Package pdftex.def Info: chapters/appendixC/c5r2.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 117.4094pt.
+File: chapters/appendixC/c5r3.png Graphic file (type png)
+<use chapters/appendixC/c5r3.png>
+Package pdftex.def Info: chapters/appendixC/c5r3.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 81.76588pt.
+File: chapters/appendixC/c6r1.png Graphic file (type png)
+<use chapters/appendixC/c6r1.png>
+Package pdftex.def Info: chapters/appendixC/c6r1.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 115.98721pt.
+File: chapters/appendixC/c6r2.png Graphic file (type png)
+<use chapters/appendixC/c6r2.png>
+Package pdftex.def Info: chapters/appendixC/c6r2.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 117.4094pt.
+File: chapters/appendixC/c6r3.png Graphic file (type png)
+<use chapters/appendixC/c6r3.png>
+Package pdftex.def Info: chapters/appendixC/c6r3.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 81.92786pt.
+File: chapters/appendixC/c7r1.png Graphic file (type png)
+<use chapters/appendixC/c7r1.png>
+Package pdftex.def Info: chapters/appendixC/c7r1.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 117.83063pt.
+File: chapters/appendixC/c7r2.png Graphic file (type png)
+<use chapters/appendixC/c7r2.png>
+Package pdftex.def Info: chapters/appendixC/c7r2.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 117.79953pt.
+File: chapters/appendixC/c7r3.png Graphic file (type png)
+<use chapters/appendixC/c7r3.png>
+Package pdftex.def Info: chapters/appendixC/c7r3.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 82.30298pt.
+File: chapters/appendixC/c8r1.png Graphic file (type png)
+<use chapters/appendixC/c8r1.png>
+Package pdftex.def Info: chapters/appendixC/c8r1.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 118.01772pt.
+File: chapters/appendixC/c8r2.png Graphic file (type png)
+<use chapters/appendixC/c8r2.png>
+Package pdftex.def Info: chapters/appendixC/c8r2.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 116.99925pt.
+File: chapters/appendixC/c8r3.png Graphic file (type png)
+<use chapters/appendixC/c8r3.png>
+Package pdftex.def Info: chapters/appendixC/c8r3.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 80.6025pt.
+File: chapters/appendixC/c9r1.png Graphic file (type png)
+<use chapters/appendixC/c9r1.png>
+Package pdftex.def Info: chapters/appendixC/c9r1.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 117.17883pt.
+File: chapters/appendixC/c9r2.png Graphic file (type png)
+<use chapters/appendixC/c9r2.png>
+Package pdftex.def Info: chapters/appendixC/c9r2.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 116.581pt.
+File: chapters/appendixC/c9r3.png Graphic file (type png)
+<use chapters/appendixC/c9r3.png>
+Package pdftex.def Info: chapters/appendixC/c9r3.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 81.24226pt.
+File: chapters/appendixC/c10r1.png Graphic file (type png)
+<use chapters/appendixC/c10r1.png>
+Package pdftex.def Info: chapters/appendixC/c10r1.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 119.2344pt.
+File: chapters/appendixC/c10r2.png Graphic file (type png)
+<use chapters/appendixC/c10r2.png>
+Package pdftex.def Info: chapters/appendixC/c10r2.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 117.38962pt.
+File: chapters/appendixC/c10r3.png Graphic file (type png)
+<use chapters/appendixC/c10r3.png>
+Package pdftex.def Info: chapters/appendixC/c10r3.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 81.6039pt.
+File: chapters/appendixC/c11r1.png Graphic file (type png)
+<use chapters/appendixC/c11r1.png>
+Package pdftex.def Info: chapters/appendixC/c11r1.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 117.60545pt.
+File: chapters/appendixC/c11r2.png Graphic file (type png)
+<use chapters/appendixC/c11r2.png>
+Package pdftex.def Info: chapters/appendixC/c11r2.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 117.99161pt.
+File: chapters/appendixC/c11r3.png Graphic file (type png)
+<use chapters/appendixC/c11r3.png>
+Package pdftex.def Info: chapters/appendixC/c11r3.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 79.81572pt.
+File: chapters/appendixC/c12r1.png Graphic file (type png)
+<use chapters/appendixC/c12r1.png>
+Package pdftex.def Info: chapters/appendixC/c12r1.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 117.99161pt.
+File: chapters/appendixC/c12r2.png Graphic file (type png)
+<use chapters/appendixC/c12r2.png>
+Package pdftex.def Info: chapters/appendixC/c12r2.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 116.38425pt.
+File: chapters/appendixC/c12r3.png Graphic file (type png)
+<use chapters/appendixC/c12r3.png>
+Package pdftex.def Info: chapters/appendixC/c12r3.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 81.08163pt.
+File: chapters/appendixC/c13r1.png Graphic file (type png)
+<use chapters/appendixC/c13r1.png>
+Package pdftex.def Info: chapters/appendixC/c13r1.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 117.60545pt.
+File: chapters/appendixC/c13r2.png Graphic file (type png)
+<use chapters/appendixC/c13r2.png>
+Package pdftex.def Info: chapters/appendixC/c13r2.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 116.98418pt.
+File: chapters/appendixC/c13r3.png Graphic file (type png)
+<use chapters/appendixC/c13r3.png>
+Package pdftex.def Info: chapters/appendixC/c13r3.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 81.62279pt.
+File: chapters/appendixC/c14r1.png Graphic file (type png)
+<use chapters/appendixC/c14r1.png>
+Package pdftex.def Info: chapters/appendixC/c14r1.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 117.19542pt.
+File: chapters/appendixC/c14r2.png Graphic file (type png)
+<use chapters/appendixC/c14r2.png>
+Package pdftex.def Info: chapters/appendixC/c14r2.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 118.40363pt.
+File: chapters/appendixC/c14r3.png Graphic file (type png)
+<use chapters/appendixC/c14r3.png>
+Package pdftex.def Info: chapters/appendixC/c14r3.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 94.67426pt.
+File: chapters/appendixC/c15r1.png Graphic file (type png)
+<use chapters/appendixC/c15r1.png>
+Package pdftex.def Info: chapters/appendixC/c15r1.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 119.00772pt.
+File: chapters/appendixC/c15r2.png Graphic file (type png)
+<use chapters/appendixC/c15r2.png>
+Package pdftex.def Info: chapters/appendixC/c15r2.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 117.38962pt.
+File: chapters/appendixC/c15r3.png Graphic file (type png)
+<use chapters/appendixC/c15r3.png>
+Package pdftex.def Info: chapters/appendixC/c15r3.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 80.04585pt.
+File: chapters/appendixC/c17r1.png Graphic file (type png)
+<use chapters/appendixC/c17r1.png>
+Package pdftex.def Info: chapters/appendixC/c17r1.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 114.58717pt.
+File: chapters/appendixC/c17r2.png Graphic file (type png)
+<use chapters/appendixC/c17r2.png>
+Package pdftex.def Info: chapters/appendixC/c17r2.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 117.77669pt.
+File: chapters/appendixC/c17r3.png Graphic file (type png)
+<use chapters/appendixC/c17r3.png>
+Package pdftex.def Info: chapters/appendixC/c17r3.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 80.2624pt.
+File: chapters/appendixC/c18r1.png Graphic file (type png)
+<use chapters/appendixC/c18r1.png>
+Package pdftex.def Info: chapters/appendixC/c18r1.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 116.581pt.
+File: chapters/appendixC/c18r2.png Graphic file (type png)
+<use chapters/appendixC/c18r2.png>
+Package pdftex.def Info: chapters/appendixC/c18r2.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 115.18088pt.
+File: chapters/appendixC/c18r3.png Graphic file (type png)
+<use chapters/appendixC/c18r3.png>
+Package pdftex.def Info: chapters/appendixC/c18r3.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 81.28268pt.
+File: chapters/appendixC/c19r1.png Graphic file (type png)
+<use chapters/appendixC/c19r1.png>
+Package pdftex.def Info: chapters/appendixC/c19r1.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 116.59132pt.
+File: chapters/appendixC/c19r2.png Graphic file (type png)
+<use chapters/appendixC/c19r2.png>
+Package pdftex.def Info: chapters/appendixC/c19r2.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 117.79953pt.
+File: chapters/appendixC/c19r3.png Graphic file (type png)
+<use chapters/appendixC/c19r3.png>
+Package pdftex.def Info: chapters/appendixC/c19r3.png  used on input line 417.
+(pdftex.def)             Requested size: 172.7681pt x 81.10117pt.
+ [242 <./chapters/appendixC/c1r1.png>] [243 <./chapters/appendixC/c1r2.png> <./
+chapters/appendixC/c1r3.png> <./chapters/appendixC/c2r1.png>]
+[244 <./chapters/appendixC/c2r2.png> <./chapters/appendixC/c2r3.png> <./chapter
+s/appendixC/c3r1.png>] [245 <./chapters/appendixC/c3r2.png> <./chapters/appendi
+xC/c3r3.png> <./chapters/appendixC/c4r1.png>] [246 <./chapters/appendixC/c4r2.p
+ng> <./chapters/appendixC/c4r3.png> <./chapters/appendixC/c5r1.png>] [247 <./ch
+apters/appendixC/c5r2.png> <./chapters/appendixC/c5r3.png> <./chapters/appendix
+C/c6r1.png>] [248 <./chapters/appendixC/c6r2.png> <./chapters/appendixC/c6r3.pn
+g> <./chapters/appendixC/c7r1.png>] [249 <./chapters/appendixC/c7r2.png> <./cha
+pters/appendixC/c7r3.png> <./chapters/appendixC/c8r1.png>] [250 <./chapters/app
+endixC/c8r2.png> <./chapters/appendixC/c8r3.png> <./chapters/appendixC/c9r1.png
+>] [251 <./chapters/appendixC/c9r2.png> <./chapters/appendixC/c9r3.png> <./chap
+ters/appendixC/c10r1.png>] [252 <./chapters/appendixC/c10r2.png> <./chapters/ap
+pendixC/c10r3.png> <./chapters/appendixC/c11r1.png>] [253 <./chapters/appendixC
+/c11r2.png> <./chapters/appendixC/c11r3.png> <./chapters/appendixC/c12r1.png>]
+[254 <./chapters/appendixC/c12r2.png> <./chapters/appendixC/c12r3.png> <./chapt
+ers/appendixC/c13r1.png>] [255 <./chapters/appendixC/c13r2.png> <./chapters/app
+endixC/c13r3.png> <./chapters/appendixC/c14r1.png>] [256 <./chapters/appendixC/
+c14r2.png> <./chapters/appendixC/c14r3.png> <./chapters/appendixC/c15r1.png>]
+[257 <./chapters/appendixC/c15r2.png> <./chapters/appendixC/c15r3.png> <./chapt
+ers/appendixC/c17r1.png>] [258 <./chapters/appendixC/c17r2.png> <./chapters/app
+endixC/c17r3.png> <./chapters/appendixC/c18r1.png>] [259 <./chapters/appendixC/
+c18r2.png> <./chapters/appendixC/c18r3.png> <./chapters/appendixC/c19r1.png>])
+(chapters/appendixSeno.tex [260 <./chapters/appendixC/c19r2.png> <./chapters/ap
+pendixC/c19r3.png>]
+Ap\^endice F.
+------------------------------------------------------------------------------
+ F OTA - Exerc^^c3^^adcio 3
+------------------------------------------------------------------------------
+[261
+
+]
+File: chapters/appendixSeno/EF1.png Graphic file (type png)
+<use chapters/appendixSeno/EF1.png>
+Package pdftex.def Info: chapters/appendixSeno/EF1.png  used on input line 69.
+(pdftex.def)             Requested size: 86.38405pt x 17.0699pt.
+File: chapters/appendixSeno/EV1.png Graphic file (type png)
+<use chapters/appendixSeno/EV1.png>
+Package pdftex.def Info: chapters/appendixSeno/EV1.png  used on input line 69.
+(pdftex.def)             Requested size: 86.38405pt x 16.35744pt.
+File: chapters/appendixSeno/EV2.png Graphic file (type png)
+<use chapters/appendixSeno/EV2.png>
+Package pdftex.def Info: chapters/appendixSeno/EV2.png  used on input line 69.
+(pdftex.def)             Requested size: 86.38405pt x 15.06769pt.
+File: chapters/appendixSeno/EV3.png Graphic file (type png)
+<use chapters/appendixSeno/EV3.png>
+Package pdftex.def Info: chapters/appendixSeno/EV3.png  used on input line 69.
+(pdftex.def)             Requested size: 86.38405pt x 14.48354pt.
+File: chapters/appendixSeno/EV4.png Graphic file (type png)
+<use chapters/appendixSeno/EV4.png>
+Package pdftex.def Info: chapters/appendixSeno/EV4.png  used on input line 69.
+(pdftex.def)             Requested size: 86.38405pt x 15.42607pt.
+File: chapters/appendixSeno/EV5.png Graphic file (type png)
+<use chapters/appendixSeno/EV5.png>
+Package pdftex.def Info: chapters/appendixSeno/EV5.png  used on input line 69.
+(pdftex.def)             Requested size: 86.38405pt x 15.94028pt.
+File: chapters/appendixSeno/saidas.png Graphic file (type png)
+<use chapters/appendixSeno/saidas.png>
+Package pdftex.def Info: chapters/appendixSeno/saidas.png  used on input line 6
+9.
+(pdftex.def)             Requested size: 259.15874pt x 84.67552pt.
+ [262 <./chapters/appendixSeno/EF1.png> <./chapters/appendixSeno/EV1.png> <./ch
+apters/appendixSeno/EV2.png> <./chapters/appendixSeno/EV3.png> <./chapters/appe
+ndixSeno/EV4.png> <./chapters/appendixSeno/EV5.png>]
+File: chapters/appendixSeno/c1r1.png Graphic file (type png)
+<use chapters/appendixSeno/c1r1.png>
+Package pdftex.def Info: chapters/appendixSeno/c1r1.png  used on input line 242
+.
+(pdftex.def)             Requested size: 388.73152pt x 69.55263pt.
+File: chapters/appendixSeno/c2r1.png Graphic file (type png)
+<use chapters/appendixSeno/c2r1.png>
+Package pdftex.def Info: chapters/appendixSeno/c2r1.png  used on input line 242
+.
+(pdftex.def)             Requested size: 388.73152pt x 63.52321pt.
+File: chapters/appendixSeno/c3r1.png Graphic file (type png)
+<use chapters/appendixSeno/c3r1.png>
+Package pdftex.def Info: chapters/appendixSeno/c3r1.png  used on input line 242
+.
+(pdftex.def)             Requested size: 388.73152pt x 233.51547pt.
+File: chapters/appendixSeno/c4r1.png Graphic file (type png)
+<use chapters/appendixSeno/c4r1.png>
+Package pdftex.def Info: chapters/appendixSeno/c4r1.png  used on input line 242
+.
+(pdftex.def)             Requested size: 388.73152pt x 232.16216pt.
+File: chapters/appendixSeno/c5r1.png Graphic file (type png)
+<use chapters/appendixSeno/c5r1.png>
+Package pdftex.def Info: chapters/appendixSeno/c5r1.png  used on input line 242
+.
+(pdftex.def)             Requested size: 388.73152pt x 230.46872pt.
+File: chapters/appendixSeno/c6r1.png Graphic file (type png)
+<use chapters/appendixSeno/c6r1.png>
+Package pdftex.def Info: chapters/appendixSeno/c6r1.png  used on input line 242
+.
+(pdftex.def)             Requested size: 388.73152pt x 231.36548pt.
+ [263 <./chapters/appendixSeno/saidas.png> <./chapters/appendixSeno/c1r1.png>] 
+[264 <./chapters/appendixSeno/c2r1.png>] [265 <./chapters/appendixSeno/c3r1.png
+>] [266 <./chapters/appendixSeno/c4r1.png>] [267 <./chapters/appendixSeno/c5r1.
+png>])
+(chapters/appendixCosseno.tex [268 <./chapters/appendixSeno/c6r1.png>]
+Ap\^endice G.
+------------------------------------------------------------------------------
+ G OTA - Exerc^^c3^^adcio 4
+------------------------------------------------------------------------------
+[269
+
+]
+File: chapters/appendixSeno/EF1.png Graphic file (type png)
+<use chapters/appendixSeno/EF1.png>
+Package pdftex.def Info: chapters/appendixSeno/EF1.png  used on input line 69.
+(pdftex.def)             Requested size: 86.38405pt x 17.0699pt.
+File: chapters/appendixSeno/EV1.png Graphic file (type png)
+<use chapters/appendixSeno/EV1.png>
+Package pdftex.def Info: chapters/appendixSeno/EV1.png  used on input line 69.
+(pdftex.def)             Requested size: 86.38405pt x 16.35744pt.
+File: chapters/appendixSeno/EV2.png Graphic file (type png)
+<use chapters/appendixSeno/EV2.png>
+Package pdftex.def Info: chapters/appendixSeno/EV2.png  used on input line 69.
+(pdftex.def)             Requested size: 86.38405pt x 15.06769pt.
+File: chapters/appendixSeno/EV3.png Graphic file (type png)
+<use chapters/appendixSeno/EV3.png>
+Package pdftex.def Info: chapters/appendixSeno/EV3.png  used on input line 69.
+(pdftex.def)             Requested size: 86.38405pt x 14.48354pt.
+File: chapters/appendixSeno/EV4.png Graphic file (type png)
+<use chapters/appendixSeno/EV4.png>
+Package pdftex.def Info: chapters/appendixSeno/EV4.png  used on input line 69.
+(pdftex.def)             Requested size: 86.38405pt x 15.42607pt.
+File: chapters/appendixSeno/EV5.png Graphic file (type png)
+<use chapters/appendixSeno/EV5.png>
+Package pdftex.def Info: chapters/appendixSeno/EV5.png  used on input line 69.
+(pdftex.def)             Requested size: 86.38405pt x 15.94028pt.
+File: chapters/appendixSeno/saidas.png Graphic file (type png)
+<use chapters/appendixSeno/saidas.png>
+Package pdftex.def Info: chapters/appendixSeno/saidas.png  used on input line 6
+9.
+(pdftex.def)             Requested size: 259.15874pt x 84.67552pt.
+ [270]
+Overfull \hbox (3.92505pt too wide) in alignment at lines 250--250
+ [] [] [] 
+ []
+
+
+Overfull \hbox (3.92505pt too wide) in alignment at lines 250--250
+ [] [] [] 
+ []
+
+
+Overfull \hbox (3.92505pt too wide) in alignment at lines 250--250
+ [] [] [] 
+ []
+
+
+Overfull \hbox (3.92505pt too wide) in alignment at lines 250--250
+ [] [] [] 
+ []
+
+File: chapters/appendixSeno/c1r1.png Graphic file (type png)
+<use chapters/appendixSeno/c1r1.png>
+Package pdftex.def Info: chapters/appendixSeno/c1r1.png  used on input line 250
+.
+(pdftex.def)             Requested size: 388.73152pt x 69.55263pt.
+File: chapters/appendixCosseno/c2r1.png Graphic file (type png)
+<use chapters/appendixCosseno/c2r1.png>
+Package pdftex.def Info: chapters/appendixCosseno/c2r1.png  used on input line 
+250.
+(pdftex.def)             Requested size: 388.73152pt x 67.9882pt.
+File: chapters/appendixCosseno/c3r1.png Graphic file (type png)
+<use chapters/appendixCosseno/c3r1.png>
+Package pdftex.def Info: chapters/appendixCosseno/c3r1.png  used on input line 
+250.
+(pdftex.def)             Requested size: 388.73152pt x 234.2218pt.
+File: chapters/appendixCosseno/c4r1.png Graphic file (type png)
+<use chapters/appendixCosseno/c4r1.png>
+Package pdftex.def Info: chapters/appendixCosseno/c4r1.png  used on input line 
+250.
+(pdftex.def)             Requested size: 388.73152pt x 231.71483pt.
+File: chapters/appendixCosseno/c5r1.png Graphic file (type png)
+<use chapters/appendixCosseno/c5r1.png>
+Package pdftex.def Info: chapters/appendixCosseno/c5r1.png  used on input line 
+250.
+(pdftex.def)             Requested size: 388.73152pt x 233.15901pt.
+File: chapters/appendixCosseno/c6r1.png Graphic file (type png)
+<use chapters/appendixCosseno/c6r1.png>
+Package pdftex.def Info: chapters/appendixCosseno/c6r1.png  used on input line 
+250.
+(pdftex.def)             Requested size: 388.73152pt x 230.92345pt.
+
+Overfull \hbox (3.92505pt too wide) in alignment at lines 250--250
+ [] [] [] 
+ []
+
+[271] [272 <./chapters/appendixCosseno/c2r1.png>] [273 <./chapters/appendixCoss
+eno/c3r1.png>] [274 <./chapters/appendixCosseno/c4r1.png>] [275 <./chapters/app
+endixCosseno/c5r1.png>]) (chapters/appendixTangente.tex [276 <./chapters/append
+ixCosseno/c6r1.png>]
+Ap\^endice H.
+------------------------------------------------------------------------------
+ H OTA - Exerc^^c3^^adcio 5
+------------------------------------------------------------------------------
+[277
+
+]
+File: chapters/appendixSeno/EF1.png Graphic file (type png)
+<use chapters/appendixSeno/EF1.png>
+Package pdftex.def Info: chapters/appendixSeno/EF1.png  used on input line 69.
+(pdftex.def)             Requested size: 86.38405pt x 17.0699pt.
+File: chapters/appendixSeno/EV1.png Graphic file (type png)
+<use chapters/appendixSeno/EV1.png>
+Package pdftex.def Info: chapters/appendixSeno/EV1.png  used on input line 69.
+(pdftex.def)             Requested size: 86.38405pt x 16.35744pt.
+File: chapters/appendixSeno/EV2.png Graphic file (type png)
+<use chapters/appendixSeno/EV2.png>
+Package pdftex.def Info: chapters/appendixSeno/EV2.png  used on input line 69.
+(pdftex.def)             Requested size: 86.38405pt x 15.06769pt.
+File: chapters/appendixSeno/EV3.png Graphic file (type png)
+<use chapters/appendixSeno/EV3.png>
+Package pdftex.def Info: chapters/appendixSeno/EV3.png  used on input line 69.
+(pdftex.def)             Requested size: 86.38405pt x 14.48354pt.
+File: chapters/appendixSeno/EV4.png Graphic file (type png)
+<use chapters/appendixSeno/EV4.png>
+Package pdftex.def Info: chapters/appendixSeno/EV4.png  used on input line 69.
+(pdftex.def)             Requested size: 86.38405pt x 15.42607pt.
+File: chapters/appendixSeno/EV5.png Graphic file (type png)
+<use chapters/appendixSeno/EV5.png>
+Package pdftex.def Info: chapters/appendixSeno/EV5.png  used on input line 69.
+(pdftex.def)             Requested size: 86.38405pt x 15.94028pt.
+File: chapters/appendixSeno/saidas.png Graphic file (type png)
+<use chapters/appendixSeno/saidas.png>
+Package pdftex.def Info: chapters/appendixSeno/saidas.png  used on input line 6
+9.
+(pdftex.def)             Requested size: 259.15874pt x 84.67552pt.
+ [278]
+Overfull \hbox (2.34827pt too wide) in alignment at lines 207--207
+ [] [] [] 
+ []
+
+
+Overfull \hbox (2.34827pt too wide) in alignment at lines 207--207
+ [] [] [] 
+ []
+
+
+Overfull \hbox (2.34827pt too wide) in alignment at lines 207--207
+ [] [] [] 
+ []
+
+
+Overfull \hbox (2.34827pt too wide) in alignment at lines 207--207
+ [] [] [] 
+ []
+
+File: chapters/appendixTangente/c1r1.png Graphic file (type png)
+<use chapters/appendixTangente/c1r1.png>
+Package pdftex.def Info: chapters/appendixTangente/c1r1.png  used on input line
+ 207.
+(pdftex.def)             Requested size: 388.73152pt x 63.58896pt.
+File: chapters/appendixTangente/c2r1.png Graphic file (type png)
+<use chapters/appendixTangente/c2r1.png>
+Package pdftex.def Info: chapters/appendixTangente/c2r1.png  used on input line
+ 207.
+(pdftex.def)             Requested size: 388.73152pt x 64.65663pt.
+File: chapters/appendixTangente/c3r1.png Graphic file (type png)
+<use chapters/appendixTangente/c3r1.png>
+Package pdftex.def Info: chapters/appendixTangente/c3r1.png  used on input line
+ 207.
+(pdftex.def)             Requested size: 388.73152pt x 231.89983pt.
+File: chapters/appendixTangente/c4r1.png Graphic file (type png)
+<use chapters/appendixTangente/c4r1.png>
+Package pdftex.def Info: chapters/appendixTangente/c4r1.png  used on input line
+ 207.
+(pdftex.def)             Requested size: 388.73152pt x 227.87845pt.
+
+Overfull \hbox (2.34827pt too wide) in alignment at lines 207--207
+ [] [] [] 
+ []
+
+[279 <./chapters/appendixTangente/c1r1.png>] [280 <./chapters/appendixTangente/
+c2r1.png>] [281 <./chapters/appendixTangente/c3r1.png>])
+(chapters/appendixAnaliticos.tex [282 <./chapters/appendixTangente/c4r1.png>]
+Ap\^endice I.
+------------------------------------------------------------------------------
+ I OTA - Exerc^^c3^^adcio 1 - Anal^^c3^^adticos
+------------------------------------------------------------------------------
+File: chapters/appendixAnalytics/CASO1NPEF1.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO1NPEF1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO1NPEF1.png  used on inp
+ut line 43.
+(pdftex.def)             Requested size: 388.73152pt x 327.57877pt.
+File: chapters/appendixAnalytics/CASO1NPEV1.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO1NPEV1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO1NPEV1.png  used on inp
+ut line 43.
+(pdftex.def)             Requested size: 388.73152pt x 329.03467pt.
+File: chapters/appendixAnalytics/CASO1NPEV2.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO1NPEV2.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO1NPEV2.png  used on inp
+ut line 43.
+(pdftex.def)             Requested size: 388.73152pt x 261.12099pt.
+[283
+
+] [284 <./chapters/appendixAnalytics/CASO1NPEV1.png>] [285] [286]
+File: chapters/appendixAnalytics/CASO2NPEF1.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO2NPEF1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO2NPEF1.png  used on inp
+ut line 87.
+(pdftex.def)             Requested size: 388.73152pt x 328.71788pt.
+File: chapters/appendixAnalytics/CASO2NPEV1.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO2NPEV1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO2NPEV1.png  used on inp
+ut line 87.
+(pdftex.def)             Requested size: 388.73152pt x 330.91422pt.
+File: chapters/appendixAnalytics/CASO2NPEV2.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO2NPEV2.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO2NPEV2.png  used on inp
+ut line 87.
+(pdftex.def)             Requested size: 388.73152pt x 267.81042pt.
+ [287 <./chapters/appendixAnalytics/CASO2NPEF1.png>] [288] [289 <./chapters/app
+endixAnalytics/CASO2NPEV1.png>] [290 <./chapters/appendixAnalytics/CASO2NPEV2.p
+ng>]
+File: chapters/appendixAnalytics/CASO3NPEF1.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO3NPEF1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO3NPEF1.png  used on inp
+ut line 130.
+(pdftex.def)             Requested size: 388.73152pt x 326.76099pt.
+File: chapters/appendixAnalytics/CASO3NPEV1.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO3NPEV1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO3NPEV1.png  used on inp
+ut line 130.
+(pdftex.def)             Requested size: 388.73152pt x 328.21973pt.
+File: chapters/appendixAnalytics/CASO3NPEV2.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO3NPEV2.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO3NPEV2.png  used on inp
+ut line 130.
+(pdftex.def)             Requested size: 388.73152pt x 266.43965pt.
+
+[291 <./chapters/appendixAnalytics/CASO3NPEF1.png>] [292 <./chapters/appendixAn
+alytics/CASO3NPEV1.png>] [293 <./chapters/appendixAnalytics/CASO3NPEV2.png>]
+[294]
+File: chapters/appendixAnalytics/CASO4NPEF1.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO4NPEF1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO4NPEF1.png  used on inp
+ut line 173.
+(pdftex.def)             Requested size: 388.73152pt x 328.21973pt.
+File: chapters/appendixAnalytics/CASO4NPEV1.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO4NPEV1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO4NPEV1.png  used on inp
+ut line 173.
+(pdftex.def)             Requested size: 388.73152pt x 329.03467pt.
+File: chapters/appendixAnalytics/CASO4NPEV2.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO4NPEV2.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO4NPEV2.png  used on inp
+ut line 173.
+(pdftex.def)             Requested size: 388.73152pt x 259.7467pt.
+ [295 <./chapters/appendixAnalytics/CASO4NPEF1.png>] [296 <./chapters/appendixA
+nalytics/CASO4NPEV1.png>] [297 <./chapters/appendixAnalytics/CASO4NPEV2.png>] [
+298]
+File: chapters/appendixAnalytics/CASO5NPEF1.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO5NPEF1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO5NPEF1.png  used on inp
+ut line 216.
+(pdftex.def)             Requested size: 388.73152pt x 326.64262pt.
+File: chapters/appendixAnalytics/CASO5NPEV1.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO5NPEV1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO5NPEV1.png  used on inp
+ut line 216.
+(pdftex.def)             Requested size: 388.73152pt x 328.3067pt.
+File: chapters/appendixAnalytics/CASO5NPEV2.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO5NPEV2.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO5NPEV2.png  used on inp
+ut line 216.
+(pdftex.def)             Requested size: 388.73152pt x 259.15771pt.
+ [299 <./chapters/appendixAnalytics/CASO5NPEF1.png>] [300 <./chapters/appendixA
+nalytics/CASO5NPEV1.png>] [301 <./chapters/appendixAnalytics/CASO5NPEV2.png>] [
+302]
+File: chapters/appendixAnalytics/CASO6NPEF1.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO6NPEF1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO6NPEF1.png  used on inp
+ut line 259.
+(pdftex.def)             Requested size: 388.73152pt x 327.08926pt.
+File: chapters/appendixAnalytics/CASO6NPEV1.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO6NPEV1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO6NPEV1.png  used on inp
+ut line 259.
+(pdftex.def)             Requested size: 388.73152pt x 331.13724pt.
+File: chapters/appendixAnalytics/CASO6NPEV2.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO6NPEV2.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO6NPEV2.png  used on inp
+ut line 259.
+(pdftex.def)             Requested size: 388.73152pt x 272.11562pt.
+ [303 <./chapters/appendixAnalytics/CASO6NPEF1.png>] [304]
+[305 <./chapters/appendixAnalytics/CASO6NPEV1.png>] [306 <./chapters/appendixAn
+alytics/CASO6NPEV2.png>]
+File: chapters/appendixAnalytics/CASO7NPEF1.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO7NPEF1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO7NPEF1.png  used on inp
+ut line 302.
+(pdftex.def)             Requested size: 388.73152pt x 327.57877pt.
+File: chapters/appendixAnalytics/CASO7NPEV1.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO7NPEV1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO7NPEV1.png  used on inp
+ut line 302.
+(pdftex.def)             Requested size: 388.73152pt x 328.422pt.
+File: chapters/appendixAnalytics/CASO7NPEV2.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO7NPEV2.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO7NPEV2.png  used on inp
+ut line 302.
+(pdftex.def)             Requested size: 388.73152pt x 272.29507pt.
+ [307 <./chapters/appendixAnalytics/CASO7NPEF1.png>]
+[308 <./chapters/appendixAnalytics/CASO7NPEV1.png>] [309 <./chapters/appendixAn
+alytics/CASO7NPEV2.png>] [310]
+File: chapters/appendixAnalytics/CASO8NPEF1.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO8NPEF1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO8NPEF1.png  used on inp
+ut line 345.
+(pdftex.def)             Requested size: 388.73152pt x 328.94911pt.
+File: chapters/appendixAnalytics/CASO8NPEV1.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO8NPEV1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO8NPEV1.png  used on inp
+ut line 345.
+(pdftex.def)             Requested size: 388.73152pt x 329.76262pt.
+File: chapters/appendixAnalytics/CASO8NPEV2.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO8NPEV2.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO8NPEV2.png  used on inp
+ut line 345.
+(pdftex.def)             Requested size: 388.73152pt x 265.23775pt.
+ [311 <./chapters/appendixAnalytics/CASO8NPEF1.png>] [312 <./chapters/appendixA
+nalytics/CASO8NPEV1.png>] [313 <./chapters/appendixAnalytics/CASO8NPEV2.png>]) 
+(chapters/appendixAnaliticosA02.tex [314]
+Ap\^endice J.
+------------------------------------------------------------------------------
+ J OTA - Exerc^^c3^^adcio 2 - Anal^^c3^^adticos
+------------------------------------------------------------------------------
+File: chapters/appendixAnalytics/A02/C1EF1.png Graphic file (type png)
+<use chapters/appendixAnalytics/A02/C1EF1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A02/C1EF1.png  used on inpu
+t line 43.
+(pdftex.def)             Requested size: 388.73152pt x 330.40787pt.
+File: chapters/appendixAnalytics/A02/C1EV1.png Graphic file (type png)
+<use chapters/appendixAnalytics/A02/C1EV1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A02/C1EV1.png  used on inpu
+t line 43.
+(pdftex.def)             Requested size: 388.73152pt x 329.8752pt.
+File: chapters/appendixAnalytics/A02/C1EV2.png Graphic file (type png)
+<use chapters/appendixAnalytics/A02/C1EV2.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A02/C1EV2.png  used on inpu
+t line 43.
+(pdftex.def)             Requested size: 388.73152pt x 266.63065pt.
+[315
+
+ <./chapters/appendixAnalytics/A02/C1EF1.png>] [316 <./chapters/appendixAnalyti
+cs/A02/C1EV1.png>] [317 <./chapters/appendixAnalytics/A02/C1EV2.png>]
+[318]
+File: chapters/appendixAnalytics/A02/C2EF1.png Graphic file (type png)
+<use chapters/appendixAnalytics/A02/C2EF1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A02/C2EF1.png  used on inpu
+t line 87.
+(pdftex.def)             Requested size: 388.73152pt x 329.6785pt.
+File: chapters/appendixAnalytics/A02/C2EV1.png Graphic file (type png)
+<use chapters/appendixAnalytics/A02/C2EV1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A02/C2EV1.png  used on inpu
+t line 87.
+(pdftex.def)             Requested size: 388.73152pt x 330.40787pt.
+File: chapters/appendixAnalytics/A02/C2EV2.png Graphic file (type png)
+<use chapters/appendixAnalytics/A02/C2EV2.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A02/C2EV2.png  used on inpu
+t line 87.
+(pdftex.def)             Requested size: 388.73152pt x 274.11974pt.
+ [319 <./chapters/appendixAnalytics/A02/C2EF1.png>] [320] [321 <./chapters/appe
+ndixAnalytics/A02/C2EV1.png>] [322 <./chapters/appendixAnalytics/A02/C2EV2.png>
+]
+File: chapters/appendixAnalytics/A02/C3EF1.png Graphic file (type png)
+<use chapters/appendixAnalytics/A02/C3EF1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A02/C3EF1.png  used on inpu
+t line 130.
+(pdftex.def)             Requested size: 388.73152pt x 329.03467pt.
+File: chapters/appendixAnalytics/A02/C3EV1.png Graphic file (type png)
+<use chapters/appendixAnalytics/A02/C3EV1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A02/C3EV1.png  used on inpu
+t line 130.
+(pdftex.def)             Requested size: 388.73152pt x 328.422pt.
+File: chapters/appendixAnalytics/A02/C3EV2.png Graphic file (type png)
+<use chapters/appendixAnalytics/A02/C3EV2.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A02/C3EV2.png  used on inpu
+t line 130.
+(pdftex.def)             Requested size: 388.73152pt x 267.84041pt.
+ [323 <./chapters/appendixAnalytics/A02/C3EF1.png>] [324 <./chapters/appendixAn
+alytics/A02/C3EV1.png>] [325 <./chapters/appendixAnalytics/A02/C3EV2.png>] [326
+]
+File: chapters/appendixAnalytics/A02/C4EF1.png Graphic file (type png)
+<use chapters/appendixAnalytics/A02/C4EF1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A02/C4EF1.png  used on inpu
+t line 173.
+(pdftex.def)             Requested size: 388.73152pt x 329.03467pt.
+File: chapters/appendixAnalytics/A02/C4EV1.png Graphic file (type png)
+<use chapters/appendixAnalytics/A02/C4EV1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A02/C4EV1.png  used on inpu
+t line 173.
+(pdftex.def)             Requested size: 388.73152pt x 329.6785pt.
+File: chapters/appendixAnalytics/A02/C4EV2.png Graphic file (type png)
+<use chapters/appendixAnalytics/A02/C4EV2.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A02/C4EV2.png  used on inpu
+t line 173.
+(pdftex.def)             Requested size: 388.73152pt x 268.1783pt.
+ [327 <./chapters/appendixAnalytics/A02/C4EF1.png>] [328 <./chapters/appendixAn
+alytics/A02/C4EV1.png>] [329 <./chapters/appendixAnalytics/A02/C4EV2.png>] [330
+]
+File: chapters/appendixAnalytics/A02/C5EF1.png Graphic file (type png)
+<use chapters/appendixAnalytics/A02/C5EF1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A02/C5EF1.png  used on inpu
+t line 216.
+(pdftex.def)             Requested size: 388.73152pt x 330.80377pt.
+File: chapters/appendixAnalytics/A02/C5EV1.png Graphic file (type png)
+<use chapters/appendixAnalytics/A02/C5EV1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A02/C5EV1.png  used on inpu
+t line 216.
+(pdftex.def)             Requested size: 388.73152pt x 329.76262pt.
+File: chapters/appendixAnalytics/A02/C5EV2.png Graphic file (type png)
+<use chapters/appendixAnalytics/A02/C5EV2.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A02/C5EV2.png  used on inpu
+t line 216.
+(pdftex.def)             Requested size: 388.73152pt x 270.8897pt.
+ [331 <./chapters/appendixAnalytics/A02/C5EF1.png>] [332 <./chapters/appendixAn
+alytics/A02/C5EV1.png>] [333 <./chapters/appendixAnalytics/A02/C5EV2.png>] [334
+]
+File: chapters/appendixAnalytics/CASO6NPEF1.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO6NPEF1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO6NPEF1.png  used on inp
+ut line 259.
+(pdftex.def)             Requested size: 388.73152pt x 327.08926pt.
+File: chapters/appendixAnalytics/CASO6NPEV1.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO6NPEV1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO6NPEV1.png  used on inp
+ut line 259.
+(pdftex.def)             Requested size: 388.73152pt x 331.13724pt.
+File: chapters/appendixAnalytics/CASO6NPEV2.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO6NPEV2.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO6NPEV2.png  used on inp
+ut line 259.
+(pdftex.def)             Requested size: 388.73152pt x 272.11562pt.
+ [335] [336] [337] [338]
+File: chapters/appendixAnalytics/CASO7NPEF1.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO7NPEF1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO7NPEF1.png  used on inp
+ut line 302.
+(pdftex.def)             Requested size: 388.73152pt x 327.57877pt.
+File: chapters/appendixAnalytics/CASO7NPEV1.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO7NPEV1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO7NPEV1.png  used on inp
+ut line 302.
+(pdftex.def)             Requested size: 388.73152pt x 328.422pt.
+File: chapters/appendixAnalytics/CASO7NPEV2.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO7NPEV2.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO7NPEV2.png  used on inp
+ut line 302.
+(pdftex.def)             Requested size: 388.73152pt x 272.29507pt.
+ [339] [340] [341] [342]
+File: chapters/appendixAnalytics/CASO8NPEF1.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO8NPEF1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO8NPEF1.png  used on inp
+ut line 345.
+(pdftex.def)             Requested size: 388.73152pt x 328.94911pt.
+File: chapters/appendixAnalytics/CASO8NPEV1.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO8NPEV1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO8NPEV1.png  used on inp
+ut line 345.
+(pdftex.def)             Requested size: 388.73152pt x 329.76262pt.
+File: chapters/appendixAnalytics/CASO8NPEV2.png Graphic file (type png)
+<use chapters/appendixAnalytics/CASO8NPEV2.png>
+Package pdftex.def Info: chapters/appendixAnalytics/CASO8NPEV2.png  used on inp
+ut line 345.
+(pdftex.def)             Requested size: 388.73152pt x 265.23775pt.
+ [343] [344] [345])
+(chapters/appendixAnaliticosA03.tex [346]
+Ap\^endice K.
+------------------------------------------------------------------------------
+ K OTA - Exerc^^c3^^adcio 3 - Anal^^c3^^adticos
+------------------------------------------------------------------------------
+File: chapters/appendixAnalytics/A03/C1.png Graphic file (type png)
+<use chapters/appendixAnalytics/A03/C1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A03/C1.png  used on input l
+ine 27.
+(pdftex.def)             Requested size: 388.73152pt x 219.3962pt.
+[347
+
+ <./chapters/appendixAnalytics/A03/C1.png>] [348]
+File: chapters/appendixAnalytics/A03/C2.png Graphic file (type png)
+<use chapters/appendixAnalytics/A03/C2.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A03/C2.png  used on input l
+ine 54.
+(pdftex.def)             Requested size: 388.73152pt x 202.81969pt.
+ [349 <./chapters/appendixAnalytics/A03/C2.png>]
+File: chapters/appendixAnalytics/A03/C3.png Graphic file (type png)
+<use chapters/appendixAnalytics/A03/C3.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A03/C3.png  used on input l
+ine 81.
+(pdftex.def)             Requested size: 388.73152pt x 298.04144pt.
+ [350 <./chapters/appendixAnalytics/A03/C3.png>] [351]
+File: chapters/appendixAnalytics/A03/C4.png Graphic file (type png)
+<use chapters/appendixAnalytics/A03/C4.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A03/C4.png  used on input l
+ine 109.
+(pdftex.def)             Requested size: 388.73152pt x 299.5689pt.
+
+[352 <./chapters/appendixAnalytics/A03/C4.png>] [353]
+File: chapters/appendixAnalytics/A03/C5.png Graphic file (type png)
+<use chapters/appendixAnalytics/A03/C5.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A03/C5.png  used on input l
+ine 136.
+(pdftex.def)             Requested size: 388.73152pt x 299.60048pt.
+ [354 <./chapters/appendixAnalytics/A03/C5.png>] [355]
+File: chapters/appendixAnalytics/A03/C6.png Graphic file (type png)
+<use chapters/appendixAnalytics/A03/C6.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A03/C6.png  used on input l
+ine 163.
+(pdftex.def)             Requested size: 388.73152pt x 298.04144pt.
+ [356 <./chapters/appendixAnalytics/A03/C6.png>])
+(chapters/appendixAnaliticosA04.tex [357]
+Ap\^endice L.
+------------------------------------------------------------------------------
+ L OTA - Exerc^^c3^^adcio 4 - Anal^^c3^^adticos
+------------------------------------------------------------------------------
+File: chapters/appendixAnalytics/A04/C1.png Graphic file (type png)
+<use chapters/appendixAnalytics/A04/C1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A04/C1.png  used on input l
+ine 27.
+(pdftex.def)             Requested size: 388.73152pt x 151.52408pt.
+[358
+
+ <./chapters/appendixAnalytics/A04/C1.png>]
+File: chapters/appendixAnalytics/A04/C2.png Graphic file (type png)
+<use chapters/appendixAnalytics/A04/C2.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A04/C2.png  used on input l
+ine 54.
+(pdftex.def)             Requested size: 388.73152pt x 220.27548pt.
+ [359 <./chapters/appendixAnalytics/A04/C2.png>]
+File: chapters/appendixAnalytics/A04/C3.png Graphic file (type png)
+<use chapters/appendixAnalytics/A04/C3.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A04/C3.png  used on input l
+ine 81.
+(pdftex.def)             Requested size: 388.73152pt x 249.6163pt.
+ [360 <./chapters/appendixAnalytics/A04/C3.png>] [361]
+File: chapters/appendixAnalytics/A04/C4.png Graphic file (type png)
+<use chapters/appendixAnalytics/A04/C4.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A04/C4.png  used on input l
+ine 108.
+(pdftex.def)             Requested size: 388.73152pt x 298.25113pt.
+ [362 <./chapters/appendixAnalytics/A04/C4.png>] [363]
+File: chapters/appendixAnalytics/A04/C5.png Graphic file (type png)
+<use chapters/appendixAnalytics/A04/C5.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A04/C5.png  used on input l
+ine 135.
+(pdftex.def)             Requested size: 388.73152pt x 252.15233pt.
+ [364 <./chapters/appendixAnalytics/A04/C5.png>] [365]
+File: chapters/appendixAnalytics/A04/C6.png Graphic file (type png)
+<use chapters/appendixAnalytics/A04/C6.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A04/C6.png  used on input l
+ine 162.
+(pdftex.def)             Requested size: 388.73152pt x 297.477pt.
+ [366 <./chapters/appendixAnalytics/A04/C6.png>])
+(chapters/appendixAnaliticosA05.tex [367]
+Ap\^endice M.
+------------------------------------------------------------------------------
+ M OTA - Exerc^^c3^^adcio 5 - Anal^^c3^^adticos
+------------------------------------------------------------------------------
+File: chapters/appendixAnalytics/A05/C1.png Graphic file (type png)
+<use chapters/appendixAnalytics/A05/C1.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A05/C1.png  used on input l
+ine 27.
+(pdftex.def)             Requested size: 388.73152pt x 203.42062pt.
+[368
+
+ <./chapters/appendixAnalytics/A05/C1.png>] [369]
+File: chapters/appendixAnalytics/A05/C2.png Graphic file (type png)
+<use chapters/appendixAnalytics/A05/C2.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A05/C2.png  used on input l
+ine 54.
+(pdftex.def)             Requested size: 388.73152pt x 200.83575pt.
+ [370 <./chapters/appendixAnalytics/A05/C2.png>]
+File: chapters/appendixAnalytics/A05/C3.png Graphic file (type png)
+<use chapters/appendixAnalytics/A05/C3.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A05/C3.png  used on input l
+ine 80.
+(pdftex.def)             Requested size: 388.73152pt x 220.06847pt.
+ [371 <./chapters/appendixAnalytics/A05/C3.png>]
+File: chapters/appendixAnalytics/A05/C4.png Graphic file (type png)
+<use chapters/appendixAnalytics/A05/C4.png>
+Package pdftex.def Info: chapters/appendixAnalytics/A05/C4.png  used on input l
+ine 107.
+(pdftex.def)             Requested size: 388.73152pt x 218.86595pt.
+)
+(chapters/appendixUX.tex [372 <./chapters/appendixAnalytics/A05/C4.png>]
+Ap\^endice N.
+------------------------------------------------------------------------------
+ N Formul^^c3^^a1rio de Experi^^c3^^aancia do Usu^^c3^^a1rio
+------------------------------------------------------------------------------
+<chapters/appendixUX/UX_Tela1.png, id=4739, 492.33937pt x 621.07031pt>
+File: chapters/appendixUX/UX_Tela1.png Graphic file (type png)
+<use chapters/appendixUX/UX_Tela1.png>
+Package pdftex.def Info: chapters/appendixUX/UX_Tela1.png  used on input line 7
+.
+(pdftex.def)             Requested size: 345.54279pt x 435.9119pt.
+<chapters/appendixUX/UX_Tela2.png, id=4740, 399.74344pt x 670.75594pt>
+File: chapters/appendixUX/UX_Tela2.png Graphic file (type png)
+<use chapters/appendixUX/UX_Tela2.png>
+Package pdftex.def Info: chapters/appendixUX/UX_Tela2.png  used on input line 1
+4.
+(pdftex.def)             Requested size: 345.54279pt x 579.83768pt.
+<chapters/appendixUX/UX_Tela3.png, id=4741, 492.33937pt x 682.04813pt>
+File: chapters/appendixUX/UX_Tela3.png Graphic file (type png)
+<use chapters/appendixUX/UX_Tela3.png>
+Package pdftex.def Info: chapters/appendixUX/UX_Tela3.png  used on input line 2
+1.
+(pdftex.def)             Requested size: 345.54279pt x 478.71053pt.
+<chapters/appendixUX/UX_Tela4.png, id=4742, 489.32813pt x 697.10437pt>
+File: chapters/appendixUX/UX_Tela4.png Graphic file (type png)
+<use chapters/appendixUX/UX_Tela4.png>
+Package pdftex.def Info: chapters/appendixUX/UX_Tela4.png  used on input line 2
+8.
+(pdftex.def)             Requested size: 345.54279pt x 492.2777pt.
+<chapters/appendixUX/UX_Tela5.png, id=4743, 488.57532pt x 655.69969pt>
+File: chapters/appendixUX/UX_Tela5.png Graphic file (type png)
+<use chapters/appendixUX/UX_Tela5.png>
+Package pdftex.def Info: chapters/appendixUX/UX_Tela5.png  used on input line 3
+6.
+(pdftex.def)             Requested size: 345.54279pt x 463.74911pt.
+) [373
+
+] [374 <./chapters/appendixUX/UX_Tela1.png>] [375 <./chapters/appendixUX/UX_Tel
+a2.png>] [376 <./chapters/appendixUX/UX_Tela3.png>] [377 <./chapters/appendixUX
+/UX_Tela4.png>] [378 <./chapters/appendixUX/UX_Tela5.png>]
+(phdthesis_gabriel.aux)
+
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `phdthesis_gabriel.out' has not changed.
+(rerunfilecheck)             Checksum: 3E93168DE0BF181F5D31D7F752293D09;28460.
+runsystem(del phdthesis_gabriel.pyg)...executed.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 49447 strings out of 475385
+ 1111309 string characters out of 2776907
+ 1922506 words of memory out of 3000000
+ 68732 multiletter control sequences out of 15000+600000
+ 588297 words of font info for 233 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 84i,20n,89p,2546b,2623s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{D:/Users/gabri/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<D:
+/Users/gabri/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/rtcxr.pfb
+><D:/Users/gabri/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/rtxb.
+pfb><D:/Users/gabri/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/rt
+xi.pfb><D:/Users/gabri/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts
+/rtxmi.pfb><D:/Users/gabri/AppData/Local/Programs/MiKTeX/fonts/type1/public/txf
+onts/rtxr.pfb><D:/Users/gabri/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+txfonts/t1xbtt.pfb><D:/Users/gabri/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/txfonts/t1xtt.pfb><D:/Users/gabri/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/txfonts/txex.pfb><D:/Users/gabri/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/txfonts/txsy.pfb><D:/Users/gabri/AppData/Local/Programs/MiKTeX/font
+s/type1/public/txfonts/txsya.pfb><D:/Users/gabri/AppData/Local/Programs/MiKTeX/
+fonts/type1/urw/times/utmb8a.pfb><D:/Users/gabri/AppData/Local/Programs/MiKTeX/
+fonts/type1/urw/times/utmbi8a.pfb><D:/Users/gabri/AppData/Local/Programs/MiKTeX
+/fonts/type1/urw/times/utmr8a.pfb><D:/Users/gabri/AppData/Local/Programs/MiKTeX
+/fonts/type1/urw/times/utmr8a.pfb><D:/Users/gabri/AppData/Local/Programs/MiKTeX
+/fonts/type1/urw/times/utmri8a.pfb>
+Output written on phdthesis_gabriel.pdf (398 pages, 17912990 bytes).
+PDF statistics:
+ 5036 PDF objects out of 5155 (max. 8388607)
+ 903 named destinations out of 1000 (max. 500000)
+ 2274 words of extra memory for PDF output out of 10000 (max. 10000000)
+

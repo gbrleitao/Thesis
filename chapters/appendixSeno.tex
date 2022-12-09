@@ -1,0 +1,242 @@
+\chapter{OTA - Exercício 3} \label{Chap:AppendixSeno}
+
+
+\begin{xltabular}{\textwidth}{|l|X|}
+	\hline
+	\endfirsthead
+	
+	\hline \multicolumn{2}{|c|}{continuação da página anterior} \\ \hline
+	\endhead
+	
+	\hline \multicolumn{2}{|r|}{Continua na próxima página} \\ \hline
+	\endfoot
+	
+	\hline
+	\endlastfoot
+	
+	\multicolumn{2}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{ASPECTOS EDUCACIONAIS}} \\ \hline
+	\textbf{NOME} & Quadro Trigonométrico - Seno\\ \hline
+	\textbf{DESCRIÇÃO GERAL} & Este objeto de aprendizagem trabalha com conceitos relacionados a Trigonometria, em especial, valores e posições dos ângulos no círculo trigonométrico relacionando-os aos valores de seno.\\ \hline
+	\textbf{TÓPICOS} & Trigonometria, ângulos, círculo trigonométrico, quadrantes, seno\\ \hline
+	\textbf{DESCRIÇÃO EDUCACIONAL} & No Player Virtual, o estudante deve mover o ponteiro que indica o valor do ângulo e observar as variações que acontecem nos valores de seno e identificar os valores correspondentes. O ponteiro virtual é movimentado a partir da manipulação do ponteiro físico e, em alguns casos de teste, após a confirmação da posição pelo estudante, é habilitada uma caixa de texto, onde deverão ser inseridos os valores que satisfaçam as sentenças indicadas no enunciado. Caso o aluno posicione o ponteiro físico em um local que não é a posição correta, ou insira um valor incorreto, o Player Virtual deverá retornar uma informação que ajude o estudante a corrigir os valores ou posições. Este objeto utiliza a Face A03 do OFVA Quadro Trigonométrico. \\ \hline
+	\textbf{MODO} & ESTUDO \\ \hline
+	\multicolumn{2}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{DISPOSITIVOS}} \\ \hline
+	\textbf{ITENS} & 32 sensores de efeito hall; 1 imã de neodímio; ESP-WROOM-32; 1 Teclado membrana matricial; 1 Display LCD, Interface Wifi \\ \hline
+	\multicolumn{2}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{RECURSOS}} \\ \hline
+	\textbf{RECURSOS FÍSICOS} & .hex e .ino em Arduíno, Ponteiro físico, Face A03 com círculo trigonométrico apenas com valores de ângulos estudados em A02 e reta com valores dos Senos.  \\ \hline
+	\textbf{RECURSOS DIGITAIS} & Player Virtual \\ \hline		
+	\multicolumn{2}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{SERVIÇOS}} \\ \hline
+	\textbf{ITENS} & Iniciar atividade (botão), Leitura de hipertexto, Envio de resposta física (formato: websocket + json + botão físico), Envio de resposta digital (html tracking), Confirmação de resposta (visualização de respostas dadas), Feedback (modo estudo), Encerrar atividade (botão)  \\ \hline
+	
+\end{xltabular}
+
+\begin{xltabular}{\textwidth}{|c|c|c|c|c|c|}
+	\hline
+	\endfirsthead
+	
+	\hline \multicolumn{6}{|c|}{continuação da página anterior} \\ \hline
+	\endhead
+	
+	\hline \multicolumn{6}{|r|}{Continua na próxima página} \\ \hline
+	\endfoot
+	
+	\hline
+	\endlastfoot
+	
+	\multicolumn{6}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{ENTRADAS E SAÍDAS}} \\ \hline
+	\multicolumn{6}{|c|}{\cellcolor[HTML]{DEDEDE}\textbf{CONJUNTO DE ENTRADAS}} \\ \hline
+	\textbf{ID} & \textbf{FONTE} & \textbf{RÓTULO} & \textbf{TIPO DE DADO} & \textbf{BLOCOS} & \textbf{JavaScript} \\ \hline
+	1 & Físico & EF1 & inteiro & \multicolumn{1}{|l|}{\begin{tabular}[c]{@{}l@{}} \\ \includegraphics[width=0.2\linewidth]{chapters/appendixSeno/EF1.png}  \end{tabular} } & var EF1; \\ \hline
+	2 & Virtual & EV1 & inteiro & \multicolumn{1}{|l|}{\begin{tabular}[c]{@{}l@{}} \\ \includegraphics[width=0.2\linewidth]{chapters/appendixSeno/EV1.png}  \end{tabular} } & var EV1; \\ \hline
+	3 & Virtual & EV2 & inteiro & \multicolumn{1}{|l|}{\begin{tabular}[c]{@{}l@{}} \\ \includegraphics[width=0.2\linewidth]{chapters/appendixSeno/EV2.png}  \end{tabular} } & var EV2; \\ \hline
+	3 & Virtual & EV3 & inteiro & \multicolumn{1}{|l|}{\begin{tabular}[c]{@{}l@{}} \\ \includegraphics[width=0.2\linewidth]{chapters/appendixSeno/EV3.png}  \end{tabular} } & var EV3; \\ \hline
+	3 & Virtual & EV4 & inteiro & \multicolumn{1}{|l|}{\begin{tabular}[c]{@{}l@{}} \\ \includegraphics[width=0.2\linewidth]{chapters/appendixSeno/EV4.png}  \end{tabular} } & var EV4; \\ \hline
+	3 & Virtual & EV5 & inteiro & \multicolumn{1}{|l|}{\begin{tabular}[c]{@{}l@{}} \\ \includegraphics[width=0.2\linewidth]{chapters/appendixSeno/EV5.png}  \end{tabular} } & var EV5; \\ \hline		
+	\multicolumn{6}{|c|}{\cellcolor[HTML]{DEDEDE}\textbf{CONJUNTO DE SAÍDAS}} \\ \hline
+	\textbf{ID} & \textbf{FONTE} & \textbf{RÓTULO} & \textbf{TIPO DE DADO} &  \multicolumn{2}{|c|}{\textbf{CONTEÚDO}} \\ \hline
+	1 & Virtual & SV1 & String & \multicolumn{2}{|l|}{Mova o ponteiro no sentido horário} \\ \hline
+	2 & Virtual & SV2 & String & \multicolumn{2}{|l|}{Mova o ponteiro no sentido anti-horário} \\ \hline
+	3 & Virtual & SV3 & String & \multicolumn{2}{|l|}{Posição está correta!} \\ \hline
+	4 & Virtual & SV4 & String & \multicolumn{2}{|l|}{Resposta está correta!} \\ \hline	
+	5 & Virtual & SV5 & String & \multicolumn{2}{|l|}{\begin{tabular}[c]{@{}l@{}} Alguma das respostas precisa ser revista! \end{tabular}} \\ \hline
+%	6 & Virtual & SV5 & String & \multicolumn{2}{|l|}{\begin{tabular}[c]{@{}l@{}} Tente novamente! \end{tabular}} \\ \hline
+	\multicolumn{6}{|c|}{\textbf{BLOCOS}} \\ \hline
+	\multicolumn{6}{|c|}{\begin{tabular}[c]{@{}l@{}} \\ \includegraphics[width=0.6\linewidth]{chapters/appendixSeno/saidas.png}  \end{tabular}} \\ \hline
+	\multicolumn{6}{|c|}{\textbf{JavaScript gerado}} \\ \hline
+	\multicolumn{6}{|l|}{\begin{tabular}[c]{@{}l@{}} var SV1 = "Mova o ponteiro no sentido horário!";\\ 			var SV2 = "Mova o ponteiro no sentido anti-horário!";\\ 			var SV3 = "Posição está correta!";\\ 			var SV4 = "Resposta está correta!";
+			\\			var SV5 = "Alguma das respostas precisa ser revista!";\end{tabular}} \\ \hline
+	
+\end{xltabular}
+
+\begin{xltabular}{\textwidth}{|l|X|X|}
+	\hline
+	\endfirsthead
+	
+	\hline \multicolumn{3}{|c|}{continuação da página anterior} \\ \hline
+	\endhead
+	
+	\hline \multicolumn{3}{|r|}{Continua na próxima página} \\ \hline
+	\endfoot
+	
+	\hline
+	\endlastfoot
+	
+	\multicolumn{3}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{CASOS DE TESTE}} \\ \hline
+	
+	%CASO 1
+	\multicolumn{3}{|c|}{\cellcolor[HTML]{DEDEDE}\textbf{CASO DE TESTE 1}} \\ \hline
+	\multicolumn{1}{|l|}{\textbf{Rótulo:}} & \multicolumn{2}{|l|}{Observar ponteiro}\\ \hline
+	\textbf{Situação-problema (Enunciado):} & \multicolumn{2}{|l|}{\begin{tabular}[c]{@{}l@{}} Movimente o ponteiro e marque as alternativas que\\ correspondem às suas observações. 
+	
+	\\- O ponteiro representa um ângulo em um círculo \\trigonométrico. [4] 
+	
+	\\- À medida que o ângulo muda de valor, o seno \\também se altera. [4]
+	
+	\\- O ponteiro representa um seno do círculo \\trigonométrico que está associado a um ângulo. [2]
+	
+	\\- Os valores de ângulo e seno não tem qualquer \\relação entre si. [1] \end{tabular} }\\ \hline
+	\multicolumn{3}{|c|}{\cellcolor[HTML]{DEDEDE}\textbf{REGRA 1}} \\ \hline
+	\multicolumn{3}{|c|}{\textbf{Blocos}} \\ \hline
+	\multicolumn{3}{|l|}{\begin{tabular}[c]{@{}l@{}} \\ \includegraphics[width=0.9\linewidth]{chapters/appendixSeno/c1r1.png}  \end{tabular}
+	} \\ \hline
+	\multicolumn{3}{|c|}{\textbf{JavaScript gerado}} \\ \hline
+	\multicolumn{3}{|l|}{ \begin{tabular}[c]{@{}l@{}} \\ if ((EV3+EV4>0 || EV1+EV2<8))\{   \\ \quad return SV5; \\ \} else \{   return SV4; \} \\ \end{tabular} }\\ \hline
+
+
+	%CASO 2
+	\multicolumn{3}{|c|}{\cellcolor[HTML]{DEDEDE}\textbf{CASO DE TESTE 2}} \\ \hline
+	\multicolumn{1}{|l|}{\textbf{Rótulo:}} & \multicolumn{2}{|l|}{Observar Seno}\\ \hline
+	\textbf{Situação-problema (Enunciado):} & \multicolumn{2}{|l|}{\begin{tabular}[c]{@{}l@{}} Observe o que acontece como valor do seno, ao \\movimentar o ponteiro para aumentar ou diminuir o valor \\do ângulo, em cada quadrante, e marque as alternativas \\que correspondem às suas observações. 
+
+%Na letra b, a pergunta é direcionada para que os alunos observem e mencionem como se dá a variação dos valores de seno do ângulo, em cada quadrante. Esperamos que além de perceber que o valor do seno aumenta no 1º e no 4º quadrantes e diminui no 2º e 3º quadrantes, os alunos associem os sinais assumidos pelo seno nos respectivos quadrantes.
+
+%	\\1. O valor do seno aumenta no 1º e no 4º quadrantes. 
+%	\\2. o seno do 1º e 2º quadrantes é positivo.
+%	\\3. O valor do seno diminui no 2º e no 3º quadrantes. 
+%	\\4. o seno do 3º e 4º quadrantes é negativo.
+
+	\\- O valor do seno aumenta no 1º e no 4º quadrantes. [4] 
+	\\- O seno do 1º e 2º quadrantes é positivo. [4]
+	\\- O seno do 1º e 4º quadrantes é negativo. [2]
+	\\- O valor do seno diminui no 2º e aumenta no 3º \\quadrante. [2]
+	\\- O seno do 3º e 4º quadrantes é negativo. [4]
+			
+\end{tabular} }\\ \hline
+	\multicolumn{3}{|c|}{\cellcolor[HTML]{DEDEDE}\textbf{REGRA 1}} \\ \hline
+	\multicolumn{3}{|c|}{\textbf{Blocos}} \\ \hline
+	\multicolumn{3}{|l|}{\begin{tabular}[c]{@{}l@{}} \\ \includegraphics[width=0.9\linewidth]{chapters/appendixSeno/c2r1.png}  \end{tabular}
+	} \\ \hline
+	\multicolumn{3}{|c|}{\textbf{JavaScript gerado}} \\ \hline
+	\multicolumn{3}{|l|}{ \begin{tabular}[c]{@{}l@{}} if ((EV3+EV4>0 || \\ \quad EV1+EV2+EV5<12))\{   \\ \quad return SV5; \\ \} else \{   return SV4; \} \end{tabular} }\\ \hline
+
+
+%CASO 3
+\multicolumn{3}{|c|}{\cellcolor[HTML]{DEDEDE}\textbf{CASO DE TESTE 3}} \\ \hline
+\multicolumn{1}{|l|}{\textbf{Rótulo:}} & \multicolumn{2}{|l|}{$sen x = \frac{1}{2}$}\\ \hline
+\textbf{Situação-problema (Enunciado):} & \multicolumn{2}{|l|}{\begin{tabular}[c]{@{}l@{}} 
+		A sentença apresenta um resultado para o seno de um \\ângulo desconhecido x. Usando o ponteiro físico, \\encontre um valor de x que a satisfaça.\end{tabular} }\\ \hline
+\multicolumn{3}{|c|}{\cellcolor[HTML]{DEDEDE}\textbf{REGRA 1}} \\ \hline
+\multicolumn{3}{|c|}{\textbf{Blocos}}\\ \hline
+\multicolumn{3}{|l|}{\begin{tabular}[c]{@{}l@{}} \\ \includegraphics[width=0.9\linewidth]{chapters/appendixSeno/c3r1.png} \\ \end{tabular}
+} \\ \hline
+\multicolumn{3}{|c|}{\textbf{JavaScript gerado}}\\ \hline
+\multicolumn{3}{|l|}{\begin{tabular}[c]{@{}l@{}} 
+
+if (EF1 >= 0) \{
+\\ \quad	EV1 = EF1 - 360 * Math.floor(EF1 / 360);
+\\ \} else if (EF1 >= -360) \{
+\\ \quad	EV1 = 360 + EF1;
+\\ \} else \{
+\\ \quad	EV1 = EF1 \% 360 + 360;
+\\ \}
+\\ if (EV1 == 30 || EV1 == 150) \{
+\\ \quad	return SV3;
+\\ \} else if (EV1 < 30 || EV1 > 90 \&\& EV1 < 150) \{
+\\ \quad	return SV2;
+\\ \} else if (EV1 > 150 || EV1 <= 90) \{
+\\ \quad	return SV1;
+\\ \}
+
+\end{tabular} }\\ \hline
+
+
+
+%CASO 4
+\multicolumn{3}{|c|}{\cellcolor[HTML]{DEDEDE}\textbf{CASO DE TESTE 4}} \\ \hline
+\multicolumn{1}{|l|}{\textbf{Rótulo:}} & \multicolumn{2}{|l|}{$sen x = -0,3420...$}\\ \hline
+\textbf{Situação-problema (Enunciado):} & \multicolumn{2}{|l|}{\begin{tabular}[c]{@{}l@{}} 
+		A sentença apresenta um resultado para o seno de um \\ângulo desconhecido x. Usando o ponteiro físico, \\encontre um valor de x que a satisfaça.\end{tabular} }\\ \hline
+	\multicolumn{3}{|c|}{\cellcolor[HTML]{DEDEDE}\textbf{REGRA 1}} \\ \hline
+\multicolumn{3}{|c|}{\textbf{Blocos}} \\ \hline
+\multicolumn{3}{|l|}{\begin{tabular}[c]{@{}l@{}} \\ \includegraphics[width=0.9\linewidth]{chapters/appendixSeno/c4r1.png}  \end{tabular} } \\ \hline
+\multicolumn{3}{|c|}{\textbf{JavaScript gerado}} \\ \hline
+\multicolumn{3}{|l|}{ \begin{tabular}[c]{@{}l@{}}
+if (EF1 >= 0) \{
+\\ \quad	EV1 = EF1 - 360 * Math.floor(EF1 / 360);
+\\ \} else if (EF1 >= -360) \{
+\\ \quad	EV1 = 360 + EF1;
+\\ \} else \{
+\\ \quad	EV1 = EF1 \% 360 + 360;
+\\ \}
+\\ if (EV1 == 200 || EV1 == 340) \{
+\\ \quad	return SV3;
+\\ \} else if (EV1 < 200 || EV1 > 270 \&\& EV1 < 340) \{
+\\ \quad	return SV2;
+\\ \} else if (EV1 > 340 || EV1 <= 270) \{
+\\ \quad	return SV1;
+\\ \}
+\end{tabular} }\\ \hline
+
+%CASO 5
+\multicolumn{3}{|c|}{\cellcolor[HTML]{DEDEDE}\textbf{CASO DE TESTE 5}} \\ \hline
+\multicolumn{1}{|l|}{\textbf{Rótulo:}} & \multicolumn{2}{|l|}{$sen x = \frac{\sqrt{2}}{2}$}\\ \hline
+\textbf{Situação-problema (Enunciado):} & \multicolumn{2}{|l|}{\begin{tabular}[c]{@{}l@{}} 
+		A sentença apresenta um resultado para o seno de um \\ângulo desconhecido x. Usando o ponteiro físico, \\encontre um valor de x que a satisfaça.\end{tabular} }\\ \hline
+\multicolumn{3}{|c|}{\cellcolor[HTML]{DEDEDE}\textbf{REGRA 1}} \\ \hline
+\multicolumn{3}{|c|}{\textbf{Blocos}} \\ \hline
+\multicolumn{3}{|l|}{\begin{tabular}[c]{@{}l@{}} \\ \includegraphics[width=0.9\linewidth]{chapters/appendixSeno/c5r1.png}  \end{tabular} } \\ \hline
+\multicolumn{3}{|c|}{\textbf{JavaScript gerado}} \\ \hline
+\multicolumn{3}{|l|}{ \begin{tabular}[c]{@{}l@{}} 
+if (EF1 >= 0) \{
+\\ \quad	EV1 = EF1 - 360 * Math.floor(EF1 / 360);
+\\ \} else if (EF1 >= -360) \{
+\\ \quad	EV1 = 360 + EF1;
+\\ \} else \{
+\\ \quad	EV1 = EF1 \% 360 + 360;
+\\ \}
+\\if (EV1 == 45 || EV1 == 135) \{
+\\ \quad	return SV3;
+\\ \} else if (EV1 < 45 || EV1 > 90 \&\& EV1 < 135) \{
+\\ \quad	return SV2;
+\\ \} else if (EV1 > 135 || EV1 <= 90) \{
+\\ \quad	return SV1;
+\\ \}
+\end{tabular} }\\ \hline
+
+%CASO 6
+\multicolumn{3}{|c|}{\cellcolor[HTML]{DEDEDE}\textbf{CASO DE TESTE 6}} \\ \hline
+\multicolumn{1}{|l|}{\textbf{Rótulo:}} & \multicolumn{2}{|l|}{$sen x = -\frac{\sqrt{3}}{2}$}\\ \hline
+\textbf{Situação-problema (Enunciado):} & \multicolumn{2}{|l|}{\begin{tabular}[c]{@{}l@{}} 
+		A sentença apresenta um resultado para o seno de um \\ângulo desconhecido x. Usando o ponteiro físico, \\encontre um valor de x que a satisfaça.\end{tabular} }\\ \hline
+\multicolumn{3}{|c|}{\cellcolor[HTML]{DEDEDE}\textbf{REGRA 1}} \\ \hline
+\multicolumn{3}{|c|}{\textbf{Blocos}} \\ \hline
+\multicolumn{3}{|l|}{\begin{tabular}[c]{@{}l@{}} \\ \includegraphics[width=0.9\linewidth]{chapters/appendixSeno/c6r1.png}  \end{tabular} } \\ \hline
+\multicolumn{3}{|c|}{\textbf{JavaScript gerado}} \\ \hline
+\multicolumn{3}{|l|}{ \begin{tabular}[c]{@{}l@{}}
+if (EF1 >= 0) \{
+\\ \quad	EV1 = EF1 - 360 * Math.floor(EF1 / 360);
+\\ \} else if (EF1 >= -360) \{
+\\ \quad	EV1 = 360 + EF1;
+\\ \} else \{
+\\ \quad	EV1 = EF1 \% 360 + 360;
+\\ \}
+\\if (EV1 == 240 || EV1 == 300) \{
+\\ \quad	return SV3;
+\\ \} else if (EV1 < 240 || EV1 > 270 \&\& EV1 < 300) \{
+\\ \quad	return SV2;
+\\ \} else if (EV1 > 300 || EV1 <= 270) \{
+\\ \quad	return SV1;
+\\ \}
+\end{tabular} }\\ \hline
+
+\end{xltabular}

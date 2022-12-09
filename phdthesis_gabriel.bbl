@@ -1,0 +1,705 @@
+\begin{thebibliography}{102}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+
+\bibitem[Almeida(2000)]{Almeida:2000}
+Almeida M. E.~B.
+\newblock {\em ProInfo: Inform{\'a}tica e forma{\c{c}}{\~a}o de professores}.
+\newblock Minist{\'e}rio da Educa{\c{c}}{\~a}o, Secretaria de
+  Educa{\c{c}}{\~a}o a Dist{\^a}ncia, 2000.
+
+\bibitem[Almeida(2018)]{Almeida:2018}
+Almeida T.
+\newblock {\em Como a Educação 4.0 mudar{\'a} nossas escolas?}
+\newblock Inoveduc, 2018.
+
+\bibitem[Andrade(2018)]{Andrade:2018}
+Andrade K.
+\newblock {\em Guia Definitivo da Educa{\c{c}\~a}o 4.0: uma rede de
+  conex{\~o}es interligando pessoas e saberes}.
+\newblock Planeta Educa{\c{c}\~a}o, 2018.
+
+\bibitem[Azad e Hashemian(2016)]{Azad:2016}
+Azad A. e Hashemian R.
+\newblock
+  \href{https://www.scopus.com/inward/record.uri?eid=2-s2.0-84988878107&doi=10.1109%2fSAI.2016.7556081&partnerID=40&md5=30ff073a97d914f8ebe5c75e09e50b22}{Cyber-physical
+  systems in stem disciplines}.
+\newblock In {\em Proceedings of 2016 SAI Computing Conference, SAI 2016},
+  p\'aginas 868--874. Institute of Electrical and Electronics Engineers Inc.,
+  2016.
+\newblock ISBN 9781467384605.
+\newblock cited By 1.
+
+\bibitem[Basili \emph{et~al.}(1994)Basili, Caldiera e Rombach]{basili:1994}
+Basili V.~R., Caldiera G. e Rombach H.~D.
+\newblock Goal, question metric paradigm.
+\newblock {\em Encyclopedia of Software Engineering}, 1994.
+
+\bibitem[Bassedas \emph{et~al.}(1996)Bassedas, Huguet, Plazaola, S\'{a}enz,
+  Sisquella, Mart\'{i}, Rossell, Seguer e Salvador]{bassedas:1996}
+Bassedas E., Huguet T., Plazaola M., S\'{a}enz M., Sisquella M., Mart\'{i} M.,
+  Rossell M., Seguer M. e Salvador C.
+\newblock {\em Interven{\c{c}}{\~a}o educativa e diagn{\'o}stico
+  psicopedag{\'o}gico.}
+\newblock (Tradu{\c{c}}{\~a}o: Neve, B.A.). 3 ed. Porto Alegre: Artes
+  M{\'e}dicas, 1996.
+
+\bibitem[Biswas e Ghosh(2007)]{Biswas:2007}
+Biswas P. e Ghosh S.
+\newblock A novel approach to define performance metrics for students' and
+  teachers' evaluation.
+\newblock {\em Electronic Journal of e-Learning}, 5\penalty0 (2):\penalty0
+  87--102, 2007.
+
+\bibitem[Blikstein \emph{et~al.}(2012)Blikstein, Fuhrmann, Greene e
+  Salehi]{Blikstein:2012}
+Blikstein P., Fuhrmann T., Greene D. e Salehi S.
+\newblock \href{http://doi.acm.org/10.1145/2307096.2307150}{Bifocal modeling:
+  Mixing real and virtual labs for advanced science learning}.
+\newblock In {\em Proceedings of the 11th International Conference on
+  Interaction Design and Children}, IDC '12, p\'aginas 296--299, New York, NY,
+  USA, 2012. ACM.
+\newblock ISBN 978-1-4503-1007-9.
+
+\bibitem[Blikstein \emph{et~al.}(2016)Blikstein, Fuhrmann e
+  Salehi]{Blikstein2016}
+Blikstein P., Fuhrmann T. e Salehi S.
+\newblock \href{https://doi.org/10.1007/s10956-016-9623-7}{Using the bifocal
+  modeling framework to resolve ``discrepant events'' between physical
+  experiments and virtual models in biology}.
+\newblock {\em Journal of Science Education and Technology}, 25\penalty0
+  (4):\penalty0 513--526, Aug 2016.
+\newblock ISSN 1573-1839.
+
+\bibitem[Carbajal e Baranauskas(2018)]{carbajal:2018}
+Carbajal M. e Baranauskas M.~C.
+\newblock Programa{\c{c}}{\~a}o tang{\'\i}vel e constru{\c{c}}{\~a}o de
+  significado: cria{\c{c}}{\~a}o de s{\'\i}mbolos para o ambiente taprec junto
+  com professoras de ensino fundamental.
+\newblock In {\em Anais do Workshop de Inform{\'a}tica na Escola}, volume~24,
+  p\'aginas 323--332, 2018.
+
+\bibitem[Caron(2018)]{Caron:2018}
+Caron A.
+\newblock {\em Conhe{\c{c}}a 5 habilidades fundamentais quando o assunto {\'e}
+  Educa{\c{c}\~a}o 4.0!}
+\newblock Positivo Tecnologia Educacional, 2018.
+
+\bibitem[Chang \emph{et~al.}(2014)Chang, Li e Tsai]{Chang:2014}
+Chang J.~C., Li Y.~J. e Tsai S.~B.
+\newblock An applicable solution for setting up intelligent schools by using
+  internet of things technology.
+\newblock In {\em Advanced Materials Research}, volume 945, p\'aginas
+  3585--3588. Trans Tech Publ, 2014.
+
+\bibitem[Charlot(2000)]{charlot:2000}
+Charlot B.
+\newblock {\em A rela{\c{c}}{\~a}o com o saber : conceitos e
+  defini{\c{c}}{\~o}es. In: Da rela{\c{c}}{\~a}o com o saber : elementos para
+  uma teoria}, p\'aginas 77--86.
+\newblock Artes M\'{e}dicas, 2000.
+
+\bibitem[Chase \emph{et~al.}(2011)Chase, Almeida, Sampaio e
+  Almeida]{chase:2011}
+Chase O.~A., Almeida J.~F., Sampaio M. H.~K. e Almeida F.
+\newblock Plataforma sensorial ciberf{\'\i}sica-uma abordagem ambiental.
+\newblock {\em X Simp{\'o}sio Brasileiro de Automa{\c{c}}{\~a}o
+  Inteligente--SBAI}, Setembro 2011.
+
+\bibitem[Cheng \emph{et~al.}(2006)Cheng, Han, Sun, Kansen, Hosokawa, Huang e
+  He]{Cheng:2006}
+Cheng Z., Han Q., Sun S., Kansen M., Hosokawa T., Huang T. e He A.
+\newblock A proposal on a learner's context-aware personalized education
+  support method based on principles of behavior science.
+\newblock In {\em 20th International Conference on Advanced Information
+  Networking and Applications-Volume 1 (AINA'06)}, volume~2, p\'aginas 5--pp.
+  IEEE, 2006.
+
+\bibitem[Chiovatto(2000)]{Chiovatto:2000}
+Chiovatto M.
+\newblock O professor mediador.
+\newblock {\em ARTES NA ESCOLA, BOLETIM}, 2000.
+
+\bibitem[Collares(1989)]{Collares:1989}
+Collares C. A.~L.
+\newblock {\em Ajudando a desmistificar o fracasso escolar. Toda crian{\c{c}a
+  {\'e} capaz de aprender?}}
+\newblock FDE, 1989.
+
+\bibitem[Dekdouk(2012)]{Dekdouk:2012}
+Dekdouk A.
+\newblock Integrating mobile and ubiquitous computing in a smart classroom to
+  increase learning effectiveness.
+\newblock In {\em Education and e-Learning Innovations (ICEELI), 2012
+  International Conference on}, p\'aginas 1--5. IEEE, 2012.
+
+\bibitem[Developers(2022)]{Blockly:2022}
+Developers G.
+\newblock Introduction to blockly.
+\newblock \url{https://developers.google.com/blockly/guides/overview}, 2022.
+\newblock Acesso 08 de Maio de 2022.
+
+\bibitem[Dewey(1971)]{Dewey:1971}
+Dewey J.
+\newblock Experi{\^e}ncia e educa{\c{c}}{\~a}o.(1938).
+\newblock {\em Trad. An{\'\i}sio Teixeira. S{\~a}o Paulo: Cia Editora
+  Nacional}, 1971.
+
+\bibitem[Dong \emph{et~al.}(2007)Dong, Ota, Cheng e Wang]{Dong:2007}
+Dong M., Ota K., Cheng Z. e Wang G.
+\newblock A support method for improving learner's learning habit using
+  behavior analysis in a ubiquitous environment.
+\newblock In {\em 2007 International Conference on Parallel Processing
+  Workshops (ICPPW 2007)}, p\'aginas 67--67. IEEE, 2007.
+
+\bibitem[Fikes e Nilsson(1971)]{fikes:1971}
+Fikes R.~E. e Nilsson N.~J.
+\newblock Strips: A new approach to the application of theorem proving to
+  problem solving.
+\newblock {\em Artificial intelligence}, 2\penalty0 (3-4):\penalty0 189--208,
+  1971.
+
+\bibitem[Fl{\^o}res \emph{et~al.}(2011)Fl{\^o}res, Tarouco e
+  Reategui]{Flores:2011}
+Fl{\^o}res M. L.~P., Tarouco L. M.~R. e Reategui E.~B.
+\newblock Funcionalidades da ferramenta de autoria para apoiar a
+  constru{\c{c}}{\~a}o de objetos de aprendizagem.
+\newblock In {\em Simp{\'o}sio Brasileiro de Inform{\'a}tica na
+  Educa{\c{c}}{\~a}o (SBIE)}, 2011.
+
+\bibitem[Freire(1987)]{Freire:1987}
+Freire P.
+\newblock Pedagogia do oprimido. 17{\textordfeminine}.
+\newblock {\em Ed. Rio de Janeiro: Paz e Terra}, 3, 1987.
+
+\bibitem[Freire e Papert(1996)]{Freire:1996}
+Freire P. e Papert S.
+\newblock Di{\'a}logos impertinentes: o futuro da escola.
+\newblock {\em S{\~a}o Paulo: TV PUC}, 1996.
+
+\bibitem[F{\"u}hr(2018)]{Fuhr:2018}
+F{\"u}hr R.~C.
+\newblock
+  \href{http://www.editorarealize.com.br/revistas/conedu/trabalhos/TRABALHO_EV117_MD4_SA19_ID5295_31082018230201.pdf}{Educa{\c{c}}{\~a}o
+  4.0 e seus impactos no s{\'e}culo xxi}.
+\newblock {\em V Congresso Nacional de Educa{\c{c}}{\~a}o (V CONEDU)}, 2018.
+
+\bibitem[Gagn{\'e}(2013)]{Gagne:2013}
+Gagn{\'e} R.~M.
+\newblock {\em Instructional technology: Foundations}.
+\newblock Routledge, 2013.
+
+\bibitem[Gluz \emph{et~al.}(2018)Gluz, Passerino, Preuss, Baierle e
+  Cimadevila]{gluz:2018}
+Gluz J., Passerino L., Preuss E., Baierle I. L.~F. e Cimadevila M.
+\newblock Ambiente virtual tang{\'\i}vel para integra{\c{c}}{\~a}o sensorial no
+  ensino de ci{\^e}ncias numa perspectiva inclusiva.
+\newblock In {\em Brazilian Symposium on Computers in Education (Simp{\'o}sio
+  Brasileiro de Inform{\'a}tica na Educa{\c{c}}{\~a}o-SBIE)}, volume~29,
+  p\'agina 545, 2018.
+
+\bibitem[Guterres e Moraes(2014)]{Guterres:2014}
+Guterres J. P.~D. e Moraes S. M.~W.
+\newblock F{\'a}brica de objetos: Uma plataforma para constru{\c{c}}{\~a}o de
+  objetos de aprendizagem focada na usabilidade.
+\newblock In {\em Simp{\'o}sio Brasileiro de Inform{\'a}tica na
+  Educa{\c{c}}{\~a}o-SBIE)}, volume~25, p\'agina 516, 2014.
+
+\bibitem[Ha e Fang(2018)]{ha:2018}
+Ha O. e Fang N.
+\newblock Interactive virtual and physical manipulatives for improving
+  students’ spatial skills.
+\newblock {\em Journal of Educational Computing Research}, 55\penalty0
+  (8):\penalty0 1088--1110, 2018.
+
+\bibitem[Hake(1998)]{hake:1998}
+Hake R.~R.
+\newblock Interactive-engagement versus traditional methods: A
+  six-thousand-student survey of mechanics test data for introductory physics
+  courses.
+\newblock {\em American journal of Physics}, 66\penalty0 (1):\penalty0 64--74,
+  1998.
+
+\bibitem[Helps e Pack(2013)]{helps:2013}
+Helps R.~G. e Pack S.~J.
+\newblock Cyber-physical system concepts for it students.
+\newblock In {\em Proceedings of the 14th annual ACM SIGITE conference on
+  Information technology education}, p\'aginas 7--12. ACM, 2013.
+
+\bibitem[Hussin(2018)]{Hussin2018}
+Hussin A.~A.
+\newblock
+  \href{http://journals.aiac.org.au/index.php/IJELS/article/view/4616}{Education
+  4.0 made simple: Ideas for teaching}.
+\newblock {\em International Journal of Education and Literacy Studies},
+  6\penalty0 (3):\penalty0 92--98, 2018.
+
+\bibitem[Hwang \emph{et~al.}(2009)Hwang, Yang, Tsai e Yang]{Hwang:2009}
+Hwang G.-J., Yang T.-C., Tsai C.-C. e Yang S.~J.
+\newblock A context-aware ubiquitous learning environment for conducting
+  complex science experiments.
+\newblock {\em Computers \& Education}, 53\penalty0 (2):\penalty0 402--413,
+  2009.
+
+\bibitem[Imamura e Baranauskas(2018)]{imamura:2018}
+Imamura R.~E. e Baranauskas M.~C.
+\newblock Criando uma experi{\^e}ncia de leitura colaborativa de hist{\'o}rias
+  fict{\'\i}cias f{\'\i}sico-virtuais com realidade aumentada.
+\newblock In {\em Brazilian Symposium on Computers in Education (Simp{\'o}sio
+  Brasileiro de Inform{\'a}tica na Educa{\c{c}}{\~a}o-SBIE)}, volume~29,
+  p\'agina~31, 2018.
+
+\bibitem[Intelitek(2018)]{Intelitek:2018}
+Intelitek.
+\newblock {\em The Education 4.0 Revolution. An analysis of Industry 4.0 and
+  its effect on education}.
+\newblock Intelitek, 2018.
+
+\bibitem[Ishii e Ullmer(1997)]{ishii:1997}
+Ishii H. e Ullmer B.
+\newblock Tangible bits: Towards seamless interfaces between people, bits and
+  atoms.
+\newblock In {\em Proceedings of the ACM SIGCHI Conference on Human factors in
+  computing systems}, p\'aginas 234--241, 1997.
+
+\bibitem[Kenski(2007)]{Kenski:2007}
+Kenski V.~M.
+\newblock {\em Educa{\c{c}}{\~a}o e tecnologias}.
+\newblock Papirus editora, 2007.
+
+\bibitem[Kolb(2014)]{Kolb:2014}
+Kolb D.~A.
+\newblock {\em Experiential learning: Experience as the source of learning and
+  development}.
+\newblock FT press, 2014.
+
+\bibitem[Lei \emph{et~al.}(2013)Lei, Wan e Man]{lei:2013}
+Lei C.-U., Wan K. e Man K.~L.
+\newblock Developing a smart learning environment in universities via
+  cyber-physical systems.
+\newblock {\em Procedia Computer Science}, 17:\penalty0 583--585, 2013.
+
+\bibitem[Leit\~ao(2014)]{Leitao:2014}
+Leit\~ao G.
+\newblock Heidegger: a quest\~ao da t\'ecnica e o futuro do homem.
+\newblock In {\em X Simp\'osio Internacional Filos\'ofico-teol\'ogico - Do
+  Humano ao P\'os-humano: encruzilhada ou destino?} Faculdade Jesu\'ita de
+  Filosofia e Teologia - FAJE, 2014.
+
+\bibitem[Leit\~ao(2017)]{leitao:2017}
+Leit\~ao G.
+\newblock {\em Uma plataforma de suporte ao docente no contexto da
+  Educa{\c{c}}{\~a}o Digital}.
+\newblock Disserta\c{c}\~ao de Mestrado. Universidade Federal do Amazonas,
+  2017.
+
+\bibitem[Leit{\~a}o e Barreto(2019)]{Leitao:2019}
+Leit{\~a}o G. e Barreto R.
+\newblock
+  \href{https://sol.sbc.org.br/index.php/desafie/article/view/12179}{\'e
+  poss\'ivel recomendar objetos de aprendizagem f\'isico-virtuais?}
+\newblock In {\em Anais do VIII Workshop de Desafios da Computacao aplicada a
+  Educacao}, p\'aginas 4--6, Porto Alegre, RS, Brasil, 2019. SBC.
+
+\bibitem[Leite e Branco(2017)]{leite:2017}
+Leite K. e Branco K.~C.
+\newblock Framework de ensino de programac{\~a}o para crian{\c{c}}as e jovens
+  por meio de aprendizado baseado em projetos usando computa{\c{c}}{\~a}o
+  tang{\'\i}vel, storytelling, internet das coisas e sistemas embarcados.
+\newblock In {\em Anais dos Workshops do Congresso Brasileiro de
+  Inform{\'a}tica na Educa{\c{c}}{\~a}o}, volume~6, p\'agina 1301, 2017.
+
+\bibitem[Levy(2010)]{Levy:2010}
+Levy P.
+\newblock {\em Cibercultura}.
+\newblock Editora 34, 2010.
+
+\bibitem[Lima \emph{et~al.}(2016)Lima, Castro, Dantas e Siqueira]{lima:2016}
+Lima I., Castro T., Dantas A. e Siqueira M.
+\newblock Processo de design colaborativo de artefatos tang{\'\i}veis para
+  crian{\c{c}}as.
+\newblock In {\em Anais do XIII Simp{\'o}sio Brasileiro de Sistemas
+  Colaborativos}, p\'aginas 1408--1422. SBC, 2016.
+
+\bibitem[Lopes \emph{et~al.}(2018)Lopes, Reiter e Reis]{lopes:2018}
+Lopes M., Reiter R.~F. e Reis D.
+\newblock Animar: um aplicativo para cria{\c{c}}{\~a}o de anima{\c{c}}{\~o}es
+  com realidade aumentada e interface tang{\'\i}vel.
+\newblock In {\em Anais dos Workshops do Congresso Brasileiro de
+  Inform{\'a}tica na Educa{\c{c}}{\~a}o}, volume~7, p\'agina 983, 2018.
+
+\bibitem[LTSC(2020)]{learning2002ieee}
+LTSC L. T. S.~C.
+\newblock Ieee standard for learning object metadata.
+\newblock {\em IEEE Std 1484.12.1-2020}, p\'aginas 1--50, 2020.
+
+\bibitem[Lucena \emph{et~al.}(2015)Lucena, Silva e Oliveira]{Lucena:2015}
+Lucena K., Silva J. e Oliveira E.
+\newblock Webmonitor: uma ferramenta para monitoramento e acompanhamento de
+  cursos em um ava.
+\newblock In {\em Simp{\'o}sio Brasileiro de Inform{\'a}tica na
+  Educa{\c{c}}{\~a}o (SBIE)}, volume~26, p\'agina 249, 2015.
+
+\bibitem[Luckesi(2002)]{luckesi:2002}
+Luckesi C.~C.
+\newblock Avalia{\c{c}}{\~a}o da aprendizagem na escola e a quest{\~a}o das
+  representa{\c{c}}{\~o}es sociais.
+\newblock {\em Eccos Revista Cient{\'\i}fica}, 4\penalty0 (2):\penalty0 79--88,
+  2002.
+
+\bibitem[Luckesi(2014)]{luckesi:2014}
+Luckesi C.~C.
+\newblock {\em Avalia{\c{c}}{\~a}o da aprendizagem escolar: estudos e
+  proposi{\c{c}}{\~o}es}.
+\newblock Cortez editora, 2014.
+
+\bibitem[Malvezzi \emph{et~al.}(2010)Malvezzi, Mour{\~a}o e
+  Bressan]{Malvezzi:2010}
+Malvezzi W.~R., Mour{\~a}o A.~B. e Bressan G.
+\newblock Uma ferramenta baseada em teoria fuzzy para o acompanhamento de
+  alunos aplicado ao modelo de educa{\c{c}}{\~a}o presencial mediado por
+  tecnologia.
+\newblock In {\em Simp{\'o}sio Brasileiro de Inform{\'a}tica na
+  Educa{\c{c}}{\~a}o (SBIE)}, volume~1, 2010.
+
+\bibitem[Marques \emph{et~al.}(2019)]{marques:2019}
+Marques L.~C. \emph{et~al.}
+\newblock {\em UX-Tips: uma t{\'e}cnica de avalia{\c{c}}{\~a}o de user
+  experience para aplica{\c{c}}{\~o}es de software}.
+\newblock Universidade Federal do Amazonas, 2019.
+
+\bibitem[Marshall(2007)]{marshall:2007}
+Marshall P.
+\newblock Do tangible interfaces enhance learning?
+\newblock In {\em Proceedings of the 1st international conference on Tangible
+  and embedded interaction}, p\'aginas 163--170, 2007.
+
+\bibitem[Mathioudakis \emph{et~al.}(2013)Mathioudakis, Leonidis, Korozi,
+  Margetis, Ntoa, Antona e Stephanidis]{Mathioudakis:2013}
+Mathioudakis G., Leonidis A., Korozi M., Margetis G., Ntoa S., Antona M. e
+  Stephanidis C.
+\newblock Ami-ria: Real-time teacher assistance tool for an ambient
+  intelligence classroom.
+\newblock In {\em Proceedings of the Fifth International Conference on Mobile,
+  Hybrid, and On-Line Lerning (eLmL 2013)}, p\'aginas 37--42, 2013.
+
+\bibitem[McClelland(2003)]{mcclelland:2003}
+McClelland M.
+\newblock Metadata standards for educational resources.
+\newblock {\em Computer}, 36\penalty0 (11):\penalty0 107--109, 2003.
+
+\bibitem[Mendoza e Baranauskas(2019)]{mendoza:2019}
+Mendoza Y. L.~M. e Baranauskas M.~C.
+\newblock Enhancing a tangible tabletop with embedded-technology objects for
+  experiencing deep time.
+\newblock In {\em Anais do XXV Workshop de Inform{\'a}tica na Escola},
+  p\'aginas 598--607. SBC, 2019.
+
+\bibitem[{Minist{\'e}rio da Ind{\'u}stria, Com{\'e}rcio Exterior e
+  Servi{\c{c}}os}(2014)]{MCDIC:2014}
+{Minist{\'e}rio da Ind{\'u}stria, Com{\'e}rcio Exterior e Servi{\c{c}}os}.
+\newblock Agenda brasileira para ind{\'u}stria 4.0.
+\newblock \url{http://www.industria40.gov.br/}, 2014.
+\newblock Acesso 30 de Setembro de 2019.
+
+\bibitem[Moreira \emph{et~al.}(2018)Moreira, Ramos, Wolff, Bortolini,
+  Cavalcanti, Pinto, Maria~do Carmo, BENEDETTI, de~Oliveira e
+  Baranauskas]{moreira:2018}
+Moreira E., Ramos E., Wolff L., Bortolini C. d.~T., Cavalcanti E.~P., Pinto
+  L.~A., Maria~do Carmo B.~B., BENEDETTI M.~P., de~Oliveira M. R.~P. e
+  Baranauskas M.~C.
+\newblock Explorando a utiliza{\c{c}}{\~a}o de storyboard em um ambiente
+  tang{\'\i}vel de apoio {\`a} comunica{\c{c}}{\~a}o alternativa e aumentativa.
+\newblock In {\em Brazilian Symposium on Computers in Education (Simp{\'o}sio
+  Brasileiro de Inform{\'a}tica na Educa{\c{c}}{\~a}o-SBIE)}, volume~29,
+  p\'agina 1083, 2018.
+
+\bibitem[Moreira e Baranauskas(2018)]{moreira:2018b}
+Moreira E.~A. e Baranauskas M. C.~C.
+\newblock Experiencing and delineating a vocabulary for a tangible environment
+  to support alternative and augmentative communication.
+\newblock In {\em Proceedings of the 17th Brazilian Symposium on Human Factors
+  in Computing Systems}, p\'aginas 1--10, 2018.
+
+\bibitem[Nogueira e Nogueira(2013)]{Nogueira:2013}
+Nogueira C. M.~M. e Nogueira M.~A.
+\newblock {\em Bourdieu \& a educa{\c{c}}{\~a}o}.
+\newblock Aut{\^e}ntica, 2013.
+
+\bibitem[Noor(2011)]{noor:2011}
+Noor A.~K.
+\newblock Intelligent adaptive cyber-physical ecosystem for aerospace
+  engineering education, training, and accelerated workforce development.
+\newblock {\em Journal of Aerospace Engineering}, 24\penalty0 (4):\penalty0
+  403--408, 2011.
+
+\bibitem[Nunes \emph{et~al.}(2016)Nunes, Silva, Laisa, Ugulino e
+  Lucena]{Nunes:2016}
+Nunes I., Silva W.~M., Laisa J., Ugulino F. e Lucena M.
+\newblock Learning analytics como ferramenta para a an{\'a}lise do desempenho
+  dos alunos em cursos semipresenciais.
+\newblock In {\em Simp{\'o}sio Brasileiro de Inform{\'a}tica na
+  Educa{\c{c}}{\~a}o (SBIE)}, volume~27, p\'agina 280, 2016.
+
+\bibitem[Oluwagbemi \emph{et~al.}(2014)Oluwagbemi, Misra e
+  Omoregbe]{Oluwagbemi:2014}
+Oluwagbemi F., Misra S. e Omoregbe N.
+\newblock Pervasive computing in classroom environments and applications.
+\newblock In {\em Computer \& Information Technology (GSCIT), 2014 Global
+  Summit on}, p\'aginas 1--6. IEEE, 2014.
+
+\bibitem[Orlandi e Isotani(2012)]{Orlandi:2012}
+Orlandi B.~H. e Isotani S.
+\newblock Uma ferramenta para distribui{\c{c}}ao de conte{\'u}do educacional
+  interativo em dispositivos m{\'o}veis.
+\newblock In {\em Simp{\'o}sio Brasileiro de Inform{\'a}tica na
+  Educa{\c{c}}{\~a}o (SBIE)}, volume~23, 2012.
+
+\bibitem[Panaggio \emph{et~al.}(2019)Panaggio, Carbajal e
+  Baranauskas]{panaggio:2019}
+Panaggio B.~Z., Carbajal M.~L. e Baranauskas M. C.~C.
+\newblock Programa{\c{c}}{\~a}o tang{\'\i}vel no mundo f{\'\i}sico: Taprec+
+  sphero.
+\newblock {\em Revista Brasileira de Inform{\'a}tica na Educa{\c{c}}{\~a}o},
+  27\penalty0 (03):\penalty0 32--51, 2019.
+
+\bibitem[Papert(1994)]{Papert:1994}
+Papert S.
+\newblock A m{\'a}quina das crian{\c{c}}as--repensando a escola na era da
+  inform{\'a}tica, 1994.
+
+\bibitem[Papert \emph{et~al.}(1980)Papert, Valente e Bitelman]{Papert:1980}
+Papert S., Valente J.~A. e Bitelman B.
+\newblock {\em Logo: computadores e educa{\c{c}}{\~a}o}.
+\newblock Brasiliense, 1980.
+
+\bibitem[Passos \emph{et~al.}(2010)Passos, Souza, Silva e Santos]{Passos:2010}
+Passos O., Souza M., Silva M. e Santos R.
+\newblock {Transformando um Editor de Apresenta{\c{c}}{\~a}o em uma Ferramenta
+  de Autoria: Uma Experi{\^e}ncia com os Professores de Escolas P{\'u}blicas do
+  Munic{\'\i}pio de Itacoatiara (AM)}.
+\newblock In {\em Simp{\'o}sio Brasileiro de Inform{\'a}tica na
+  Educa{\c{c}}{\~a}o (SBIE)}, p\'aginas 61--64, 2010.
+
+\bibitem[Perrenoud e Schilling(2001)]{Perrenoud:2001}
+Perrenoud P. e Schilling C.
+\newblock {\em A pedagogia na escola das diferen{\c{c}}as: fragmentos de uma
+  sociologia do fracasso}.
+\newblock Artmed, 2001.
+
+\bibitem[Pester \emph{et~al.}(2015)Pester, Madritsch e Klinger]{pester:2015}
+Pester A., Madritsch C. e Klinger T.
+\newblock Collaborative learning with cyber-physical systems.
+\newblock In {\em 2015 IEEE Global Engineering Education Conference (EDUCON)},
+  p\'aginas 184--188. IEEE, 2015.
+
+\bibitem[Peter \emph{et~al.}(2015)Peter, Momtaz e Givargis]{peter:2015}
+Peter S., Momtaz F. e Givargis T.
+\newblock From the browser to the remote physical lab: Programming
+  cyber-physical systems.
+\newblock In {\em 2015 IEEE Frontiers in Education Conference (FIE)}, p\'aginas
+  1--7. IEEE, 2015.
+
+\bibitem[Pires \emph{et~al.}(2015)Pires, Delicato, Batista, Barros, Cavalcante
+  e Pitanga]{pires:2015}
+Pires P.~F., Delicato F., Batista T., Barros T., Cavalcante E. e Pitanga M.
+\newblock Plataformas para a internet das coisas.
+\newblock {\em Minicursos SBRC-Simp{\'o}sio Brasileiro de Redes de Computadores
+  e Sistemas Distribu{\'\i}dos}, 2015.
+
+\bibitem[Rego(2013)]{Rego:2013}
+Rego T.~C.
+\newblock {\em Vygotsky: uma perspectiva hist{\'o}rico-cultural da
+  educa{\c{c}}{\~a}o}.
+\newblock Editora Vozes Limitada, 2013.
+
+\bibitem[Sabbatini(2013)]{Sabbatini:2013}
+Sabbatini M.
+\newblock Reflex{\~o}es cr{\'\i}ticas sobre o conceito de objeto de
+  aprendizagem aplicado ao ensino de ci{\^e}ncias e matem{\'a}tica.
+\newblock {\em Em Teia| Revista de Educa{\c{c}}{\~a}o Matem{\'a}tica e
+  Tecnol{\'o}gica Iberoamericana-ISSN: 2177-9309}, 3\penalty0 (3), 2013.
+
+\bibitem[Salehi \emph{et~al.}(2014)Salehi, Schneider e Blikstein]{Salehi:2014}
+Salehi S., Schneider B. e Blikstein P.
+\newblock \href{http://doi.acm.org/10.1145/2559206.2581346}{The effects of
+  physical and virtual manipulatives on learning basic concepts in
+  electronics}.
+\newblock In {\em CHI '14 Extended Abstracts on Human Factors in Computing
+  Systems}, CHI EA '14, p\'aginas 2263--2268, New York, NY, USA, 2014. ACM.
+\newblock ISBN 978-1-4503-2474-8.
+
+\bibitem[Sales \emph{et~al.}(2019)Sales, de~Albuquerque, Paz e
+  Leite]{sales:2019}
+Sales G., de~Albuquerque M.~C., Paz R.~P. e Leite E.~A.
+\newblock Modelo learning vectors na avalia{\c{c}}{\~a}o formativa no ava
+  moodle: de emoticons a gifs animados.
+\newblock {\em Revista Ib{\'e}rica de Sistemas e Tecnologias de
+  Informa{\c{c}}{\~a}o}, p\'aginas 64--76, 2019.
+
+\bibitem[Sales \emph{et~al.}(2012)Sales, Barroso e Soares]{sales:2012}
+Sales G.~L., Barroso G.~C. e Soares J.~M.
+\newblock Learning vectors (lv): Um modelo de avalia{\c{c}}{\~a}o processual
+  com mensura{\c{c}}{\~a}o n{\~a}o-linear da aprendizagem em ead online.
+\newblock {\em Revista Brasileira de Inform{\'a}tica na Educa{\c{c}}{\~a}o},
+  20\penalty0 (1):\penalty0 60, 2012.
+
+\bibitem[Santos \emph{et~al.}(2014)Santos, Botelho e Bichet]{Santos:2014}
+Santos R.~A., Botelho S.~S. e Bichet M.~A.
+\newblock Ambientes físico-virtuais de aprendizagem.
+\newblock In {\em Anais do Simpósio Brasileiro de Informática na Educação},
+  volume~25, p\'agina~70. SBIE, 2014.
+
+\bibitem[Santos(2014)]{santos:2014ambientes}
+Santos R. A.~P.
+\newblock {\em Ambientes F{\'\i}sico-virtuais de Aprendizagem}.
+\newblock Tese de Doutorado. Universidade Federal do Rio Grande (FURG), 2014.
+
+\bibitem[Satyanarayanan(2001)]{Satyanarayanan:2001}
+Satyanarayanan M.
+\newblock Pervasive computing: Vision and challenges.
+\newblock {\em IEEE Personal communications}, 8\penalty0 (4):\penalty0 10--17,
+  2001.
+
+\bibitem[Serbanati \emph{et~al.}(2011)Serbanati, Medaglia e
+  Ceipidor]{serbanati:2011}
+Serbanati A., Medaglia C.~M. e Ceipidor U.~B.
+\newblock Building blocks of the internet of things: State of the art and
+  beyond.
+\newblock In {\em Deploying RFID-Challenges, Solutions, and Open Issues}.
+  IntechOpen, 2011.
+
+\bibitem[Silva(2011)]{silva:2011}
+Silva M.~F.
+\newblock {\em Trigonometria, modelagem e tecnologias: um estudo sobre uma
+  sequ{\^e}ncia did{\'a}tica}.
+\newblock Disserta\c{c}\~ao de Mestrado em Ensino de Ci{\^e}ncias e
+  Matem{\'a}tica. PUC Minas, 2011.
+
+\bibitem[Sipitakiat \emph{et~al.}(2003)Sipitakiat, Blikstein, Cavallo, Camargo
+  e Alves]{sipitakiat:2003}
+Sipitakiat A., Blikstein P., Cavallo D., Camargo A. e Alves R. D.~L.
+\newblock A placa gogo: rob{\'o}tica de baixo custo, program{\'a}vel e
+  reconfigur{\'a}vel.
+\newblock {\em XIV SBIE: Simp{\'o}sio Brasileiro de Inform{\'a}tica na
+  Educa{\c{c}}{\~a}o}, p\'aginas 73--92, 2003.
+
+\bibitem[Sousa \emph{et~al.}(2011)Sousa, F.M.C. e Carvalho]{Sousa:2011}
+Sousa R., F.M.C. M. e Carvalho A.~O.
+\newblock {\em Tecnologias Digitais na Educa\c{c}\~ao}.
+\newblock EDUEPB, 2011.
+
+\bibitem[Tarouco \emph{et~al.}(2004)Tarouco, Fabre, Grando e
+  Konrath]{Tarouco:2004}
+Tarouco L.~M., Fabre M., Grando A.~R. e Konrath M.~L.
+\newblock Objetos de aprendizagem para m-learning.
+\newblock In {\em Florian{\'o}polis: SUCESU-Congresso Nacional de Tecnologia da
+  Informa{\c{c}}{\~a}o e Comunica{\c{c}}{\~a}o}, 2004.
+
+\bibitem[Ullmer e Ishii(2000)]{ullmer:2000}
+Ullmer B. e Ishii H.
+\newblock Emerging frameworks for tangible user interfaces.
+\newblock {\em IBM systems journal}, 39\penalty0 (3.4):\penalty0 915--931,
+  2000.
+
+\bibitem[Valente(1993)]{Valente:1993}
+Valente J.~A.
+\newblock Por que computadores na educa{\c{c}}{\~a}o.
+\newblock {\em Computadores e Conhecimento: repensando a educa{\c{c}}{\~a}o},
+  p\'aginas 1--23, 1993.
+
+\bibitem[Venkatesh e Bala(2008)]{Venkatesh:2008}
+Venkatesh V. e Bala H.
+\newblock Technology acceptance model 3 and a research agenda on interventions.
+\newblock {\em Decision sciences}, 39\penalty0 (2):\penalty0 273--315, 2008.
+
+\bibitem[Vermesan \emph{et~al.}(2013)Vermesan, Friess, Guillemin, Sundmaeker,
+  Eisenhauer, Moessner, Le~Gall e Cousin]{Vermesan:2013}
+Vermesan O., Friess P., Guillemin P., Sundmaeker H., Eisenhauer M., Moessner
+  K., Le~Gall F. e Cousin P.
+\newblock Internet of things strategic research and innovation agenda.
+\newblock In {\em Internet of Things: Converging Technologies for Smart
+  Environments and Integrated Ecosystems}, p\'aginas 7--152. River Publishers,
+  2013.
+
+\bibitem[Viana e Raabe(2018)]{viana:2018}
+Viana C. e Raabe A.
+\newblock Interface de programa{\c{c}}{\~a}o tang{\'\i}vel para
+  produ{\c{c}}{\~a}o de algoritmos sonoros.
+\newblock In {\em Anais dos Workshops do Congresso Brasileiro de
+  Inform{\'a}tica na Educa{\c{c}}{\~a}o}, volume~7, p\'agina 125, 2018.
+
+\bibitem[Vicari \emph{et~al.}(2009)Vicari, Gluz, Santos, Primo, Rossi,
+  Bordignon, Behar, Passerino, Filho e Roesler]{vicari:2009}
+Vicari R.~M., Gluz J.~C., Santos E.~R., Primo T.~T., Rossi L., Bordignon A.,
+  Behar P., Passerino L., Filho R. e Roesler V.
+\newblock {Proposta de Padr{\~a}o para Metadados de Objetos de Aprendizagem
+  Multiplataforma}.
+\newblock Technical report, Universidade Federal do Rio Grande do Sul, 2009.
+
+\bibitem[Vygotsky(1998)]{Vygotsky:1998}
+Vygotsky L.~S.
+\newblock {\em A forma{\c{c}}{\~a}o social da mente}.
+\newblock S{\~a}o Paulo: Martins Fontes, 1998.
+
+\bibitem[Wade \emph{et~al.}(2015)Wade, Cohen, Blackburn, Hole e
+  Bowen]{wade:2015}
+Wade J., Cohen R., Blackburn M., Hole E. e Bowen N.
+\newblock Systems engineering of cyber-physical systems education program.
+\newblock In {\em Proceedings of the WESE'15: Workshop on Embedded and
+  Cyber-Physical Systems Education}, p\'agina~7. ACM, 2015.
+
+\bibitem[Wiley(2000)]{Wiley:2000}
+Wiley D.~A.
+\newblock {\em Learning Object Design and Sequencing Theory}.
+\newblock PhD thesis, Brigham Young University, 2000.
+
+\bibitem[Wohlin \emph{et~al.}(2012)Wohlin, Runeson, H{\"o}st, Ohlsson, Regnell
+  e Wessl{\'e}n]{wohlin:2012}
+Wohlin C., Runeson P., H{\"o}st M., Ohlsson M.~C., Regnell B. e Wessl{\'e}n A.
+\newblock {\em Experimentation in Software Engineering}.
+\newblock Springer Science \& Business Media, 2012.
+
+\bibitem[Xu \emph{et~al.}(2005)Xu, Wang e Wang]{xu:2005}
+Xu D., Wang H. e Wang M.
+\newblock A conceptual model of personalized virtual learning environments.
+\newblock {\em Expert Systems with Applications}, 29\penalty0 (3):\penalty0
+  525--534, 2005.
+
+\bibitem[Xue \emph{et~al.}(2011)Xue, Wang e Chen]{Xue:2011}
+Xue R., Wang L. e Chen J.
+\newblock Using the iot to construct ubiquitous learning environment.
+\newblock In {\em Mechanic Automation and Control Engineering (MACE), 2011
+  Second International Conference on}, p\'aginas 7878--7880. IEEE, 2011.
+
+\bibitem[Zacharia e Olympiou(2011)]{zacharia:2011}
+Zacharia Z.~C. e Olympiou G.
+\newblock
+  \href{http://www.sciencedirect.com/science/article/pii/S0959475210000319}{Physical
+  versus virtual manipulative experimentation in physics learning}.
+\newblock {\em Learning and Instruction}, 21\penalty0 (3):\penalty0 317 -- 331,
+  2011.
+\newblock ISSN 0959-4752.
+
+\bibitem[Zhou e Wang(2015)]{zhou:2015}
+Zhou Y. e Wang M.
+\newblock Tangible user interfaces in learning and education.
+\newblock {\em International Encyclopedia of the Social \& Behavioral
+  Sciences}, 24:\penalty0 20--25, 2015.
+
+\bibitem[Zilse \emph{et~al.}(2016)Zilse, Primo, Koch e Koster]{Zilse:2016}
+Zilse R., Primo T., Koch F. e Koster A.
+\newblock An analysis of applying the short bridge method to digital education.
+\newblock In {\em International Conference on Learning and Collaboration
+  Technologies}, p\'aginas 94--102. Springer, 2016.
+
+\bibitem[Zuckerman \emph{et~al.}(2005)Zuckerman, Arida e
+  Resnick]{zuckerman:2005}
+Zuckerman O., Arida S. e Resnick M.
+\newblock Extending tangible interfaces for education: digital
+  montessori-inspired manipulatives.
+\newblock In {\em Proceedings of the SIGCHI conference on Human factors in
+  computing systems}, p\'aginas 859--868, 2005.
+
+\end{thebibliography}

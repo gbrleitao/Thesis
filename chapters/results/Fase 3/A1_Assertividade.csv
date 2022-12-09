@@ -1,0 +1,441 @@
+_id;agrupamento;assertividade;fonte;id_estudante;id_fonte;id_questionario;método
+622a04c2fb676cfbbe611a56;True;0,6553030303030303;1;3;EF1;1;entradas
+622a04c2fb676cfbbe611a57;True;0,875;2;3;EV1;1;entradas
+622a04c2fb676cfbbe611a58;True;0,9166666666666666;2;3;EV2;1;entradas
+622a04c2fb676cfbbe611a59;True;0,8156565656565657;3;3;Média;1;entradas
+622a04c4fb676cfbbe611a5a;True;0,775;1;5;EF1;1;entradas
+622a04c4fb676cfbbe611a5b;True;0,9166666666666666;2;5;EV1;1;entradas
+622a04c4fb676cfbbe611a5c;True;0,4916666666666667;2;5;EV2;1;entradas
+622a04c4fb676cfbbe611a5d;True;0,7277777777777779;3;5;Média;1;entradas
+622a04c5fb676cfbbe611a5e;True;0,7916666666666666;1;4;EF1;1;entradas
+622a04c5fb676cfbbe611a5f;True;0,9166666666666666;2;4;EV1;1;entradas
+622a04c5fb676cfbbe611a60;True;1;2;4;EV2;1;entradas
+622a04c6fb676cfbbe611a61;True;0,9027777777777777;3;4;Média;1;entradas
+622a04c6fb676cfbbe611a62;True;0,775;1;6;EF1;1;entradas
+622a04c6fb676cfbbe611a63;True;0,8333333333333333;2;6;EV1;1;entradas
+622a04c7fb676cfbbe611a64;True;1;2;6;EV2;1;entradas
+622a04c7fb676cfbbe611a65;True;0,8694444444444445;3;6;Média;1;entradas
+622a04c8fb676cfbbe611a66;True;0,46111111111111114;1;7;EF1;1;entradas
+622a04c8fb676cfbbe611a67;True;0,9166666666666666;2;7;EV1;1;entradas
+622a04c8fb676cfbbe611a68;True;0,8333333333333333;2;7;EV2;1;entradas
+622a04c8fb676cfbbe611a69;True;0,737037037037037;3;7;Média;1;entradas
+622a04c9fb676cfbbe611a6a;True;0,8375;1;9;EF1;1;entradas
+622a04c9fb676cfbbe611a6b;True;1;2;9;EV1;1;entradas
+622a04c9fb676cfbbe611a6c;True;0,9166666666666666;2;9;EV2;1;entradas
+622a04cafb676cfbbe611a6d;True;0,9180555555555555;3;9;Média;1;entradas
+622a04cafb676cfbbe611a6e;True;0,5863095238095237;1;10;EF1;1;entradas
+622a04cafb676cfbbe611a6f;True;0,7666666666666666;2;10;EV1;1;entradas
+622a04cbfb676cfbbe611a70;True;0,45625;2;10;EV2;1;entradas
+622a04cbfb676cfbbe611a71;True;0,6030753968253968;3;10;Média;1;entradas
+622a04cbfb676cfbbe611a72;True;0,125;1;11;EF1;1;entradas
+622a04cbfb676cfbbe611a73;True;0,25;2;11;EV1;1;entradas
+622a04cbfb676cfbbe611a74;True;0;2;11;EV2;1;entradas
+622a04cbfb676cfbbe611a75;True;0,125;3;11;Média;1;entradas
+622a04cdfb676cfbbe611a76;True;0,8375;1;12;EF1;1;entradas
+622a04cdfb676cfbbe611a77;True;0,9166666666666666;2;12;EV1;1;entradas
+622a04cdfb676cfbbe611a78;True;0,7;2;12;EV2;1;entradas
+622a04cdfb676cfbbe611a79;True;0,8180555555555555;3;12;Média;1;entradas
+622a04cefb676cfbbe611a7a;True;0,9375;1;13;EF1;1;entradas
+622a04cefb676cfbbe611a7b;True;1;2;13;EV1;1;entradas
+622a04cefb676cfbbe611a7c;True;1;2;13;EV2;1;entradas
+622a04cefb676cfbbe611a7d;True;0,9791666666666666;3;13;Média;1;entradas
+622a04cffb676cfbbe611a7e;True;1;1;14;EF1;1;entradas
+622a04cffb676cfbbe611a7f;True;1;2;14;EV1;1;entradas
+622a04cffb676cfbbe611a80;True;0,6249999999999999;2;14;EV2;1;entradas
+622a04cffb676cfbbe611a81;True;0,8749999999999999;3;14;Média;1;entradas
+622a04d0fb676cfbbe611a82;True;0,6916666666666667;1;16;EF1;1;entradas
+622a04d0fb676cfbbe611a83;True;1;2;16;EV1;1;entradas
+622a04d0fb676cfbbe611a84;True;0,9166666666666666;2;16;EV2;1;entradas
+622a04d0fb676cfbbe611a85;True;0,8694444444444445;3;16;Média;1;entradas
+622a04d1fb676cfbbe611a86;True;0,9166666666666666;1;17;EF1;1;entradas
+622a04d1fb676cfbbe611a87;True;1;2;17;EV1;1;entradas
+622a04d1fb676cfbbe611a88;True;1;2;17;EV2;1;entradas
+622a04d1fb676cfbbe611a89;True;0,9722222222222222;3;17;Média;1;entradas
+622a04d2fb676cfbbe611a8a;True;0,8541666666666666;1;18;EF1;1;entradas
+622a04d2fb676cfbbe611a8b;True;0,9166666666666666;2;18;EV1;1;entradas
+622a04d2fb676cfbbe611a8c;True;1;2;18;EV2;1;entradas
+622a04d3fb676cfbbe611a8d;True;0,923611111111111;3;18;Média;1;entradas
+622a04d4fb676cfbbe611a8e;True;0,9375;1;19;EF1;1;entradas
+622a04d4fb676cfbbe611a8f;True;1;2;19;EV1;1;entradas
+622a04d4fb676cfbbe611a90;True;0,6249999999999999;2;19;EV2;1;entradas
+622a04d4fb676cfbbe611a91;True;0,8541666666666665;3;19;Média;1;entradas
+622a04d5fb676cfbbe611a92;True;1;1;20;EF1;1;entradas
+622a04d5fb676cfbbe611a93;True;1;2;20;EV1;1;entradas
+622a04d5fb676cfbbe611a94;True;0,9166666666666666;2;20;EV2;1;entradas
+622a04d5fb676cfbbe611a95;True;0,9722222222222222;3;20;Média;1;entradas
+622a04d6fb676cfbbe611a96;True;0,7604166666666666;1;21;EF1;1;entradas
+622a04d6fb676cfbbe611a97;True;1;2;21;EV1;1;entradas
+622a04d6fb676cfbbe611a98;True;0,875;2;21;EV2;1;entradas
+622a04d6fb676cfbbe611a99;True;0,8784722222222222;3;21;Média;1;entradas
+622a04d7fb676cfbbe611a9a;True;0,8333333333333333;1;22;EF1;1;entradas
+622a04d7fb676cfbbe611a9b;True;0,8333333333333333;2;22;EV1;1;entradas
+622a04d8fb676cfbbe611a9c;True;0,875;2;22;EV2;1;entradas
+622a04d8fb676cfbbe611a9d;True;0,8472222222222222;3;22;Média;1;entradas
+622a04d9fb676cfbbe611a9e;True;0,9166666666666666;1;23;EF1;1;entradas
+622a04d9fb676cfbbe611a9f;True;1;2;23;EV1;1;entradas
+622a04d9fb676cfbbe611aa0;True;0,9166666666666666;2;23;EV2;1;entradas
+622a04d9fb676cfbbe611aa1;True;0,9444444444444443;3;23;Média;1;entradas
+622a04dafb676cfbbe611aa2;True;1;1;24;EF1;1;entradas
+622a04dafb676cfbbe611aa3;True;1;2;24;EV1;1;entradas
+622a04dafb676cfbbe611aa4;True;0,9166666666666666;2;24;EV2;1;entradas
+622a04dafb676cfbbe611aa5;True;0,9722222222222222;3;24;Média;1;entradas
+622a0b43fb676cfbbe611b54;False;0,55;1;3;EF1;1;entradas
+622a0b43fb676cfbbe611b55;False;0,8;2;3;EV1;1;entradas
+622a0b43fb676cfbbe611b56;False;0,8888888888888888;2;3;EV2;1;entradas
+622a0b43fb676cfbbe611b57;False;0,7462962962962963;3;3;Média;1;entradas
+622a0b44fb676cfbbe611b58;False;0,7333333333333333;1;5;EF1;1;entradas
+622a0b44fb676cfbbe611b59;False;0,8888888888888888;2;5;EV1;1;entradas
+622a0b45fb676cfbbe611b5a;False;0,32142857142857145;2;5;EV2;1;entradas
+622a0b45fb676cfbbe611b5b;False;0,6478835978835978;3;5;Média;1;entradas
+622a0b46fb676cfbbe611b5c;False;0,7272727272727273;1;4;EF1;1;entradas
+622a0b46fb676cfbbe611b5d;False;0,8888888888888888;2;4;EV1;1;entradas
+622a0b46fb676cfbbe611b5e;False;1;2;4;EV2;1;entradas
+622a0b46fb676cfbbe611b5f;False;0,872053872053872;3;4;Média;1;entradas
+622a0b47fb676cfbbe611b60;False;0,6923076923076923;1;6;EF1;1;entradas
+622a0b47fb676cfbbe611b61;False;0,8;2;6;EV1;1;entradas
+622a0b47fb676cfbbe611b62;False;1;2;6;EV2;1;entradas
+622a0b47fb676cfbbe611b63;False;0,8307692307692308;3;6;Média;1;entradas
+622a0b48fb676cfbbe611b64;False;0,4583333333333333;1;7;EF1;1;entradas
+622a0b48fb676cfbbe611b65;False;0,8888888888888888;2;7;EV1;1;entradas
+622a0b49fb676cfbbe611b66;False;0,6666666666666666;2;7;EV2;1;entradas
+622a0b49fb676cfbbe611b67;False;0,6712962962962963;3;7;Média;1;entradas
+622a0b4afb676cfbbe611b68;False;0,7692307692307693;1;9;EF1;1;entradas
+622a0b4afb676cfbbe611b69;False;1;2;9;EV1;1;entradas
+622a0b4afb676cfbbe611b6a;False;0,8888888888888888;2;9;EV2;1;entradas
+622a0b4afb676cfbbe611b6b;False;0,886039886039886;3;9;Média;1;entradas
+622a0b4bfb676cfbbe611b6c;False;0,45;1;10;EF1;1;entradas
+622a0b4bfb676cfbbe611b6d;False;0,6666666666666666;2;10;EV1;1;entradas
+622a0b4bfb676cfbbe611b6e;False;0,32432432432432434;2;10;EV2;1;entradas
+622a0b4bfb676cfbbe611b6f;False;0,48033033033033035;3;10;Média;1;entradas
+622a0b4cfb676cfbbe611b70;False;0,5;1;11;EF1;1;entradas
+622a0b4cfb676cfbbe611b71;False;1;2;11;EV1;1;entradas
+622a0b4cfb676cfbbe611b72;False;0;2;11;EV2;1;entradas
+622a0b4cfb676cfbbe611b73;False;0,5;3;11;Média;1;entradas
+622a0b4dfb676cfbbe611b74;False;0,7692307692307693;1;12;EF1;1;entradas
+622a0b4dfb676cfbbe611b75;False;0,8888888888888888;2;12;EV1;1;entradas
+622a0b4dfb676cfbbe611b76;False;0,36363636363636365;2;12;EV2;1;entradas
+622a0b4dfb676cfbbe611b77;False;0,6739186739186739;3;12;Média;1;entradas
+622a0b4efb676cfbbe611b78;False;0,9;1;13;EF1;1;entradas
+622a0b4efb676cfbbe611b79;False;1;2;13;EV1;1;entradas
+622a0b4efb676cfbbe611b7a;False;1;2;13;EV2;1;entradas
+622a0b4efb676cfbbe611b7b;False;0,9666666666666667;3;13;Média;1;entradas
+622a0b4ffb676cfbbe611b7c;False;1;1;14;EF1;1;entradas
+622a0b4ffb676cfbbe611b7d;False;1;2;14;EV1;1;entradas
+622a0b4ffb676cfbbe611b7e;False;0,5;2;14;EV2;1;entradas
+622a0b4ffb676cfbbe611b7f;False;0,8333333333333334;3;14;Média;1;entradas
+622a0b50fb676cfbbe611b80;False;0,6666666666666666;1;16;EF1;1;entradas
+622a0b51fb676cfbbe611b81;False;1;2;16;EV1;1;entradas
+622a0b51fb676cfbbe611b82;False;0,8888888888888888;2;16;EV2;1;entradas
+622a0b51fb676cfbbe611b83;False;0,8518518518518517;3;16;Média;1;entradas
+622a0b52fb676cfbbe611b84;False;0,8888888888888888;1;17;EF1;1;entradas
+622a0b52fb676cfbbe611b85;False;1;2;17;EV1;1;entradas
+622a0b52fb676cfbbe611b86;False;1;2;17;EV2;1;entradas
+622a0b52fb676cfbbe611b87;False;0,9629629629629629;3;17;Média;1;entradas
+622a0b53fb676cfbbe611b88;False;0,8181818181818182;1;18;EF1;1;entradas
+622a0b53fb676cfbbe611b89;False;0,8888888888888888;2;18;EV1;1;entradas
+622a0b53fb676cfbbe611b8a;False;1;2;18;EV2;1;entradas
+622a0b53fb676cfbbe611b8b;False;0,9023569023569024;3;18;Média;1;entradas
+622a0b55fb676cfbbe611b8c;False;0,9;1;19;EF1;1;entradas
+622a0b55fb676cfbbe611b8d;False;1;2;19;EV1;1;entradas
+622a0b55fb676cfbbe611b8e;False;0,4;2;19;EV2;1;entradas
+622a0b55fb676cfbbe611b8f;False;0,7666666666666666;3;19;Média;1;entradas
+622a0b56fb676cfbbe611b90;False;1;1;20;EF1;1;entradas
+622a0b56fb676cfbbe611b91;False;1;2;20;EV1;1;entradas
+622a0b56fb676cfbbe611b92;False;0,8888888888888888;2;20;EV2;1;entradas
+622a0b56fb676cfbbe611b93;False;0,9629629629629629;3;20;Média;1;entradas
+622a0b57fb676cfbbe611b94;False;0,6;1;21;EF1;1;entradas
+622a0b57fb676cfbbe611b95;False;1;2;21;EV1;1;entradas
+622a0b57fb676cfbbe611b96;False;0,8;2;21;EV2;1;entradas
+622a0b57fb676cfbbe611b97;False;0,8000000000000002;3;21;Média;1;entradas
+622a0b58fb676cfbbe611b98;False;0,8;1;22;EF1;1;entradas
+622a0b58fb676cfbbe611b99;False;0,8;2;22;EV1;1;entradas
+622a0b58fb676cfbbe611b9a;False;0,7692307692307693;2;22;EV2;1;entradas
+622a0b58fb676cfbbe611b9b;False;0,7897435897435897;3;22;Média;1;entradas
+622a0b59fb676cfbbe611b9c;False;0,8333333333333334;1;23;EF1;1;entradas
+622a0b5afb676cfbbe611b9d;False;1;2;23;EV1;1;entradas
+622a0b5afb676cfbbe611b9e;False;0,8888888888888888;2;23;EV2;1;entradas
+622a0b5afb676cfbbe611b9f;False;0,9074074074074074;3;23;Média;1;entradas
+622a0b5bfb676cfbbe611ba0;False;1;1;24;EF1;1;entradas
+622a0b5bfb676cfbbe611ba1;False;1;2;24;EV1;1;entradas
+622a0b5bfb676cfbbe611ba2;False;0,8888888888888888;2;24;EV2;1;entradas
+622a0b5bfb676cfbbe611ba3;False;0,9629629629629629;3;24;Média;1;entradas
+622a0bc5fb676cfbbe611ba5;1;0,5;null;3;Quadrante 1;1;casos
+622a0bc5fb676cfbbe611ba6;2;0,8571428571428571;null;3;Quadrante 2;1;casos
+622a0bc5fb676cfbbe611ba7;3;0,75;null;3;Quadrante 3;1;casos
+622a0bc5fb676cfbbe611ba8;4;1;null;3;Quadrante 4;1;casos
+622a0bc5fb676cfbbe611ba9;True;0,7767857142857143;3;3;Média;1;casos
+622a0bc6fb676cfbbe611baa;1;0,5;null;5;Quadrante 1;1;casos
+622a0bc6fb676cfbbe611bab;2;0,7777777777777778;null;5;Quadrante 2;1;casos
+622a0bc7fb676cfbbe611bac;3;0,3888888888888889;null;5;Quadrante 3;1;casos
+622a0bc7fb676cfbbe611bad;4;0,6363636363636364;null;5;Quadrante 4;1;casos
+622a0bc7fb676cfbbe611bae;True;0,5757575757575757;3;5;Média;1;casos
+622a0bc8fb676cfbbe611baf;1;0,8571428571428571;null;4;Quadrante 1;1;casos
+622a0bc8fb676cfbbe611bb0;2;0,6666666666666666;null;4;Quadrante 2;1;casos
+622a0bc8fb676cfbbe611bb1;3;1;null;4;Quadrante 3;1;casos
+622a0bc8fb676cfbbe611bb2;4;1;null;4;Quadrante 4;1;casos
+622a0bc8fb676cfbbe611bb3;True;0,8809523809523809;3;4;Média;1;casos
+622a0bc9fb676cfbbe611bb4;1;0,6666666666666666;null;6;Quadrante 1;1;casos
+622a0bc9fb676cfbbe611bb5;2;1;null;6;Quadrante 2;1;casos
+622a0bc9fb676cfbbe611bb6;3;0,8571428571428571;null;6;Quadrante 3;1;casos
+622a0bc9fb676cfbbe611bb7;4;0,7777777777777778;null;6;Quadrante 4;1;casos
+622a0bcafb676cfbbe611bb8;True;0,8253968253968254;3;6;Média;1;casos
+622a0bcbfb676cfbbe611bb9;1;0,4444444444444444;null;7;Quadrante 1;1;casos
+622a0bcbfb676cfbbe611bba;2;0,6666666666666666;null;7;Quadrante 2;1;casos
+622a0bcbfb676cfbbe611bbb;3;0,75;null;7;Quadrante 3;1;casos
+622a0bcbfb676cfbbe611bbc;4;0,7;null;7;Quadrante 4;1;casos
+622a0bcbfb676cfbbe611bbd;True;0,6402777777777777;3;7;Média;1;casos
+622a0bccfb676cfbbe611bbe;1;0,7777777777777778;null;9;Quadrante 1;1;casos
+622a0bccfb676cfbbe611bbf;2;0,875;null;9;Quadrante 2;1;casos
+622a0bccfb676cfbbe611bc0;3;0,8571428571428571;null;9;Quadrante 3;1;casos
+622a0bccfb676cfbbe611bc1;4;1;null;9;Quadrante 4;1;casos
+622a0bccfb676cfbbe611bc2;True;0,8774801587301587;3;9;Média;1;casos
+622a0bcdfb676cfbbe611bc3;1;0,21875;null;10;Quadrante 1;1;casos
+622a0bcdfb676cfbbe611bc4;2;0,6428571428571429;null;10;Quadrante 2;1;casos
+622a0bcdfb676cfbbe611bc5;3;0,4666666666666667;null;10;Quadrante 3;1;casos
+622a0bcdfb676cfbbe611bc6;4;0,75;null;10;Quadrante 4;1;casos
+622a0bcefb676cfbbe611bc7;True;0,5195684523809524;3;10;Média;1;casos
+622a0bcefb676cfbbe611bc8;1;0,2857142857142857;null;11;Quadrante 1;1;casos
+622a0bcefb676cfbbe611bc9;2;0;null;11;Quadrante 2;1;casos
+622a0bcefb676cfbbe611bca;3;0;null;11;Quadrante 3;1;casos
+622a0bcffb676cfbbe611bcb;4;0;null;11;Quadrante 4;1;casos
+622a0bcffb676cfbbe611bcc;True;0,07142857142857142;3;11;Média;1;casos
+622a0bd0fb676cfbbe611bcd;1;0,3157894736842105;null;12;Quadrante 1;1;casos
+622a0bd0fb676cfbbe611bce;2;0,6363636363636364;null;12;Quadrante 2;1;casos
+622a0bd0fb676cfbbe611bcf;3;1;null;12;Quadrante 3;1;casos
+622a0bd0fb676cfbbe611bd0;4;0,875;null;12;Quadrante 4;1;casos
+622a0bd0fb676cfbbe611bd1;True;0,7067882775119617;3;12;Média;1;casos
+622a0bd1fb676cfbbe611bd2;1;1;null;13;Quadrante 1;1;casos
+622a0bd1fb676cfbbe611bd3;2;0,875;null;13;Quadrante 2;1;casos
+622a0bd1fb676cfbbe611bd4;3;1;null;13;Quadrante 3;1;casos
+622a0bd1fb676cfbbe611bd5;4;1;null;13;Quadrante 4;1;casos
+622a0bd1fb676cfbbe611bd6;True;0,96875;3;13;Média;1;casos
+622a0bd2fb676cfbbe611bd7;1;0,8571428571428571;null;14;Quadrante 1;1;casos
+622a0bd2fb676cfbbe611bd8;2;0,8571428571428571;null;14;Quadrante 2;1;casos
+622a0bd2fb676cfbbe611bd9;3;1;null;14;Quadrante 3;1;casos
+622a0bd2fb676cfbbe611bda;4;0,5;null;14;Quadrante 4;1;casos
+622a0bd2fb676cfbbe611bdb;True;0,8035714285714286;3;14;Média;1;casos
+622a0bd3fb676cfbbe611bdc;1;1;null;16;Quadrante 1;1;casos
+622a0bd3fb676cfbbe611bdd;2;0,7777777777777778;null;16;Quadrante 2;1;casos
+622a0bd3fb676cfbbe611bde;3;0,7142857142857143;null;16;Quadrante 3;1;casos
+622a0bd4fb676cfbbe611bdf;4;0,8571428571428571;null;16;Quadrante 4;1;casos
+622a0bd4fb676cfbbe611be0;True;0,8373015873015873;3;16;Média;1;casos
+622a0bd4fb676cfbbe611be1;1;1;null;17;Quadrante 1;1;casos
+622a0bd5fb676cfbbe611be2;2;0,8571428571428571;null;17;Quadrante 2;1;casos
+622a0bd5fb676cfbbe611be3;3;1;null;17;Quadrante 3;1;casos
+622a0bd5fb676cfbbe611be4;4;1;null;17;Quadrante 4;1;casos
+622a0bd5fb676cfbbe611be5;True;0,9642857142857143;3;17;Média;1;casos
+622a0bd6fb676cfbbe611be6;1;0,75;null;18;Quadrante 1;1;casos
+622a0bd6fb676cfbbe611be7;2;0,875;null;18;Quadrante 2;1;casos
+622a0bd6fb676cfbbe611be8;3;1;null;18;Quadrante 3;1;casos
+622a0bd6fb676cfbbe611be9;4;1;null;18;Quadrante 4;1;casos
+622a0bd6fb676cfbbe611bea;True;0,90625;3;18;Média;1;casos
+622a0bd7fb676cfbbe611beb;1;0,8571428571428571;null;19;Quadrante 1;1;casos
+622a0bd8fb676cfbbe611bec;2;1;null;19;Quadrante 2;1;casos
+622a0bd8fb676cfbbe611bed;3;0,8571428571428571;null;19;Quadrante 3;1;casos
+622a0bd8fb676cfbbe611bee;4;0,3888888888888889;null;19;Quadrante 4;1;casos
+622a0bd8fb676cfbbe611bef;True;0,7757936507936508;3;19;Média;1;casos
+622a0bd9fb676cfbbe611bf0;1;0,8571428571428571;null;20;Quadrante 1;1;casos
+622a0bd9fb676cfbbe611bf1;2;1;null;20;Quadrante 2;1;casos
+622a0bd9fb676cfbbe611bf2;3;1;null;20;Quadrante 3;1;casos
+622a0bd9fb676cfbbe611bf3;4;1;null;20;Quadrante 4;1;casos
+622a0bd9fb676cfbbe611bf4;True;0,9642857142857143;3;20;Média;1;casos
+622a0bdafb676cfbbe611bf5;1;0,6666666666666666;null;21;Quadrante 1;1;casos
+622a0bdafb676cfbbe611bf6;2;1;null;21;Quadrante 2;1;casos
+622a0bdafb676cfbbe611bf7;3;1;null;21;Quadrante 3;1;casos
+622a0bdafb676cfbbe611bf8;4;0,5833333333333334;null;21;Quadrante 4;1;casos
+622a0bdafb676cfbbe611bf9;True;0,8125;3;21;Média;1;casos
+622a0bdbfb676cfbbe611bfa;1;0,6363636363636364;null;22;Quadrante 1;1;casos
+622a0bdbfb676cfbbe611bfb;2;1;null;22;Quadrante 2;1;casos
+622a0bdbfb676cfbbe611bfc;3;0,75;null;22;Quadrante 3;1;casos
+622a0bdcfb676cfbbe611bfd;4;0,8571428571428571;null;22;Quadrante 4;1;casos
+622a0bdcfb676cfbbe611bfe;True;0,8108766233766234;3;22;Média;1;casos
+622a0bdcfb676cfbbe611bff;1;0,8571428571428571;null;23;Quadrante 1;1;casos
+622a0bddfb676cfbbe611c00;2;0,8;null;23;Quadrante 2;1;casos
+622a0bddfb676cfbbe611c01;3;1;null;23;Quadrante 3;1;casos
+622a0bddfb676cfbbe611c02;4;1;null;23;Quadrante 4;1;casos
+622a0bddfb676cfbbe611c03;True;0,9142857142857143;3;23;Média;1;casos
+622a0bdefb676cfbbe611c04;1;0,8571428571428571;null;24;Quadrante 1;1;casos
+622a0bdefb676cfbbe611c05;2;1;null;24;Quadrante 2;1;casos
+622a0bdefb676cfbbe611c06;3;1;null;24;Quadrante 3;1;casos
+622a0bdefb676cfbbe611c07;4;1;null;24;Quadrante 4;1;casos
+622a0bdefb676cfbbe611c08;True;0,9642857142857143;3;24;Média;1;casos
+631927d31aaf1195e454033c;False;0,5714285714285714;null;3;1;1;casos
+631927d31aaf1195e454033d;False;0,45454545454545453;null;3;2;1;casos
+631927d31aaf1195e454033e;False;0,75;null;3;3;1;casos
+631927d31aaf1195e454033f;False;1;null;3;4;1;casos
+631927d31aaf1195e4540340;False;1;null;3;5;1;casos
+631927d31aaf1195e4540341;False;0,6;null;3;6;1;casos
+631927d31aaf1195e4540342;False;1;null;3;7;1;casos
+631927d31aaf1195e4540343;False;1;null;3;8;1;casos
+631927d41aaf1195e4540344;False;0,7969967532467532;3;3;Média;1;casos
+631927d51aaf1195e4540358;False;1;null;5;1;1;casos
+631927d61aaf1195e4540359;False;0,36363636363636365;null;5;2;1;casos
+631927d61aaf1195e454035a;False;0,6666666666666666;null;5;3;1;casos
+631927d61aaf1195e454035b;False;1;null;5;4;1;casos
+631927d61aaf1195e454035c;False;1;null;5;5;1;casos
+631927d61aaf1195e454035d;False;0,26666666666666666;null;5;6;1;casos
+631927d61aaf1195e454035e;False;0,5;null;5;7;1;casos
+631927d61aaf1195e454035f;False;1;null;5;8;1;casos
+631927d61aaf1195e4540360;False;0,7246212121212121;3;5;Média;1;casos
+631927d81aaf1195e4540374;False;0,75;null;4;1;1;casos
+631927d81aaf1195e4540375;False;1;null;4;2;1;casos
+631927d81aaf1195e4540376;False;0,5;null;4;3;1;casos
+631927d81aaf1195e4540377;False;1;null;4;4;1;casos
+631927d81aaf1195e4540378;False;1;null;4;5;1;casos
+631927d91aaf1195e4540379;False;1;null;4;6;1;casos
+631927d91aaf1195e454037a;False;1;null;4;7;1;casos
+631927d91aaf1195e454037b;False;1;null;4;8;1;casos
+631927d91aaf1195e454037c;False;0,90625;3;4;Média;1;casos
+631927db1aaf1195e4540390;False;1;null;6;1;1;casos
+631927db1aaf1195e4540391;False;0,5;null;6;2;1;casos
+631927db1aaf1195e4540392;False;1;null;6;3;1;casos
+631927db1aaf1195e4540393;False;1;null;6;4;1;casos
+631927db1aaf1195e4540394;False;1;null;6;5;1;casos
+631927db1aaf1195e4540395;False;0,75;null;6;6;1;casos
+631927db1aaf1195e4540396;False;0,6666666666666666;null;6;7;1;casos
+631927db1aaf1195e4540397;False;1;null;6;8;1;casos
+631927dc1aaf1195e4540398;False;0,8645833333333333;3;6;Média;1;casos
+631927de1aaf1195e45403ac;False;0,5555555555555556;null;7;1;1;casos
+631927de1aaf1195e45403ad;False;0,3333333333333333;null;7;2;1;casos
+631927de1aaf1195e45403ae;False;0,75;null;7;3;1;casos
+631927de1aaf1195e45403af;False;0,6;null;7;4;1;casos
+631927de1aaf1195e45403b0;False;0,75;null;7;5;1;casos
+631927de1aaf1195e45403b1;False;0,75;null;7;6;1;casos
+631927de1aaf1195e45403b2;False;0,75;null;7;7;1;casos
+631927de1aaf1195e45403b3;False;0,6666666666666666;null;7;8;1;casos
+631927de1aaf1195e45403b4;False;0,6444444444444444;3;7;Média;1;casos
+631927e01aaf1195e45403c8;False;0,8;null;9;1;1;casos
+631927e01aaf1195e45403c9;False;0,75;null;9;2;1;casos
+631927e01aaf1195e45403ca;False;0,8;null;9;3;1;casos
+631927e01aaf1195e45403cb;False;1;null;9;4;1;casos
+631927e01aaf1195e45403cc;False;1;null;9;5;1;casos
+631927e11aaf1195e45403cd;False;0,75;null;9;6;1;casos
+631927e11aaf1195e45403ce;False;1;null;9;7;1;casos
+631927e11aaf1195e45403cf;False;1;null;9;8;1;casos
+631927e11aaf1195e45403d0;False;0,8875;3;9;Média;1;casos
+631927e31aaf1195e45403e4;False;0,3333333333333333;null;10;1;1;casos
+631927e31aaf1195e45403e5;False;0,17391304347826086;null;10;2;1;casos
+631927e31aaf1195e45403e6;False;0,75;null;10;3;1;casos
+631927e31aaf1195e45403e7;False;0,6;null;10;4;1;casos
+631927e31aaf1195e45403e8;False;1;null;10;5;1;casos
+631927e31aaf1195e45403e9;False;0,2727272727272727;null;10;6;1;casos
+631927e31aaf1195e45403ea;False;1;null;10;7;1;casos
+631927e31aaf1195e45403eb;False;0,6;null;10;8;1;casos
+631927e31aaf1195e45403ec;False;0,5912467061923584;3;10;Média;1;casos
+631927e51aaf1195e4540400;False;0,2857142857142857;null;11;1;1;casos
+631927e51aaf1195e4540401;False;0;null;11;2;1;casos
+631927e51aaf1195e4540402;False;0;null;11;3;1;casos
+631927e51aaf1195e4540403;False;0;null;11;4;1;casos
+631927e51aaf1195e4540404;False;0;null;11;5;1;casos
+631927e51aaf1195e4540405;False;0;null;11;6;1;casos
+631927e51aaf1195e4540406;False;0;null;11;7;1;casos
+631927e51aaf1195e4540407;False;0;null;11;8;1;casos
+631927e51aaf1195e4540408;False;0,03571428571428571;3;11;Média;1;casos
+631927e71aaf1195e454041c;False;0,1875;null;12;1;1;casos
+631927e71aaf1195e454041d;False;1;null;12;2;1;casos
+631927e81aaf1195e454041e;False;0,5;null;12;3;1;casos
+631927e81aaf1195e454041f;False;1;null;12;4;1;casos
+631927e81aaf1195e4540420;False;1;null;12;5;1;casos
+631927e81aaf1195e4540421;False;1;null;12;6;1;casos
+631927e81aaf1195e4540422;False;0,8;null;12;7;1;casos
+631927e81aaf1195e4540423;False;1;null;12;8;1;casos
+631927e81aaf1195e4540424;False;0,8109375;3;12;Média;1;casos
+631927ea1aaf1195e4540438;False;1;null;13;1;1;casos
+631927ea1aaf1195e4540439;False;1;null;13;2;1;casos
+631927ea1aaf1195e454043a;False;0,8;null;13;3;1;casos
+631927ea1aaf1195e454043b;False;1;null;13;4;1;casos
+631927ea1aaf1195e454043c;False;1;null;13;5;1;casos
+631927eb1aaf1195e454043d;False;1;null;13;6;1;casos
+631927eb1aaf1195e454043e;False;1;null;13;7;1;casos
+631927eb1aaf1195e454043f;False;0,6666666666666666;null;13;8;1;casos
+631927eb1aaf1195e4540440;False;0,9333333333333333;3;13;Média;1;casos
+631927ed1aaf1195e4540454;False;0,75;null;14;1;1;casos
+631927ed1aaf1195e4540455;False;1;null;14;2;1;casos
+631927ed1aaf1195e4540456;False;1;null;14;3;1;casos
+631927ed1aaf1195e4540457;False;0,75;null;14;4;1;casos
+631927ed1aaf1195e4540458;False;1;null;14;5;1;casos
+631927ed1aaf1195e4540459;False;1;null;14;6;1;casos
+631927ed1aaf1195e454045a;False;1;null;14;7;1;casos
+631927ed1aaf1195e454045b;False;0,2857142857142857;null;14;8;1;casos
+631927ed1aaf1195e454045c;False;0,8482142857142857;3;14;Média;1;casos
+631927ef1aaf1195e4540470;False;1;null;16;1;1;casos
+631927ef1aaf1195e4540471;False;1;null;16;2;1;casos
+631927ef1aaf1195e4540472;False;0,6666666666666666;null;16;3;1;casos
+631927ef1aaf1195e4540473;False;1;null;16;4;1;casos
+631927f01aaf1195e4540474;False;0,6666666666666666;null;16;5;1;casos
+631927f01aaf1195e4540475;False;0,75;null;16;6;1;casos
+631927f01aaf1195e4540476;False;1;null;16;7;1;casos
+631927f01aaf1195e4540477;False;0,75;null;16;8;1;casos
+631927f01aaf1195e4540478;False;0,8541666666666666;3;16;Média;1;casos
+631927f21aaf1195e454048c;False;1;null;17;1;1;casos
+631927f21aaf1195e454048d;False;1;null;17;2;1;casos
+631927f21aaf1195e454048e;False;0,75;null;17;3;1;casos
+631927f21aaf1195e454048f;False;1;null;17;4;1;casos
+631927f21aaf1195e4540490;False;1;null;17;5;1;casos
+631927f21aaf1195e4540491;False;1;null;17;6;1;casos
+631927f21aaf1195e4540492;False;1;null;17;7;1;casos
+631927f31aaf1195e4540493;False;1;null;17;8;1;casos
+631927f31aaf1195e4540494;False;0,96875;3;17;Média;1;casos
+631927f41aaf1195e45404a8;False;0,75;null;18;1;1;casos
+631927f41aaf1195e45404a9;False;0,75;null;18;2;1;casos
+631927f51aaf1195e45404aa;False;0,8;null;18;3;1;casos
+631927f51aaf1195e45404ab;False;1;null;18;4;1;casos
+631927f51aaf1195e45404ac;False;1;null;18;5;1;casos
+631927f51aaf1195e45404ad;False;1;null;18;6;1;casos
+631927f51aaf1195e45404ae;False;1;null;18;7;1;casos
+631927f51aaf1195e45404af;False;1;null;18;8;1;casos
+631927f51aaf1195e45404b0;False;0,9125;3;18;Média;1;casos
+631927fa1aaf1195e45404c4;False;1;null;19;1;1;casos
+631927fa1aaf1195e45404c5;False;0,75;null;19;2;1;casos
+631927fa1aaf1195e45404c6;False;1;null;19;3;1;casos
+631927fa1aaf1195e45404c7;False;1;null;19;4;1;casos
+631927fa1aaf1195e45404c8;False;1;null;19;5;1;casos
+631927fa1aaf1195e45404c9;False;0,75;null;19;6;1;casos
+631927fa1aaf1195e45404ca;False;0,6666666666666666;null;19;7;1;casos
+631927fa1aaf1195e45404cb;False;0,25;null;19;8;1;casos
+631927fa1aaf1195e45404cc;False;0,8020833333333333;3;19;Média;1;casos
+631927fc1aaf1195e45404e0;False;0,75;null;20;1;1;casos
+631927fc1aaf1195e45404e1;False;1;null;20;2;1;casos
+631927fd1aaf1195e45404e2;False;1;null;20;3;1;casos
+631927fd1aaf1195e45404e3;False;1;null;20;4;1;casos
+631927fd1aaf1195e45404e4;False;1;null;20;5;1;casos
+631927fd1aaf1195e45404e5;False;1;null;20;6;1;casos
+631927fd1aaf1195e45404e6;False;1;null;20;7;1;casos
+631927fd1aaf1195e45404e7;False;1;null;20;8;1;casos
+631927fd1aaf1195e45404e8;False;0,96875;3;20;Média;1;casos
+631927ff1aaf1195e45404fc;False;1;null;21;1;1;casos
+631927ff1aaf1195e45404fd;False;0,5;null;21;2;1;casos
+631927ff1aaf1195e45404fe;False;1;null;21;3;1;casos
+631928001aaf1195e45404ff;False;1;null;21;4;1;casos
+631928001aaf1195e4540500;False;1;null;21;5;1;casos
+631928001aaf1195e4540501;False;1;null;21;6;1;casos
+631928001aaf1195e4540502;False;0,42857142857142855;null;21;7;1;casos
+631928001aaf1195e4540503;False;0,8;null;21;8;1;casos
+631928001aaf1195e4540504;False;0,8410714285714286;3;21;Média;1;casos
+631928021aaf1195e4540518;False;0,5;null;22;1;1;casos
+631928021aaf1195e4540519;False;0,8;null;22;2;1;casos
+631928021aaf1195e454051a;False;1;null;22;3;1;casos
+631928021aaf1195e454051b;False;1;null;22;4;1;casos
+631928021aaf1195e454051c;False;0,75;null;22;5;1;casos
+631928021aaf1195e454051d;False;0,75;null;22;6;1;casos
+631928021aaf1195e454051e;False;0,75;null;22;7;1;casos
+631928031aaf1195e454051f;False;1;null;22;8;1;casos
+631928031aaf1195e4540520;False;0,81875;3;22;Média;1;casos
+631928051aaf1195e4540534;False;0,75;null;23;1;1;casos
+631928051aaf1195e4540535;False;1;null;23;2;1;casos
+631928051aaf1195e4540536;False;0,7142857142857143;null;23;3;1;casos
+631928051aaf1195e4540537;False;1;null;23;4;1;casos
+631928051aaf1195e4540538;False;1;null;23;5;1;casos
+631928051aaf1195e4540539;False;1;null;23;6;1;casos
+631928051aaf1195e454053a;False;1;null;23;7;1;casos
+631928051aaf1195e454053b;False;1;null;23;8;1;casos
+631928051aaf1195e454053c;False;0,9330357142857143;3;23;Média;1;casos
+631928071aaf1195e4540550;False;0,75;null;24;1;1;casos
+631928071aaf1195e4540551;False;1;null;24;2;1;casos
+631928071aaf1195e4540552;False;1;null;24;3;1;casos
+631928081aaf1195e4540553;False;1;null;24;4;1;casos
+631928081aaf1195e4540554;False;1;null;24;5;1;casos
+631928081aaf1195e4540555;False;1;null;24;6;1;casos
+631928081aaf1195e4540556;False;1;null;24;7;1;casos
+631928081aaf1195e4540557;False;1;null;24;8;1;casos
+631928081aaf1195e4540558;False;0,96875;3;24;Média;1;casos

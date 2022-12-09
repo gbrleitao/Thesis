@@ -1,0 +1,107 @@
+\chapter{OTA - Exercício 5 - Analíticos} \label{Chap:AppendixAnaliticosA05}
+
+%CASO 1
+\begin{xltabular}{\textwidth}{|l|X|X|}
+	\hline
+	\endfirsthead
+	
+	\hline \multicolumn{3}{|c|}{continuação da página anterior} \\ \hline
+	\endhead
+	
+	\hline \multicolumn{3}{|r|}{Continua na próxima página} \\ \hline
+	\endfoot
+	
+	\hline
+	\endlastfoot
+	
+	\multicolumn{3}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{CASO DE TESTE 1}} \\ \hline
+
+
+%	\multicolumn{3}{|c|}{\cellcolor[HTML]{DEDEDE}\textbf{Nota Ponderada - EF1}} \\ \hline
+	\multicolumn{3}{|c|}{\textbf{Blocos}} \\ \hline
+	\multicolumn{3}{|l|}{\begin{tabular}[c]{@{}l@{}} \\ \includegraphics[width=0.9\linewidth]{chapters/appendixAnalytics/A05/C1.png}  \end{tabular}
+	} \\ \hline
+	\multicolumn{3}{|c|}{\textbf{Python gerado}} \\ \hline
+	\multicolumn{3}{|l|}{ \begin{tabular}[c]{@{}l@{}} \# CASO1 - A05\\ def A05C1():\\ \quad global PESO, EV2, EV1, EV4, EV3, EV5\\ \quad if EV2 + (EV3 + EV5) == 12 and EV1 + EV4 == 0:\\ \qquad PESO = 4\\ \quad elif EV2 + (EV3 + EV5) == 8 and EV1 + EV4 == 0:\\ \qquad PESO = 3\\ \quad elif EV2 + (EV3 + EV5) == 4 and EV1 + EV4 == 0:\\ \qquad PESO = 2\\ \quad elif EV2 + (EV3 + EV5) >= 4 and EV1 + EV4 == 1:\\ \qquad PESO = 1\\ \quad else:\\ \qquad PESO = 0\\ \quad return PESO \end{tabular} }\\ \hline
+	
+\end{xltabular}
+
+\pagebreak
+
+%CASO 2
+\begin{xltabular}{\textwidth}{|l|X|X|}
+	\hline
+	\endfirsthead
+	
+	\hline \multicolumn{3}{|c|}{continuação da página anterior} \\ \hline
+	\endhead
+	
+	\hline \multicolumn{3}{|r|}{Continua na próxima página} \\ \hline
+	\endfoot
+	
+	\hline
+	\endlastfoot
+	
+	\multicolumn{3}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{CASO DE TESTE 2}} \\ \hline
+	
+%	\multicolumn{3}{|c|}{\cellcolor[HTML]{DEDEDE}\textbf{Nota Ponderada - EF1}} \\ \hline
+	\multicolumn{3}{|c|}{\textbf{Blocos}} \\ \hline
+	\multicolumn{3}{|l|}{\begin{tabular}[c]{@{}l@{}} \\ \includegraphics[width=0.9\linewidth]{chapters/appendixAnalytics/A05/C2.png}  \end{tabular}
+	} \\ \hline
+	\multicolumn{3}{|c|}{\textbf{Python gerado}} \\ \hline
+	\multicolumn{3}{|l|}{ \begin{tabular}[c]{@{}l@{}} \# CASO2 - A05\\ def A05C2():\\ \quad global PESO, EV2, EV1, EV5, EV3, EV4\\ \quad if EV2 + (EV3 + EV4) == 12 and EV1 + EV5 == 0:\\ \qquad PESO = 4\\ \quad elif EV2 + (EV3 + EV4) == 8 and EV1 + EV5 == 0:\\ \qquad PESO = 3\\ \quad elif EV2 + (EV3 + EV4) == 4 and EV1 + EV5 == 0:\\ \qquad PESO = 2\\ \quad elif EV2 + (EV3 + EV4) >= 4 and EV1 + EV5 == 2:\\ \qquad PESO = 1\\ \quad else:\\ \qquad PESO = 0\\ \quad return PESO \end{tabular} }\\ \hline
+	
+\end{xltabular}
+
+\pagebreak
+%CASO 3
+\begin{xltabular}{\textwidth}{|l|X|X|}
+	\hline
+	\endfirsthead
+	
+	\hline \multicolumn{3}{|c|}{continuação da página anterior} \\ \hline
+	\endhead
+	
+	\hline \multicolumn{3}{|r|}{Continua na próxima página} \\ \hline
+	\endfoot
+	
+	\hline
+	\endlastfoot
+	
+	\multicolumn{3}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{CASO DE TESTE 3}} \\ \hline
+	
+	%EF1
+%	\multicolumn{3}{|c|}{\cellcolor[HTML]{DEDEDE}\textbf{Nota Ponderada - EF1}} \\ \hline
+	\multicolumn{3}{|c|}{\textbf{Blocos}} \\ \hline
+	\multicolumn{3}{|l|}{\begin{tabular}[c]{@{}l@{}} \\ \includegraphics[width=0.9\linewidth]{chapters/appendixAnalytics/A05/C3.png}  \end{tabular}
+	} \\ \hline
+	\multicolumn{3}{|c|}{\textbf{Python gerado}} \\ \hline
+	\multicolumn{3}{|l|}{ \begin{tabular}[c]{@{}l@{}}import math \\ \# Nota Ponderada - EF1 - Caso 3 - A05\\ def A05C3(EF1):\\ \quad global PESO, RE\\ \quad if EF1 >= 0:\\ \qquad RE = EF1 - 360 * math.floor(EF1 / 360)\\ \quad elif EF1 >= -360:\\ \qquad RE = 360 + EF1\\ \quad else:\\ \qquad RE = EF1 \% 360 + 360\\ \quad if RE == 45 or RE == 225:\\ \qquad PESO = 4\\ \quad elif RE == 315 or RE == 135:\\ \qquad PESO = 2\\ \quad elif RE > 0 and RE < 90 or RE > 180 and RE < 270:\\ \qquad PESO = 1\\ \quad else:\\ \qquad PESO = 0\\ \quad return PESO  \end{tabular} }\\ \hline	
+\end{xltabular}
+
+\pagebreak
+%CASO 4
+\begin{xltabular}{\textwidth}{|l|X|X|}
+	\hline
+	\endfirsthead
+	
+	\hline \multicolumn{3}{|c|}{continuação da página anterior} \\ \hline
+	\endhead
+	
+	\hline \multicolumn{3}{|r|}{Continua na próxima página} \\ \hline
+	\endfoot
+	
+	\hline
+	\endlastfoot
+	
+	\multicolumn{3}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{CASO DE TESTE 4}} \\ \hline
+	
+	%EF1
+%	\multicolumn{3}{|c|}{\cellcolor[HTML]{DEDEDE}\textbf{Nota Ponderada - EF1}} \\ \hline
+	\multicolumn{3}{|c|}{\textbf{Blocos}} \\ \hline
+	\multicolumn{3}{|l|}{\begin{tabular}[c]{@{}l@{}} \\ \includegraphics[width=0.9\linewidth]{chapters/appendixAnalytics/A05/C4.png}  \end{tabular}
+	} \\ \hline
+	\multicolumn{3}{|c|}{\textbf{Python gerado}} \\ \hline
+	\multicolumn{3}{|l|}{ \begin{tabular}[c]{@{}l@{}} import math \\ \# Nota Ponderada - EF1 - Caso 4 - A05\\ def A05C4(EF1): \\ \quad global PESO, RE\\ \quad if EF1 >= 0:\\ \qquad RE = EF1 - 360 * math.floor(EF1 / 360)\\ \quad elif EF1 >= -360:\\ \qquad RE = 360 + EF1\\ \quad else:\\ \qquad RE = EF1 \% 360 + 360\\ \quad if RE == 170 or RE == 350:\\ \qquad PESO = 4\\ \quad elif RE == 10 or RE == 190:\\ \qquad PESO = 2\\ \quad elif RE > 90 and RE < 180 or RE > 270 and RE < 360:\\ \qquad PESO = 1\\ \quad else:\\ \qquad PESO = 0\\ \quad return PESO \end{tabular} }\\ \hline
+	
+\end{xltabular}
