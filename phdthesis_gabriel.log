@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.12.8)  9 DEC 2022 01:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.12.8)  10 DEC 2022 19:40
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2465,12 +2465,7 @@ Package pdftex.def Info: chapters/results/Fase 3/E5_Virtual.png  used on input
 line 5641.
 (pdftex.def)             Requested size: 410.32918pt x 342.1414pt.
  [170] [171 <./chapters/results/Fase 3/E5_Virtual.png>] [172] [173]
-[174]
-
-LaTeX Warning: Reference `sec:resultados:mapeamentos' on page 175 undefined on 
-input line 6056.
-
-) (chapters/end.tex [175]
+[174]) (chapters/end.tex [175]
 Cap\'{\i }tulo 6.
 ------------------------------------------------------------------------------
  6 Conclus^^c3^^a3o
@@ -2510,7 +2505,7 @@ Ap\^endice B.
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula1Base20220611.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 
-<chapters/appendixLesson/Aula1Base20220611.pdf, id=3534, 597.55246pt x 845.0772
+<chapters/appendixLesson/Aula1Base20220611.pdf, id=3536, 597.55246pt x 845.0772
 4pt>
 File: chapters/appendixLesson/Aula1Base20220611.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula1Base20220611.pdf>
@@ -2522,7 +2517,7 @@ Package pdftex.def Info: chapters/appendixLesson/Aula1Base20220611.pdf  used on
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula1Base20220611.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 
-<chapters/appendixLesson/Aula1Base20220611.pdf, id=3535, page=2, 597.55246pt x 
+<chapters/appendixLesson/Aula1Base20220611.pdf, id=3537, page=2, 597.55246pt x 
 845.07724pt>
 File: chapters/appendixLesson/Aula1Base20220611.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula1Base20220611.pdf, page 2>
@@ -2534,7 +2529,7 @@ used on input line 46.
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula1Base20220611.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 
-<chapters/appendixLesson/Aula1Base20220611.pdf, id=3536, page=3, 597.55246pt x 
+<chapters/appendixLesson/Aula1Base20220611.pdf, id=3538, page=3, 597.55246pt x 
 845.07724pt>
 File: chapters/appendixLesson/Aula1Base20220611.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula1Base20220611.pdf, page 3>
@@ -2546,7 +2541,7 @@ used on input line 47.
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula1Base20220611.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 
-<chapters/appendixLesson/Aula1Base20220611.pdf, id=3537, page=4, 597.55246pt x 
+<chapters/appendixLesson/Aula1Base20220611.pdf, id=3539, page=4, 597.55246pt x 
 845.07724pt>
 File: chapters/appendixLesson/Aula1Base20220611.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula1Base20220611.pdf, page 4>
@@ -2558,7 +2553,7 @@ used on input line 48.
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula1Base20220611.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 
-<chapters/appendixLesson/Aula1Base20220611.pdf, id=3538, page=5, 597.55246pt x 
+<chapters/appendixLesson/Aula1Base20220611.pdf, id=3540, page=5, 597.55246pt x 
 845.07724pt>
 File: chapters/appendixLesson/Aula1Base20220611.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula1Base20220611.pdf, page 5>
@@ -2570,7 +2565,7 @@ used on input line 49.
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula1Base20220611.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 
-<chapters/appendixLesson/Aula1Base20220611.pdf, id=3539, page=6, 597.55246pt x 
+<chapters/appendixLesson/Aula1Base20220611.pdf, id=3541, page=6, 597.55246pt x 
 845.07724pt>
 File: chapters/appendixLesson/Aula1Base20220611.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula1Base20220611.pdf, page 6>
@@ -2582,7 +2577,7 @@ used on input line 50.
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula1Base20220611.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 
-<chapters/appendixLesson/Aula1Base20220611.pdf, id=3540, page=7, 597.55246pt x 
+<chapters/appendixLesson/Aula1Base20220611.pdf, id=3542, page=7, 597.55246pt x 
 845.07724pt>
 File: chapters/appendixLesson/Aula1Base20220611.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula1Base20220611.pdf, page 7>
@@ -2655,7 +2650,7 @@ Overfull \hbox (1.72472pt too wide) in alignment at lines 78--78
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3653, 597.55246pt x 845.07724pt>
+<chapters/appendixLesson/Aula2.pdf, id=3655, 597.55246pt x 845.07724pt>
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf>
 Package pdftex.def Info: chapters/appendixLesson/Aula2.pdf  used on input line 
@@ -2665,7 +2660,7 @@ Package pdftex.def Info: chapters/appendixLesson/Aula2.pdf  used on input line
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3654, page=2, 597.55246pt x 845.07724pt>
+<chapters/appendixLesson/Aula2.pdf, id=3656, page=2, 597.55246pt x 845.07724pt>
 
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 2>
@@ -2676,7 +2671,7 @@ t line 91.
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3655, page=3, 597.55246pt x 845.07724pt>
+<chapters/appendixLesson/Aula2.pdf, id=3657, page=3, 597.55246pt x 845.07724pt>
 
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 3>
@@ -2687,7 +2682,7 @@ t line 92.
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3656, page=4, 597.55246pt x 845.07724pt>
+<chapters/appendixLesson/Aula2.pdf, id=3658, page=4, 597.55246pt x 845.07724pt>
 
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 4>
@@ -2698,7 +2693,7 @@ t line 93.
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3657, page=5, 597.55246pt x 845.07724pt>
+<chapters/appendixLesson/Aula2.pdf, id=3659, page=5, 597.55246pt x 845.07724pt>
 
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 5>
@@ -2709,7 +2704,7 @@ t line 94.
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3658, page=6, 597.55246pt x 845.07724pt>
+<chapters/appendixLesson/Aula2.pdf, id=3660, page=6, 597.55246pt x 845.07724pt>
 
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 6>
@@ -2720,7 +2715,7 @@ t line 95.
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3659, page=7, 597.55246pt x 845.07724pt>
+<chapters/appendixLesson/Aula2.pdf, id=3661, page=7, 597.55246pt x 845.07724pt>
 
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 7>
@@ -2731,7 +2726,7 @@ t line 96.
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3660, page=8, 597.55246pt x 845.07724pt>
+<chapters/appendixLesson/Aula2.pdf, id=3662, page=8, 597.55246pt x 845.07724pt>
 
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 8>
@@ -2742,7 +2737,7 @@ t line 97.
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3661, page=9, 597.55246pt x 845.07724pt>
+<chapters/appendixLesson/Aula2.pdf, id=3663, page=9, 597.55246pt x 845.07724pt>
 
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 9>
@@ -2753,7 +2748,7 @@ t line 98.
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3662, page=10, 597.55246pt x 845.07724pt
+<chapters/appendixLesson/Aula2.pdf, id=3664, page=10, 597.55246pt x 845.07724pt
 >
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 10>
@@ -2764,7 +2759,7 @@ ut line 99.
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3663, page=11, 597.55246pt x 845.07724pt
+<chapters/appendixLesson/Aula2.pdf, id=3665, page=11, 597.55246pt x 845.07724pt
 >
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 11>
@@ -2775,7 +2770,7 @@ ut line 100.
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3664, page=12, 597.55246pt x 845.07724pt
+<chapters/appendixLesson/Aula2.pdf, id=3666, page=12, 597.55246pt x 845.07724pt
 >
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 12>
@@ -2786,7 +2781,7 @@ ut line 101.
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3665, page=13, 597.55246pt x 845.07724pt
+<chapters/appendixLesson/Aula2.pdf, id=3667, page=13, 597.55246pt x 845.07724pt
 >
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 13>
@@ -2797,7 +2792,7 @@ ut line 102.
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3666, page=14, 597.55246pt x 845.07724pt
+<chapters/appendixLesson/Aula2.pdf, id=3668, page=14, 597.55246pt x 845.07724pt
 >
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 14>
@@ -2808,7 +2803,7 @@ ut line 103.
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3667, page=15, 597.55246pt x 845.07724pt
+<chapters/appendixLesson/Aula2.pdf, id=3669, page=15, 597.55246pt x 845.07724pt
 >
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 15>
@@ -2819,7 +2814,7 @@ ut line 104.
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3668, page=16, 597.55246pt x 845.07724pt
+<chapters/appendixLesson/Aula2.pdf, id=3670, page=16, 597.55246pt x 845.07724pt
 >
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 16>
@@ -2830,7 +2825,7 @@ ut line 105.
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3669, page=17, 597.55246pt x 845.07724pt
+<chapters/appendixLesson/Aula2.pdf, id=3671, page=17, 597.55246pt x 845.07724pt
 >
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 17>
@@ -2847,13 +2842,13 @@ a2.pdf>] [217 <./chapters/appendixLesson/Aula2.pdf>] [218 <./chapters/appendixL
 esson/Aula2.pdf>] [219 <./chapters/appendixLesson/Aula2.pdf>] [220 <./chapters/
 appendixLesson/Aula2.pdf>] [221 <./chapters/appendixLesson/Aula2.pdf>] [222 <./
 chapters/appendixLesson/Aula2.pdf>]
-<chapters/appendixLesson/Q2.jpg, id=3845, 281.55188pt x 234.8775pt>
+<chapters/appendixLesson/Q2.jpg, id=3847, 281.55188pt x 234.8775pt>
 File: chapters/appendixLesson/Q2.jpg Graphic file (type jpg)
 <use chapters/appendixLesson/Q2.jpg>
 Package pdftex.def Info: chapters/appendixLesson/Q2.jpg  used on input line 136
 .
 (pdftex.def)             Requested size: 281.55118pt x 234.87692pt.
-<chapters/appendixLesson/circulo_trigonometrico.png, id=3846, 579.1236pt x 803.
+<chapters/appendixLesson/circulo_trigonometrico.png, id=3848, 579.1236pt x 803.
 6424pt>
 File: chapters/appendixLesson/circulo_trigonometrico.png Graphic file (type png
 )
@@ -2863,7 +2858,7 @@ ed on input line 159.
 (pdftex.def)             Requested size: 431.92685pt x 599.40715pt.
  [223 <./chapters/appendixLesson/Q2.jpg>]
 [224 <./chapters/appendixLesson/circulo_trigonometrico.png>]
-<chapters/appendixLesson/Interface_A01.png, id=3860, 535.7616pt x 764.8575pt>
+<chapters/appendixLesson/Interface_A01.png, id=3862, 535.7616pt x 764.8575pt>
 File: chapters/appendixLesson/Interface_A01.png Graphic file (type png)
 <use chapters/appendixLesson/Interface_A01.png>
 Package pdftex.def Info: chapters/appendixLesson/Interface_A01.png  used on inp
@@ -2872,7 +2867,7 @@ ut line 176.
  [225
 
  <./chapters/appendixLesson/Interface_A01.png>]
-<chapters/appendixLesson/Interface_A02.png, id=3866, 598.3956pt x 846.0408pt>
+<chapters/appendixLesson/Interface_A02.png, id=3868, 598.3956pt x 846.0408pt>
 File: chapters/appendixLesson/Interface_A02.png Graphic file (type png)
 <use chapters/appendixLesson/Interface_A02.png>
 Package pdftex.def Info: chapters/appendixLesson/Interface_A02.png  used on inp
@@ -2881,7 +2876,7 @@ ut line 183.
  [226
 
  <./chapters/appendixLesson/Interface_A02.png>]
-<chapters/appendixLesson/Interface_A03.png, id=3872, 536.4843pt x 764.8575pt>
+<chapters/appendixLesson/Interface_A03.png, id=3874, 536.4843pt x 764.8575pt>
 File: chapters/appendixLesson/Interface_A03.png Graphic file (type png)
 <use chapters/appendixLesson/Interface_A03.png>
 Package pdftex.def Info: chapters/appendixLesson/Interface_A03.png  used on inp
@@ -2890,7 +2885,7 @@ ut line 190.
  [227
 
  <./chapters/appendixLesson/Interface_A03.png>]
-<chapters/appendixLesson/Interface_A04.png, id=3879, 536.4843pt x 764.8575pt>
+<chapters/appendixLesson/Interface_A04.png, id=3881, 536.4843pt x 764.8575pt>
 File: chapters/appendixLesson/Interface_A04.png Graphic file (type png)
 <use chapters/appendixLesson/Interface_A04.png>
 Package pdftex.def Info: chapters/appendixLesson/Interface_A04.png  used on inp
@@ -2899,7 +2894,7 @@ ut line 197.
  [228
 
  <./chapters/appendixLesson/Interface_A04.png>]
-<chapters/appendixLesson/Interface_A05.png, id=3885, 527.8119pt x 808.4604pt>
+<chapters/appendixLesson/Interface_A05.png, id=3887, 527.8119pt x 808.4604pt>
 File: chapters/appendixLesson/Interface_A05.png Graphic file (type png)
 <use chapters/appendixLesson/Interface_A05.png>
 Package pdftex.def Info: chapters/appendixLesson/Interface_A05.png  used on inp
@@ -2908,7 +2903,7 @@ ut line 204.
  [229
 
  <./chapters/appendixLesson/Interface_A05.png>]
-<chapters/appendixLesson/Interface_A06.png, id=3891, 579.1236pt x 808.4604pt>
+<chapters/appendixLesson/Interface_A06.png, id=3893, 579.1236pt x 808.4604pt>
 File: chapters/appendixLesson/Interface_A06.png Graphic file (type png)
 <use chapters/appendixLesson/Interface_A06.png>
 Package pdftex.def Info: chapters/appendixLesson/Interface_A06.png  used on inp
@@ -3994,31 +3989,31 @@ Ap\^endice N.
 ------------------------------------------------------------------------------
  N Formul^^c3^^a1rio de Experi^^c3^^aancia do Usu^^c3^^a1rio
 ------------------------------------------------------------------------------
-<chapters/appendixUX/UX_Tela1.png, id=4768, 492.33937pt x 621.07031pt>
+<chapters/appendixUX/UX_Tela1.png, id=4770, 492.33937pt x 621.07031pt>
 File: chapters/appendixUX/UX_Tela1.png Graphic file (type png)
 <use chapters/appendixUX/UX_Tela1.png>
 Package pdftex.def Info: chapters/appendixUX/UX_Tela1.png  used on input line 7
 .
 (pdftex.def)             Requested size: 345.54279pt x 435.9119pt.
-<chapters/appendixUX/UX_Tela2.png, id=4769, 399.74344pt x 670.75594pt>
+<chapters/appendixUX/UX_Tela2.png, id=4771, 399.74344pt x 670.75594pt>
 File: chapters/appendixUX/UX_Tela2.png Graphic file (type png)
 <use chapters/appendixUX/UX_Tela2.png>
 Package pdftex.def Info: chapters/appendixUX/UX_Tela2.png  used on input line 1
 4.
 (pdftex.def)             Requested size: 345.54279pt x 579.83768pt.
-<chapters/appendixUX/UX_Tela3.png, id=4770, 492.33937pt x 682.04813pt>
+<chapters/appendixUX/UX_Tela3.png, id=4772, 492.33937pt x 682.04813pt>
 File: chapters/appendixUX/UX_Tela3.png Graphic file (type png)
 <use chapters/appendixUX/UX_Tela3.png>
 Package pdftex.def Info: chapters/appendixUX/UX_Tela3.png  used on input line 2
 1.
 (pdftex.def)             Requested size: 345.54279pt x 478.71053pt.
-<chapters/appendixUX/UX_Tela4.png, id=4771, 489.32813pt x 697.10437pt>
+<chapters/appendixUX/UX_Tela4.png, id=4773, 489.32813pt x 697.10437pt>
 File: chapters/appendixUX/UX_Tela4.png Graphic file (type png)
 <use chapters/appendixUX/UX_Tela4.png>
 Package pdftex.def Info: chapters/appendixUX/UX_Tela4.png  used on input line 2
 8.
 (pdftex.def)             Requested size: 345.54279pt x 492.2777pt.
-<chapters/appendixUX/UX_Tela5.png, id=4772, 488.57532pt x 655.69969pt>
+<chapters/appendixUX/UX_Tela5.png, id=4774, 488.57532pt x 655.69969pt>
 File: chapters/appendixUX/UX_Tela5.png Graphic file (type png)
 <use chapters/appendixUX/UX_Tela5.png>
 Package pdftex.def Info: chapters/appendixUX/UX_Tela5.png  used on input line 3
@@ -4030,19 +4025,16 @@ Package pdftex.def Info: chapters/appendixUX/UX_Tela5.png  used on input line 3
 a2.png>] [378 <./chapters/appendixUX/UX_Tela3.png>] [379 <./chapters/appendixUX
 /UX_Tela4.png>] [380 <./chapters/appendixUX/UX_Tela5.png>]
 (phdthesis_gabriel.aux)
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `phdthesis_gabriel.out' has not changed.
 (rerunfilecheck)             Checksum: F97AA4BFE9FBE571F51ACA18A40B9D17;28460.
 runsystem(del phdthesis_gabriel.pyg)...executed.
 
  ) 
 Here is how much of TeX's memory you used:
- 49461 strings out of 475385
- 1111527 string characters out of 2776907
- 1922872 words of memory out of 3000000
- 68738 multiletter control sequences out of 15000+600000
+ 49460 strings out of 475385
+ 1111499 string characters out of 2776907
+ 1922873 words of memory out of 3000000
+ 68737 multiletter control sequences out of 15000+600000
  588297 words of font info for 233 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,20n,89p,2546b,2623s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -4063,9 +4055,9 @@ fonts/type1/urw/times/utmbi8a.pfb><D:/Users/gabri/AppData/Local/Programs/MiKTeX
 /fonts/type1/urw/times/utmr8a.pfb><D:/Users/gabri/AppData/Local/Programs/MiKTeX
 /fonts/type1/urw/times/utmr8a.pfb><D:/Users/gabri/AppData/Local/Programs/MiKTeX
 /fonts/type1/urw/times/utmri8a.pfb>
-Output written on phdthesis_gabriel.pdf (400 pages, 17927605 bytes).
+Output written on phdthesis_gabriel.pdf (400 pages, 17929850 bytes).
 PDF statistics:
- 5066 PDF objects out of 5155 (max. 8388607)
+ 5068 PDF objects out of 5155 (max. 8388607)
  911 named destinations out of 1000 (max. 500000)
  2274 words of extra memory for PDF output out of 10000 (max. 10000000)
 
