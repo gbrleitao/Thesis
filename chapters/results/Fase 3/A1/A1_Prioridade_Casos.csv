@@ -1,0 +1,547 @@
+_id,agrupamento,fonte,id_estudante,id_fonte,id_questionario,método,nota,tipo
+621b6a0b13008a8aa554de17,1,null,3,Quadrante 1,1,casos,0,binaria
+621b6a0c13008a8aa554de18,1,null,3,Quadrante 1,1,casos,0,proporcional
+621b6a0c13008a8aa554de19,2,null,3,Quadrante 2,1,casos,0,binaria
+621b6a0c13008a8aa554de1a,2,null,3,Quadrante 2,1,casos,0,proporcional
+621b6a0c13008a8aa554de1b,3,null,3,Quadrante 3,1,casos,0,binaria
+621b6a0c13008a8aa554de1c,3,null,3,Quadrante 3,1,casos,0,proporcional
+621b6a0c13008a8aa554de1d,4,null,3,Quadrante 4,1,casos,0,binaria
+621b6a0c13008a8aa554de1e,4,null,3,Quadrante 4,1,casos,0,proporcional
+621b6a0c13008a8aa554de1f,1,null,5,Quadrante 1,1,casos,0,binaria
+621b6a0d13008a8aa554de20,1,null,5,Quadrante 1,1,casos,0,proporcional
+621b6a0d13008a8aa554de21,2,null,5,Quadrante 2,1,casos,0,binaria
+621b6a0d13008a8aa554de22,2,null,5,Quadrante 2,1,casos,0,proporcional
+621b6a0d13008a8aa554de23,3,null,5,Quadrante 3,1,casos,0,binaria
+621b6a0d13008a8aa554de24,3,null,5,Quadrante 3,1,casos,0,proporcional
+621b6a0d13008a8aa554de25,4,null,5,Quadrante 4,1,casos,8.055555555555555,binaria
+621b6a0d13008a8aa554de26,4,null,5,Quadrante 4,1,casos,2.6851851851851856,proporcional
+621b6a0d13008a8aa554de27,1,null,4,Quadrante 1,1,casos,0,binaria
+621b6a0e13008a8aa554de28,1,null,4,Quadrante 1,1,casos,0,proporcional
+621b6a0e13008a8aa554de29,2,null,4,Quadrante 2,1,casos,0,binaria
+621b6a0e13008a8aa554de2a,2,null,4,Quadrante 2,1,casos,0,proporcional
+621b6a0e13008a8aa554de2b,3,null,4,Quadrante 3,1,casos,0,binaria
+621b6a0e13008a8aa554de2c,3,null,4,Quadrante 3,1,casos,0,proporcional
+621b6a0e13008a8aa554de2d,4,null,4,Quadrante 4,1,casos,0,binaria
+621b6a0e13008a8aa554de2e,4,null,4,Quadrante 4,1,casos,0,proporcional
+621b6a0e13008a8aa554de2f,1,null,6,Quadrante 1,1,casos,0,binaria
+621b6a0e13008a8aa554de30,1,null,6,Quadrante 1,1,casos,0,proporcional
+621b6a0f13008a8aa554de31,2,null,6,Quadrante 2,1,casos,0,binaria
+621b6a0f13008a8aa554de32,2,null,6,Quadrante 2,1,casos,0,proporcional
+621b6a0f13008a8aa554de33,3,null,6,Quadrante 3,1,casos,0,binaria
+621b6a0f13008a8aa554de34,3,null,6,Quadrante 3,1,casos,0,proporcional
+621b6a0f13008a8aa554de35,4,null,6,Quadrante 4,1,casos,0,binaria
+621b6a0f13008a8aa554de36,4,null,6,Quadrante 4,1,casos,0,proporcional
+621b6a0f13008a8aa554de37,1,null,7,Quadrante 1,1,casos,0,binaria
+621b6a1013008a8aa554de38,1,null,7,Quadrante 1,1,casos,0,proporcional
+621b6a1013008a8aa554de39,2,null,7,Quadrante 2,1,casos,0,binaria
+621b6a1013008a8aa554de3a,2,null,7,Quadrante 2,1,casos,0,proporcional
+621b6a1013008a8aa554de3b,3,null,7,Quadrante 3,1,casos,0,binaria
+621b6a1013008a8aa554de3c,3,null,7,Quadrante 3,1,casos,0,proporcional
+621b6a1013008a8aa554de3d,4,null,7,Quadrante 4,1,casos,8.333333333333334,binaria
+621b6a1013008a8aa554de3e,4,null,7,Quadrante 4,1,casos,2.7777777777777786,proporcional
+621b6a1013008a8aa554de3f,1,null,9,Quadrante 1,1,casos,0,binaria
+621b6a1013008a8aa554de40,1,null,9,Quadrante 1,1,casos,0,proporcional
+621b6a1113008a8aa554de41,2,null,9,Quadrante 2,1,casos,0,binaria
+621b6a1113008a8aa554de42,2,null,9,Quadrante 2,1,casos,0,proporcional
+621b6a1113008a8aa554de43,3,null,9,Quadrante 3,1,casos,0,binaria
+621b6a1113008a8aa554de44,3,null,9,Quadrante 3,1,casos,0,proporcional
+621b6a1113008a8aa554de45,4,null,9,Quadrante 4,1,casos,0,binaria
+621b6a1113008a8aa554de46,4,null,9,Quadrante 4,1,casos,0,proporcional
+621b6a1113008a8aa554de47,1,null,10,Quadrante 1,1,casos,5.573937908496733,binaria
+621b6a1113008a8aa554de48,1,null,10,Quadrante 1,1,casos,1.8579793028322447,proporcional
+621b6a1113008a8aa554de49,2,null,10,Quadrante 2,1,casos,0,binaria
+621b6a1213008a8aa554de4a,2,null,10,Quadrante 2,1,casos,0,proporcional
+621b6a1213008a8aa554de4b,3,null,10,Quadrante 3,1,casos,0,binaria
+621b6a1213008a8aa554de4c,3,null,10,Quadrante 3,1,casos,0,proporcional
+621b6a1213008a8aa554de4d,4,null,10,Quadrante 4,1,casos,8.88888888888889,binaria
+621b6a1213008a8aa554de4e,4,null,10,Quadrante 4,1,casos,2.9629629629629637,proporcional
+621b6a1213008a8aa554de4f,1,null,11,Quadrante 1,1,casos,2.8125,binaria
+621b6a1213008a8aa554de50,1,null,11,Quadrante 1,1,casos,1.875,proporcional
+621b6a1213008a8aa554de51,2,null,11,Quadrante 2,1,casos,0,binaria
+621b6a1213008a8aa554de52,2,null,11,Quadrante 2,1,casos,0,proporcional
+621b6a1313008a8aa554de53,3,null,11,Quadrante 3,1,casos,0,binaria
+621b6a1313008a8aa554de54,3,null,11,Quadrante 3,1,casos,0,proporcional
+621b6a1313008a8aa554de55,4,null,11,Quadrante 4,1,casos,0,binaria
+621b6a1313008a8aa554de56,4,null,11,Quadrante 4,1,casos,0,proporcional
+621b6a1313008a8aa554de57,1,null,12,Quadrante 1,1,casos,0,binaria
+621b6a1313008a8aa554de58,1,null,12,Quadrante 1,1,casos,0,proporcional
+621b6a1313008a8aa554de59,2,null,12,Quadrante 2,1,casos,0,binaria
+621b6a1313008a8aa554de5a,2,null,12,Quadrante 2,1,casos,0,proporcional
+621b6a1413008a8aa554de5b,3,null,12,Quadrante 3,1,casos,0,binaria
+621b6a1413008a8aa554de5c,3,null,12,Quadrante 3,1,casos,0,proporcional
+621b6a1413008a8aa554de5d,4,null,12,Quadrante 4,1,casos,0,binaria
+621b6a1413008a8aa554de5e,4,null,12,Quadrante 4,1,casos,0,proporcional
+621b6a1413008a8aa554de5f,1,null,13,Quadrante 1,1,casos,0,binaria
+621b6a1413008a8aa554de60,1,null,13,Quadrante 1,1,casos,0,proporcional
+621b6a1413008a8aa554de61,2,null,13,Quadrante 2,1,casos,0,binaria
+621b6a1413008a8aa554de62,2,null,13,Quadrante 2,1,casos,0,proporcional
+621b6a1413008a8aa554de63,3,null,13,Quadrante 3,1,casos,0,binaria
+621b6a1513008a8aa554de64,3,null,13,Quadrante 3,1,casos,0,proporcional
+621b6a1513008a8aa554de65,4,null,13,Quadrante 4,1,casos,8.333333333333332,binaria
+621b6a1513008a8aa554de66,4,null,13,Quadrante 4,1,casos,2.777777777777778,proporcional
+621b6a1513008a8aa554de67,1,null,14,Quadrante 1,1,casos,0,binaria
+621b6a1513008a8aa554de68,1,null,14,Quadrante 1,1,casos,0,proporcional
+621b6a1513008a8aa554de69,2,null,14,Quadrante 2,1,casos,0,binaria
+621b6a1513008a8aa554de6a,2,null,14,Quadrante 2,1,casos,0,proporcional
+621b6a1513008a8aa554de6b,3,null,14,Quadrante 3,1,casos,0,binaria
+621b6a1613008a8aa554de6c,3,null,14,Quadrante 3,1,casos,0,proporcional
+621b6a1613008a8aa554de6d,4,null,14,Quadrante 4,1,casos,0,binaria
+621b6a1613008a8aa554de6e,4,null,14,Quadrante 4,1,casos,0,proporcional
+621b6a1613008a8aa554de6f,1,null,16,Quadrante 1,1,casos,0,binaria
+621b6a1613008a8aa554de70,1,null,16,Quadrante 1,1,casos,0,proporcional
+621b6a1613008a8aa554de71,2,null,16,Quadrante 2,1,casos,0,binaria
+621b6a1613008a8aa554de72,2,null,16,Quadrante 2,1,casos,0,proporcional
+621b6a1713008a8aa554de73,3,null,16,Quadrante 3,1,casos,0,binaria
+621b6a1713008a8aa554de74,3,null,16,Quadrante 3,1,casos,0,proporcional
+621b6a1713008a8aa554de75,4,null,16,Quadrante 4,1,casos,9.166666666666668,binaria
+621b6a1713008a8aa554de76,4,null,16,Quadrante 4,1,casos,3.0555555555555562,proporcional
+621b6a1713008a8aa554de77,1,null,17,Quadrante 1,1,casos,0,binaria
+621b6a1713008a8aa554de78,1,null,17,Quadrante 1,1,casos,0,proporcional
+621b6a1713008a8aa554de79,2,null,17,Quadrante 2,1,casos,0,binaria
+621b6a1713008a8aa554de7a,2,null,17,Quadrante 2,1,casos,0,proporcional
+621b6a1713008a8aa554de7b,3,null,17,Quadrante 3,1,casos,0,binaria
+621b6a1813008a8aa554de7c,3,null,17,Quadrante 3,1,casos,0,proporcional
+621b6a1813008a8aa554de7d,4,null,17,Quadrante 4,1,casos,0,binaria
+621b6a1813008a8aa554de7e,4,null,17,Quadrante 4,1,casos,0,proporcional
+621b6a1813008a8aa554de7f,1,null,18,Quadrante 1,1,casos,0,binaria
+621b6a1813008a8aa554de80,1,null,18,Quadrante 1,1,casos,0,proporcional
+621b6a1813008a8aa554de81,2,null,18,Quadrante 2,1,casos,0,binaria
+621b6a1813008a8aa554de82,2,null,18,Quadrante 2,1,casos,0,proporcional
+621b6a1813008a8aa554de83,3,null,18,Quadrante 3,1,casos,0,binaria
+621b6a1913008a8aa554de84,3,null,18,Quadrante 3,1,casos,0,proporcional
+621b6a1913008a8aa554de85,4,null,18,Quadrante 4,1,casos,10,binaria
+621b6a1913008a8aa554de86,4,null,18,Quadrante 4,1,casos,3.333333333333334,proporcional
+621b6a1913008a8aa554de87,1,null,19,Quadrante 1,1,casos,0,binaria
+621b6a1913008a8aa554de88,1,null,19,Quadrante 1,1,casos,0,proporcional
+621b6a1913008a8aa554de89,2,null,19,Quadrante 2,1,casos,0,binaria
+621b6a1913008a8aa554de8a,2,null,19,Quadrante 2,1,casos,0,proporcional
+621b6a1913008a8aa554de8b,3,null,19,Quadrante 3,1,casos,0,binaria
+621b6a1913008a8aa554de8c,3,null,19,Quadrante 3,1,casos,0,proporcional
+621b6a1a13008a8aa554de8d,4,null,19,Quadrante 4,1,casos,0,binaria
+621b6a1a13008a8aa554de8e,4,null,19,Quadrante 4,1,casos,0,proporcional
+621b6a1a13008a8aa554de8f,1,null,20,Quadrante 1,1,casos,0,binaria
+621b6a1a13008a8aa554de90,1,null,20,Quadrante 1,1,casos,0,proporcional
+621b6a1a13008a8aa554de91,2,null,20,Quadrante 2,1,casos,0,binaria
+621b6a1a13008a8aa554de92,2,null,20,Quadrante 2,1,casos,0,proporcional
+621b6a1a13008a8aa554de93,3,null,20,Quadrante 3,1,casos,0,binaria
+621b6a1a13008a8aa554de94,3,null,20,Quadrante 3,1,casos,0,proporcional
+621b6a1b13008a8aa554de95,4,null,20,Quadrante 4,1,casos,0,binaria
+621b6a1b13008a8aa554de96,4,null,20,Quadrante 4,1,casos,0,proporcional
+621b6a1b13008a8aa554de97,1,null,21,Quadrante 1,1,casos,0,binaria
+621b6a1b13008a8aa554de98,1,null,21,Quadrante 1,1,casos,0,proporcional
+621b6a1b13008a8aa554de99,2,null,21,Quadrante 2,1,casos,0,binaria
+621b6a1b13008a8aa554de9a,2,null,21,Quadrante 2,1,casos,0,proporcional
+621b6a1b13008a8aa554de9b,3,null,21,Quadrante 3,1,casos,0,binaria
+621b6a1c13008a8aa554de9c,3,null,21,Quadrante 3,1,casos,0,proporcional
+621b6a1c13008a8aa554de9d,4,null,21,Quadrante 4,1,casos,0,binaria
+621b6a1c13008a8aa554de9e,4,null,21,Quadrante 4,1,casos,0,proporcional
+621b6a1c13008a8aa554de9f,1,null,22,Quadrante 1,1,casos,0,binaria
+621b6a1c13008a8aa554dea0,1,null,22,Quadrante 1,1,casos,0,proporcional
+621b6a1c13008a8aa554dea1,2,null,22,Quadrante 2,1,casos,0,binaria
+621b6a1c13008a8aa554dea2,2,null,22,Quadrante 2,1,casos,0,proporcional
+621b6a1c13008a8aa554dea3,3,null,22,Quadrante 3,1,casos,0,binaria
+621b6a1c13008a8aa554dea4,3,null,22,Quadrante 3,1,casos,0,proporcional
+621b6a1d13008a8aa554dea5,4,null,22,Quadrante 4,1,casos,9.166666666666668,binaria
+621b6a1d13008a8aa554dea6,4,null,22,Quadrante 4,1,casos,3.0555555555555562,proporcional
+621b6a1d13008a8aa554dea7,1,null,23,Quadrante 1,1,casos,0,binaria
+621b6a1d13008a8aa554dea8,1,null,23,Quadrante 1,1,casos,0,proporcional
+621b6a1d13008a8aa554dea9,2,null,23,Quadrante 2,1,casos,0,binaria
+621b6a1d13008a8aa554deaa,2,null,23,Quadrante 2,1,casos,0,proporcional
+621b6a1d13008a8aa554deab,3,null,23,Quadrante 3,1,casos,0,binaria
+621b6a1d13008a8aa554deac,3,null,23,Quadrante 3,1,casos,0,proporcional
+621b6a1e13008a8aa554dead,4,null,23,Quadrante 4,1,casos,0,binaria
+621b6a1e13008a8aa554deae,4,null,23,Quadrante 4,1,casos,0,proporcional
+621b6a1e13008a8aa554deaf,1,null,24,Quadrante 1,1,casos,0,binaria
+621b6a1e13008a8aa554deb0,1,null,24,Quadrante 1,1,casos,0,proporcional
+621b6a1e13008a8aa554deb1,2,null,24,Quadrante 2,1,casos,0,binaria
+621b6a1e13008a8aa554deb2,2,null,24,Quadrante 2,1,casos,0,proporcional
+621b6a1e13008a8aa554deb3,3,null,24,Quadrante 3,1,casos,0,binaria
+621b6a1e13008a8aa554deb4,3,null,24,Quadrante 3,1,casos,0,proporcional
+621b6a1e13008a8aa554deb5,4,null,24,Quadrante 4,1,casos,0,binaria
+621b6a1f13008a8aa554deb6,4,null,24,Quadrante 4,1,casos,0,proporcional
+621b6a1f13008a8aa554deb7,1,null,25,Quadrante 1,1,casos,0,binaria
+621b6a1f13008a8aa554deb8,1,null,25,Quadrante 1,1,casos,0,proporcional
+621b6a1f13008a8aa554deb9,2,null,25,Quadrante 2,1,casos,0,binaria
+621b6a1f13008a8aa554deba,2,null,25,Quadrante 2,1,casos,0,proporcional
+621b6a1f13008a8aa554debb,3,null,25,Quadrante 3,1,casos,0,binaria
+621b6a1f13008a8aa554debc,3,null,25,Quadrante 3,1,casos,0,proporcional
+621b6a1f13008a8aa554debd,4,null,25,Quadrante 4,1,casos,0,binaria
+621b6a1f13008a8aa554debe,4,null,25,Quadrante 4,1,casos,0,proporcional
+621b6a3013008a8aa554dec0,False,3,3,Média,1,casos,0,binaria
+621b6a3013008a8aa554dec1,False,3,3,Média,1,casos,0,proporcional
+621b6a3013008a8aa554dec2,False,null,3,1,1,casos,0,binaria
+621b6a3013008a8aa554dec3,False,null,3,1,1,casos,0,proporcional
+621b6a3013008a8aa554dec4,False,null,3,2,1,casos,0,binaria
+621b6a3013008a8aa554dec5,False,null,3,2,1,casos,0,proporcional
+621b6a3013008a8aa554dec6,False,null,3,3,1,casos,0,binaria
+621b6a3013008a8aa554dec7,False,null,3,3,1,casos,0,proporcional
+621b6a3013008a8aa554dec8,False,null,3,4,1,casos,0,binaria
+621b6a3013008a8aa554dec9,False,null,3,4,1,casos,0,proporcional
+621b6a3013008a8aa554deca,False,null,3,5,1,casos,0,binaria
+621b6a3113008a8aa554decb,False,null,3,5,1,casos,0,proporcional
+621b6a3113008a8aa554decc,False,null,3,6,1,casos,0,binaria
+621b6a3113008a8aa554decd,False,null,3,6,1,casos,0,proporcional
+621b6a3113008a8aa554dece,False,null,3,7,1,casos,0,binaria
+621b6a3113008a8aa554decf,False,null,3,7,1,casos,0,proporcional
+621b6a3113008a8aa554ded0,False,null,3,8,1,casos,0,binaria
+621b6a3113008a8aa554ded1,False,null,3,8,1,casos,0,proporcional
+621b6a3113008a8aa554ded2,False,3,5,Média,1,casos,1.0420612373737372,binaria
+621b6a3113008a8aa554ded3,False,3,5,Média,1,casos,0.3473537457912453,proporcional
+621b6a3213008a8aa554ded4,False,null,5,1,1,casos,0,binaria
+621b6a3213008a8aa554ded5,False,null,5,1,1,casos,0,proporcional
+621b6a3213008a8aa554ded6,False,null,5,2,1,casos,0,binaria
+621b6a3213008a8aa554ded7,False,null,5,2,1,casos,0,proporcional
+621b6a3213008a8aa554ded8,False,null,5,3,1,casos,0,binaria
+621b6a3213008a8aa554ded9,False,null,5,3,1,casos,0,proporcional
+621b6a3213008a8aa554deda,False,null,5,4,1,casos,0,binaria
+621b6a3213008a8aa554dedb,False,null,5,4,1,casos,0,proporcional
+621b6a3213008a8aa554dedc,False,null,5,5,1,casos,0,binaria
+621b6a3213008a8aa554dedd,False,null,5,5,1,casos,0,proporcional
+621b6a3213008a8aa554dede,False,null,5,6,1,casos,0,binaria
+621b6a3313008a8aa554dedf,False,null,5,6,1,casos,0,proporcional
+621b6a3313008a8aa554dee0,False,null,5,7,1,casos,6.111111111111111,binaria
+621b6a3313008a8aa554dee1,False,null,5,7,1,casos,2.037037037037037,proporcional
+621b6a3313008a8aa554dee2,False,null,5,8,1,casos,0,binaria
+621b6a3313008a8aa554dee3,False,null,5,8,1,casos,0,proporcional
+621b6a3313008a8aa554dee4,False,3,4,Média,1,casos,0,binaria
+621b6a3313008a8aa554dee5,False,3,4,Média,1,casos,0,proporcional
+621b6a3313008a8aa554dee6,False,null,4,1,1,casos,0,binaria
+621b6a3413008a8aa554dee7,False,null,4,1,1,casos,0,proporcional
+621b6a3413008a8aa554dee8,False,null,4,2,1,casos,0,binaria
+621b6a3413008a8aa554dee9,False,null,4,2,1,casos,0,proporcional
+621b6a3413008a8aa554deea,False,null,4,3,1,casos,0,binaria
+621b6a3413008a8aa554deeb,False,null,4,3,1,casos,0,proporcional
+621b6a3413008a8aa554deec,False,null,4,4,1,casos,0,binaria
+621b6a3413008a8aa554deed,False,null,4,4,1,casos,0,proporcional
+621b6a3413008a8aa554deee,False,null,4,5,1,casos,0,binaria
+621b6a3413008a8aa554deef,False,null,4,5,1,casos,0,proporcional
+621b6a3413008a8aa554def0,False,null,4,6,1,casos,0,binaria
+621b6a3513008a8aa554def1,False,null,4,6,1,casos,0,proporcional
+621b6a3513008a8aa554def2,False,null,4,7,1,casos,0,binaria
+621b6a3513008a8aa554def3,False,null,4,7,1,casos,0,proporcional
+621b6a3513008a8aa554def4,False,null,4,8,1,casos,0,binaria
+621b6a3513008a8aa554def5,False,null,4,8,1,casos,0,proporcional
+621b6a3513008a8aa554def6,False,3,6,Média,1,casos,0,binaria
+621b6a3513008a8aa554def7,False,3,6,Média,1,casos,0,proporcional
+621b6a3613008a8aa554def8,False,null,6,1,1,casos,0,binaria
+621b6a3613008a8aa554def9,False,null,6,1,1,casos,0,proporcional
+621b6a3613008a8aa554defa,False,null,6,2,1,casos,0,binaria
+621b6a3613008a8aa554defb,False,null,6,2,1,casos,0,proporcional
+621b6a3613008a8aa554defc,False,null,6,3,1,casos,0,binaria
+621b6a3613008a8aa554defd,False,null,6,3,1,casos,0,proporcional
+621b6a3713008a8aa554defe,False,null,6,4,1,casos,0,binaria
+621b6a3713008a8aa554deff,False,null,6,4,1,casos,0,proporcional
+621b6a3713008a8aa554df00,False,null,6,5,1,casos,0,binaria
+621b6a3713008a8aa554df01,False,null,6,5,1,casos,0,proporcional
+621b6a3713008a8aa554df02,False,null,6,6,1,casos,0,binaria
+621b6a3713008a8aa554df03,False,null,6,6,1,casos,0,proporcional
+621b6a3713008a8aa554df04,False,null,6,7,1,casos,0,binaria
+621b6a3713008a8aa554df05,False,null,6,7,1,casos,0,proporcional
+621b6a3813008a8aa554df06,False,null,6,8,1,casos,0,binaria
+621b6a3813008a8aa554df07,False,null,6,8,1,casos,0,proporcional
+621b6a3813008a8aa554df08,False,3,7,Média,1,casos,0.9720982142857146,binaria
+621b6a3813008a8aa554df09,False,3,7,Média,1,casos,0.32403273809523775,proporcional
+621b6a3813008a8aa554df0a,False,null,7,1,1,casos,0,binaria
+621b6a3813008a8aa554df0b,False,null,7,1,1,casos,0,proporcional
+621b6a3813008a8aa554df0c,False,null,7,2,1,casos,0,binaria
+621b6a3913008a8aa554df0d,False,null,7,2,1,casos,0,proporcional
+621b6a3913008a8aa554df0e,False,null,7,3,1,casos,0,binaria
+621b6a3913008a8aa554df0f,False,null,7,3,1,casos,0,proporcional
+621b6a3913008a8aa554df10,False,null,7,4,1,casos,0,binaria
+621b6a3913008a8aa554df11,False,null,7,4,1,casos,0,proporcional
+621b6a3913008a8aa554df12,False,null,7,5,1,casos,0,binaria
+621b6a3913008a8aa554df13,False,null,7,5,1,casos,0,proporcional
+621b6a3913008a8aa554df14,False,null,7,6,1,casos,0,binaria
+621b6a3a13008a8aa554df15,False,null,7,6,1,casos,0,proporcional
+621b6a3a13008a8aa554df16,False,null,7,7,1,casos,8.333333333333334,binaria
+621b6a3a13008a8aa554df17,False,null,7,7,1,casos,2.7777777777777786,proporcional
+621b6a3a13008a8aa554df18,False,null,7,8,1,casos,0,binaria
+621b6a3a13008a8aa554df19,False,null,7,8,1,casos,0,proporcional
+621b6a3a13008a8aa554df1a,False,3,9,Média,1,casos,0,binaria
+621b6a3a13008a8aa554df1b,False,3,9,Média,1,casos,0,proporcional
+621b6a3a13008a8aa554df1c,False,null,9,1,1,casos,0,binaria
+621b6a3b13008a8aa554df1d,False,null,9,1,1,casos,0,proporcional
+621b6a3b13008a8aa554df1e,False,null,9,2,1,casos,0,binaria
+621b6a3b13008a8aa554df1f,False,null,9,2,1,casos,0,proporcional
+621b6a3b13008a8aa554df20,False,null,9,3,1,casos,0,binaria
+621b6a3b13008a8aa554df21,False,null,9,3,1,casos,0,proporcional
+621b6a3b13008a8aa554df22,False,null,9,4,1,casos,0,binaria
+621b6a3b13008a8aa554df23,False,null,9,4,1,casos,0,proporcional
+621b6a3b13008a8aa554df24,False,null,9,5,1,casos,0,binaria
+621b6a3b13008a8aa554df25,False,null,9,5,1,casos,0,proporcional
+621b6a3b13008a8aa554df26,False,null,9,6,1,casos,0,binaria
+621b6a3c13008a8aa554df27,False,null,9,6,1,casos,0,proporcional
+621b6a3c13008a8aa554df28,False,null,9,7,1,casos,0,binaria
+621b6a3c13008a8aa554df29,False,null,9,7,1,casos,0,proporcional
+621b6a3c13008a8aa554df2a,False,null,9,8,1,casos,0,binaria
+621b6a3c13008a8aa554df2b,False,null,9,8,1,casos,0,proporcional
+621b6a3c13008a8aa554df2c,False,3,10,Média,1,casos,1.8042242938842201,binaria
+621b6a3c13008a8aa554df2d,False,3,10,Média,1,casos,0.6014080979614072,proporcional
+621b6a3c13008a8aa554df2e,False,null,10,1,1,casos,6.736111111111112,binaria
+621b6a3d13008a8aa554df2f,False,null,10,1,1,casos,2.245370370370371,proporcional
+621b6a3d13008a8aa554df30,False,null,10,2,1,casos,0,binaria
+621b6a3d13008a8aa554df31,False,null,10,2,1,casos,0,proporcional
+621b6a3d13008a8aa554df32,False,null,10,3,1,casos,0,binaria
+621b6a3d13008a8aa554df33,False,null,10,3,1,casos,0,proporcional
+621b6a3d13008a8aa554df34,False,null,10,4,1,casos,0,binaria
+621b6a3d13008a8aa554df35,False,null,10,4,1,casos,0,proporcional
+621b6a3d13008a8aa554df36,False,null,10,5,1,casos,0,binaria
+621b6a3d13008a8aa554df37,False,null,10,5,1,casos,0,proporcional
+621b6a3d13008a8aa554df38,False,null,10,6,1,casos,0,binaria
+621b6a3d13008a8aa554df39,False,null,10,6,1,casos,0,proporcional
+621b6a3e13008a8aa554df3a,False,null,10,7,1,casos,0,binaria
+621b6a3e13008a8aa554df3b,False,null,10,7,1,casos,0,proporcional
+621b6a3e13008a8aa554df3c,False,null,10,8,1,casos,7.777777777777778,binaria
+621b6a3e13008a8aa554df3d,False,null,10,8,1,casos,2.592592592592593,proporcional
+621b6a3e13008a8aa554df3e,False,3,11,Média,1,casos,0.615234375,binaria
+621b6a3e13008a8aa554df3f,False,3,11,Média,1,casos,0.615234375,proporcional
+621b6a3e13008a8aa554df40,False,null,11,1,1,casos,0,binaria
+621b6a3e13008a8aa554df41,False,null,11,1,1,casos,0,proporcional
+621b6a3f13008a8aa554df42,False,null,11,2,1,casos,0,binaria
+621b6a3f13008a8aa554df43,False,null,11,2,1,casos,0,proporcional
+621b6a3f13008a8aa554df44,False,null,11,3,1,casos,0,binaria
+621b6a3f13008a8aa554df45,False,null,11,3,1,casos,0,proporcional
+621b6a3f13008a8aa554df46,False,null,11,4,1,casos,0,binaria
+621b6a3f13008a8aa554df47,False,null,11,4,1,casos,0,proporcional
+621b6a3f13008a8aa554df48,False,null,11,5,1,casos,0,binaria
+621b6a3f13008a8aa554df49,False,null,11,5,1,casos,0,proporcional
+621b6a3f13008a8aa554df4a,False,null,11,6,1,casos,0,binaria
+621b6a3f13008a8aa554df4b,False,null,11,6,1,casos,0,proporcional
+621b6a4013008a8aa554df4c,False,null,11,7,1,casos,0,binaria
+621b6a4013008a8aa554df4d,False,null,11,7,1,casos,0,proporcional
+621b6a4013008a8aa554df4e,False,null,11,8,1,casos,0,binaria
+621b6a4013008a8aa554df4f,False,null,11,8,1,casos,0,proporcional
+621b6a4013008a8aa554df50,False,3,12,Média,1,casos,0,binaria
+621b6a4013008a8aa554df51,False,3,12,Média,1,casos,0,proporcional
+621b6a4013008a8aa554df52,False,null,12,1,1,casos,0,binaria
+621b6a4113008a8aa554df53,False,null,12,1,1,casos,0,proporcional
+621b6a4113008a8aa554df54,False,null,12,2,1,casos,0,binaria
+621b6a4113008a8aa554df55,False,null,12,2,1,casos,0,proporcional
+621b6a4113008a8aa554df56,False,null,12,3,1,casos,0,binaria
+621b6a4113008a8aa554df57,False,null,12,3,1,casos,0,proporcional
+621b6a4113008a8aa554df58,False,null,12,4,1,casos,0,binaria
+621b6a4113008a8aa554df59,False,null,12,4,1,casos,0,proporcional
+621b6a4113008a8aa554df5a,False,null,12,5,1,casos,0,binaria
+621b6a4113008a8aa554df5b,False,null,12,5,1,casos,0,proporcional
+621b6a4113008a8aa554df5c,False,null,12,6,1,casos,0,binaria
+621b6a4213008a8aa554df5d,False,null,12,6,1,casos,0,proporcional
+621b6a4213008a8aa554df5e,False,null,12,7,1,casos,0,binaria
+621b6a4213008a8aa554df5f,False,null,12,7,1,casos,0,proporcional
+621b6a4213008a8aa554df60,False,null,12,8,1,casos,0,binaria
+621b6a4213008a8aa554df61,False,null,12,8,1,casos,0,proporcional
+621b6a4213008a8aa554df62,False,3,13,Média,1,casos,1.1805555555555556,binaria
+621b6a4213008a8aa554df63,False,3,13,Média,1,casos,0.39351851851851793,proporcional
+621b6a4213008a8aa554df64,False,null,13,1,1,casos,0,binaria
+621b6a4313008a8aa554df65,False,null,13,1,1,casos,0,proporcional
+621b6a4313008a8aa554df66,False,null,13,2,1,casos,0,binaria
+621b6a4313008a8aa554df67,False,null,13,2,1,casos,0,proporcional
+621b6a4313008a8aa554df68,False,null,13,3,1,casos,0,binaria
+621b6a4313008a8aa554df69,False,null,13,3,1,casos,0,proporcional
+621b6a4313008a8aa554df6a,False,null,13,4,1,casos,0,binaria
+621b6a4313008a8aa554df6b,False,null,13,4,1,casos,0,proporcional
+621b6a4313008a8aa554df6c,False,null,13,5,1,casos,0,binaria
+621b6a4313008a8aa554df6d,False,null,13,5,1,casos,0,proporcional
+621b6a4413008a8aa554df6e,False,null,13,6,1,casos,0,binaria
+621b6a4413008a8aa554df6f,False,null,13,6,1,casos,0,proporcional
+621b6a4413008a8aa554df70,False,null,13,7,1,casos,0,binaria
+621b6a4413008a8aa554df71,False,null,13,7,1,casos,0,proporcional
+621b6a4413008a8aa554df72,False,null,13,8,1,casos,6.666666666666666,binaria
+621b6a4413008a8aa554df73,False,null,13,8,1,casos,2.2222222222222223,proporcional
+621b6a4413008a8aa554df74,False,3,14,Média,1,casos,0,binaria
+621b6a4413008a8aa554df75,False,3,14,Média,1,casos,0,proporcional
+621b6a4513008a8aa554df76,False,null,14,1,1,casos,0,binaria
+621b6a4513008a8aa554df77,False,null,14,1,1,casos,0,proporcional
+621b6a4513008a8aa554df78,False,null,14,2,1,casos,0,binaria
+621b6a4513008a8aa554df79,False,null,14,2,1,casos,0,proporcional
+621b6a4513008a8aa554df7a,False,null,14,3,1,casos,0,binaria
+621b6a4513008a8aa554df7b,False,null,14,3,1,casos,0,proporcional
+621b6a4513008a8aa554df7c,False,null,14,4,1,casos,0,binaria
+621b6a4513008a8aa554df7d,False,null,14,4,1,casos,0,proporcional
+621b6a4513008a8aa554df7e,False,null,14,5,1,casos,0,binaria
+621b6a4513008a8aa554df7f,False,null,14,5,1,casos,0,proporcional
+621b6a4613008a8aa554df80,False,null,14,6,1,casos,0,binaria
+621b6a4613008a8aa554df81,False,null,14,6,1,casos,0,proporcional
+621b6a4613008a8aa554df82,False,null,14,7,1,casos,0,binaria
+621b6a4613008a8aa554df83,False,null,14,7,1,casos,0,proporcional
+621b6a4613008a8aa554df84,False,null,14,8,1,casos,0,binaria
+621b6a4613008a8aa554df85,False,null,14,8,1,casos,0,proporcional
+621b6a4713008a8aa554df86,False,3,16,Média,1,casos,1.1197916666666667,binaria
+621b6a4713008a8aa554df87,False,3,16,Média,1,casos,0.3732638888888884,proporcional
+621b6a4713008a8aa554df88,False,null,16,1,1,casos,0,binaria
+621b6a4713008a8aa554df89,False,null,16,1,1,casos,0,proporcional
+621b6a4713008a8aa554df8a,False,null,16,2,1,casos,0,binaria
+621b6a4713008a8aa554df8b,False,null,16,2,1,casos,0,proporcional
+621b6a4713008a8aa554df8c,False,null,16,3,1,casos,0,binaria
+621b6a4713008a8aa554df8d,False,null,16,3,1,casos,0,proporcional
+621b6a4713008a8aa554df8e,False,null,16,4,1,casos,0,binaria
+621b6a4713008a8aa554df8f,False,null,16,4,1,casos,0,proporcional
+621b6a4713008a8aa554df90,False,null,16,5,1,casos,0,binaria
+621b6a4813008a8aa554df91,False,null,16,5,1,casos,0,proporcional
+621b6a4813008a8aa554df92,False,null,16,6,1,casos,0,binaria
+621b6a4813008a8aa554df93,False,null,16,6,1,casos,0,proporcional
+621b6a4813008a8aa554df94,False,null,16,7,1,casos,0,binaria
+621b6a4813008a8aa554df95,False,null,16,7,1,casos,0,proporcional
+621b6a4813008a8aa554df96,False,null,16,8,1,casos,8.333333333333334,binaria
+621b6a4813008a8aa554df97,False,null,16,8,1,casos,2.7777777777777786,proporcional
+621b6a4913008a8aa554df98,False,3,17,Média,1,casos,0,binaria
+621b6a4913008a8aa554df99,False,3,17,Média,1,casos,0,proporcional
+621b6a4913008a8aa554df9a,False,null,17,1,1,casos,0,binaria
+621b6a4913008a8aa554df9b,False,null,17,1,1,casos,0,proporcional
+621b6a4913008a8aa554df9c,False,null,17,2,1,casos,0,binaria
+621b6a4913008a8aa554df9d,False,null,17,2,1,casos,0,proporcional
+621b6a4913008a8aa554df9e,False,null,17,3,1,casos,0,binaria
+621b6a4913008a8aa554df9f,False,null,17,3,1,casos,0,proporcional
+621b6a4913008a8aa554dfa0,False,null,17,4,1,casos,0,binaria
+621b6a4913008a8aa554dfa1,False,null,17,4,1,casos,0,proporcional
+621b6a4a13008a8aa554dfa2,False,null,17,5,1,casos,0,binaria
+621b6a4a13008a8aa554dfa3,False,null,17,5,1,casos,0,proporcional
+621b6a4a13008a8aa554dfa4,False,null,17,6,1,casos,0,binaria
+621b6a4a13008a8aa554dfa5,False,null,17,6,1,casos,0,proporcional
+621b6a4a13008a8aa554dfa6,False,null,17,7,1,casos,0,binaria
+621b6a4a13008a8aa554dfa7,False,null,17,7,1,casos,0,proporcional
+621b6a4a13008a8aa554dfa8,False,null,17,8,1,casos,0,binaria
+621b6a4a13008a8aa554dfa9,False,null,17,8,1,casos,0,proporcional
+621b6a4a13008a8aa554dfaa,False,3,18,Média,1,casos,1.1805555555555556,binaria
+621b6a4b13008a8aa554dfab,False,3,18,Média,1,casos,0.39351851851851793,proporcional
+621b6a4b13008a8aa554dfac,False,null,18,1,1,casos,0,binaria
+621b6a4b13008a8aa554dfad,False,null,18,1,1,casos,0,proporcional
+621b6a4b13008a8aa554dfae,False,null,18,2,1,casos,0,binaria
+621b6a4b13008a8aa554dfaf,False,null,18,2,1,casos,0,proporcional
+621b6a4b13008a8aa554dfb0,False,null,18,3,1,casos,0,binaria
+621b6a4b13008a8aa554dfb1,False,null,18,3,1,casos,0,proporcional
+621b6a4b13008a8aa554dfb2,False,null,18,4,1,casos,0,binaria
+621b6a4b13008a8aa554dfb3,False,null,18,4,1,casos,0,proporcional
+621b6a4b13008a8aa554dfb4,False,null,18,5,1,casos,0,binaria
+621b6a4c13008a8aa554dfb5,False,null,18,5,1,casos,0,proporcional
+621b6a4c13008a8aa554dfb6,False,null,18,6,1,casos,0,binaria
+621b6a4c13008a8aa554dfb7,False,null,18,6,1,casos,0,proporcional
+621b6a4c13008a8aa554dfb8,False,null,18,7,1,casos,10,binaria
+621b6a4c13008a8aa554dfb9,False,null,18,7,1,casos,3.333333333333334,proporcional
+621b6a4c13008a8aa554dfba,False,null,18,8,1,casos,0,binaria
+621b6a4c13008a8aa554dfbb,False,null,18,8,1,casos,0,proporcional
+621b6a4d13008a8aa554dfbc,False,3,19,Média,1,casos,0,binaria
+621b6a4d13008a8aa554dfbd,False,3,19,Média,1,casos,0,proporcional
+621b6a4d13008a8aa554dfbe,False,null,19,1,1,casos,0,binaria
+621b6a4d13008a8aa554dfbf,False,null,19,1,1,casos,0,proporcional
+621b6a4d13008a8aa554dfc0,False,null,19,2,1,casos,0,binaria
+621b6a4d13008a8aa554dfc1,False,null,19,2,1,casos,0,proporcional
+621b6a4d13008a8aa554dfc2,False,null,19,3,1,casos,0,binaria
+621b6a4e13008a8aa554dfc3,False,null,19,3,1,casos,0,proporcional
+621b6a4e13008a8aa554dfc4,False,null,19,4,1,casos,0,binaria
+621b6a4e13008a8aa554dfc5,False,null,19,4,1,casos,0,proporcional
+621b6a4e13008a8aa554dfc6,False,null,19,5,1,casos,0,binaria
+621b6a4e13008a8aa554dfc7,False,null,19,5,1,casos,0,proporcional
+621b6a4e13008a8aa554dfc8,False,null,19,6,1,casos,0,binaria
+621b6a4e13008a8aa554dfc9,False,null,19,6,1,casos,0,proporcional
+621b6a4f13008a8aa554dfca,False,null,19,7,1,casos,0,binaria
+621b6a4f13008a8aa554dfcb,False,null,19,7,1,casos,0,proporcional
+621b6a4f13008a8aa554dfcc,False,null,19,8,1,casos,0,binaria
+621b6a4f13008a8aa554dfcd,False,null,19,8,1,casos,0,proporcional
+621b6a4f13008a8aa554dfce,False,3,20,Média,1,casos,0,binaria
+621b6a5013008a8aa554dfcf,False,3,20,Média,1,casos,0,proporcional
+621b6a5013008a8aa554dfd0,False,null,20,1,1,casos,0,binaria
+621b6a5013008a8aa554dfd1,False,null,20,1,1,casos,0,proporcional
+621b6a5013008a8aa554dfd2,False,null,20,2,1,casos,0,binaria
+621b6a5013008a8aa554dfd3,False,null,20,2,1,casos,0,proporcional
+621b6a5013008a8aa554dfd4,False,null,20,3,1,casos,0,binaria
+621b6a5013008a8aa554dfd5,False,null,20,3,1,casos,0,proporcional
+621b6a5013008a8aa554dfd6,False,null,20,4,1,casos,0,binaria
+621b6a5113008a8aa554dfd7,False,null,20,4,1,casos,0,proporcional
+621b6a5113008a8aa554dfd8,False,null,20,5,1,casos,0,binaria
+621b6a5113008a8aa554dfd9,False,null,20,5,1,casos,0,proporcional
+621b6a5113008a8aa554dfda,False,null,20,6,1,casos,0,binaria
+621b6a5113008a8aa554dfdb,False,null,20,6,1,casos,0,proporcional
+621b6a5113008a8aa554dfdc,False,null,20,7,1,casos,0,binaria
+621b6a5213008a8aa554dfdd,False,null,20,7,1,casos,0,proporcional
+621b6a5213008a8aa554dfde,False,null,20,8,1,casos,0,binaria
+621b6a5213008a8aa554dfdf,False,null,20,8,1,casos,0,proporcional
+621b6a5213008a8aa554dfe0,False,3,21,Média,1,casos,0,binaria
+621b6a5313008a8aa554dfe1,False,3,21,Média,1,casos,0,proporcional
+621b6a5313008a8aa554dfe2,False,null,21,1,1,casos,0,binaria
+621b6a5313008a8aa554dfe3,False,null,21,1,1,casos,0,proporcional
+621b6a5313008a8aa554dfe4,False,null,21,2,1,casos,0,binaria
+621b6a5313008a8aa554dfe5,False,null,21,2,1,casos,0,proporcional
+621b6a5313008a8aa554dfe6,False,null,21,3,1,casos,0,binaria
+621b6a5313008a8aa554dfe7,False,null,21,3,1,casos,0,proporcional
+621b6a5313008a8aa554dfe8,False,null,21,4,1,casos,0,binaria
+621b6a5313008a8aa554dfe9,False,null,21,4,1,casos,0,proporcional
+621b6a5313008a8aa554dfea,False,null,21,5,1,casos,0,binaria
+621b6a5413008a8aa554dfeb,False,null,21,5,1,casos,0,proporcional
+621b6a5413008a8aa554dfec,False,null,21,6,1,casos,0,binaria
+621b6a5413008a8aa554dfed,False,null,21,6,1,casos,0,proporcional
+621b6a5413008a8aa554dfee,False,null,21,7,1,casos,0,binaria
+621b6a5413008a8aa554dfef,False,null,21,7,1,casos,0,proporcional
+621b6a5513008a8aa554dff0,False,null,21,8,1,casos,0,binaria
+621b6a5513008a8aa554dff1,False,null,21,8,1,casos,0,proporcional
+621b6a5513008a8aa554dff2,False,3,22,Média,1,casos,1.1360677083333335,binaria
+621b6a5513008a8aa554dff3,False,3,22,Média,1,casos,0.3786892361111106,proporcional
+621b6a5513008a8aa554dff4,False,null,22,1,1,casos,0,binaria
+621b6a5513008a8aa554dff5,False,null,22,1,1,casos,0,proporcional
+621b6a5513008a8aa554dff6,False,null,22,2,1,casos,0,binaria
+621b6a5613008a8aa554dff7,False,null,22,2,1,casos,0,proporcional
+621b6a5613008a8aa554dff8,False,null,22,3,1,casos,0,binaria
+621b6a5613008a8aa554dff9,False,null,22,3,1,casos,0,proporcional
+621b6a5613008a8aa554dffa,False,null,22,4,1,casos,0,binaria
+621b6a5613008a8aa554dffb,False,null,22,4,1,casos,0,proporcional
+621b6a5613008a8aa554dffc,False,null,22,5,1,casos,0,binaria
+621b6a5613008a8aa554dffd,False,null,22,5,1,casos,0,proporcional
+621b6a5613008a8aa554dffe,False,null,22,6,1,casos,0,binaria
+621b6a5713008a8aa554dfff,False,null,22,6,1,casos,0,proporcional
+621b6a5713008a8aa554e000,False,null,22,7,1,casos,0,binaria
+621b6a5713008a8aa554e001,False,null,22,7,1,casos,0,proporcional
+621b6a5713008a8aa554e002,False,null,22,8,1,casos,10,binaria
+621b6a5713008a8aa554e003,False,null,22,8,1,casos,3.333333333333334,proporcional
+621b6a5713008a8aa554e004,False,3,23,Média,1,casos,0,binaria
+621b6a5713008a8aa554e005,False,3,23,Média,1,casos,0,proporcional
+621b6a5813008a8aa554e006,False,null,23,1,1,casos,0,binaria
+621b6a5813008a8aa554e007,False,null,23,1,1,casos,0,proporcional
+621b6a5813008a8aa554e008,False,null,23,2,1,casos,0,binaria
+621b6a5813008a8aa554e009,False,null,23,2,1,casos,0,proporcional
+621b6a5813008a8aa554e00a,False,null,23,3,1,casos,0,binaria
+621b6a5813008a8aa554e00b,False,null,23,3,1,casos,0,proporcional
+621b6a5813008a8aa554e00c,False,null,23,4,1,casos,0,binaria
+621b6a5813008a8aa554e00d,False,null,23,4,1,casos,0,proporcional
+621b6a5813008a8aa554e00e,False,null,23,5,1,casos,0,binaria
+621b6a5913008a8aa554e00f,False,null,23,5,1,casos,0,proporcional
+621b6a5913008a8aa554e010,False,null,23,6,1,casos,0,binaria
+621b6a5913008a8aa554e011,False,null,23,6,1,casos,0,proporcional
+621b6a5913008a8aa554e012,False,null,23,7,1,casos,0,binaria
+621b6a5913008a8aa554e013,False,null,23,7,1,casos,0,proporcional
+621b6a5913008a8aa554e014,False,null,23,8,1,casos,0,binaria
+621b6a5a13008a8aa554e015,False,null,23,8,1,casos,0,proporcional
+621b6a5a13008a8aa554e016,False,3,24,Média,1,casos,0,binaria
+621b6a5a13008a8aa554e017,False,3,24,Média,1,casos,0,proporcional
+621b6a5a13008a8aa554e018,False,null,24,1,1,casos,0,binaria
+621b6a5a13008a8aa554e019,False,null,24,1,1,casos,0,proporcional
+621b6a5b13008a8aa554e01a,False,null,24,2,1,casos,0,binaria
+621b6a5b13008a8aa554e01b,False,null,24,2,1,casos,0,proporcional
+621b6a5b13008a8aa554e01c,False,null,24,3,1,casos,0,binaria
+621b6a5b13008a8aa554e01d,False,null,24,3,1,casos,0,proporcional
+621b6a5b13008a8aa554e01e,False,null,24,4,1,casos,0,binaria
+621b6a5b13008a8aa554e01f,False,null,24,4,1,casos,0,proporcional
+621b6a5c13008a8aa554e020,False,null,24,5,1,casos,0,binaria
+621b6a5c13008a8aa554e021,False,null,24,5,1,casos,0,proporcional
+621b6a5c13008a8aa554e022,False,null,24,6,1,casos,0,binaria
+621b6a5c13008a8aa554e023,False,null,24,6,1,casos,0,proporcional
+621b6a5c13008a8aa554e024,False,null,24,7,1,casos,0,binaria
+621b6a5c13008a8aa554e025,False,null,24,7,1,casos,0,proporcional
+621b6a5c13008a8aa554e026,False,null,24,8,1,casos,0,binaria
+621b6a5c13008a8aa554e027,False,null,24,8,1,casos,0,proporcional
+621b6a5d13008a8aa554e028,False,3,25,Média,1,casos,0,binaria
+621b6a5d13008a8aa554e029,False,3,25,Média,1,casos,0,proporcional
+621b6a5d13008a8aa554e02a,False,null,25,1,1,casos,0,binaria
+621b6a5d13008a8aa554e02b,False,null,25,1,1,casos,0,proporcional
+621b6a5d13008a8aa554e02c,False,null,25,2,1,casos,0,binaria
+621b6a5d13008a8aa554e02d,False,null,25,2,1,casos,0,proporcional
+621b6a5d13008a8aa554e02e,False,null,25,3,1,casos,0,binaria
+621b6a5d13008a8aa554e02f,False,null,25,3,1,casos,0,proporcional
+621b6a5e13008a8aa554e030,False,null,25,4,1,casos,0,binaria
+621b6a5e13008a8aa554e031,False,null,25,4,1,casos,0,proporcional
+621b6a5e13008a8aa554e032,False,null,25,5,1,casos,0,binaria
+621b6a5e13008a8aa554e033,False,null,25,5,1,casos,0,proporcional
+621b6a5e13008a8aa554e034,False,null,25,6,1,casos,0,binaria
+621b6a5e13008a8aa554e035,False,null,25,6,1,casos,0,proporcional
+621b6a5e13008a8aa554e036,False,null,25,7,1,casos,0,binaria
+621b6a5e13008a8aa554e037,False,null,25,7,1,casos,0,proporcional
+621b6a5e13008a8aa554e038,False,null,25,8,1,casos,0,binaria
+621b6a5e13008a8aa554e039,False,null,25,8,1,casos,0,proporcional

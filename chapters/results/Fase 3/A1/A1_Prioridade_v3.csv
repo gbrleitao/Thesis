@@ -1,0 +1,757 @@
+_id;agrupamento;fonte;id_estudante;id_fonte;id_questionario;método;nota;tipo
+63956a620dedcfcbae15ac31;False;3;3;Média;1;casos;0;binaria
+63956a620dedcfcbae15ac32;False;3;3;Média;1;casos;0;proporcional
+63956a620dedcfcbae15ac33;False;null;3;1;1;casos;0;binaria
+63956a620dedcfcbae15ac34;False;null;3;1;1;casos;0;proporcional
+63956a620dedcfcbae15ac35;False;null;3;2;1;casos;0;binaria
+63956a620dedcfcbae15ac36;False;null;3;2;1;casos;0;proporcional
+63956a620dedcfcbae15ac37;False;null;3;3;1;casos;0;binaria
+63956a620dedcfcbae15ac38;False;null;3;3;1;casos;0;proporcional
+63956a620dedcfcbae15ac39;False;null;3;4;1;casos;0;binaria
+63956a620dedcfcbae15ac3a;False;null;3;4;1;casos;0;proporcional
+63956a620dedcfcbae15ac3b;False;null;3;5;1;casos;0;binaria
+63956a620dedcfcbae15ac3c;False;null;3;5;1;casos;0;proporcional
+63956a620dedcfcbae15ac3d;False;null;3;6;1;casos;0;binaria
+63956a620dedcfcbae15ac3e;False;null;3;6;1;casos;0;proporcional
+63956a630dedcfcbae15ac3f;False;null;3;7;1;casos;0;binaria
+63956a630dedcfcbae15ac40;False;null;3;7;1;casos;0;proporcional
+63956a630dedcfcbae15ac41;False;null;3;8;1;casos;0;binaria
+63956a630dedcfcbae15ac42;False;null;3;8;1;casos;0;proporcional
+63956a660dedcfcbae15ac69;False;3;5;Média;1;casos;1,0420612373737372;binaria
+63956a660dedcfcbae15ac6a;False;3;5;Média;1;casos;0,3473537457912453;proporcional
+63956a660dedcfcbae15ac6b;False;null;5;1;1;casos;0;binaria
+63956a660dedcfcbae15ac6c;False;null;5;1;1;casos;0;proporcional
+63956a660dedcfcbae15ac6d;False;null;5;2;1;casos;0;binaria
+63956a660dedcfcbae15ac6e;False;null;5;2;1;casos;0;proporcional
+63956a660dedcfcbae15ac6f;False;null;5;3;1;casos;0;binaria
+63956a660dedcfcbae15ac70;False;null;5;3;1;casos;0;proporcional
+63956a660dedcfcbae15ac71;False;null;5;4;1;casos;0;binaria
+63956a660dedcfcbae15ac72;False;null;5;4;1;casos;0;proporcional
+63956a660dedcfcbae15ac73;False;null;5;5;1;casos;0;binaria
+63956a660dedcfcbae15ac74;False;null;5;5;1;casos;0;proporcional
+63956a660dedcfcbae15ac75;False;null;5;6;1;casos;0;binaria
+63956a670dedcfcbae15ac76;False;null;5;6;1;casos;0;proporcional
+63956a670dedcfcbae15ac77;False;null;5;7;1;casos;6,111111111111111;binaria
+63956a670dedcfcbae15ac78;False;null;5;7;1;casos;2,037037037037037;proporcional
+63956a670dedcfcbae15ac79;False;null;5;8;1;casos;0;binaria
+63956a670dedcfcbae15ac7a;False;null;5;8;1;casos;0;proporcional
+63956a6a0dedcfcbae15aca1;False;3;4;Média;1;casos;0;binaria
+63956a6a0dedcfcbae15aca2;False;3;4;Média;1;casos;0;proporcional
+63956a6a0dedcfcbae15aca3;False;null;4;1;1;casos;0;binaria
+63956a6a0dedcfcbae15aca4;False;null;4;1;1;casos;0;proporcional
+63956a6a0dedcfcbae15aca5;False;null;4;2;1;casos;0;binaria
+63956a6a0dedcfcbae15aca6;False;null;4;2;1;casos;0;proporcional
+63956a6a0dedcfcbae15aca7;False;null;4;3;1;casos;0;binaria
+63956a6a0dedcfcbae15aca8;False;null;4;3;1;casos;0;proporcional
+63956a6a0dedcfcbae15aca9;False;null;4;4;1;casos;0;binaria
+63956a6a0dedcfcbae15acaa;False;null;4;4;1;casos;0;proporcional
+63956a6a0dedcfcbae15acab;False;null;4;5;1;casos;0;binaria
+63956a6b0dedcfcbae15acac;False;null;4;5;1;casos;0;proporcional
+63956a6b0dedcfcbae15acad;False;null;4;6;1;casos;0;binaria
+63956a6b0dedcfcbae15acae;False;null;4;6;1;casos;0;proporcional
+63956a6b0dedcfcbae15acaf;False;null;4;7;1;casos;0;binaria
+63956a6b0dedcfcbae15acb0;False;null;4;7;1;casos;0;proporcional
+63956a6b0dedcfcbae15acb1;False;null;4;8;1;casos;0;binaria
+63956a6b0dedcfcbae15acb2;False;null;4;8;1;casos;0;proporcional
+63956a6e0dedcfcbae15acd9;False;3;6;Média;1;casos;0;binaria
+63956a6e0dedcfcbae15acda;False;3;6;Média;1;casos;0;proporcional
+63956a6e0dedcfcbae15acdb;False;null;6;1;1;casos;0;binaria
+63956a6e0dedcfcbae15acdc;False;null;6;1;1;casos;0;proporcional
+63956a6e0dedcfcbae15acdd;False;null;6;2;1;casos;0;binaria
+63956a6e0dedcfcbae15acde;False;null;6;2;1;casos;0;proporcional
+63956a6e0dedcfcbae15acdf;False;null;6;3;1;casos;0;binaria
+63956a6e0dedcfcbae15ace0;False;null;6;3;1;casos;0;proporcional
+63956a6e0dedcfcbae15ace1;False;null;6;4;1;casos;0;binaria
+63956a6e0dedcfcbae15ace2;False;null;6;4;1;casos;0;proporcional
+63956a6e0dedcfcbae15ace3;False;null;6;5;1;casos;0;binaria
+63956a6e0dedcfcbae15ace4;False;null;6;5;1;casos;0;proporcional
+63956a6f0dedcfcbae15ace5;False;null;6;6;1;casos;0;binaria
+63956a6f0dedcfcbae15ace6;False;null;6;6;1;casos;0;proporcional
+63956a6f0dedcfcbae15ace7;False;null;6;7;1;casos;0;binaria
+63956a6f0dedcfcbae15ace8;False;null;6;7;1;casos;0;proporcional
+63956a6f0dedcfcbae15ace9;False;null;6;8;1;casos;0;binaria
+63956a6f0dedcfcbae15acea;False;null;6;8;1;casos;0;proporcional
+63956a720dedcfcbae15ad11;False;3;7;Média;1;casos;0,9720982142857146;binaria
+63956a720dedcfcbae15ad12;False;3;7;Média;1;casos;0,32403273809523775;proporcional
+63956a720dedcfcbae15ad13;False;null;7;1;1;casos;0;binaria
+63956a720dedcfcbae15ad14;False;null;7;1;1;casos;0;proporcional
+63956a720dedcfcbae15ad15;False;null;7;2;1;casos;0;binaria
+63956a720dedcfcbae15ad16;False;null;7;2;1;casos;0;proporcional
+63956a720dedcfcbae15ad17;False;null;7;3;1;casos;0;binaria
+63956a720dedcfcbae15ad18;False;null;7;3;1;casos;0;proporcional
+63956a720dedcfcbae15ad19;False;null;7;4;1;casos;0;binaria
+63956a720dedcfcbae15ad1a;False;null;7;4;1;casos;0;proporcional
+63956a730dedcfcbae15ad1b;False;null;7;5;1;casos;0;binaria
+63956a730dedcfcbae15ad1c;False;null;7;5;1;casos;0;proporcional
+63956a730dedcfcbae15ad1d;False;null;7;6;1;casos;0;binaria
+63956a730dedcfcbae15ad1e;False;null;7;6;1;casos;0;proporcional
+63956a730dedcfcbae15ad1f;False;null;7;7;1;casos;8,333333333333334;binaria
+63956a730dedcfcbae15ad20;False;null;7;7;1;casos;2,7777777777777786;proporcional
+63956a730dedcfcbae15ad21;False;null;7;8;1;casos;0;binaria
+63956a730dedcfcbae15ad22;False;null;7;8;1;casos;0;proporcional
+63956a760dedcfcbae15ad49;False;3;9;Média;1;casos;0;binaria
+63956a760dedcfcbae15ad4a;False;3;9;Média;1;casos;0;proporcional
+63956a760dedcfcbae15ad4b;False;null;9;1;1;casos;0;binaria
+63956a760dedcfcbae15ad4c;False;null;9;1;1;casos;0;proporcional
+63956a760dedcfcbae15ad4d;False;null;9;2;1;casos;0;binaria
+63956a760dedcfcbae15ad4e;False;null;9;2;1;casos;0;proporcional
+63956a760dedcfcbae15ad4f;False;null;9;3;1;casos;0;binaria
+63956a760dedcfcbae15ad50;False;null;9;3;1;casos;0;proporcional
+63956a760dedcfcbae15ad51;False;null;9;4;1;casos;0;binaria
+63956a760dedcfcbae15ad52;False;null;9;4;1;casos;0;proporcional
+63956a770dedcfcbae15ad53;False;null;9;5;1;casos;0;binaria
+63956a770dedcfcbae15ad54;False;null;9;5;1;casos;0;proporcional
+63956a770dedcfcbae15ad55;False;null;9;6;1;casos;0;binaria
+63956a770dedcfcbae15ad56;False;null;9;6;1;casos;0;proporcional
+63956a770dedcfcbae15ad57;False;null;9;7;1;casos;0;binaria
+63956a770dedcfcbae15ad58;False;null;9;7;1;casos;0;proporcional
+63956a770dedcfcbae15ad59;False;null;9;8;1;casos;0;binaria
+63956a770dedcfcbae15ad5a;False;null;9;8;1;casos;0;proporcional
+63956a7a0dedcfcbae15ad81;False;3;10;Média;1;casos;1,8042242938842201;binaria
+63956a7a0dedcfcbae15ad82;False;3;10;Média;1;casos;0,6014080979614072;proporcional
+63956a7a0dedcfcbae15ad83;False;null;10;1;1;casos;6,736111111111112;binaria
+63956a7a0dedcfcbae15ad84;False;null;10;1;1;casos;2,245370370370371;proporcional
+63956a7a0dedcfcbae15ad85;False;null;10;2;1;casos;0;binaria
+63956a7a0dedcfcbae15ad86;False;null;10;2;1;casos;0;proporcional
+63956a7a0dedcfcbae15ad87;False;null;10;3;1;casos;0;binaria
+63956a7a0dedcfcbae15ad88;False;null;10;3;1;casos;0;proporcional
+63956a7b0dedcfcbae15ad89;False;null;10;4;1;casos;0;binaria
+63956a7b0dedcfcbae15ad8a;False;null;10;4;1;casos;0;proporcional
+63956a7b0dedcfcbae15ad8b;False;null;10;5;1;casos;0;binaria
+63956a7b0dedcfcbae15ad8c;False;null;10;5;1;casos;0;proporcional
+63956a7b0dedcfcbae15ad8d;False;null;10;6;1;casos;0;binaria
+63956a7b0dedcfcbae15ad8e;False;null;10;6;1;casos;0;proporcional
+63956a7b0dedcfcbae15ad8f;False;null;10;7;1;casos;0;binaria
+63956a7b0dedcfcbae15ad90;False;null;10;7;1;casos;0;proporcional
+63956a7b0dedcfcbae15ad91;False;null;10;8;1;casos;7,777777777777778;binaria
+63956a7b0dedcfcbae15ad92;False;null;10;8;1;casos;2,592592592592593;proporcional
+63956a7e0dedcfcbae15adb9;False;3;11;Média;1;casos;0,751953125;binaria
+63956a7e0dedcfcbae15adba;False;3;11;Média;1;casos;0,751953125;proporcional
+63956a7e0dedcfcbae15adbb;False;null;11;1;1;casos;0;binaria
+63956a7e0dedcfcbae15adbc;False;null;11;1;1;casos;0;proporcional
+63956a7e0dedcfcbae15adbd;False;null;11;2;1;casos;0;binaria
+63956a7f0dedcfcbae15adbe;False;null;11;2;1;casos;0;proporcional
+63956a7f0dedcfcbae15adbf;False;null;11;3;1;casos;0;binaria
+63956a7f0dedcfcbae15adc0;False;null;11;3;1;casos;0;proporcional
+63956a7f0dedcfcbae15adc1;False;null;11;4;1;casos;0;binaria
+63956a7f0dedcfcbae15adc2;False;null;11;4;1;casos;0;proporcional
+63956a7f0dedcfcbae15adc3;False;null;11;5;1;casos;0;binaria
+63956a7f0dedcfcbae15adc4;False;null;11;5;1;casos;0;proporcional
+63956a7f0dedcfcbae15adc5;False;null;11;6;1;casos;0;binaria
+63956a7f0dedcfcbae15adc6;False;null;11;6;1;casos;0;proporcional
+63956a7f0dedcfcbae15adc7;False;null;11;7;1;casos;0;binaria
+63956a7f0dedcfcbae15adc8;False;null;11;7;1;casos;0;proporcional
+63956a7f0dedcfcbae15adc9;False;null;11;8;1;casos;0;binaria
+63956a7f0dedcfcbae15adca;False;null;11;8;1;casos;0;proporcional
+63956a820dedcfcbae15adf1;False;3;12;Média;1;casos;0;binaria
+63956a820dedcfcbae15adf2;False;3;12;Média;1;casos;0;proporcional
+63956a820dedcfcbae15adf3;False;null;12;1;1;casos;0;binaria
+63956a820dedcfcbae15adf4;False;null;12;1;1;casos;0;proporcional
+63956a820dedcfcbae15adf5;False;null;12;2;1;casos;0;binaria
+63956a830dedcfcbae15adf6;False;null;12;2;1;casos;0;proporcional
+63956a830dedcfcbae15adf7;False;null;12;3;1;casos;0;binaria
+63956a830dedcfcbae15adf8;False;null;12;3;1;casos;0;proporcional
+63956a830dedcfcbae15adf9;False;null;12;4;1;casos;0;binaria
+63956a830dedcfcbae15adfa;False;null;12;4;1;casos;0;proporcional
+63956a830dedcfcbae15adfb;False;null;12;5;1;casos;0;binaria
+63956a830dedcfcbae15adfc;False;null;12;5;1;casos;0;proporcional
+63956a830dedcfcbae15adfd;False;null;12;6;1;casos;0;binaria
+63956a830dedcfcbae15adfe;False;null;12;6;1;casos;0;proporcional
+63956a830dedcfcbae15adff;False;null;12;7;1;casos;0;binaria
+63956a830dedcfcbae15ae00;False;null;12;7;1;casos;0;proporcional
+63956a830dedcfcbae15ae01;False;null;12;8;1;casos;0;binaria
+63956a830dedcfcbae15ae02;False;null;12;8;1;casos;0;proporcional
+63956a860dedcfcbae15ae29;False;3;13;Média;1;casos;1,1805555555555556;binaria
+63956a860dedcfcbae15ae2a;False;3;13;Média;1;casos;0,39351851851851793;proporcional
+63956a860dedcfcbae15ae2b;False;null;13;1;1;casos;0;binaria
+63956a870dedcfcbae15ae2c;False;null;13;1;1;casos;0;proporcional
+63956a870dedcfcbae15ae2d;False;null;13;2;1;casos;0;binaria
+63956a870dedcfcbae15ae2e;False;null;13;2;1;casos;0;proporcional
+63956a870dedcfcbae15ae2f;False;null;13;3;1;casos;0;binaria
+63956a870dedcfcbae15ae30;False;null;13;3;1;casos;0;proporcional
+63956a870dedcfcbae15ae31;False;null;13;4;1;casos;0;binaria
+63956a870dedcfcbae15ae32;False;null;13;4;1;casos;0;proporcional
+63956a870dedcfcbae15ae33;False;null;13;5;1;casos;0;binaria
+63956a870dedcfcbae15ae34;False;null;13;5;1;casos;0;proporcional
+63956a870dedcfcbae15ae35;False;null;13;6;1;casos;0;binaria
+63956a870dedcfcbae15ae36;False;null;13;6;1;casos;0;proporcional
+63956a870dedcfcbae15ae37;False;null;13;7;1;casos;0;binaria
+63956a870dedcfcbae15ae38;False;null;13;7;1;casos;0;proporcional
+63956a870dedcfcbae15ae39;False;null;13;8;1;casos;6,666666666666666;binaria
+63956a870dedcfcbae15ae3a;False;null;13;8;1;casos;2,2222222222222223;proporcional
+63956a8a0dedcfcbae15ae61;False;3;14;Média;1;casos;0;binaria
+63956a8b0dedcfcbae15ae62;False;3;14;Média;1;casos;0;proporcional
+63956a8b0dedcfcbae15ae63;False;null;14;1;1;casos;0;binaria
+63956a8b0dedcfcbae15ae64;False;null;14;1;1;casos;0;proporcional
+63956a8b0dedcfcbae15ae65;False;null;14;2;1;casos;0;binaria
+63956a8b0dedcfcbae15ae66;False;null;14;2;1;casos;0;proporcional
+63956a8b0dedcfcbae15ae67;False;null;14;3;1;casos;0;binaria
+63956a8b0dedcfcbae15ae68;False;null;14;3;1;casos;0;proporcional
+63956a8b0dedcfcbae15ae69;False;null;14;4;1;casos;0;binaria
+63956a8b0dedcfcbae15ae6a;False;null;14;4;1;casos;0;proporcional
+63956a8b0dedcfcbae15ae6b;False;null;14;5;1;casos;0;binaria
+63956a8b0dedcfcbae15ae6c;False;null;14;5;1;casos;0;proporcional
+63956a8b0dedcfcbae15ae6d;False;null;14;6;1;casos;0;binaria
+63956a8b0dedcfcbae15ae6e;False;null;14;6;1;casos;0;proporcional
+63956a8b0dedcfcbae15ae6f;False;null;14;7;1;casos;0;binaria
+63956a8b0dedcfcbae15ae70;False;null;14;7;1;casos;0;proporcional
+63956a8c0dedcfcbae15ae71;False;null;14;8;1;casos;0;binaria
+63956a8c0dedcfcbae15ae72;False;null;14;8;1;casos;0;proporcional
+63956a8f0dedcfcbae15ae99;False;3;16;Média;1;casos;1,1197916666666667;binaria
+63956a8f0dedcfcbae15ae9a;False;3;16;Média;1;casos;0,3732638888888884;proporcional
+63956a8f0dedcfcbae15ae9b;False;null;16;1;1;casos;0;binaria
+63956a8f0dedcfcbae15ae9c;False;null;16;1;1;casos;0;proporcional
+63956a8f0dedcfcbae15ae9d;False;null;16;2;1;casos;0;binaria
+63956a8f0dedcfcbae15ae9e;False;null;16;2;1;casos;0;proporcional
+63956a8f0dedcfcbae15ae9f;False;null;16;3;1;casos;0;binaria
+63956a8f0dedcfcbae15aea0;False;null;16;3;1;casos;0;proporcional
+63956a8f0dedcfcbae15aea1;False;null;16;4;1;casos;0;binaria
+63956a8f0dedcfcbae15aea2;False;null;16;4;1;casos;0;proporcional
+63956a8f0dedcfcbae15aea3;False;null;16;5;1;casos;0;binaria
+63956a900dedcfcbae15aea4;False;null;16;5;1;casos;0;proporcional
+63956a900dedcfcbae15aea5;False;null;16;6;1;casos;0;binaria
+63956a900dedcfcbae15aea6;False;null;16;6;1;casos;0;proporcional
+63956a900dedcfcbae15aea7;False;null;16;7;1;casos;0;binaria
+63956a900dedcfcbae15aea8;False;null;16;7;1;casos;0;proporcional
+63956a900dedcfcbae15aea9;False;null;16;8;1;casos;8,333333333333334;binaria
+63956a900dedcfcbae15aeaa;False;null;16;8;1;casos;2,7777777777777786;proporcional
+63956a930dedcfcbae15aed1;False;3;17;Média;1;casos;0;binaria
+63956a930dedcfcbae15aed2;False;3;17;Média;1;casos;0;proporcional
+63956a930dedcfcbae15aed3;False;null;17;1;1;casos;0;binaria
+63956a930dedcfcbae15aed4;False;null;17;1;1;casos;0;proporcional
+63956a930dedcfcbae15aed5;False;null;17;2;1;casos;0;binaria
+63956a930dedcfcbae15aed6;False;null;17;2;1;casos;0;proporcional
+63956a930dedcfcbae15aed7;False;null;17;3;1;casos;0;binaria
+63956a930dedcfcbae15aed8;False;null;17;3;1;casos;0;proporcional
+63956a930dedcfcbae15aed9;False;null;17;4;1;casos;0;binaria
+63956a930dedcfcbae15aeda;False;null;17;4;1;casos;0;proporcional
+63956a940dedcfcbae15aedb;False;null;17;5;1;casos;0;binaria
+63956a940dedcfcbae15aedc;False;null;17;5;1;casos;0;proporcional
+63956a940dedcfcbae15aedd;False;null;17;6;1;casos;0;binaria
+63956a940dedcfcbae15aede;False;null;17;6;1;casos;0;proporcional
+63956a940dedcfcbae15aedf;False;null;17;7;1;casos;0;binaria
+63956a940dedcfcbae15aee0;False;null;17;7;1;casos;0;proporcional
+63956a940dedcfcbae15aee1;False;null;17;8;1;casos;0;binaria
+63956a940dedcfcbae15aee2;False;null;17;8;1;casos;0;proporcional
+63956a970dedcfcbae15af09;False;3;18;Média;1;casos;1,1805555555555556;binaria
+63956a970dedcfcbae15af0a;False;3;18;Média;1;casos;0,39351851851851793;proporcional
+63956a970dedcfcbae15af0b;False;null;18;1;1;casos;0;binaria
+63956a970dedcfcbae15af0c;False;null;18;1;1;casos;0;proporcional
+63956a970dedcfcbae15af0d;False;null;18;2;1;casos;0;binaria
+63956a970dedcfcbae15af0e;False;null;18;2;1;casos;0;proporcional
+63956a970dedcfcbae15af0f;False;null;18;3;1;casos;0;binaria
+63956a970dedcfcbae15af10;False;null;18;3;1;casos;0;proporcional
+63956a970dedcfcbae15af11;False;null;18;4;1;casos;0;binaria
+63956a970dedcfcbae15af12;False;null;18;4;1;casos;0;proporcional
+63956a980dedcfcbae15af13;False;null;18;5;1;casos;0;binaria
+63956a980dedcfcbae15af14;False;null;18;5;1;casos;0;proporcional
+63956a980dedcfcbae15af15;False;null;18;6;1;casos;0;binaria
+63956a980dedcfcbae15af16;False;null;18;6;1;casos;0;proporcional
+63956a980dedcfcbae15af17;False;null;18;7;1;casos;10;binaria
+63956a980dedcfcbae15af18;False;null;18;7;1;casos;3,333333333333334;proporcional
+63956a980dedcfcbae15af19;False;null;18;8;1;casos;0;binaria
+63956a980dedcfcbae15af1a;False;null;18;8;1;casos;0;proporcional
+63956a9b0dedcfcbae15af41;False;3;19;Média;1;casos;0;binaria
+63956a9b0dedcfcbae15af42;False;3;19;Média;1;casos;0;proporcional
+63956a9b0dedcfcbae15af43;False;null;19;1;1;casos;0;binaria
+63956a9b0dedcfcbae15af44;False;null;19;1;1;casos;0;proporcional
+63956a9b0dedcfcbae15af45;False;null;19;2;1;casos;0;binaria
+63956a9b0dedcfcbae15af46;False;null;19;2;1;casos;0;proporcional
+63956a9b0dedcfcbae15af47;False;null;19;3;1;casos;0;binaria
+63956a9b0dedcfcbae15af48;False;null;19;3;1;casos;0;proporcional
+63956a9b0dedcfcbae15af49;False;null;19;4;1;casos;0;binaria
+63956a9b0dedcfcbae15af4a;False;null;19;4;1;casos;0;proporcional
+63956a9b0dedcfcbae15af4b;False;null;19;5;1;casos;0;binaria
+63956a9c0dedcfcbae15af4c;False;null;19;5;1;casos;0;proporcional
+63956a9c0dedcfcbae15af4d;False;null;19;6;1;casos;0;binaria
+63956a9c0dedcfcbae15af4e;False;null;19;6;1;casos;0;proporcional
+63956a9c0dedcfcbae15af4f;False;null;19;7;1;casos;0;binaria
+63956a9c0dedcfcbae15af50;False;null;19;7;1;casos;0;proporcional
+63956a9c0dedcfcbae15af51;False;null;19;8;1;casos;0;binaria
+63956a9c0dedcfcbae15af52;False;null;19;8;1;casos;0;proporcional
+63956a9f0dedcfcbae15af79;False;3;20;Média;1;casos;0;binaria
+63956a9f0dedcfcbae15af7a;False;3;20;Média;1;casos;0;proporcional
+63956a9f0dedcfcbae15af7b;False;null;20;1;1;casos;0;binaria
+63956a9f0dedcfcbae15af7c;False;null;20;1;1;casos;0;proporcional
+63956a9f0dedcfcbae15af7d;False;null;20;2;1;casos;0;binaria
+63956a9f0dedcfcbae15af7e;False;null;20;2;1;casos;0;proporcional
+63956a9f0dedcfcbae15af7f;False;null;20;3;1;casos;0;binaria
+63956a9f0dedcfcbae15af80;False;null;20;3;1;casos;0;proporcional
+63956a9f0dedcfcbae15af81;False;null;20;4;1;casos;0;binaria
+63956a9f0dedcfcbae15af82;False;null;20;4;1;casos;0;proporcional
+63956a9f0dedcfcbae15af83;False;null;20;5;1;casos;0;binaria
+63956aa00dedcfcbae15af84;False;null;20;5;1;casos;0;proporcional
+63956aa00dedcfcbae15af85;False;null;20;6;1;casos;0;binaria
+63956aa00dedcfcbae15af86;False;null;20;6;1;casos;0;proporcional
+63956aa00dedcfcbae15af87;False;null;20;7;1;casos;0;binaria
+63956aa00dedcfcbae15af88;False;null;20;7;1;casos;0;proporcional
+63956aa00dedcfcbae15af89;False;null;20;8;1;casos;0;binaria
+63956aa00dedcfcbae15af8a;False;null;20;8;1;casos;0;proporcional
+63956aa30dedcfcbae15afb1;False;3;21;Média;1;casos;0;binaria
+63956aa30dedcfcbae15afb2;False;3;21;Média;1;casos;0;proporcional
+63956aa30dedcfcbae15afb3;False;null;21;1;1;casos;0;binaria
+63956aa30dedcfcbae15afb4;False;null;21;1;1;casos;0;proporcional
+63956aa30dedcfcbae15afb5;False;null;21;2;1;casos;0;binaria
+63956aa30dedcfcbae15afb6;False;null;21;2;1;casos;0;proporcional
+63956aa30dedcfcbae15afb7;False;null;21;3;1;casos;0;binaria
+63956aa30dedcfcbae15afb8;False;null;21;3;1;casos;0;proporcional
+63956aa30dedcfcbae15afb9;False;null;21;4;1;casos;0;binaria
+63956aa30dedcfcbae15afba;False;null;21;4;1;casos;0;proporcional
+63956aa30dedcfcbae15afbb;False;null;21;5;1;casos;0;binaria
+63956aa40dedcfcbae15afbc;False;null;21;5;1;casos;0;proporcional
+63956aa40dedcfcbae15afbd;False;null;21;6;1;casos;0;binaria
+63956aa40dedcfcbae15afbe;False;null;21;6;1;casos;0;proporcional
+63956aa40dedcfcbae15afbf;False;null;21;7;1;casos;0;binaria
+63956aa40dedcfcbae15afc0;False;null;21;7;1;casos;0;proporcional
+63956aa40dedcfcbae15afc1;False;null;21;8;1;casos;0;binaria
+63956aa40dedcfcbae15afc2;False;null;21;8;1;casos;0;proporcional
+63956aa70dedcfcbae15afe9;False;3;22;Média;1;casos;1,1360677083333335;binaria
+63956aa70dedcfcbae15afea;False;3;22;Média;1;casos;0,3786892361111106;proporcional
+63956aa70dedcfcbae15afeb;False;null;22;1;1;casos;0;binaria
+63956aa70dedcfcbae15afec;False;null;22;1;1;casos;0;proporcional
+63956aa70dedcfcbae15afed;False;null;22;2;1;casos;0;binaria
+63956aa70dedcfcbae15afee;False;null;22;2;1;casos;0;proporcional
+63956aa70dedcfcbae15afef;False;null;22;3;1;casos;0;binaria
+63956aa70dedcfcbae15aff0;False;null;22;3;1;casos;0;proporcional
+63956aa70dedcfcbae15aff1;False;null;22;4;1;casos;0;binaria
+63956aa70dedcfcbae15aff2;False;null;22;4;1;casos;0;proporcional
+63956aa80dedcfcbae15aff3;False;null;22;5;1;casos;0;binaria
+63956aa80dedcfcbae15aff4;False;null;22;5;1;casos;0;proporcional
+63956aa80dedcfcbae15aff5;False;null;22;6;1;casos;0;binaria
+63956aa80dedcfcbae15aff6;False;null;22;6;1;casos;0;proporcional
+63956aa80dedcfcbae15aff7;False;null;22;7;1;casos;0;binaria
+63956aa80dedcfcbae15aff8;False;null;22;7;1;casos;0;proporcional
+63956aa80dedcfcbae15aff9;False;null;22;8;1;casos;10;binaria
+63956aa80dedcfcbae15affa;False;null;22;8;1;casos;3,333333333333334;proporcional
+63956aab0dedcfcbae15b021;False;3;23;Média;1;casos;0;binaria
+63956aab0dedcfcbae15b022;False;3;23;Média;1;casos;0;proporcional
+63956aab0dedcfcbae15b023;False;null;23;1;1;casos;0;binaria
+63956aab0dedcfcbae15b024;False;null;23;1;1;casos;0;proporcional
+63956aab0dedcfcbae15b025;False;null;23;2;1;casos;0;binaria
+63956aab0dedcfcbae15b026;False;null;23;2;1;casos;0;proporcional
+63956aab0dedcfcbae15b027;False;null;23;3;1;casos;0;binaria
+63956aab0dedcfcbae15b028;False;null;23;3;1;casos;0;proporcional
+63956aab0dedcfcbae15b029;False;null;23;4;1;casos;0;binaria
+63956aac0dedcfcbae15b02a;False;null;23;4;1;casos;0;proporcional
+63956aac0dedcfcbae15b02b;False;null;23;5;1;casos;0;binaria
+63956aac0dedcfcbae15b02c;False;null;23;5;1;casos;0;proporcional
+63956aac0dedcfcbae15b02d;False;null;23;6;1;casos;0;binaria
+63956aac0dedcfcbae15b02e;False;null;23;6;1;casos;0;proporcional
+63956aac0dedcfcbae15b02f;False;null;23;7;1;casos;0;binaria
+63956aac0dedcfcbae15b030;False;null;23;7;1;casos;0;proporcional
+63956aac0dedcfcbae15b031;False;null;23;8;1;casos;0;binaria
+63956aac0dedcfcbae15b032;False;null;23;8;1;casos;0;proporcional
+63956aaf0dedcfcbae15b059;False;3;24;Média;1;casos;0;binaria
+63956aaf0dedcfcbae15b05a;False;3;24;Média;1;casos;0;proporcional
+63956aaf0dedcfcbae15b05b;False;null;24;1;1;casos;0;binaria
+63956aaf0dedcfcbae15b05c;False;null;24;1;1;casos;0;proporcional
+63956aaf0dedcfcbae15b05d;False;null;24;2;1;casos;0;binaria
+63956aaf0dedcfcbae15b05e;False;null;24;2;1;casos;0;proporcional
+63956aaf0dedcfcbae15b05f;False;null;24;3;1;casos;0;binaria
+63956aaf0dedcfcbae15b060;False;null;24;3;1;casos;0;proporcional
+63956aaf0dedcfcbae15b061;False;null;24;4;1;casos;0;binaria
+63956aaf0dedcfcbae15b062;False;null;24;4;1;casos;0;proporcional
+63956ab00dedcfcbae15b063;False;null;24;5;1;casos;0;binaria
+63956ab00dedcfcbae15b064;False;null;24;5;1;casos;0;proporcional
+63956ab00dedcfcbae15b065;False;null;24;6;1;casos;0;binaria
+63956ab00dedcfcbae15b066;False;null;24;6;1;casos;0;proporcional
+63956ab00dedcfcbae15b067;False;null;24;7;1;casos;0;binaria
+63956ab00dedcfcbae15b068;False;null;24;7;1;casos;0;proporcional
+63956ab00dedcfcbae15b069;False;null;24;8;1;casos;0;binaria
+63956ab00dedcfcbae15b06a;False;null;24;8;1;casos;0;proporcional
+63956ab30dedcfcbae15b091;False;3;25;Média;1;casos;0;binaria
+63956ab30dedcfcbae15b092;False;3;25;Média;1;casos;0;proporcional
+63956ab30dedcfcbae15b093;False;null;25;1;1;casos;0;binaria
+63956ab30dedcfcbae15b094;False;null;25;1;1;casos;0;proporcional
+63956ab30dedcfcbae15b095;False;null;25;2;1;casos;0;binaria
+63956ab30dedcfcbae15b096;False;null;25;2;1;casos;0;proporcional
+63956ab30dedcfcbae15b097;False;null;25;3;1;casos;0;binaria
+63956ab30dedcfcbae15b098;False;null;25;3;1;casos;0;proporcional
+63956ab30dedcfcbae15b099;False;null;25;4;1;casos;0;binaria
+63956ab30dedcfcbae15b09a;False;null;25;4;1;casos;0;proporcional
+63956ab30dedcfcbae15b09b;False;null;25;5;1;casos;0;binaria
+63956ab30dedcfcbae15b09c;False;null;25;5;1;casos;0;proporcional
+63956ab40dedcfcbae15b09d;False;null;25;6;1;casos;0;binaria
+63956ab40dedcfcbae15b09e;False;null;25;6;1;casos;0;proporcional
+63956ab40dedcfcbae15b09f;False;null;25;7;1;casos;0;binaria
+63956ab40dedcfcbae15b0a0;False;null;25;7;1;casos;0;proporcional
+63956ab40dedcfcbae15b0a1;False;null;25;8;1;casos;0;binaria
+63956ab40dedcfcbae15b0a2;False;null;25;8;1;casos;0;proporcional
+63956ac90dedcfcbae15b0ca;False;1;3;EF1;1;entradas;0;
+63956ac90dedcfcbae15b0cb;False;2;3;EV1;1;entradas;0;
+63956ac90dedcfcbae15b0cc;False;2;3;EV2;1;entradas;0;
+63956ac90dedcfcbae15b0cd;False;3;3;Média;1;entradas;0;
+63956aca0dedcfcbae15b0d2;False;1;5;EF1;1;entradas;1,0677083333333333;
+63956aca0dedcfcbae15b0d3;False;2;5;EV1;1;entradas;0;
+63956aca0dedcfcbae15b0d4;False;2;5;EV2;1;entradas;0;
+63956aca0dedcfcbae15b0d5;False;3;5;Média;1;entradas;0,35590277777777773;
+63956aca0dedcfcbae15b0da;False;1;4;EF1;1;entradas;0;
+63956acb0dedcfcbae15b0db;False;2;4;EV1;1;entradas;0;
+63956acb0dedcfcbae15b0dc;False;2;4;EV2;1;entradas;0;
+63956acb0dedcfcbae15b0dd;False;3;4;Média;1;entradas;0;
+63956acb0dedcfcbae15b0e2;False;1;6;EF1;1;entradas;0;
+63956acb0dedcfcbae15b0e3;False;2;6;EV1;1;entradas;0;
+63956acb0dedcfcbae15b0e4;False;2;6;EV2;1;entradas;0;
+63956acb0dedcfcbae15b0e5;False;3;6;Média;1;entradas;0;
+63956acc0dedcfcbae15b0ea;False;1;7;EF1;1;entradas;0,6194196428571429;
+63956acc0dedcfcbae15b0eb;False;2;7;EV1;1;entradas;0;
+63956acc0dedcfcbae15b0ec;False;2;7;EV2;1;entradas;0;
+63956acc0dedcfcbae15b0ed;False;3;7;Média;1;entradas;0,2064732142857143;
+63956acd0dedcfcbae15b0f2;False;1;9;EF1;1;entradas;0;
+63956acd0dedcfcbae15b0f3;False;2;9;EV1;1;entradas;0;
+63956acd0dedcfcbae15b0f4;False;2;9;EV2;1;entradas;0;
+63956acd0dedcfcbae15b0f5;False;3;9;Média;1;entradas;0;
+63956ace0dedcfcbae15b0fa;False;1;10;EF1;1;entradas;1,8350074404761905;
+63956ace0dedcfcbae15b0fb;False;2;10;EV1;1;entradas;0;
+63956ace0dedcfcbae15b0fc;False;2;10;EV2;1;entradas;0;
+63956ace0dedcfcbae15b0fd;False;3;10;Média;1;entradas;0,6116691468253969;
+63956ace0dedcfcbae15b102;False;1;11;EF1;1;entradas;0,546875;
+63956acf0dedcfcbae15b103;False;2;11;EV1;1;entradas;1,09375;
+63956acf0dedcfcbae15b104;False;2;11;EV2;1;entradas;0,615234375;
+63956acf0dedcfcbae15b105;False;3;11;Média;1;entradas;0,751953125;
+63956acf0dedcfcbae15b10a;False;1;12;EF1;1;entradas;0;
+63956acf0dedcfcbae15b10b;False;2;12;EV1;1;entradas;0;
+63956acf0dedcfcbae15b10c;False;2;12;EV2;1;entradas;0;
+63956acf0dedcfcbae15b10d;False;3;12;Média;1;entradas;0;
+63956ad00dedcfcbae15b112;False;1;13;EF1;1;entradas;0;
+63956ad00dedcfcbae15b113;False;2;13;EV1;1;entradas;0;
+63956ad00dedcfcbae15b114;False;2;13;EV2;1;entradas;1,09375;
+63956ad00dedcfcbae15b115;False;3;13;Média;1;entradas;0,3645833333333333;
+63956ad10dedcfcbae15b11a;False;1;14;EF1;1;entradas;0;
+63956ad10dedcfcbae15b11b;False;2;14;EV1;1;entradas;0;
+63956ad10dedcfcbae15b11c;False;2;14;EV2;1;entradas;0;
+63956ad10dedcfcbae15b11d;False;3;14;Média;1;entradas;0;
+63956ad20dedcfcbae15b122;False;1;16;EF1;1;entradas;0,9375;
+63956ad20dedcfcbae15b123;False;2;16;EV1;1;entradas;0;
+63956ad20dedcfcbae15b124;False;2;16;EV2;1;entradas;0;
+63956ad20dedcfcbae15b125;False;3;16;Média;1;entradas;0,3125;
+63956ad30dedcfcbae15b12a;False;1;17;EF1;1;entradas;0;
+63956ad30dedcfcbae15b12b;False;2;17;EV1;1;entradas;0;
+63956ad30dedcfcbae15b12c;False;2;17;EV2;1;entradas;0;
+63956ad30dedcfcbae15b12d;False;3;17;Média;1;entradas;0;
+63956ad30dedcfcbae15b132;False;1;18;EF1;1;entradas;1,1197916666666665;
+63956ad30dedcfcbae15b133;False;2;18;EV1;1;entradas;0;
+63956ad30dedcfcbae15b134;False;2;18;EV2;1;entradas;0;
+63956ad40dedcfcbae15b135;False;3;18;Média;1;entradas;0,37326388888888884;
+63956ad40dedcfcbae15b13a;False;1;19;EF1;1;entradas;0;
+63956ad40dedcfcbae15b13b;False;2;19;EV1;1;entradas;0;
+63956ad40dedcfcbae15b13c;False;2;19;EV2;1;entradas;0;
+63956ad40dedcfcbae15b13d;False;3;19;Média;1;entradas;0;
+63956ad50dedcfcbae15b142;False;1;20;EF1;1;entradas;0;
+63956ad50dedcfcbae15b143;False;2;20;EV1;1;entradas;0;
+63956ad50dedcfcbae15b144;False;2;20;EV2;1;entradas;0;
+63956ad50dedcfcbae15b145;False;3;20;Média;1;entradas;0;
+63956ad60dedcfcbae15b14a;False;1;21;EF1;1;entradas;0;
+63956ad60dedcfcbae15b14b;False;2;21;EV1;1;entradas;0;
+63956ad60dedcfcbae15b14c;False;2;21;EV2;1;entradas;0;
+63956ad60dedcfcbae15b14d;False;3;21;Média;1;entradas;0;
+63956ad60dedcfcbae15b152;False;1;22;EF1;1;entradas;1,09375;
+63956ad60dedcfcbae15b153;False;2;22;EV1;1;entradas;0;
+63956ad70dedcfcbae15b154;False;2;22;EV2;1;entradas;0;
+63956ad70dedcfcbae15b155;False;3;22;Média;1;entradas;0,3645833333333333;
+63956ad70dedcfcbae15b15a;False;1;23;EF1;1;entradas;0;
+63956ad70dedcfcbae15b15b;False;2;23;EV1;1;entradas;0;
+63956ad70dedcfcbae15b15c;False;2;23;EV2;1;entradas;0;
+63956ad70dedcfcbae15b15d;False;3;23;Média;1;entradas;0;
+63956ad80dedcfcbae15b162;False;1;24;EF1;1;entradas;0;
+63956ad80dedcfcbae15b163;False;2;24;EV1;1;entradas;0;
+63956ad80dedcfcbae15b164;False;2;24;EV2;1;entradas;0;
+63956ad80dedcfcbae15b165;False;3;24;Média;1;entradas;0;
+63956ad90dedcfcbae15b16a;False;1;25;EF1;1;entradas;0;
+63956ad90dedcfcbae15b16b;False;2;25;EV1;1;entradas;0;
+63956ad90dedcfcbae15b16c;False;2;25;EV2;1;entradas;0;
+63956ad90dedcfcbae15b16d;False;3;25;Média;1;entradas;0;
+63956b330dedcfcbae15b174;True;3;3;Média;1;casos;0;binaria
+63956b330dedcfcbae15b175;True;3;3;Média;1;casos;0;proporcional
+63956b330dedcfcbae15b176;1;null;3;Quadrante 1;1;casos;0;binaria
+63956b330dedcfcbae15b177;1;null;3;Quadrante 1;1;casos;0;proporcional
+63956b330dedcfcbae15b178;2;null;3;Quadrante 2;1;casos;0;binaria
+63956b330dedcfcbae15b179;2;null;3;Quadrante 2;1;casos;0;proporcional
+63956b330dedcfcbae15b17a;3;null;3;Quadrante 3;1;casos;0;binaria
+63956b330dedcfcbae15b17b;3;null;3;Quadrante 3;1;casos;0;proporcional
+63956b330dedcfcbae15b17c;4;null;3;Quadrante 4;1;casos;0;binaria
+63956b340dedcfcbae15b17d;4;null;3;Quadrante 4;1;casos;0;proporcional
+63956b340dedcfcbae15b17e;True;3;5;Média;1;casos;2,084122474747475;binaria
+63956b340dedcfcbae15b17f;True;3;5;Média;1;casos;0,6947074915824921;proporcional
+63956b340dedcfcbae15b180;1;null;5;Quadrante 1;1;casos;0;binaria
+63956b340dedcfcbae15b181;1;null;5;Quadrante 1;1;casos;0;proporcional
+63956b340dedcfcbae15b182;2;null;5;Quadrante 2;1;casos;0;binaria
+63956b340dedcfcbae15b183;2;null;5;Quadrante 2;1;casos;0;proporcional
+63956b340dedcfcbae15b184;3;null;5;Quadrante 3;1;casos;0;binaria
+63956b340dedcfcbae15b185;3;null;5;Quadrante 3;1;casos;0;proporcional
+63956b340dedcfcbae15b186;4;null;5;Quadrante 4;1;casos;8,055555555555555;binaria
+63956b340dedcfcbae15b187;4;null;5;Quadrante 4;1;casos;2,6851851851851856;proporcional
+63956b350dedcfcbae15b188;True;3;4;Média;1;casos;0;binaria
+63956b350dedcfcbae15b189;True;3;4;Média;1;casos;0;proporcional
+63956b350dedcfcbae15b18a;1;null;4;Quadrante 1;1;casos;0;binaria
+63956b350dedcfcbae15b18b;1;null;4;Quadrante 1;1;casos;0;proporcional
+63956b350dedcfcbae15b18c;2;null;4;Quadrante 2;1;casos;0;binaria
+63956b350dedcfcbae15b18d;2;null;4;Quadrante 2;1;casos;0;proporcional
+63956b350dedcfcbae15b18e;3;null;4;Quadrante 3;1;casos;0;binaria
+63956b350dedcfcbae15b18f;3;null;4;Quadrante 3;1;casos;0;proporcional
+63956b350dedcfcbae15b190;4;null;4;Quadrante 4;1;casos;0;binaria
+63956b350dedcfcbae15b191;4;null;4;Quadrante 4;1;casos;0;proporcional
+63956b360dedcfcbae15b192;True;3;6;Média;1;casos;0;binaria
+63956b360dedcfcbae15b193;True;3;6;Média;1;casos;0;proporcional
+63956b360dedcfcbae15b194;1;null;6;Quadrante 1;1;casos;0;binaria
+63956b360dedcfcbae15b195;1;null;6;Quadrante 1;1;casos;0;proporcional
+63956b360dedcfcbae15b196;2;null;6;Quadrante 2;1;casos;0;binaria
+63956b360dedcfcbae15b197;2;null;6;Quadrante 2;1;casos;0;proporcional
+63956b360dedcfcbae15b198;3;null;6;Quadrante 3;1;casos;0;binaria
+63956b360dedcfcbae15b199;3;null;6;Quadrante 3;1;casos;0;proporcional
+63956b360dedcfcbae15b19a;4;null;6;Quadrante 4;1;casos;0;binaria
+63956b360dedcfcbae15b19b;4;null;6;Quadrante 4;1;casos;0;proporcional
+63956b370dedcfcbae15b19c;True;3;7;Média;1;casos;1,9441964285714288;binaria
+63956b370dedcfcbae15b19d;True;3;7;Média;1;casos;0,6480654761904767;proporcional
+63956b370dedcfcbae15b19e;1;null;7;Quadrante 1;1;casos;0;binaria
+63956b370dedcfcbae15b19f;1;null;7;Quadrante 1;1;casos;0;proporcional
+63956b370dedcfcbae15b1a0;2;null;7;Quadrante 2;1;casos;0;binaria
+63956b370dedcfcbae15b1a1;2;null;7;Quadrante 2;1;casos;0;proporcional
+63956b370dedcfcbae15b1a2;3;null;7;Quadrante 3;1;casos;0;binaria
+63956b370dedcfcbae15b1a3;3;null;7;Quadrante 3;1;casos;0;proporcional
+63956b370dedcfcbae15b1a4;4;null;7;Quadrante 4;1;casos;8,333333333333334;binaria
+63956b370dedcfcbae15b1a5;4;null;7;Quadrante 4;1;casos;2,7777777777777786;proporcional
+63956b380dedcfcbae15b1a6;True;3;9;Média;1;casos;0;binaria
+63956b380dedcfcbae15b1a7;True;3;9;Média;1;casos;0;proporcional
+63956b380dedcfcbae15b1a8;1;null;9;Quadrante 1;1;casos;0;binaria
+63956b380dedcfcbae15b1a9;1;null;9;Quadrante 1;1;casos;0;proporcional
+63956b380dedcfcbae15b1aa;2;null;9;Quadrante 2;1;casos;0;binaria
+63956b380dedcfcbae15b1ab;2;null;9;Quadrante 2;1;casos;0;proporcional
+63956b380dedcfcbae15b1ac;3;null;9;Quadrante 3;1;casos;0;binaria
+63956b380dedcfcbae15b1ad;3;null;9;Quadrante 3;1;casos;0;proporcional
+63956b380dedcfcbae15b1ae;4;null;9;Quadrante 4;1;casos;0;binaria
+63956b380dedcfcbae15b1af;4;null;9;Quadrante 4;1;casos;0;proporcional
+63956b380dedcfcbae15b1b0;True;3;10;Média;1;casos;3,6084485877684407;binaria
+63956b390dedcfcbae15b1b1;True;3;10;Média;1;casos;1,2028161959228145;proporcional
+63956b390dedcfcbae15b1b2;1;null;10;Quadrante 1;1;casos;5,573937908496733;binaria
+63956b390dedcfcbae15b1b3;1;null;10;Quadrante 1;1;casos;1,8579793028322447;proporcional
+63956b390dedcfcbae15b1b4;2;null;10;Quadrante 2;1;casos;0;binaria
+63956b390dedcfcbae15b1b5;2;null;10;Quadrante 2;1;casos;0;proporcional
+63956b390dedcfcbae15b1b6;3;null;10;Quadrante 3;1;casos;0;binaria
+63956b390dedcfcbae15b1b7;3;null;10;Quadrante 3;1;casos;0;proporcional
+63956b390dedcfcbae15b1b8;4;null;10;Quadrante 4;1;casos;8,88888888888889;binaria
+63956b390dedcfcbae15b1b9;4;null;10;Quadrante 4;1;casos;2,9629629629629637;proporcional
+63956b390dedcfcbae15b1ba;True;3;11;Média;1;casos;0,859375;binaria
+63956b3a0dedcfcbae15b1bb;True;3;11;Média;1;casos;0,7877604166666666;proporcional
+63956b3a0dedcfcbae15b1bc;1;null;11;Quadrante 1;1;casos;3,4375;binaria
+63956b3a0dedcfcbae15b1bd;1;null;11;Quadrante 1;1;casos;2,291666666666667;proporcional
+63956b3a0dedcfcbae15b1be;2;null;11;Quadrante 2;1;casos;0;binaria
+63956b3a0dedcfcbae15b1bf;2;null;11;Quadrante 2;1;casos;0;proporcional
+63956b3a0dedcfcbae15b1c0;3;null;11;Quadrante 3;1;casos;0;binaria
+63956b3a0dedcfcbae15b1c1;3;null;11;Quadrante 3;1;casos;0;proporcional
+63956b3a0dedcfcbae15b1c2;4;null;11;Quadrante 4;1;casos;0;binaria
+63956b3a0dedcfcbae15b1c3;4;null;11;Quadrante 4;1;casos;0;proporcional
+63956b3a0dedcfcbae15b1c4;True;3;12;Média;1;casos;0;binaria
+63956b3a0dedcfcbae15b1c5;True;3;12;Média;1;casos;0;proporcional
+63956b3b0dedcfcbae15b1c6;1;null;12;Quadrante 1;1;casos;0;binaria
+63956b3b0dedcfcbae15b1c7;1;null;12;Quadrante 1;1;casos;0;proporcional
+63956b3b0dedcfcbae15b1c8;2;null;12;Quadrante 2;1;casos;0;binaria
+63956b3b0dedcfcbae15b1c9;2;null;12;Quadrante 2;1;casos;0;proporcional
+63956b3b0dedcfcbae15b1ca;3;null;12;Quadrante 3;1;casos;0;binaria
+63956b3b0dedcfcbae15b1cb;3;null;12;Quadrante 3;1;casos;0;proporcional
+63956b3b0dedcfcbae15b1cc;4;null;12;Quadrante 4;1;casos;0;binaria
+63956b3b0dedcfcbae15b1cd;4;null;12;Quadrante 4;1;casos;0;proporcional
+63956b3b0dedcfcbae15b1ce;True;3;13;Média;1;casos;2,3611111111111107;binaria
+63956b3c0dedcfcbae15b1cf;True;3;13;Média;1;casos;0,7870370370370375;proporcional
+63956b3c0dedcfcbae15b1d0;1;null;13;Quadrante 1;1;casos;0;binaria
+63956b3c0dedcfcbae15b1d1;1;null;13;Quadrante 1;1;casos;0;proporcional
+63956b3c0dedcfcbae15b1d2;2;null;13;Quadrante 2;1;casos;0;binaria
+63956b3c0dedcfcbae15b1d3;2;null;13;Quadrante 2;1;casos;0;proporcional
+63956b3c0dedcfcbae15b1d4;3;null;13;Quadrante 3;1;casos;0;binaria
+63956b3c0dedcfcbae15b1d5;3;null;13;Quadrante 3;1;casos;0;proporcional
+63956b3c0dedcfcbae15b1d6;4;null;13;Quadrante 4;1;casos;8,333333333333332;binaria
+63956b3c0dedcfcbae15b1d7;4;null;13;Quadrante 4;1;casos;2,777777777777778;proporcional
+63956b3c0dedcfcbae15b1d8;True;3;14;Média;1;casos;0;binaria
+63956b3c0dedcfcbae15b1d9;True;3;14;Média;1;casos;0;proporcional
+63956b3c0dedcfcbae15b1da;1;null;14;Quadrante 1;1;casos;0;binaria
+63956b3d0dedcfcbae15b1db;1;null;14;Quadrante 1;1;casos;0;proporcional
+63956b3d0dedcfcbae15b1dc;2;null;14;Quadrante 2;1;casos;0;binaria
+63956b3d0dedcfcbae15b1dd;2;null;14;Quadrante 2;1;casos;0;proporcional
+63956b3d0dedcfcbae15b1de;3;null;14;Quadrante 3;1;casos;0;binaria
+63956b3d0dedcfcbae15b1df;3;null;14;Quadrante 3;1;casos;0;proporcional
+63956b3d0dedcfcbae15b1e0;4;null;14;Quadrante 4;1;casos;0;binaria
+63956b3d0dedcfcbae15b1e1;4;null;14;Quadrante 4;1;casos;0;proporcional
+63956b3d0dedcfcbae15b1e2;True;3;16;Média;1;casos;2,2395833333333335;binaria
+63956b3e0dedcfcbae15b1e3;True;3;16;Média;1;casos;0,7465277777777783;proporcional
+63956b3e0dedcfcbae15b1e4;1;null;16;Quadrante 1;1;casos;0;binaria
+63956b3e0dedcfcbae15b1e5;1;null;16;Quadrante 1;1;casos;0;proporcional
+63956b3e0dedcfcbae15b1e6;2;null;16;Quadrante 2;1;casos;0;binaria
+63956b3e0dedcfcbae15b1e7;2;null;16;Quadrante 2;1;casos;0;proporcional
+63956b3e0dedcfcbae15b1e8;3;null;16;Quadrante 3;1;casos;0;binaria
+63956b3e0dedcfcbae15b1e9;3;null;16;Quadrante 3;1;casos;0;proporcional
+63956b3e0dedcfcbae15b1ea;4;null;16;Quadrante 4;1;casos;9,166666666666668;binaria
+63956b3e0dedcfcbae15b1eb;4;null;16;Quadrante 4;1;casos;3,0555555555555562;proporcional
+63956b3e0dedcfcbae15b1ec;True;3;17;Média;1;casos;0;binaria
+63956b3e0dedcfcbae15b1ed;True;3;17;Média;1;casos;0;proporcional
+63956b3e0dedcfcbae15b1ee;1;null;17;Quadrante 1;1;casos;0;binaria
+63956b3e0dedcfcbae15b1ef;1;null;17;Quadrante 1;1;casos;0;proporcional
+63956b3f0dedcfcbae15b1f0;2;null;17;Quadrante 2;1;casos;0;binaria
+63956b3f0dedcfcbae15b1f1;2;null;17;Quadrante 2;1;casos;0;proporcional
+63956b3f0dedcfcbae15b1f2;3;null;17;Quadrante 3;1;casos;0;binaria
+63956b3f0dedcfcbae15b1f3;3;null;17;Quadrante 3;1;casos;0;proporcional
+63956b3f0dedcfcbae15b1f4;4;null;17;Quadrante 4;1;casos;0;binaria
+63956b3f0dedcfcbae15b1f5;4;null;17;Quadrante 4;1;casos;0;proporcional
+63956b3f0dedcfcbae15b1f6;True;3;18;Média;1;casos;2,361111111111111;binaria
+63956b3f0dedcfcbae15b1f7;True;3;18;Média;1;casos;0,7870370370370375;proporcional
+63956b3f0dedcfcbae15b1f8;1;null;18;Quadrante 1;1;casos;0;binaria
+63956b3f0dedcfcbae15b1f9;1;null;18;Quadrante 1;1;casos;0;proporcional
+63956b3f0dedcfcbae15b1fa;2;null;18;Quadrante 2;1;casos;0;binaria
+63956b3f0dedcfcbae15b1fb;2;null;18;Quadrante 2;1;casos;0;proporcional
+63956b400dedcfcbae15b1fc;3;null;18;Quadrante 3;1;casos;0;binaria
+63956b400dedcfcbae15b1fd;3;null;18;Quadrante 3;1;casos;0;proporcional
+63956b400dedcfcbae15b1fe;4;null;18;Quadrante 4;1;casos;10;binaria
+63956b400dedcfcbae15b1ff;4;null;18;Quadrante 4;1;casos;3,333333333333334;proporcional
+63956b400dedcfcbae15b200;True;3;19;Média;1;casos;0;binaria
+63956b400dedcfcbae15b201;True;3;19;Média;1;casos;0;proporcional
+63956b400dedcfcbae15b202;1;null;19;Quadrante 1;1;casos;0;binaria
+63956b400dedcfcbae15b203;1;null;19;Quadrante 1;1;casos;0;proporcional
+63956b400dedcfcbae15b204;2;null;19;Quadrante 2;1;casos;0;binaria
+63956b400dedcfcbae15b205;2;null;19;Quadrante 2;1;casos;0;proporcional
+63956b400dedcfcbae15b206;3;null;19;Quadrante 3;1;casos;0;binaria
+63956b400dedcfcbae15b207;3;null;19;Quadrante 3;1;casos;0;proporcional
+63956b410dedcfcbae15b208;4;null;19;Quadrante 4;1;casos;0;binaria
+63956b410dedcfcbae15b209;4;null;19;Quadrante 4;1;casos;0;proporcional
+63956b410dedcfcbae15b20a;True;3;20;Média;1;casos;0;binaria
+63956b410dedcfcbae15b20b;True;3;20;Média;1;casos;0;proporcional
+63956b410dedcfcbae15b20c;1;null;20;Quadrante 1;1;casos;0;binaria
+63956b410dedcfcbae15b20d;1;null;20;Quadrante 1;1;casos;0;proporcional
+63956b410dedcfcbae15b20e;2;null;20;Quadrante 2;1;casos;0;binaria
+63956b410dedcfcbae15b20f;2;null;20;Quadrante 2;1;casos;0;proporcional
+63956b410dedcfcbae15b210;3;null;20;Quadrante 3;1;casos;0;binaria
+63956b410dedcfcbae15b211;3;null;20;Quadrante 3;1;casos;0;proporcional
+63956b410dedcfcbae15b212;4;null;20;Quadrante 4;1;casos;0;binaria
+63956b420dedcfcbae15b213;4;null;20;Quadrante 4;1;casos;0;proporcional
+63956b420dedcfcbae15b214;True;3;21;Média;1;casos;0;binaria
+63956b420dedcfcbae15b215;True;3;21;Média;1;casos;0;proporcional
+63956b420dedcfcbae15b216;1;null;21;Quadrante 1;1;casos;0;binaria
+63956b420dedcfcbae15b217;1;null;21;Quadrante 1;1;casos;0;proporcional
+63956b420dedcfcbae15b218;2;null;21;Quadrante 2;1;casos;0;binaria
+63956b420dedcfcbae15b219;2;null;21;Quadrante 2;1;casos;0;proporcional
+63956b420dedcfcbae15b21a;3;null;21;Quadrante 3;1;casos;0;binaria
+63956b420dedcfcbae15b21b;3;null;21;Quadrante 3;1;casos;0;proporcional
+63956b420dedcfcbae15b21c;4;null;21;Quadrante 4;1;casos;0;binaria
+63956b430dedcfcbae15b21d;4;null;21;Quadrante 4;1;casos;0;proporcional
+63956b430dedcfcbae15b21e;True;3;22;Média;1;casos;2,272135416666667;binaria
+63956b430dedcfcbae15b21f;True;3;22;Média;1;casos;0,7573784722222229;proporcional
+63956b430dedcfcbae15b220;1;null;22;Quadrante 1;1;casos;0;binaria
+63956b430dedcfcbae15b221;1;null;22;Quadrante 1;1;casos;0;proporcional
+63956b430dedcfcbae15b222;2;null;22;Quadrante 2;1;casos;0;binaria
+63956b430dedcfcbae15b223;2;null;22;Quadrante 2;1;casos;0;proporcional
+63956b430dedcfcbae15b224;3;null;22;Quadrante 3;1;casos;0;binaria
+63956b430dedcfcbae15b225;3;null;22;Quadrante 3;1;casos;0;proporcional
+63956b430dedcfcbae15b226;4;null;22;Quadrante 4;1;casos;9,166666666666668;binaria
+63956b430dedcfcbae15b227;4;null;22;Quadrante 4;1;casos;3,0555555555555562;proporcional
+63956b440dedcfcbae15b228;True;3;23;Média;1;casos;0;binaria
+63956b440dedcfcbae15b229;True;3;23;Média;1;casos;0;proporcional
+63956b440dedcfcbae15b22a;1;null;23;Quadrante 1;1;casos;0;binaria
+63956b440dedcfcbae15b22b;1;null;23;Quadrante 1;1;casos;0;proporcional
+63956b440dedcfcbae15b22c;2;null;23;Quadrante 2;1;casos;0;binaria
+63956b440dedcfcbae15b22d;2;null;23;Quadrante 2;1;casos;0;proporcional
+63956b440dedcfcbae15b22e;3;null;23;Quadrante 3;1;casos;0;binaria
+63956b440dedcfcbae15b22f;3;null;23;Quadrante 3;1;casos;0;proporcional
+63956b440dedcfcbae15b230;4;null;23;Quadrante 4;1;casos;0;binaria
+63956b440dedcfcbae15b231;4;null;23;Quadrante 4;1;casos;0;proporcional
+63956b450dedcfcbae15b232;True;3;24;Média;1;casos;0;binaria
+63956b450dedcfcbae15b233;True;3;24;Média;1;casos;0;proporcional
+63956b450dedcfcbae15b234;1;null;24;Quadrante 1;1;casos;0;binaria
+63956b450dedcfcbae15b235;1;null;24;Quadrante 1;1;casos;0;proporcional
+63956b450dedcfcbae15b236;2;null;24;Quadrante 2;1;casos;0;binaria
+63956b450dedcfcbae15b237;2;null;24;Quadrante 2;1;casos;0;proporcional
+63956b450dedcfcbae15b238;3;null;24;Quadrante 3;1;casos;0;binaria
+63956b450dedcfcbae15b239;3;null;24;Quadrante 3;1;casos;0;proporcional
+63956b450dedcfcbae15b23a;4;null;24;Quadrante 4;1;casos;0;binaria
+63956b450dedcfcbae15b23b;4;null;24;Quadrante 4;1;casos;0;proporcional
+63956b460dedcfcbae15b23c;True;3;25;Média;1;casos;0;binaria
+63956b460dedcfcbae15b23d;True;3;25;Média;1;casos;0;proporcional
+63956b460dedcfcbae15b23e;1;null;25;Quadrante 1;1;casos;0;binaria
+63956b460dedcfcbae15b23f;1;null;25;Quadrante 1;1;casos;0;proporcional
+63956b460dedcfcbae15b240;2;null;25;Quadrante 2;1;casos;0;binaria
+63956b460dedcfcbae15b241;2;null;25;Quadrante 2;1;casos;0;proporcional
+63956b460dedcfcbae15b242;3;null;25;Quadrante 3;1;casos;0;binaria
+63956b460dedcfcbae15b243;3;null;25;Quadrante 3;1;casos;0;proporcional
+63956b460dedcfcbae15b244;4;null;25;Quadrante 4;1;casos;0;binaria
+63956b460dedcfcbae15b245;4;null;25;Quadrante 4;1;casos;0;proporcional
+63956e4d0dedcfcbae15b247;True;1;3;EF1;1;entradas;0;
+63956e4d0dedcfcbae15b248;True;2;3;EV1;1;entradas;0;
+63956e4e0dedcfcbae15b249;True;2;3;EV2;1;entradas;0;
+63956e4e0dedcfcbae15b24a;True;3;3;Média;1;entradas;0;
+63956e4e0dedcfcbae15b24b;True;1;5;EF1;1;entradas;2,1354166666666665;
+63956e4e0dedcfcbae15b24c;True;2;5;EV1;1;entradas;0;
+63956e4e0dedcfcbae15b24d;True;2;5;EV2;1;entradas;0;
+63956e4e0dedcfcbae15b24e;True;3;5;Média;1;entradas;0,7118055555555555;
+63956e4e0dedcfcbae15b24f;True;1;4;EF1;1;entradas;0;
+63956e4e0dedcfcbae15b250;True;2;4;EV1;1;entradas;0;
+63956e4e0dedcfcbae15b251;True;2;4;EV2;1;entradas;0;
+63956e4f0dedcfcbae15b252;True;3;4;Média;1;entradas;0;
+63956e4f0dedcfcbae15b253;True;1;6;EF1;1;entradas;0;
+63956e4f0dedcfcbae15b254;True;2;6;EV1;1;entradas;0;
+63956e4f0dedcfcbae15b255;True;2;6;EV2;1;entradas;0;
+63956e4f0dedcfcbae15b256;True;3;6;Média;1;entradas;0;
+63956e4f0dedcfcbae15b257;True;1;7;EF1;1;entradas;1,2388392857142856;
+63956e4f0dedcfcbae15b258;True;2;7;EV1;1;entradas;0;
+63956e4f0dedcfcbae15b259;True;2;7;EV2;1;entradas;0;
+63956e500dedcfcbae15b25a;True;3;7;Média;1;entradas;0,41294642857142855;
+63956e500dedcfcbae15b25b;True;1;9;EF1;1;entradas;0;
+63956e500dedcfcbae15b25c;True;2;9;EV1;1;entradas;0;
+63956e500dedcfcbae15b25d;True;2;9;EV2;1;entradas;0;
+63956e500dedcfcbae15b25e;True;3;9;Média;1;entradas;0;
+63956e500dedcfcbae15b25f;True;1;10;EF1;1;entradas;1,8350074404761902;
+63956e500dedcfcbae15b260;True;2;10;EV1;1;entradas;2,0963541666666665;
+63956e510dedcfcbae15b261;True;2;10;EV2;1;entradas;0;
+63956e510dedcfcbae15b262;True;3;10;Média;1;entradas;1,3104538690476188;
+63956e510dedcfcbae15b263;True;1;11;EF1;1;entradas;0,46875;
+63956e510dedcfcbae15b264;True;2;11;EV1;1;entradas;1,25;
+63956e510dedcfcbae15b265;True;2;11;EV2;1;entradas;0,703125;
+63956e510dedcfcbae15b266;True;3;11;Média;1;entradas;0,8072916666666666;
+63956e510dedcfcbae15b267;True;1;12;EF1;1;entradas;0;
+63956e510dedcfcbae15b268;True;2;12;EV1;1;entradas;0;
+63956e510dedcfcbae15b269;True;2;12;EV2;1;entradas;0;
+63956e520dedcfcbae15b26a;True;3;12;Média;1;entradas;0;
+63956e520dedcfcbae15b26b;True;1;13;EF1;1;entradas;0;
+63956e520dedcfcbae15b26c;True;2;13;EV1;1;entradas;0;
+63956e520dedcfcbae15b26d;True;2;13;EV2;1;entradas;2,1875;
+63956e520dedcfcbae15b26e;True;3;13;Média;1;entradas;0,7291666666666666;
+63956e520dedcfcbae15b26f;True;1;14;EF1;1;entradas;0;
+63956e520dedcfcbae15b270;True;2;14;EV1;1;entradas;0;
+63956e520dedcfcbae15b271;True;2;14;EV2;1;entradas;0;
+63956e530dedcfcbae15b272;True;3;14;Média;1;entradas;0;
+63956e530dedcfcbae15b273;True;1;16;EF1;1;entradas;0;
+63956e530dedcfcbae15b274;True;2;16;EV1;1;entradas;2,5;
+63956e530dedcfcbae15b275;True;2;16;EV2;1;entradas;0;
+63956e530dedcfcbae15b276;True;3;16;Média;1;entradas;0,8333333333333334;
+63956e540dedcfcbae15b277;True;1;17;EF1;1;entradas;0;
+63956e540dedcfcbae15b278;True;2;17;EV1;1;entradas;0;
+63956e540dedcfcbae15b279;True;2;17;EV2;1;entradas;0;
+63956e540dedcfcbae15b27a;True;3;17;Média;1;entradas;0;
+63956e540dedcfcbae15b27b;True;1;18;EF1;1;entradas;2,239583333333333;
+63956e540dedcfcbae15b27c;True;2;18;EV1;1;entradas;0;
+63956e540dedcfcbae15b27d;True;2;18;EV2;1;entradas;0;
+63956e540dedcfcbae15b27e;True;3;18;Média;1;entradas;0,7465277777777777;
+63956e540dedcfcbae15b27f;True;1;19;EF1;1;entradas;0;
+63956e550dedcfcbae15b280;True;2;19;EV1;1;entradas;0;
+63956e550dedcfcbae15b281;True;2;19;EV2;1;entradas;0;
+63956e550dedcfcbae15b282;True;3;19;Média;1;entradas;0;
+63956e550dedcfcbae15b283;True;1;20;EF1;1;entradas;0;
+63956e550dedcfcbae15b284;True;2;20;EV1;1;entradas;0;
+63956e550dedcfcbae15b285;True;2;20;EV2;1;entradas;0;
+63956e550dedcfcbae15b286;True;3;20;Média;1;entradas;0;
+63956e560dedcfcbae15b287;True;1;21;EF1;1;entradas;0;
+63956e560dedcfcbae15b288;True;2;21;EV1;1;entradas;0;
+63956e560dedcfcbae15b289;True;2;21;EV2;1;entradas;0;
+63956e560dedcfcbae15b28a;True;3;21;Média;1;entradas;0;
+63956e560dedcfcbae15b28b;True;1;22;EF1;1;entradas;0;
+63956e560dedcfcbae15b28c;True;2;22;EV1;1;entradas;2,3046875;
+63956e560dedcfcbae15b28d;True;2;22;EV2;1;entradas;0;
+63956e560dedcfcbae15b28e;True;3;22;Média;1;entradas;0,7682291666666666;
+63956e570dedcfcbae15b28f;True;1;23;EF1;1;entradas;0;
+63956e570dedcfcbae15b290;True;2;23;EV1;1;entradas;0;
+63956e570dedcfcbae15b291;True;2;23;EV2;1;entradas;0;
+63956e570dedcfcbae15b292;True;3;23;Média;1;entradas;0;
+63956e570dedcfcbae15b293;True;1;24;EF1;1;entradas;0;
+63956e570dedcfcbae15b294;True;2;24;EV1;1;entradas;0;
+63956e570dedcfcbae15b295;True;2;24;EV2;1;entradas;0;
+63956e570dedcfcbae15b296;True;3;24;Média;1;entradas;0;
+63956e570dedcfcbae15b297;True;1;25;EF1;1;entradas;0;
+63956e580dedcfcbae15b298;True;2;25;EV1;1;entradas;0;
+63956e580dedcfcbae15b299;True;2;25;EV2;1;entradas;0;
+63956e580dedcfcbae15b29a;True;3;25;Média;1;entradas;0;

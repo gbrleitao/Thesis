@@ -1,0 +1,463 @@
+_id;agrupamento;fonte;id_estudante;id_fonte;id_questionario;método;nota
+639568920dedcfcbae15a87a;False;1;3;EF1;1;entradas;7,322916666666667
+639568920dedcfcbae15a87b;False;2;3;EV1;1;entradas;9,166666666666666
+639568920dedcfcbae15a87c;False;2;3;EV2;1;entradas;9,375
+639568920dedcfcbae15a87d;False;3;3;Média;1;entradas;8,621527777777777
+639568940dedcfcbae15a882;False;1;5;EF1;1;entradas;8,541666666666666
+639568940dedcfcbae15a883;False;2;5;EV1;1;entradas;9,375
+639568940dedcfcbae15a884;False;2;5;EV2;1;entradas;7,092803030303029
+639568940dedcfcbae15a885;False;3;5;Média;1;entradas;8,336489898989898
+639568970dedcfcbae15a88a;False;1;4;EF1;1;entradas;8,541666666666666
+639568970dedcfcbae15a88b;False;2;4;EV1;1;entradas;9,375
+639568970dedcfcbae15a88c;False;2;4;EV2;1;entradas;10
+639568970dedcfcbae15a88d;False;3;4;Média;1;entradas;9,305555555555555
+6395689a0dedcfcbae15a892;False;1;6;EF1;1;entradas;8,541666666666666
+6395689a0dedcfcbae15a893;False;2;6;EV1;1;entradas;8,75
+6395689a0dedcfcbae15a894;False;2;6;EV2;1;entradas;10
+6395689a0dedcfcbae15a895;False;3;6;Média;1;entradas;9,097222222222221
+6395689c0dedcfcbae15a89a;False;1;7;EF1;1;entradas;4,955357142857143
+6395689c0dedcfcbae15a89b;False;2;7;EV1;1;entradas;9,375
+6395689c0dedcfcbae15a89c;False;2;7;EV2;1;entradas;9
+6395689d0dedcfcbae15a89d;False;3;7;Média;1;entradas;7,776785714285714
+6395689f0dedcfcbae15a8a2;False;1;9;EF1;1;entradas;8,854166666666666
+6395689f0dedcfcbae15a8a3;False;2;9;EV1;1;entradas;10
+6395689f0dedcfcbae15a8a4;False;2;9;EV2;1;entradas;9,375
+6395689f0dedcfcbae15a8a5;False;3;9;Média;1;entradas;9,409722222222221
+639568a10dedcfcbae15a8aa;False;1;10;EF1;1;entradas;7,340029761904762
+639568a20dedcfcbae15a8ab;False;2;10;EV1;1;entradas;8,385416666666666
+639568a20dedcfcbae15a8ac;False;2;10;EV2;1;entradas;5,925245098039214
+639568a20dedcfcbae15a8ad;False;3;10;Média;1;entradas;7,216897175536881
+639568a30dedcfcbae15a8b2;False;1;11;EF1;1;entradas;0,625
+639568a30dedcfcbae15a8b3;False;2;11;EV1;1;entradas;1,25
+639568a30dedcfcbae15a8b4;False;2;11;EV2;1;entradas;0,703125
+639568a30dedcfcbae15a8b5;False;3;11;Média;1;entradas;0,859375
+639568a50dedcfcbae15a8ba;False;1;12;EF1;1;entradas;9,505208333333334
+639568a50dedcfcbae15a8bb;False;2;12;EV1;1;entradas;9,375
+639568a50dedcfcbae15a8bc;False;2;12;EV2;1;entradas;8,571428571428573
+639568a50dedcfcbae15a8bd;False;3;12;Média;1;entradas;9,150545634920636
+639568a70dedcfcbae15a8c2;False;1;13;EF1;1;entradas;9,583333333333332
+639568a80dedcfcbae15a8c3;False;2;13;EV1;1;entradas;10
+639568a80dedcfcbae15a8c4;False;2;13;EV2;1;entradas;8,75
+639568a80dedcfcbae15a8c5;False;3;13;Média;1;entradas;9,444444444444445
+639568aa0dedcfcbae15a8ca;False;1;14;EF1;1;entradas;10
+639568aa0dedcfcbae15a8cb;False;2;14;EV1;1;entradas;10
+639568aa0dedcfcbae15a8cc;False;2;14;EV2;1;entradas;7,75
+639568aa0dedcfcbae15a8cd;False;3;14;Média;1;entradas;9,25
+639568ac0dedcfcbae15a8d2;False;1;16;EF1;1;entradas;7,5
+639568ac0dedcfcbae15a8d3;False;2;16;EV1;1;entradas;10
+639568ac0dedcfcbae15a8d4;False;2;16;EV2;1;entradas;9,375
+639568ac0dedcfcbae15a8d5;False;3;16;Média;1;entradas;8,958333333333334
+639568ae0dedcfcbae15a8da;False;1;17;EF1;1;entradas;9,375
+639568ae0dedcfcbae15a8db;False;2;17;EV1;1;entradas;10
+639568ae0dedcfcbae15a8dc;False;2;17;EV2;1;entradas;10
+639568ae0dedcfcbae15a8dd;False;3;17;Média;1;entradas;9,791666666666666
+639568b10dedcfcbae15a8e2;False;1;18;EF1;1;entradas;8,958333333333332
+639568b10dedcfcbae15a8e3;False;2;18;EV1;1;entradas;9,375
+639568b10dedcfcbae15a8e4;False;2;18;EV2;1;entradas;10
+639568b10dedcfcbae15a8e5;False;3;18;Média;1;entradas;9,444444444444445
+639568b30dedcfcbae15a8ea;False;1;19;EF1;1;entradas;9,895833333333334
+639568b30dedcfcbae15a8eb;False;2;19;EV1;1;entradas;10
+639568b30dedcfcbae15a8ec;False;2;19;EV2;1;entradas;7
+639568b30dedcfcbae15a8ed;False;3;19;Média;1;entradas;8,965277777777779
+639568b50dedcfcbae15a8f2;False;1;20;EF1;1;entradas;10
+639568b50dedcfcbae15a8f3;False;2;20;EV1;1;entradas;10
+639568b50dedcfcbae15a8f4;False;2;20;EV2;1;entradas;9,375
+639568b50dedcfcbae15a8f5;False;3;20;Média;1;entradas;9,791666666666666
+639568b70dedcfcbae15a8fa;False;1;21;EF1;1;entradas;8,020833333333334
+639568b70dedcfcbae15a8fb;False;2;21;EV1;1;entradas;10
+639568b80dedcfcbae15a8fc;False;2;21;EV2;1;entradas;9,166666666666666
+639568b80dedcfcbae15a8fd;False;3;21;Média;1;entradas;9,0625
+639568b90dedcfcbae15a902;False;1;22;EF1;1;entradas;8,75
+639568b90dedcfcbae15a903;False;2;22;EV1;1;entradas;9,21875
+639568b90dedcfcbae15a904;False;2;22;EV2;1;entradas;9,296875
+639568b90dedcfcbae15a905;False;3;22;Média;1;entradas;9,088541666666666
+639568bb0dedcfcbae15a90a;False;1;23;EF1;1;entradas;9,6875
+639568bc0dedcfcbae15a90b;False;2;23;EV1;1;entradas;10
+639568bc0dedcfcbae15a90c;False;2;23;EV2;1;entradas;9,84375
+639568bc0dedcfcbae15a90d;False;3;23;Média;1;entradas;9,84375
+639568be0dedcfcbae15a912;False;1;24;EF1;1;entradas;10
+639568be0dedcfcbae15a913;False;2;24;EV1;1;entradas;10
+639568be0dedcfcbae15a914;False;2;24;EV2;1;entradas;9,84375
+639568be0dedcfcbae15a915;False;3;24;Média;1;entradas;9,947916666666666
+639568c00dedcfcbae15a91a;False;1;25;EF1;1;entradas;0
+639568c00dedcfcbae15a91b;False;2;25;EV1;1;entradas;0
+639568c00dedcfcbae15a91c;False;2;25;EV2;1;entradas;0
+639568c00dedcfcbae15a91d;False;3;25;Média;1;entradas;0
+639568d30dedcfcbae15a923;True;1;3;EF1;1;entradas;7,322916666666666
+639568d30dedcfcbae15a924;True;2;3;EV1;1;entradas;9,166666666666666
+639568d30dedcfcbae15a925;True;2;3;EV2;1;entradas;9,375
+639568d30dedcfcbae15a926;True;3;3;Média;1;entradas;8,621527777777777
+639568dc0dedcfcbae15a927;True;1;5;EF1;1;entradas;8,541666666666666
+639568dc0dedcfcbae15a928;True;2;5;EV1;1;entradas;9,375
+639568dc0dedcfcbae15a929;True;2;5;EV2;1;entradas;7,092803030303029
+639568dd0dedcfcbae15a92a;True;3;5;Média;1;entradas;8,336489898989898
+639568e60dedcfcbae15a92b;True;1;4;EF1;1;entradas;8,541666666666666
+639568e60dedcfcbae15a92c;True;2;4;EV1;1;entradas;9,375
+639568e60dedcfcbae15a92d;True;2;4;EV2;1;entradas;10
+639568e60dedcfcbae15a92e;True;3;4;Média;1;entradas;9,305555555555555
+639568f20dedcfcbae15a92f;True;1;6;EF1;1;entradas;8,541666666666666
+639568f20dedcfcbae15a930;True;2;6;EV1;1;entradas;8,75
+639568f20dedcfcbae15a931;True;2;6;EV2;1;entradas;10
+639568f20dedcfcbae15a932;True;3;6;Média;1;entradas;9,097222222222221
+639568fd0dedcfcbae15a933;True;1;7;EF1;1;entradas;4,955357142857142
+639568fd0dedcfcbae15a934;True;2;7;EV1;1;entradas;9,375
+639568fd0dedcfcbae15a935;True;2;7;EV2;1;entradas;9
+639568fd0dedcfcbae15a936;True;3;7;Média;1;entradas;7,776785714285714
+639569070dedcfcbae15a937;True;1;9;EF1;1;entradas;8,854166666666666
+639569070dedcfcbae15a938;True;2;9;EV1;1;entradas;10
+639569070dedcfcbae15a939;True;2;9;EV2;1;entradas;9,375
+639569070dedcfcbae15a93a;True;3;9;Média;1;entradas;9,409722222222221
+639569110dedcfcbae15a93b;True;1;10;EF1;1;entradas;7,340029761904761
+639569110dedcfcbae15a93c;True;2;10;EV1;1;entradas;8,385416666666666
+639569120dedcfcbae15a93d;True;2;10;EV2;1;entradas;5,925245098039214
+639569120dedcfcbae15a93e;True;3;10;Média;1;entradas;7,216897175536881
+639569130dedcfcbae15a93f;True;1;11;EF1;1;entradas;0,625
+639569130dedcfcbae15a940;True;2;11;EV1;1;entradas;1,25
+639569130dedcfcbae15a941;True;2;11;EV2;1;entradas;0,703125
+639569130dedcfcbae15a942;True;3;11;Média;1;entradas;0,859375
+6395691e0dedcfcbae15a943;True;1;12;EF1;1;entradas;9,505208333333332
+6395691e0dedcfcbae15a944;True;2;12;EV1;1;entradas;9,375
+6395691e0dedcfcbae15a945;True;2;12;EV2;1;entradas;8,571428571428571
+6395691e0dedcfcbae15a946;True;3;12;Média;1;entradas;9,150545634920634
+639569280dedcfcbae15a947;True;1;13;EF1;1;entradas;9,583333333333332
+639569290dedcfcbae15a948;True;2;13;EV1;1;entradas;10
+639569290dedcfcbae15a949;True;2;13;EV2;1;entradas;8,75
+639569290dedcfcbae15a94a;True;3;13;Média;1;entradas;9,444444444444445
+639569340dedcfcbae15a94b;True;1;14;EF1;1;entradas;10
+639569340dedcfcbae15a94c;True;2;14;EV1;1;entradas;10
+639569340dedcfcbae15a94d;True;2;14;EV2;1;entradas;7,75
+639569340dedcfcbae15a94e;True;3;14;Média;1;entradas;9,25
+639569400dedcfcbae15a94f;True;1;16;EF1;1;entradas;7,5
+639569400dedcfcbae15a950;True;2;16;EV1;1;entradas;10
+639569410dedcfcbae15a951;True;2;16;EV2;1;entradas;9,375
+639569410dedcfcbae15a952;True;3;16;Média;1;entradas;8,958333333333334
+6395694b0dedcfcbae15a953;True;1;17;EF1;1;entradas;9,375
+6395694b0dedcfcbae15a954;True;2;17;EV1;1;entradas;10
+6395694b0dedcfcbae15a955;True;2;17;EV2;1;entradas;10
+6395694b0dedcfcbae15a956;True;3;17;Média;1;entradas;9,791666666666666
+639569550dedcfcbae15a957;True;1;18;EF1;1;entradas;8,958333333333332
+639569550dedcfcbae15a958;True;2;18;EV1;1;entradas;9,375
+639569550dedcfcbae15a959;True;2;18;EV2;1;entradas;10
+639569550dedcfcbae15a95a;True;3;18;Média;1;entradas;9,444444444444445
+6395695f0dedcfcbae15a95b;True;1;19;EF1;1;entradas;9,895833333333332
+6395695f0dedcfcbae15a95c;True;2;19;EV1;1;entradas;10
+6395695f0dedcfcbae15a95d;True;2;19;EV2;1;entradas;7
+6395695f0dedcfcbae15a95e;True;3;19;Média;1;entradas;8,965277777777777
+639569690dedcfcbae15a95f;True;1;20;EF1;1;entradas;10
+639569690dedcfcbae15a960;True;2;20;EV1;1;entradas;10
+639569690dedcfcbae15a961;True;2;20;EV2;1;entradas;9,375
+639569690dedcfcbae15a962;True;3;20;Média;1;entradas;9,791666666666666
+639569730dedcfcbae15a963;True;1;21;EF1;1;entradas;8,020833333333334
+639569730dedcfcbae15a964;True;2;21;EV1;1;entradas;10
+639569730dedcfcbae15a965;True;2;21;EV2;1;entradas;9,166666666666666
+639569730dedcfcbae15a966;True;3;21;Média;1;entradas;9,0625
+6395697e0dedcfcbae15a967;True;1;22;EF1;1;entradas;8,75
+6395697e0dedcfcbae15a968;True;2;22;EV1;1;entradas;9,21875
+6395697e0dedcfcbae15a969;True;2;22;EV2;1;entradas;9,296875
+6395697e0dedcfcbae15a96a;True;3;22;Média;1;entradas;9,088541666666666
+639569880dedcfcbae15a96b;True;1;23;EF1;1;entradas;9,6875
+639569880dedcfcbae15a96c;True;2;23;EV1;1;entradas;10
+639569880dedcfcbae15a96d;True;2;23;EV2;1;entradas;9,84375
+639569880dedcfcbae15a96e;True;3;23;Média;1;entradas;9,84375
+639569930dedcfcbae15a96f;True;1;24;EF1;1;entradas;10
+639569930dedcfcbae15a970;True;2;24;EV1;1;entradas;10
+639569930dedcfcbae15a971;True;2;24;EV2;1;entradas;9,84375
+639569940dedcfcbae15a972;True;3;24;Média;1;entradas;9,947916666666666
+639569940dedcfcbae15a973;True;1;25;EF1;1;entradas;0
+639569940dedcfcbae15a974;True;2;25;EV1;1;entradas;0
+639569940dedcfcbae15a975;True;2;25;EV2;1;entradas;0
+639569940dedcfcbae15a976;True;3;25;Média;1;entradas;0
+6395699d0dedcfcbae15a978;1;null;3;Quadrante 1;1;casos;6,430555555555555
+6395699d0dedcfcbae15a979;2;null;3;Quadrante 2;1;casos;9,166666666666668
+6395699d0dedcfcbae15a97a;3;null;3;Quadrante 3;1;casos;8,88888888888889
+6395699d0dedcfcbae15a97b;4;null;3;Quadrante 4;1;casos;10
+6395699d0dedcfcbae15a97c;True;3;3;Média;1;casos;8,621527777777779
+6395699e0dedcfcbae15a97d;1;null;5;Quadrante 1;1;casos;8,75
+6395699e0dedcfcbae15a97e;2;null;5;Quadrante 2;1;casos;8,61111111111111
+6395699e0dedcfcbae15a97f;3;null;5;Quadrante 3;1;casos;7,929292929292929
+6395699e0dedcfcbae15a980;4;null;5;Quadrante 4;1;casos;8,055555555555555
+6395699e0dedcfcbae15a981;True;3;5;Média;1;casos;8,3364898989899
+6395699f0dedcfcbae15a982;1;null;4;Quadrante 1;1;casos;9,166666666666668
+6395699f0dedcfcbae15a983;2;null;4;Quadrante 2;1;casos;8,055555555555555
+6395699f0dedcfcbae15a984;3;null;4;Quadrante 3;1;casos;10
+6395699f0dedcfcbae15a985;4;null;4;Quadrante 4;1;casos;10
+6395699f0dedcfcbae15a986;True;3;4;Média;1;casos;9,305555555555555
+639569a00dedcfcbae15a987;1;null;6;Quadrante 1;1;casos;8,055555555555555
+639569a00dedcfcbae15a988;2;null;6;Quadrante 2;1;casos;10
+639569a00dedcfcbae15a989;3;null;6;Quadrante 3;1;casos;9,166666666666668
+639569a00dedcfcbae15a98a;4;null;6;Quadrante 4;1;casos;9,166666666666668
+639569a00dedcfcbae15a98b;True;3;6;Média;1;casos;9,097222222222223
+639569a10dedcfcbae15a98c;1;null;7;Quadrante 1;1;casos;6,107142857142858
+639569a10dedcfcbae15a98d;2;null;7;Quadrante 2;1;casos;8,333333333333334
+639569a10dedcfcbae15a98e;3;null;7;Quadrante 3;1;casos;8,333333333333334
+639569a10dedcfcbae15a98f;4;null;7;Quadrante 4;1;casos;8,333333333333334
+639569a20dedcfcbae15a990;True;3;7;Média;1;casos;7,776785714285715
+639569a20dedcfcbae15a991;1;null;9;Quadrante 1;1;casos;8,61111111111111
+639569a20dedcfcbae15a992;2;null;9;Quadrante 2;1;casos;9,86111111111111
+639569a20dedcfcbae15a993;3;null;9;Quadrante 3;1;casos;9,166666666666668
+639569a20dedcfcbae15a994;4;null;9;Quadrante 4;1;casos;10
+639569a20dedcfcbae15a995;True;3;9;Média;1;casos;9,409722222222221
+639569a30dedcfcbae15a996;1;null;10;Quadrante 1;1;casos;5,573937908496733
+639569a30dedcfcbae15a997;2;null;10;Quadrante 2;1;casos;6,944444444444445
+639569a30dedcfcbae15a998;3;null;10;Quadrante 3;1;casos;7,4603174603174605
+639569a30dedcfcbae15a999;4;null;10;Quadrante 4;1;casos;8,88888888888889
+639569a40dedcfcbae15a99a;True;3;10;Média;1;casos;7,216897175536881
+639569a40dedcfcbae15a99b;1;null;11;Quadrante 1;1;casos;3,4375
+639569a40dedcfcbae15a99c;2;null;11;Quadrante 2;1;casos;0
+639569a40dedcfcbae15a99d;3;null;11;Quadrante 3;1;casos;0
+639569a40dedcfcbae15a99e;4;null;11;Quadrante 4;1;casos;0
+639569a40dedcfcbae15a99f;True;3;11;Média;1;casos;0,859375
+639569a50dedcfcbae15a9a0;1;null;12;Quadrante 1;1;casos;8,928571428571429
+639569a50dedcfcbae15a9a1;2;null;12;Quadrante 2;1;casos;7,8125
+639569a50dedcfcbae15a9a2;3;null;12;Quadrante 3;1;casos;10
+639569a50dedcfcbae15a9a3;4;null;12;Quadrante 4;1;casos;9,86111111111111
+639569a50dedcfcbae15a9a4;True;3;12;Média;1;casos;9,150545634920636
+639569a60dedcfcbae15a9a5;1;null;13;Quadrante 1;1;casos;10
+639569a60dedcfcbae15a9a6;2;null;13;Quadrante 2;1;casos;9,444444444444445
+639569a60dedcfcbae15a9a7;3;null;13;Quadrante 3;1;casos;10
+639569a60dedcfcbae15a9a8;4;null;13;Quadrante 4;1;casos;8,333333333333332
+639569a60dedcfcbae15a9a9;True;3;13;Média;1;casos;9,444444444444443
+639569a70dedcfcbae15a9aa;1;null;14;Quadrante 1;1;casos;9,166666666666668
+639569a70dedcfcbae15a9ab;2;null;14;Quadrante 2;1;casos;9,166666666666668
+639569a70dedcfcbae15a9ac;3;null;14;Quadrante 3;1;casos;10
+639569a70dedcfcbae15a9ad;4;null;14;Quadrante 4;1;casos;8,666666666666668
+639569a70dedcfcbae15a9ae;True;3;14;Média;1;casos;9,25
+639569a70dedcfcbae15a9af;1;null;16;Quadrante 1;1;casos;10
+639569a80dedcfcbae15a9b0;2;null;16;Quadrante 2;1;casos;9,166666666666668
+639569a80dedcfcbae15a9b1;3;null;16;Quadrante 3;1;casos;7,5
+639569a80dedcfcbae15a9b2;4;null;16;Quadrante 4;1;casos;9,166666666666668
+639569a80dedcfcbae15a9b3;True;3;16;Média;1;casos;8,958333333333334
+639569a80dedcfcbae15a9b4;1;null;17;Quadrante 1;1;casos;10
+639569a90dedcfcbae15a9b5;2;null;17;Quadrante 2;1;casos;9,166666666666668
+639569a90dedcfcbae15a9b6;3;null;17;Quadrante 3;1;casos;10
+639569a90dedcfcbae15a9b7;4;null;17;Quadrante 4;1;casos;10
+639569a90dedcfcbae15a9b8;True;3;17;Média;1;casos;9,791666666666668
+639569a90dedcfcbae15a9b9;1;null;18;Quadrante 1;1;casos;8,333333333333334
+639569aa0dedcfcbae15a9ba;2;null;18;Quadrante 2;1;casos;9,444444444444445
+639569aa0dedcfcbae15a9bb;3;null;18;Quadrante 3;1;casos;10
+639569aa0dedcfcbae15a9bc;4;null;18;Quadrante 4;1;casos;10
+639569aa0dedcfcbae15a9bd;True;3;18;Média;1;casos;9,444444444444445
+639569ab0dedcfcbae15a9be;1;null;19;Quadrante 1;1;casos;9,166666666666668
+639569ab0dedcfcbae15a9bf;2;null;19;Quadrante 2;1;casos;10
+639569ab0dedcfcbae15a9c0;3;null;19;Quadrante 3;1;casos;9,166666666666668
+639569ab0dedcfcbae15a9c1;4;null;19;Quadrante 4;1;casos;7,527777777777779
+639569ac0dedcfcbae15a9c2;True;3;19;Média;1;casos;8,965277777777779
+639569ac0dedcfcbae15a9c3;1;null;20;Quadrante 1;1;casos;9,166666666666668
+639569ac0dedcfcbae15a9c4;2;null;20;Quadrante 2;1;casos;10
+639569ad0dedcfcbae15a9c5;3;null;20;Quadrante 3;1;casos;10
+639569ad0dedcfcbae15a9c6;4;null;20;Quadrante 4;1;casos;10
+639569ad0dedcfcbae15a9c7;True;3;20;Média;1;casos;9,791666666666668
+639569ad0dedcfcbae15a9c8;1;null;21;Quadrante 1;1;casos;8,055555555555555
+639569ad0dedcfcbae15a9c9;2;null;21;Quadrante 2;1;casos;10
+639569ad0dedcfcbae15a9ca;3;null;21;Quadrante 3;1;casos;10
+639569ae0dedcfcbae15a9cb;4;null;21;Quadrante 4;1;casos;8,194444444444445
+639569ae0dedcfcbae15a9cc;True;3;21;Média;1;casos;9,0625
+639569ae0dedcfcbae15a9cd;1;null;22;Quadrante 1;1;casos;8,854166666666668
+639569ae0dedcfcbae15a9ce;2;null;22;Quadrante 2;1;casos;10
+639569ae0dedcfcbae15a9cf;3;null;22;Quadrante 3;1;casos;8,333333333333334
+639569af0dedcfcbae15a9d0;4;null;22;Quadrante 4;1;casos;9,166666666666668
+639569af0dedcfcbae15a9d1;True;3;22;Média;1;casos;9,088541666666668
+639569af0dedcfcbae15a9d2;1;null;23;Quadrante 1;1;casos;9,791666666666668
+639569af0dedcfcbae15a9d3;2;null;23;Quadrante 2;1;casos;9,583333333333332
+639569af0dedcfcbae15a9d4;3;null;23;Quadrante 3;1;casos;10
+639569b00dedcfcbae15a9d5;4;null;23;Quadrante 4;1;casos;10
+639569b00dedcfcbae15a9d6;True;3;23;Média;1;casos;9,84375
+639569b00dedcfcbae15a9d7;1;null;24;Quadrante 1;1;casos;9,791666666666668
+639569b00dedcfcbae15a9d8;2;null;24;Quadrante 2;1;casos;10
+639569b00dedcfcbae15a9d9;3;null;24;Quadrante 3;1;casos;10
+639569b00dedcfcbae15a9da;4;null;24;Quadrante 4;1;casos;10
+639569b10dedcfcbae15a9db;True;3;24;Média;1;casos;9,947916666666668
+639569b10dedcfcbae15a9dc;1;null;25;Quadrante 1;1;casos;0
+639569b10dedcfcbae15a9dd;2;null;25;Quadrante 2;1;casos;0
+639569b10dedcfcbae15a9de;3;null;25;Quadrante 3;1;casos;0
+639569b10dedcfcbae15a9df;4;null;25;Quadrante 4;1;casos;0
+639569b10dedcfcbae15a9e0;True;3;25;Média;1;casos;0
+639569bd0dedcfcbae15a9e2;False;null;3;1;1;casos;7,999999999999999
+639569bd0dedcfcbae15a9e3;False;null;3;2;1;casos;4,861111111111111
+639569bd0dedcfcbae15a9e4;False;null;3;3;1;casos;8,333333333333334
+639569be0dedcfcbae15a9e5;False;null;3;4;1;casos;10
+639569be0dedcfcbae15a9e6;False;null;3;5;1;casos;10
+639569be0dedcfcbae15a9e7;False;null;3;6;1;casos;7,777777777777777
+639569be0dedcfcbae15a9e8;False;null;3;7;1;casos;10
+639569be0dedcfcbae15a9e9;False;null;3;8;1;casos;10
+639569be0dedcfcbae15a9ea;False;3;3;Média;1;casos;8,621527777777779
+639569c10dedcfcbae15a9fe;False;null;5;1;1;casos;10
+639569c10dedcfcbae15a9ff;False;null;5;2;1;casos;7,5
+639569c10dedcfcbae15aa00;False;null;5;3;1;casos;7,222222222222222
+639569c10dedcfcbae15aa01;False;null;5;4;1;casos;10
+639569c10dedcfcbae15aa02;False;null;5;5;1;casos;10
+639569c10dedcfcbae15aa03;False;null;5;6;1;casos;5,858585858585857
+639569c10dedcfcbae15aa04;False;null;5;7;1;casos;6,111111111111111
+639569c10dedcfcbae15aa05;False;null;5;8;1;casos;10
+639569c10dedcfcbae15aa06;False;3;5;Média;1;casos;8,336489898989898
+639569c40dedcfcbae15aa1a;False;null;4;1;1;casos;8,333333333333334
+639569c40dedcfcbae15aa1b;False;null;4;2;1;casos;10
+639569c40dedcfcbae15aa1c;False;null;4;3;1;casos;6,111111111111111
+639569c40dedcfcbae15aa1d;False;null;4;4;1;casos;10
+639569c40dedcfcbae15aa1e;False;null;4;5;1;casos;10
+639569c40dedcfcbae15aa1f;False;null;4;6;1;casos;10
+639569c50dedcfcbae15aa20;False;null;4;7;1;casos;10
+639569c50dedcfcbae15aa21;False;null;4;8;1;casos;10
+639569c50dedcfcbae15aa22;False;3;4;Média;1;casos;9,305555555555555
+639569c70dedcfcbae15aa36;False;null;6;1;1;casos;10
+639569c80dedcfcbae15aa37;False;null;6;2;1;casos;6,111111111111111
+639569c80dedcfcbae15aa38;False;null;6;3;1;casos;10
+639569c80dedcfcbae15aa39;False;null;6;4;1;casos;10
+639569c80dedcfcbae15aa3a;False;null;6;5;1;casos;10
+639569c80dedcfcbae15aa3b;False;null;6;6;1;casos;8,333333333333334
+639569c80dedcfcbae15aa3c;False;null;6;7;1;casos;8,333333333333334
+639569c80dedcfcbae15aa3d;False;null;6;8;1;casos;10
+639569c80dedcfcbae15aa3e;False;3;6;Média;1;casos;9,097222222222223
+639569cb0dedcfcbae15aa52;False;null;7;1;1;casos;8,214285714285715
+639569cb0dedcfcbae15aa53;False;null;7;2;1;casos;3,9999999999999996
+639569cb0dedcfcbae15aa54;False;null;7;3;1;casos;8,333333333333334
+639569cb0dedcfcbae15aa55;False;null;7;4;1;casos;8,333333333333334
+639569cb0dedcfcbae15aa56;False;null;7;5;1;casos;8,333333333333334
+639569cb0dedcfcbae15aa57;False;null;7;6;1;casos;8,333333333333334
+639569cc0dedcfcbae15aa58;False;null;7;7;1;casos;8,333333333333334
+639569cc0dedcfcbae15aa59;False;null;7;8;1;casos;8,333333333333334
+639569cc0dedcfcbae15aa5a;False;3;7;Média;1;casos;7,776785714285716
+639569ce0dedcfcbae15aa6e;False;null;9;1;1;casos;8,88888888888889
+639569ce0dedcfcbae15aa6f;False;null;9;2;1;casos;8,333333333333334
+639569ce0dedcfcbae15aa70;False;null;9;3;1;casos;9,722222222222221
+639569ce0dedcfcbae15aa71;False;null;9;4;1;casos;10
+639569cf0dedcfcbae15aa72;False;null;9;5;1;casos;10
+639569cf0dedcfcbae15aa73;False;null;9;6;1;casos;8,333333333333334
+639569cf0dedcfcbae15aa74;False;null;9;7;1;casos;10
+639569cf0dedcfcbae15aa75;False;null;9;8;1;casos;10
+639569cf0dedcfcbae15aa76;False;3;9;Média;1;casos;9,409722222222221
+639569d10dedcfcbae15aa8a;False;null;10;1;1;casos;6,736111111111112
+639569d10dedcfcbae15aa8b;False;null;10;2;1;casos;4,411764705882353
+639569d20dedcfcbae15aa8c;False;null;10;3;1;casos;8,333333333333334
+639569d20dedcfcbae15aa8d;False;null;10;4;1;casos;5,5555555555555545
+639569d20dedcfcbae15aa8e;False;null;10;5;1;casos;10
+639569d20dedcfcbae15aa8f;False;null;10;6;1;casos;4,92063492063492
+639569d20dedcfcbae15aa90;False;null;10;7;1;casos;10
+639569d20dedcfcbae15aa91;False;null;10;8;1;casos;7,777777777777778
+639569d20dedcfcbae15aa92;False;3;10;Média;1;casos;7,2168971755368805
+639569d40dedcfcbae15aaa6;False;null;11;1;1;casos;6,875
+639569d40dedcfcbae15aaa7;False;null;11;2;1;casos;0
+639569d40dedcfcbae15aaa8;False;null;11;3;1;casos;0
+639569d40dedcfcbae15aaa9;False;null;11;4;1;casos;0
+639569d40dedcfcbae15aaaa;False;null;11;5;1;casos;0
+639569d40dedcfcbae15aaab;False;null;11;6;1;casos;0
+639569d40dedcfcbae15aaac;False;null;11;7;1;casos;0
+639569d40dedcfcbae15aaad;False;null;11;8;1;casos;0
+639569d40dedcfcbae15aaae;False;3;11;Média;1;casos;0,859375
+639569d70dedcfcbae15aac2;False;null;12;1;1;casos;7,857142857142857
+639569d70dedcfcbae15aac3;False;null;12;2;1;casos;10
+639569d70dedcfcbae15aac4;False;null;12;3;1;casos;5,625
+639569d70dedcfcbae15aac5;False;null;12;4;1;casos;10
+639569d70dedcfcbae15aac6;False;null;12;5;1;casos;10
+639569d70dedcfcbae15aac7;False;null;12;6;1;casos;10
+639569d70dedcfcbae15aac8;False;null;12;7;1;casos;9,722222222222221
+639569d70dedcfcbae15aac9;False;null;12;8;1;casos;10
+639569d80dedcfcbae15aaca;False;3;12;Média;1;casos;9,150545634920636
+639569db0dedcfcbae15aade;False;null;13;1;1;casos;10
+639569db0dedcfcbae15aadf;False;null;13;2;1;casos;10
+639569db0dedcfcbae15aae0;False;null;13;3;1;casos;8,88888888888889
+639569db0dedcfcbae15aae1;False;null;13;4;1;casos;10
+639569db0dedcfcbae15aae2;False;null;13;5;1;casos;10
+639569db0dedcfcbae15aae3;False;null;13;6;1;casos;10
+639569db0dedcfcbae15aae4;False;null;13;7;1;casos;10
+639569db0dedcfcbae15aae5;False;null;13;8;1;casos;6,666666666666666
+639569db0dedcfcbae15aae6;False;3;13;Média;1;casos;9,444444444444445
+639569de0dedcfcbae15aafa;False;null;14;1;1;casos;8,333333333333334
+639569de0dedcfcbae15aafb;False;null;14;2;1;casos;10
+639569de0dedcfcbae15aafc;False;null;14;3;1;casos;10
+639569de0dedcfcbae15aafd;False;null;14;4;1;casos;8,333333333333334
+639569de0dedcfcbae15aafe;False;null;14;5;1;casos;10
+639569df0dedcfcbae15aaff;False;null;14;6;1;casos;10
+639569df0dedcfcbae15ab00;False;null;14;7;1;casos;10
+639569df0dedcfcbae15ab01;False;null;14;8;1;casos;7,333333333333334
+639569df0dedcfcbae15ab02;False;3;14;Média;1;casos;9,25
+639569e20dedcfcbae15ab16;False;null;16;1;1;casos;10
+639569e20dedcfcbae15ab17;False;null;16;2;1;casos;10
+639569e20dedcfcbae15ab18;False;null;16;3;1;casos;8,333333333333334
+639569e20dedcfcbae15ab19;False;null;16;4;1;casos;10
+639569e20dedcfcbae15ab1a;False;null;16;5;1;casos;6,666666666666666
+639569e20dedcfcbae15ab1b;False;null;16;6;1;casos;8,333333333333334
+639569e20dedcfcbae15ab1c;False;null;16;7;1;casos;10
+639569e20dedcfcbae15ab1d;False;null;16;8;1;casos;8,333333333333334
+639569e20dedcfcbae15ab1e;False;3;16;Média;1;casos;8,958333333333334
+639569e50dedcfcbae15ab32;False;null;17;1;1;casos;10
+639569e50dedcfcbae15ab33;False;null;17;2;1;casos;10
+639569e50dedcfcbae15ab34;False;null;17;3;1;casos;8,333333333333334
+639569e50dedcfcbae15ab35;False;null;17;4;1;casos;10
+639569e50dedcfcbae15ab36;False;null;17;5;1;casos;10
+639569e60dedcfcbae15ab37;False;null;17;6;1;casos;10
+639569e60dedcfcbae15ab38;False;null;17;7;1;casos;10
+639569e60dedcfcbae15ab39;False;null;17;8;1;casos;10
+639569e60dedcfcbae15ab3a;False;3;17;Média;1;casos;9,791666666666668
+639569e80dedcfcbae15ab4e;False;null;18;1;1;casos;8,333333333333334
+639569e90dedcfcbae15ab4f;False;null;18;2;1;casos;8,333333333333334
+639569e90dedcfcbae15ab50;False;null;18;3;1;casos;8,88888888888889
+639569e90dedcfcbae15ab51;False;null;18;4;1;casos;10
+639569e90dedcfcbae15ab52;False;null;18;5;1;casos;10
+639569e90dedcfcbae15ab53;False;null;18;6;1;casos;10
+639569e90dedcfcbae15ab54;False;null;18;7;1;casos;10
+639569e90dedcfcbae15ab55;False;null;18;8;1;casos;10
+639569e90dedcfcbae15ab56;False;3;18;Média;1;casos;9,444444444444445
+639569ec0dedcfcbae15ab6a;False;null;19;1;1;casos;10
+639569ed0dedcfcbae15ab6b;False;null;19;2;1;casos;8,333333333333334
+639569ed0dedcfcbae15ab6c;False;null;19;3;1;casos;10
+639569ed0dedcfcbae15ab6d;False;null;19;4;1;casos;10
+639569ed0dedcfcbae15ab6e;False;null;19;5;1;casos;10
+639569ed0dedcfcbae15ab6f;False;null;19;6;1;casos;8,333333333333334
+639569ed0dedcfcbae15ab70;False;null;19;7;1;casos;8,055555555555555
+639569ee0dedcfcbae15ab71;False;null;19;8;1;casos;7,000000000000001
+639569ee0dedcfcbae15ab72;False;3;19;Média;1;casos;8,965277777777779
+639569f00dedcfcbae15ab86;False;null;20;1;1;casos;8,333333333333334
+639569f10dedcfcbae15ab87;False;null;20;2;1;casos;10
+639569f10dedcfcbae15ab88;False;null;20;3;1;casos;10
+639569f10dedcfcbae15ab89;False;null;20;4;1;casos;10
+639569f10dedcfcbae15ab8a;False;null;20;5;1;casos;10
+639569f10dedcfcbae15ab8b;False;null;20;6;1;casos;10
+639569f10dedcfcbae15ab8c;False;null;20;7;1;casos;10
+639569f10dedcfcbae15ab8d;False;null;20;8;1;casos;10
+639569f10dedcfcbae15ab8e;False;3;20;Média;1;casos;9,791666666666668
+639569f40dedcfcbae15aba2;False;null;21;1;1;casos;10
+639569f40dedcfcbae15aba3;False;null;21;2;1;casos;6,111111111111111
+639569f50dedcfcbae15aba4;False;null;21;3;1;casos;10
+639569f50dedcfcbae15aba5;False;null;21;4;1;casos;10
+639569f50dedcfcbae15aba6;False;null;21;5;1;casos;10
+639569f50dedcfcbae15aba7;False;null;21;6;1;casos;10
+639569f50dedcfcbae15aba8;False;null;21;7;1;casos;7,5
+639569f50dedcfcbae15aba9;False;null;21;8;1;casos;8,88888888888889
+639569f50dedcfcbae15abaa;False;3;21;Média;1;casos;9,0625
+639569f80dedcfcbae15abbe;False;null;22;1;1;casos;8,125
+639569f80dedcfcbae15abbf;False;null;22;2;1;casos;9,583333333333334
+639569f80dedcfcbae15abc0;False;null;22;3;1;casos;10
+639569f80dedcfcbae15abc1;False;null;22;4;1;casos;10
+639569f80dedcfcbae15abc2;False;null;22;5;1;casos;8,333333333333334
+639569f80dedcfcbae15abc3;False;null;22;6;1;casos;8,333333333333334
+639569f80dedcfcbae15abc4;False;null;22;7;1;casos;8,333333333333334
+639569f80dedcfcbae15abc5;False;null;22;8;1;casos;10
+639569f90dedcfcbae15abc6;False;3;22;Média;1;casos;9,088541666666668
+639569fb0dedcfcbae15abda;False;null;23;1;1;casos;9,583333333333334
+639569fb0dedcfcbae15abdb;False;null;23;2;1;casos;10
+639569fc0dedcfcbae15abdc;False;null;23;3;1;casos;9,166666666666666
+639569fc0dedcfcbae15abdd;False;null;23;4;1;casos;10
+639569fc0dedcfcbae15abde;False;null;23;5;1;casos;10
+639569fc0dedcfcbae15abdf;False;null;23;6;1;casos;10
+639569fc0dedcfcbae15abe0;False;null;23;7;1;casos;10
+639569fc0dedcfcbae15abe1;False;null;23;8;1;casos;10
+639569fc0dedcfcbae15abe2;False;3;23;Média;1;casos;9,84375
+639569ff0dedcfcbae15abf6;False;null;24;1;1;casos;9,583333333333334
+639569ff0dedcfcbae15abf7;False;null;24;2;1;casos;10
+639569ff0dedcfcbae15abf8;False;null;24;3;1;casos;10
+639569ff0dedcfcbae15abf9;False;null;24;4;1;casos;10
+639569ff0dedcfcbae15abfa;False;null;24;5;1;casos;10
+639569ff0dedcfcbae15abfb;False;null;24;6;1;casos;10
+639569ff0dedcfcbae15abfc;False;null;24;7;1;casos;10
+639569ff0dedcfcbae15abfd;False;null;24;8;1;casos;10
+63956a000dedcfcbae15abfe;False;3;24;Média;1;casos;9,947916666666668
+63956a020dedcfcbae15ac12;False;null;25;1;1;casos;0
+63956a020dedcfcbae15ac13;False;null;25;2;1;casos;0
+63956a020dedcfcbae15ac14;False;null;25;3;1;casos;0
+63956a020dedcfcbae15ac15;False;null;25;4;1;casos;0
+63956a020dedcfcbae15ac16;False;null;25;5;1;casos;0
+63956a020dedcfcbae15ac17;False;null;25;6;1;casos;0
+63956a030dedcfcbae15ac18;False;null;25;7;1;casos;0
+63956a030dedcfcbae15ac19;False;null;25;8;1;casos;0
+63956a030dedcfcbae15ac1a;False;3;25;Média;1;casos;0
