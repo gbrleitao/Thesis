@@ -50,83 +50,85 @@
 \contentsline {table}{\numberline {5.11}{\ignorespaces D^^c3^^bavida da Quest^^c3^^a3o - Estudantes com menor $NC$\relax }}{103}{table.caption.240}%
 \contentsline {table}{\numberline {5.12}{\ignorespaces Objetivos - Fase 1\relax }}{104}{table.caption.248}%
 \contentsline {table}{\numberline {5.13}{\ignorespaces Quest^^c3^^b5es (Q) e M^^c3^^a9tricas(M) - Fase 1\relax }}{105}{table.caption.249}%
-\contentsline {table}{\numberline {5.14}{\ignorespaces Grupo B - Pr^^c3^^a9-Teste\relax }}{106}{table.caption.251}%
-\contentsline {table}{\numberline {5.15}{\ignorespaces Grupo B - P^^c3^^b3s-Teste\relax }}{106}{table.caption.252}%
-\contentsline {table}{\numberline {5.16}{\ignorespaces Grupo A - Pr^^c3^^a9-Teste\relax }}{111}{table.caption.261}%
-\contentsline {table}{\numberline {5.17}{\ignorespaces Grupo A - P^^c3^^b3s-Teste\relax }}{112}{table.caption.262}%
-\contentsline {table}{\numberline {5.18}{\ignorespaces Grupo A - P^^c3^^b3s-Teste 2\relax }}{120}{table.caption.270}%
-\contentsline {table}{\numberline {5.19}{\ignorespaces Objetivos - Fase 2\relax }}{121}{table.caption.272}%
-\contentsline {table}{\numberline {5.20}{\ignorespaces Quest^^c3^^b5es (Q) e M^^c3^^a9tricas(M) - Fase 2\relax }}{122}{table.caption.273}%
-\contentsline {table}{\numberline {5.21}{\ignorespaces Aspectos Avaliados pelo TAM3\relax }}{122}{table.caption.275}%
-\contentsline {table}{\numberline {5.22}{\ignorespaces M^^c3^^a9dia e Percentual da Utilidade Percebida\relax }}{123}{table.caption.276}%
-\contentsline {table}{\numberline {5.23}{\ignorespaces M^^c3^^a9dia e Percentual da Satisfa^^c3^^a7^^c3^^a3o Percebida\relax }}{123}{table.caption.277}%
-\contentsline {table}{\numberline {5.24}{\ignorespaces M^^c3^^a9dia e Percentual da Inten^^c3^^a7^^c3^^a3o de Uso\relax }}{124}{table.caption.278}%
-\contentsline {table}{\numberline {5.25}{\ignorespaces Objetivos - Fase 3\relax }}{127}{table.caption.281}%
-\contentsline {table}{\numberline {5.26}{\ignorespaces Exerc^^c3^^adcio 1 - Agrupamentos\relax }}{130}{table.caption.286}%
-\contentsline {table}{\numberline {5.27}{\ignorespaces Nota Tradicional - C^^c3^^a1lculo por Entrada com m^^c3^^a9todo proporcional\relax }}{130}{table.caption.287}%
-\contentsline {table}{\numberline {5.28}{\ignorespaces Nota Tradicional - C^^c3^^a1lculo por Casos de Teste\relax }}{131}{table.caption.288}%
-\contentsline {table}{\numberline {5.29}{\ignorespaces Nota Ponderada - Associa^^c3^^a7^^c3^^a3o entre pesos, entradas e casos de teste\relax }}{133}{table.caption.289}%
-\contentsline {table}{\numberline {5.30}{\ignorespaces Nota Ponderada - C^^c3^^a1lculo por Entrada\relax }}{134}{table.caption.290}%
-\contentsline {table}{\numberline {5.31}{\ignorespaces Nota Ponderada - C^^c3^^a1lculo por Caso de Teste (com e sem agrupamento)\relax }}{134}{table.caption.291}%
-\contentsline {table}{\numberline {5.32}{\ignorespaces Prioridade com e sem agrupamento - C^^c3^^a1lculo por Entradas\relax }}{135}{table.caption.292}%
-\contentsline {table}{\numberline {5.33}{\ignorespaces Prioridade - C^^c3^^a1lculo por Caso de Teste (sem agrupamento)\relax }}{136}{table.caption.293}%
-\contentsline {table}{\numberline {5.34}{\ignorespaces Prioridade - C^^c3^^a1lculo por Caso de Teste (com agrupamento)\relax }}{136}{table.caption.294}%
-\contentsline {table}{\numberline {5.35}{\ignorespaces D^^c3^^bavida Exerc^^c3^^adcio 1 - C^^c3^^a1lculo por Entradas\relax }}{137}{table.caption.295}%
-\contentsline {table}{\numberline {5.36}{\ignorespaces D^^c3^^bavida Exerc^^c3^^adcio A1 - C^^c3^^a1lculo por Caso de Teste (sem agrupamento)\relax }}{139}{table.caption.296}%
-\contentsline {table}{\numberline {5.37}{\ignorespaces D^^c3^^bavida - C^^c3^^a1lculo por Caso de Teste (com agrupamento)\relax }}{140}{table.caption.297}%
-\contentsline {table}{\numberline {5.38}{\ignorespaces Assertividade - C^^c3^^a1lculo por Entradas\relax }}{140}{table.caption.298}%
-\contentsline {table}{\numberline {5.39}{\ignorespaces Assertividade - C^^c3^^a1lculo por Caso de Teste (sem agrupamento)\relax }}{141}{table.caption.299}%
-\contentsline {table}{\numberline {5.40}{\ignorespaces Assertividade - C^^c3^^a1lculo por Caso de Teste (com agrupamento)\relax }}{142}{table.caption.300}%
-\contentsline {table}{\numberline {5.41}{\ignorespaces $NCQ$ e $NC$ - C^^c3^^a1lculo por Entradas (sem agrupamento)\relax }}{142}{table.caption.301}%
-\contentsline {table}{\numberline {5.42}{\ignorespaces $NCQ$ e $NC$ - C^^c3^^a1lculo por Entradas (com agrupamento)\relax }}{144}{table.caption.302}%
-\contentsline {table}{\numberline {5.43}{\ignorespaces $NCQ$ e $NC$ - C^^c3^^a1lculo por Caso de Teste (sem agrupamento)\relax }}{144}{table.caption.303}%
-\contentsline {table}{\numberline {5.44}{\ignorespaces $NCQ$ e $NC$ - C^^c3^^a1lculo por Caso de Teste (com agrupamento)\relax }}{145}{table.caption.304}%
-\contentsline {table}{\numberline {5.45}{\ignorespaces $NT$ - C^^c3^^a1lculo por Entradas\relax }}{147}{table.caption.307}%
-\contentsline {table}{\numberline {5.46}{\ignorespaces $NT$ - C^^c3^^a1lculo por Casos de Teste (bin^^c3^^a1rio)\relax }}{147}{table.caption.308}%
-\contentsline {table}{\numberline {5.47}{\ignorespaces $NT$ - C^^c3^^a1lculo por Casos de Teste (bin^^c3^^a1rio)\relax }}{148}{table.caption.309}%
-\contentsline {table}{\numberline {5.48}{\ignorespaces $NT$ - C^^c3^^a1lculo por Casos de Teste (proporcional)\relax }}{148}{table.caption.310}%
-\contentsline {table}{\numberline {5.49}{\ignorespaces $NT$ - C^^c3^^a1lculo por Casos de Teste (proporcional)\relax }}{148}{table.caption.311}%
-\contentsline {table}{\numberline {5.50}{\ignorespaces $NP$ - C^^c3^^a1lculo por Entradas\relax }}{149}{table.caption.312}%
-\contentsline {table}{\numberline {5.51}{\ignorespaces $NP$ - C^^c3^^a1lculo por Casos de Teste\relax }}{149}{table.caption.313}%
-\contentsline {table}{\numberline {5.52}{\ignorespaces $NP$ - C^^c3^^a1lculo por Casos de Teste\relax }}{150}{table.caption.314}%
-\contentsline {table}{\numberline {5.53}{\ignorespaces $P$ - C^^c3^^a1lculo por Entradas\relax }}{150}{table.caption.315}%
-\contentsline {table}{\numberline {5.54}{\ignorespaces $P$ - C^^c3^^a1lculo por Casos de Teste (Bin^^c3^^a1rio)\relax }}{151}{table.caption.316}%
-\contentsline {table}{\numberline {5.55}{\ignorespaces $P$ - C^^c3^^a1lculo por Casos de Teste (Bin^^c3^^a1rio)\relax }}{151}{table.caption.317}%
-\contentsline {table}{\numberline {5.56}{\ignorespaces $P$ - C^^c3^^a1lculo por Casos de Teste (Proporcional)\relax }}{152}{table.caption.318}%
-\contentsline {table}{\numberline {5.57}{\ignorespaces $P$ - C^^c3^^a1lculo por Casos de Teste (Proporcional)\relax }}{152}{table.caption.319}%
-\contentsline {table}{\numberline {5.58}{\ignorespaces $D$ - C^^c3^^a1lculo por Entradas\relax }}{153}{table.caption.320}%
-\contentsline {table}{\numberline {5.59}{\ignorespaces $D$ - C^^c3^^a1lculo por Casos de Teste\relax }}{154}{table.caption.321}%
-\contentsline {table}{\numberline {5.60}{\ignorespaces $D$ - C^^c3^^a1lculo por Casos de Teste\relax }}{155}{table.caption.322}%
-\contentsline {table}{\numberline {5.61}{\ignorespaces $A$ - C^^c3^^a1lculo por Entradas\relax }}{155}{table.caption.323}%
-\contentsline {table}{\numberline {5.62}{\ignorespaces $A$ - C^^c3^^a1lculo por Casos de Teste\relax }}{156}{table.caption.324}%
-\contentsline {table}{\numberline {5.63}{\ignorespaces $A$ - C^^c3^^a1lculo por Casos de Teste\relax }}{156}{table.caption.325}%
-\contentsline {table}{\numberline {5.64}{\ignorespaces $NCQ$ - \textbf {Entrada $EF1$}\relax }}{157}{table.caption.326}%
-\contentsline {table}{\numberline {5.65}{\ignorespaces $NCQ$ e $NC$ - \textbf {Entrada $EF1$}\relax }}{158}{table.caption.327}%
-\contentsline {table}{\numberline {5.66}{\ignorespaces $NCQ$ e $NC$ - \textbf {Entrada $EV1$}\relax }}{158}{table.caption.328}%
-\contentsline {table}{\numberline {5.67}{\ignorespaces $NCQ$ e $NC$ - \textbf {Entrada $EV1$}\relax }}{159}{table.caption.329}%
-\contentsline {table}{\numberline {5.68}{\ignorespaces $NCQ$ e $NC$ - \textbf {Entrada $EV2$}\relax }}{159}{table.caption.330}%
-\contentsline {table}{\numberline {5.69}{\ignorespaces $NC$ e $NCQ$ - C^^c3^^a1lculo por Casos de Teste\relax }}{159}{table.caption.331}%
-\contentsline {table}{\numberline {5.70}{\ignorespaces $NT$ - Nota Tradicional\relax }}{161}{table.caption.334}%
-\contentsline {table}{\numberline {5.71}{\ignorespaces $NP$ - Nota Ponderada - Estudo\relax }}{161}{table.caption.335}%
-\contentsline {table}{\numberline {5.72}{\ignorespaces $NP$ - Nota Ponderada - Avalia^^c3^^a7^^c3^^a3o\relax }}{162}{table.caption.336}%
-\contentsline {table}{\numberline {5.73}{\ignorespaces $P$ - Prioridade\relax }}{162}{table.caption.337}%
-\contentsline {table}{\numberline {5.74}{\ignorespaces $D$ - D^^c3^^bavida\relax }}{163}{table.caption.338}%
-\contentsline {table}{\numberline {5.75}{\ignorespaces $A$ - Assertividade\relax }}{164}{table.caption.339}%
-\contentsline {table}{\numberline {5.76}{\ignorespaces $NCQ$ e $NC$\relax }}{165}{table.caption.340}%
-\contentsline {table}{\numberline {5.77}{\ignorespaces $NT$ - Nota Tradicional\relax }}{166}{table.caption.343}%
-\contentsline {table}{\numberline {5.78}{\ignorespaces $NP$ - Nota Ponderada - Modo Estudo\relax }}{167}{table.caption.344}%
-\contentsline {table}{\numberline {5.79}{\ignorespaces $NP$ - Modo Avalia^^c3^^a7^^c3^^a3o\relax }}{168}{table.caption.345}%
-\contentsline {table}{\numberline {5.80}{\ignorespaces $P$ - Prioridade\relax }}{168}{table.caption.346}%
-\contentsline {table}{\numberline {5.81}{\ignorespaces $D$ - D^^c3^^bavida\relax }}{169}{table.caption.347}%
-\contentsline {table}{\numberline {5.82}{\ignorespaces $A$ - Assertividade\relax }}{170}{table.caption.348}%
-\contentsline {table}{\numberline {5.83}{\ignorespaces $NCQ$ e $NC$\relax }}{170}{table.caption.349}%
-\contentsline {table}{\numberline {5.84}{\ignorespaces $NT$ - Nota Tradicional\relax }}{172}{table.caption.352}%
-\contentsline {table}{\numberline {5.85}{\ignorespaces $NP$ - Nota Ponderada - Modo Estudo\relax }}{172}{table.caption.353}%
-\contentsline {table}{\numberline {5.86}{\ignorespaces $NP$ - Nota Ponderada - Modo Avalia^^c3^^a7^^c3^^a3o\relax }}{172}{table.caption.354}%
-\contentsline {table}{\numberline {5.87}{\ignorespaces $P$ - Prioridade\relax }}{173}{table.caption.355}%
-\contentsline {table}{\numberline {5.88}{\ignorespaces $D$ - D^^c3^^bavida\relax }}{173}{table.caption.356}%
-\contentsline {table}{\numberline {5.89}{\ignorespaces $A$ - Assertividade\relax }}{174}{table.caption.357}%
-\contentsline {table}{\numberline {5.90}{\ignorespaces $NCQ$ e $NC$\relax }}{175}{table.caption.358}%
+\contentsline {table}{\numberline {5.14}{\ignorespaces Grupo T - Pr^^c3^^a9-Teste\relax }}{106}{table.caption.251}%
+\contentsline {table}{\numberline {5.15}{\ignorespaces Grupo T - P^^c3^^b3s-Teste\relax }}{106}{table.caption.252}%
+\contentsline {table}{\numberline {5.16}{\ignorespaces Grupo N - Pr^^c3^^a9-Teste\relax }}{111}{table.caption.262}%
+\contentsline {table}{\numberline {5.17}{\ignorespaces Grupo N - P^^c3^^b3s-Teste\relax }}{112}{table.caption.263}%
+\contentsline {table}{\numberline {5.18}{\ignorespaces Grupo N - P^^c3^^b3s-Teste 2\relax }}{121}{table.caption.272}%
+\contentsline {table}{\numberline {5.19}{\ignorespaces Objetivos - Fase 2\relax }}{122}{table.caption.274}%
+\contentsline {table}{\numberline {5.20}{\ignorespaces Quest^^c3^^b5es (Q) e M^^c3^^a9tricas(M) - Fase 2\relax }}{122}{table.caption.275}%
+\contentsline {table}{\numberline {5.21}{\ignorespaces Aspectos Avaliados pelo TAM3\relax }}{122}{table.caption.277}%
+\contentsline {table}{\numberline {5.22}{\ignorespaces M^^c3^^a9dia e Percentual da Utilidade Percebida\relax }}{123}{table.caption.278}%
+\contentsline {table}{\numberline {5.23}{\ignorespaces M^^c3^^a9dia e Percentual da Satisfa^^c3^^a7^^c3^^a3o Percebida\relax }}{123}{table.caption.279}%
+\contentsline {table}{\numberline {5.24}{\ignorespaces M^^c3^^a9dia e Percentual da Inten^^c3^^a7^^c3^^a3o de Uso\relax }}{124}{table.caption.280}%
+\contentsline {table}{\numberline {5.25}{\ignorespaces Objetivos - Fase 3\relax }}{127}{table.caption.283}%
+\contentsline {table}{\numberline {5.26}{\ignorespaces Exerc^^c3^^adcio 1 - Agrupamentos\relax }}{130}{table.caption.288}%
+\contentsline {table}{\numberline {5.27}{\ignorespaces Nota Tradicional - C^^c3^^a1lculo por Entrada com m^^c3^^a9todo proporcional\relax }}{130}{table.caption.289}%
+\contentsline {table}{\numberline {5.28}{\ignorespaces Nota Tradicional - C^^c3^^a1lculo por Casos de Teste\relax }}{131}{table.caption.290}%
+\contentsline {table}{\numberline {5.29}{\ignorespaces Nota Ponderada - Associa^^c3^^a7^^c3^^a3o entre pesos, entradas e casos de teste\relax }}{133}{table.caption.291}%
+\contentsline {table}{\numberline {5.30}{\ignorespaces Nota Ponderada - C^^c3^^a1lculo por Entrada\relax }}{134}{table.caption.292}%
+\contentsline {table}{\numberline {5.31}{\ignorespaces Nota Ponderada - C^^c3^^a1lculo por Caso de Teste (com e sem agrupamento)\relax }}{134}{table.caption.293}%
+\contentsline {table}{\numberline {5.32}{\ignorespaces Prioridade com e sem agrupamento - C^^c3^^a1lculo por Entradas\relax }}{135}{table.caption.294}%
+\contentsline {table}{\numberline {5.33}{\ignorespaces Prioridade - C^^c3^^a1lculo por Caso de Teste (sem agrupamento)\relax }}{136}{table.caption.295}%
+\contentsline {table}{\numberline {5.34}{\ignorespaces Prioridade - C^^c3^^a1lculo por Caso de Teste (com agrupamento)\relax }}{137}{table.caption.296}%
+\contentsline {table}{\numberline {5.35}{\ignorespaces D^^c3^^bavida Exerc^^c3^^adcio 1 - C^^c3^^a1lculo por Entradas\relax }}{138}{table.caption.297}%
+\contentsline {table}{\numberline {5.36}{\ignorespaces D^^c3^^bavida Exerc^^c3^^adcio A1 - C^^c3^^a1lculo por Caso de Teste (sem agrupamento)\relax }}{139}{table.caption.298}%
+\contentsline {table}{\numberline {5.37}{\ignorespaces D^^c3^^bavida - C^^c3^^a1lculo por Caso de Teste (com agrupamento)\relax }}{140}{table.caption.299}%
+\contentsline {table}{\numberline {5.38}{\ignorespaces Assertividade - C^^c3^^a1lculo por Entradas\relax }}{141}{table.caption.300}%
+\contentsline {table}{\numberline {5.39}{\ignorespaces Assertividade - C^^c3^^a1lculo por Caso de Teste (sem agrupamento)\relax }}{141}{table.caption.301}%
+\contentsline {table}{\numberline {5.40}{\ignorespaces Assertividade - C^^c3^^a1lculo por Caso de Teste (com agrupamento)\relax }}{142}{table.caption.302}%
+\contentsline {table}{\numberline {5.41}{\ignorespaces $NCQ$ e $NC$ - C^^c3^^a1lculo por Entradas (sem agrupamento)\relax }}{143}{table.caption.303}%
+\contentsline {table}{\numberline {5.42}{\ignorespaces $NCQ$ e $NC$ - C^^c3^^a1lculo por Entradas (com agrupamento)\relax }}{144}{table.caption.304}%
+\contentsline {table}{\numberline {5.43}{\ignorespaces $NCQ$ e $NC$ - C^^c3^^a1lculo por Caso de Teste (sem agrupamento)\relax }}{145}{table.caption.305}%
+\contentsline {table}{\numberline {5.44}{\ignorespaces $NCQ$ e $NC$ - C^^c3^^a1lculo por Caso de Teste (com agrupamento)\relax }}{145}{table.caption.306}%
+\contentsline {table}{\numberline {5.45}{\ignorespaces $NT$ - C^^c3^^a1lculo por Entradas\relax }}{147}{table.caption.309}%
+\contentsline {table}{\numberline {5.46}{\ignorespaces $NT$ - C^^c3^^a1lculo por Casos de Teste (bin^^c3^^a1rio)\relax }}{147}{table.caption.310}%
+\contentsline {table}{\numberline {5.47}{\ignorespaces $NT$ - C^^c3^^a1lculo por Casos de Teste (bin^^c3^^a1rio)\relax }}{148}{table.caption.311}%
+\contentsline {table}{\numberline {5.48}{\ignorespaces $NT$ - C^^c3^^a1lculo por Casos de Teste (proporcional)\relax }}{148}{table.caption.312}%
+\contentsline {table}{\numberline {5.49}{\ignorespaces $NT$ - C^^c3^^a1lculo por Casos de Teste (proporcional)\relax }}{149}{table.caption.313}%
+\contentsline {table}{\numberline {5.50}{\ignorespaces $NP$ - C^^c3^^a1lculo por Entradas\relax }}{149}{table.caption.314}%
+\contentsline {table}{\numberline {5.51}{\ignorespaces $NP$ - C^^c3^^a1lculo por Casos de Teste\relax }}{150}{table.caption.315}%
+\contentsline {table}{\numberline {5.52}{\ignorespaces $NP$ - C^^c3^^a1lculo por Casos de Teste\relax }}{150}{table.caption.316}%
+\contentsline {table}{\numberline {5.53}{\ignorespaces $P$ - C^^c3^^a1lculo por Entradas\relax }}{150}{table.caption.317}%
+\contentsline {table}{\numberline {5.54}{\ignorespaces $P$ - C^^c3^^a1lculo por Casos de Teste (Bin^^c3^^a1rio)\relax }}{151}{table.caption.318}%
+\contentsline {table}{\numberline {5.55}{\ignorespaces $P$ - C^^c3^^a1lculo por Casos de Teste (Bin^^c3^^a1rio)\relax }}{151}{table.caption.319}%
+\contentsline {table}{\numberline {5.56}{\ignorespaces $P$ - C^^c3^^a1lculo por Casos de Teste (Proporcional)\relax }}{152}{table.caption.320}%
+\contentsline {table}{\numberline {5.57}{\ignorespaces $P$ - C^^c3^^a1lculo por Casos de Teste (Proporcional)\relax }}{152}{table.caption.321}%
+\contentsline {table}{\numberline {5.58}{\ignorespaces $D$ - C^^c3^^a1lculo por Entradas\relax }}{153}{table.caption.322}%
+\contentsline {table}{\numberline {5.59}{\ignorespaces $D$ - C^^c3^^a1lculo por Casos de Teste\relax }}{154}{table.caption.323}%
+\contentsline {table}{\numberline {5.60}{\ignorespaces $D$ - C^^c3^^a1lculo por Casos de Teste\relax }}{155}{table.caption.324}%
+\contentsline {table}{\numberline {5.61}{\ignorespaces $A$ - C^^c3^^a1lculo por Entradas\relax }}{155}{table.caption.325}%
+\contentsline {table}{\numberline {5.62}{\ignorespaces $A$ - C^^c3^^a1lculo por Casos de Teste\relax }}{156}{table.caption.326}%
+\contentsline {table}{\numberline {5.63}{\ignorespaces $A$ - C^^c3^^a1lculo por Casos de Teste\relax }}{156}{table.caption.327}%
+\contentsline {table}{\numberline {5.64}{\ignorespaces $NCQ$ - \textbf {Entrada $EF1$}\relax }}{157}{table.caption.328}%
+\contentsline {table}{\numberline {5.65}{\ignorespaces $NCQ$ e $NC$ - \textbf {Entrada $EF1$}\relax }}{158}{table.caption.329}%
+\contentsline {table}{\numberline {5.66}{\ignorespaces $NCQ$ e $NC$ - \textbf {Entrada $EV1$}\relax }}{158}{table.caption.330}%
+\contentsline {table}{\numberline {5.67}{\ignorespaces $NCQ$ e $NC$ - \textbf {Entrada $EV1$}\relax }}{159}{table.caption.331}%
+\contentsline {table}{\numberline {5.68}{\ignorespaces $NCQ$ e $NC$ - \textbf {Entrada $EV2$}\relax }}{159}{table.caption.332}%
+\contentsline {table}{\numberline {5.69}{\ignorespaces $NCQ$ e $NC$ - \textbf {Entrada $EV2$}\relax }}{160}{table.caption.333}%
+\contentsline {table}{\numberline {5.70}{\ignorespaces $NC$ e $NCQ$ - C^^c3^^a1lculo por Casos de Teste\relax }}{160}{table.caption.334}%
+\contentsline {table}{\numberline {5.71}{\ignorespaces $NC$ e $NCQ$ - C^^c3^^a1lculo por Casos de Teste\relax }}{160}{table.caption.335}%
+\contentsline {table}{\numberline {5.72}{\ignorespaces $NT$ - Nota Tradicional\relax }}{162}{table.caption.338}%
+\contentsline {table}{\numberline {5.73}{\ignorespaces $NP$ - Nota Ponderada - Estudo\relax }}{163}{table.caption.339}%
+\contentsline {table}{\numberline {5.74}{\ignorespaces $NP$ - Nota Ponderada - Avalia^^c3^^a7^^c3^^a3o\relax }}{163}{table.caption.340}%
+\contentsline {table}{\numberline {5.75}{\ignorespaces $P$ - Prioridade\relax }}{164}{table.caption.341}%
+\contentsline {table}{\numberline {5.76}{\ignorespaces $D$ - D^^c3^^bavida\relax }}{164}{table.caption.342}%
+\contentsline {table}{\numberline {5.77}{\ignorespaces $A$ - Assertividade\relax }}{165}{table.caption.343}%
+\contentsline {table}{\numberline {5.78}{\ignorespaces $NCQ$ e $NC$\relax }}{166}{table.caption.344}%
+\contentsline {table}{\numberline {5.79}{\ignorespaces $NT$ - Nota Tradicional\relax }}{167}{table.caption.347}%
+\contentsline {table}{\numberline {5.80}{\ignorespaces $NP$ - Nota Ponderada - Modo Estudo\relax }}{168}{table.caption.348}%
+\contentsline {table}{\numberline {5.81}{\ignorespaces $NP$ - Modo Avalia^^c3^^a7^^c3^^a3o\relax }}{169}{table.caption.349}%
+\contentsline {table}{\numberline {5.82}{\ignorespaces $P$ - Prioridade\relax }}{169}{table.caption.350}%
+\contentsline {table}{\numberline {5.83}{\ignorespaces $D$ - D^^c3^^bavida\relax }}{170}{table.caption.351}%
+\contentsline {table}{\numberline {5.84}{\ignorespaces $A$ - Assertividade\relax }}{171}{table.caption.352}%
+\contentsline {table}{\numberline {5.85}{\ignorespaces $NCQ$ e $NC$\relax }}{171}{table.caption.353}%
+\contentsline {table}{\numberline {5.86}{\ignorespaces $NT$ - Nota Tradicional\relax }}{173}{table.caption.356}%
+\contentsline {table}{\numberline {5.87}{\ignorespaces $NP$ - Nota Ponderada - Modo Estudo\relax }}{173}{table.caption.357}%
+\contentsline {table}{\numberline {5.88}{\ignorespaces $NP$ - Nota Ponderada - Modo Avalia^^c3^^a7^^c3^^a3o\relax }}{173}{table.caption.358}%
+\contentsline {table}{\numberline {5.89}{\ignorespaces $P$ - Prioridade\relax }}{174}{table.caption.359}%
+\contentsline {table}{\numberline {5.90}{\ignorespaces $D$ - D^^c3^^bavida\relax }}{174}{table.caption.360}%
+\contentsline {table}{\numberline {5.91}{\ignorespaces $A$ - Assertividade\relax }}{175}{table.caption.361}%
+\contentsline {table}{\numberline {5.92}{\ignorespaces $NCQ$ e $NC$\relax }}{176}{table.caption.362}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
