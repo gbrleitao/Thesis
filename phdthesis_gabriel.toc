@@ -6,120 +6,124 @@
 \contentsline {section}{\numberline {1.2}Defini^^c3^^a7^^c3^^a3o do Problema}{3}{section.10}%
 \contentsline {section}{\numberline {1.3}Motiva^^c3^^a7^^c3^^a3o}{4}{section.11}%
 \contentsline {section}{\numberline {1.4}Objetivos}{6}{section.14}%
-\contentsline {section}{\numberline {1.5}M^^c3^^a9todo da Pesquisa}{6}{section.21}%
-\contentsline {section}{\numberline {1.6}Abordagem Proposta}{8}{section.27}%
-\contentsline {section}{\numberline {1.7}Organiza^^c3^^a7^^c3^^a3o do Trabalho}{8}{section.28}%
-\contentsline {chapter}{\numberline {2}Conceitos e Defini^^c3^^a7^^c3^^b5es}{10}{chapter.29}%
-\contentsline {section}{\numberline {2.1}Educa^^c3^^a7^^c3^^a3o e pr^^c3^^a1ticas pedag^^c3^^b3gicas}{10}{section.30}%
-\contentsline {subsection}{\numberline {2.1.1}Educa^^c3^^a7^^c3^^a3o, fracasso escolar e mudan^^c3^^a7as pedag^^c3^^b3gicas}{10}{subsection.31}%
-\contentsline {subsection}{\numberline {2.1.2}Elementos do Processo de Ensino-Aprendizagem}{11}{subsection.32}%
-\contentsline {section}{\numberline {2.2}Teorias Sociopedag^^c3^^b3gicas}{12}{section.33}%
-\contentsline {subsection}{\numberline {2.2.1}A Constru^^c3^^a7^^c3^^a3o do Conhecimento a partir da Experi^^c3^^aancia}{12}{subsection.34}%
-\contentsline {subsubsection}{\numberline {2.2.1.1}M^^c3^^a9todo por Descoberta}{13}{subsubsection.35}%
-\contentsline {subsubsection}{\numberline {2.2.1.2}Educa^^c3^^a7^^c3^^a3o Emancipadora}{13}{subsubsection.40}%
-\contentsline {subsubsection}{\numberline {2.2.1.3}Conhecimento como constru^^c3^^a7^^c3^^a3o progressiva}{14}{subsubsection.41}%
-\contentsline {subsubsection}{\numberline {2.2.1.4}Zona de Desenvolvimento Proximal}{14}{subsubsection.42}%
-\contentsline {section}{\numberline {2.3}Computa^^c3^^a7^^c3^^a3o Aplicada ^^c3^^a0 Educa^^c3^^a7^^c3^^a3o}{15}{section.43}%
-\contentsline {subsection}{\numberline {2.3.1}Objetos de Aprendizagem}{15}{subsection.44}%
-\contentsline {subsection}{\numberline {2.3.2}Internet das Coisas (IoT)}{17}{subsection.45}%
-\contentsline {subsection}{\numberline {2.3.3}Sistemas Ciberf^^c3^^adsicos}{19}{subsection.47}%
-\contentsline {subsection}{\numberline {2.3.4}Interfaces Tang^^c3^^adveis de Usu^^c3^^a1rio}{20}{subsection.48}%
-\contentsline {subsection}{\numberline {2.3.5}Ferramentas de Autoria de OAs}{22}{subsection.55}%
-\contentsline {subsection}{\numberline {2.3.6}Avalia^^c3^^a7^^c3^^a3o da Aprendizagem}{24}{subsection.57}%
-\contentsline {section}{\numberline {2.4}Resumo}{25}{section.58}%
-\contentsline {chapter}{\numberline {3}Trabalhos Correlatos}{26}{chapter.59}%
-\contentsline {section}{\numberline {3.1}Sistemas Ciberf^^c3^^adsicos na Educa^^c3^^a7^^c3^^a3o}{26}{section.60}%
-\contentsline {subsection}{\numberline {3.1.1}Manipulativos F^^c3^^adsicos \textit {versus} Manipulativos Virtuais}{27}{subsection.61}%
-\contentsline {subsection}{\numberline {3.1.2}Manipulativos Tang^^c3^^adveis (F^^c3^^adsico-Digitais)}{30}{subsection.68}%
-\contentsline {subsection}{\numberline {3.1.3}Modelagem Bifocal}{34}{subsection.77}%
-\contentsline {subsection}{\numberline {3.1.4}Sistemas F^^c3^^adsico-Virtuais de Aprendizagem no Brasil}{35}{subsection.80}%
-\contentsline {section}{\numberline {3.2}Ferramentas de Autoria de Objetos de Aprendizagem}{43}{section.93}%
-\contentsline {section}{\numberline {3.3}Ferramentas e M^^c3^^a9tricas de Avalia^^c3^^a7^^c3^^a3o do Desempenho}{45}{section.97}%
-\contentsline {subsection}{\numberline {3.3.1}WebMonitor - monitoramento e acompanhamento}{45}{subsection.98}%
-\contentsline {subsection}{\numberline {3.3.2}Metodologia para \textit {Learning Analytics}}{46}{subsection.106}%
-\contentsline {subsection}{\numberline {3.3.3}M^^c3^^a9tricas de Desempenho para Estudantes e Professores}{48}{subsection.109}%
-\contentsline {subsection}{\numberline {3.3.4}Modelo \textit {Learning Vectors} para \textit {Moodle}}{49}{subsection.115}%
-\contentsline {section}{\numberline {3.4}Resumo}{50}{section.120}%
-\contentsline {chapter}{\numberline {4}M^^c3^^a9todo Proposto}{52}{chapter.121}%
-\contentsline {section}{\numberline {4.1}Compositor}{53}{section.123}%
-\contentsline {section}{\numberline {4.2}Servidor}{59}{section.132}%
-\contentsline {section}{\numberline {4.3}Player Tang^^c3^^advel}{61}{section.134}%
-\contentsline {subsection}{\numberline {4.3.1}Processo de conex^^c3^^a3o entre as entidades f^^c3^^adsica e digital}{62}{subsection.136}%
-\contentsline {section}{\numberline {4.4}Anal^^c3^^adticos}{68}{section.152}%
-\contentsline {subsection}{\numberline {4.4.1}M^^c3^^a9tricas Independentes}{69}{subsection.153}%
-\contentsline {subsubsection}{\numberline {4.4.1.1}Nota Tradicional}{69}{subsubsection.154}%
-\contentsline {subsubsection}{\numberline {4.4.1.2}Nota Ponderada}{69}{subsubsection.156}%
-\contentsline {subsubsection}{\numberline {4.4.1.3}D^^c3^^bavida da Quest^^c3^^a3o}{71}{subsubsection.160}%
-\contentsline {subsubsection}{\numberline {4.4.1.4}Grau de Assertividade}{72}{subsubsection.165}%
-\contentsline {subsubsection}{\numberline {4.4.1.5}Tempo de Resposta}{73}{subsubsection.167}%
-\contentsline {subsection}{\numberline {4.4.2}M^^c3^^a9tricas Compostas}{73}{subsection.169}%
-\contentsline {subsubsection}{\numberline {4.4.2.1}Prioridade}{74}{subsubsection.170}%
-\contentsline {subsubsection}{\numberline {4.4.2.2}N^^c3^^advel de Compreens^^c3^^a3o da Quest^^c3^^a3o}{74}{subsubsection.172}%
-\contentsline {subsubsection}{\numberline {4.4.2.3}N^^c3^^advel de Compreens^^c3^^a3o do Question^^c3^^a1rio}{76}{subsubsection.179}%
-\contentsline {subsection}{\numberline {4.4.3}M^^c3^^a9tricas aplicadas a Objetos Tang^^c3^^adveis de Aprendizagem (OTA)}{77}{subsection.182}%
-\contentsline {section}{\numberline {4.5}Ferramentas}{80}{section.190}%
-\contentsline {subsection}{\numberline {4.5.1}Compositor}{81}{subsection.192}%
-\contentsline {subsection}{\numberline {4.5.2}Player Tang^^c3^^advel}{82}{subsection.194}%
-\contentsline {subsubsection}{\numberline {4.5.2.1}Instancia^^c3^^a7^^c3^^a3o da descri^^c3^^a7^^c3^^a3o de um Objeto Tang^^c3^^advel de Aprendizagem}{82}{subsubsection.196}%
-\contentsline {subsubsection}{\numberline {4.5.2.2}Instancia^^c3^^a7^^c3^^a3o das Entradas, Sa^^c3^^addas e Casos de Teste de um OTA}{85}{subsubsection.200}%
-\contentsline {subsection}{\numberline {4.5.3}Servidor}{88}{subsection.206}%
-\contentsline {subsection}{\numberline {4.5.4}Anal^^c3^^adticos}{90}{subsection.209}%
-\contentsline {section}{\numberline {4.6}Resumo}{92}{section.216}%
-\contentsline {chapter}{\numberline {5}Resultados}{94}{chapter.217}%
-\contentsline {section}{\numberline {5.1}Estudo Explorat^^c3^^b3rio das M^^c3^^a9tricas de Aprendizagem}{94}{section.218}%
-\contentsline {subsection}{\numberline {5.1.1}Sobre a coleta dos dados}{95}{subsection.219}%
-\contentsline {subsection}{\numberline {5.1.2}An^^c3^^a1lise das M^^c3^^a9tricas}{95}{subsection.220}%
-\contentsline {subsubsection}{\numberline {5.1.2.1}Avaliando os estudantes}{95}{subsubsection.221}%
-\contentsline {subsubsection}{\numberline {5.1.2.2}Avaliando Disciplinas}{97}{subsubsection.225}%
-\contentsline {subsubsection}{\numberline {5.1.2.3}Composi^^c3^^a7^^c3^^a3o das m^^c3^^a9tricas: Grau de Assertividade versus N^^c3^^advel de Compreens^^c3^^a3o do Question^^c3^^a1rio}{99}{subsubsection.231}%
-\contentsline {subsection}{\numberline {5.1.3}Analisando os estudantes do Terceiro Quadrante}{100}{subsection.233}%
-\contentsline {section}{\numberline {5.2}Estudo de Caso}{103}{section.241}%
-\contentsline {subsection}{\numberline {5.2.1}Fase '1' - Impacto do uso de OTA na Aprendizagem em compara^^c3^^a7^^c3^^a3o com o ensino tradicional}{104}{subsection.247}%
-\contentsline {subsection}{\numberline {5.2.2}Sobre o impacto do uso de objeto tang^^c3^^advel na aprendizagem}{105}{subsection.250}%
-\contentsline {subsubsection}{\numberline {5.2.2.1}Quest^^c3^^b5es de Pesquisa}{107}{subsubsection.253}%
-\contentsline {subsubsection}{\numberline {5.2.2.2}Hip^^c3^^b3teses H01 e HA1}{111}{subsubsection.260}%
-\contentsline {subsection}{\numberline {5.2.3}Compara^^c3^^a7^^c3^^a3o entre o uso de objeto tang^^c3^^advel e o ensino tradicional}{111}{subsection.261}%
-\contentsline {subsubsection}{\numberline {5.2.3.1}Quest^^c3^^b5es de Pesquisa}{112}{subsubsection.264}%
-\contentsline {subsubsection}{\numberline {5.2.3.2}Hip^^c3^^b3teses H02 e HA2}{120}{subsubsection.270}%
-\contentsline {subsubsection}{\numberline {5.2.3.3}Sobre o P^^c3^^b3s-teste adicional do Grupo N}{120}{subsubsection.271}%
-\contentsline {subsection}{\numberline {5.2.4}Fase '2' - Percep^^c3^^a7^^c3^^a3o dos estudantes sobre o uso de OTA}{121}{subsection.273}%
-\contentsline {subsubsection}{\numberline {5.2.4.1}Formul^^c3^^a1rio TAM3}{122}{subsubsection.276}%
-\contentsline {subsubsection}{\numberline {5.2.4.2}Quest^^c3^^b5es abertas}{124}{subsubsection.281}%
-\contentsline {subsection}{\numberline {5.2.5}Fase '3' - Estudo de Viabilidade}{127}{subsection.282}%
-\contentsline {subsubsection}{\numberline {5.2.5.1}Exerc^^c3^^adcio 1 - Quadrantes}{128}{subsubsection.285}%
-\contentsline {subsubsection}{\numberline {5.2.5.2}Exerc^^c3^^adcio 2 - ^^c3^^82ngulos}{146}{subsubsection.307}%
-\contentsline {subsubsection}{\numberline {5.2.5.3}Exerc^^c3^^adcio 3 - Seno}{161}{subsubsection.336}%
-\contentsline {subsubsection}{\numberline {5.2.5.4}Exerc^^c3^^adcio 4 - Cosseno}{166}{subsubsection.345}%
-\contentsline {subsubsection}{\numberline {5.2.5.5}Exerc^^c3^^adcio 5 - Tangente}{171}{subsubsection.354}%
-\contentsline {section}{\numberline {5.3}Resumo}{176}{section.363}%
-\contentsline {chapter}{\numberline {6}Conclus^^c3^^a3o}{178}{chapter.364}%
-\contentsline {section}{\numberline {6.1}Considera^^c3^^a7^^c3^^b5es Finais}{178}{section.365}%
-\contentsline {section}{\numberline {6.2}Limita^^c3^^a7^^c3^^b5es}{180}{section.366}%
-\contentsline {section}{\numberline {6.3}Trabalhos Futuros}{180}{section.367}%
-\contentsline {chapter}{\numberline {A}Perfil de aplica^^c3^^a7^^c3^^a3o OBAA}{190}{appendix.369}%
-\contentsline {chapter}{\numberline {B}Estudo de Caso: Atividade 1}{198}{appendix.370}%
-\contentsline {section}{\numberline {B.1}Atividade 1: Plano de Aula}{198}{section.371}%
-\contentsline {section}{\numberline {B.2}Atividade 1: Apresenta^^c3^^a7^^c3^^a3o em Slides}{199}{section.373}%
-\contentsline {chapter}{\numberline {C}Estudo de Caso: Atividades 2 e 3}{206}{appendix.374}%
-\contentsline {section}{\numberline {C.1}Atividade 2: Plano de Aula}{206}{section.375}%
-\contentsline {section}{\numberline {C.2}Atividade 3: Plano de Aula}{207}{section.376}%
-\contentsline {section}{\numberline {C.3}Atividades 2 e 3: Apresenta^^c3^^a7^^c3^^a3o em Slides}{209}{section.377}%
-\contentsline {section}{\numberline {C.4}Atividade 2: Exerc^^c3^^adcio de Fixa^^c3^^a7^^c3^^a3o}{226}{section.378}%
-\contentsline {section}{\numberline {C.5}Atividade 3: Interfaces F^^c3^^adsicas do Player Tang^^c3^^advel}{228}{section.384}%
-\contentsline {subsection}{\numberline {C.5.1}Interface F^^c3^^adsica A01}{228}{subsection.385}%
-\contentsline {subsection}{\numberline {C.5.2}Interface F^^c3^^adsica A02}{229}{subsection.387}%
-\contentsline {subsection}{\numberline {C.5.3}Interface F^^c3^^adsica A03}{230}{subsection.389}%
-\contentsline {subsection}{\numberline {C.5.4}Interface F^^c3^^adsica A04}{231}{subsection.391}%
-\contentsline {subsection}{\numberline {C.5.5}Interface F^^c3^^adsica A05}{232}{subsection.393}%
-\contentsline {subsection}{\numberline {C.5.6}Interface F^^c3^^adsica A06}{233}{subsection.395}%
-\contentsline {chapter}{\numberline {D}OTA - Exerc^^c3^^adcio 1}{234}{appendix.397}%
-\contentsline {chapter}{\numberline {E}OTA - Exerc^^c3^^adcio 2}{245}{appendix.398}%
-\contentsline {chapter}{\numberline {F}OTA - Exerc^^c3^^adcio 3}{266}{appendix.399}%
-\contentsline {chapter}{\numberline {G}OTA - Exerc^^c3^^adcio 4}{274}{appendix.400}%
-\contentsline {chapter}{\numberline {H}OTA - Exerc^^c3^^adcio 5}{282}{appendix.401}%
-\contentsline {chapter}{\numberline {I}OTA - Exerc^^c3^^adcio 1 - Anal^^c3^^adticos}{288}{appendix.402}%
-\contentsline {chapter}{\numberline {J}OTA - Exerc^^c3^^adcio 2 - Anal^^c3^^adticos}{320}{appendix.403}%
-\contentsline {chapter}{\numberline {K}OTA - Exerc^^c3^^adcio 3 - Anal^^c3^^adticos}{352}{appendix.404}%
-\contentsline {chapter}{\numberline {L}OTA - Exerc^^c3^^adcio 4 - Anal^^c3^^adticos}{363}{appendix.405}%
-\contentsline {chapter}{\numberline {M}OTA - Exerc^^c3^^adcio 5 - Anal^^c3^^adticos}{373}{appendix.406}%
-\contentsline {chapter}{\numberline {N}Formul^^c3^^a1rio de Experi^^c3^^aancia do Usu^^c3^^a1rio}{378}{appendix.407}%
+\contentsline {section}{\numberline {1.5}M^^c3^^a9todo da Pesquisa}{6}{section.18}%
+\contentsline {section}{\numberline {1.6}Abordagem Proposta}{7}{section.24}%
+\contentsline {section}{\numberline {1.7}Principais contribui^^c3^^a7^^c3^^b5es}{8}{section.25}%
+\contentsline {section}{\numberline {1.8}Organiza^^c3^^a7^^c3^^a3o do Trabalho}{9}{section.31}%
+\contentsline {chapter}{\numberline {2}Conceitos e Defini^^c3^^a7^^c3^^b5es}{10}{chapter.32}%
+\contentsline {section}{\numberline {2.1}Educa^^c3^^a7^^c3^^a3o e pr^^c3^^a1ticas pedag^^c3^^b3gicas}{10}{section.33}%
+\contentsline {subsection}{\numberline {2.1.1}Educa^^c3^^a7^^c3^^a3o, fracasso escolar e mudan^^c3^^a7as pedag^^c3^^b3gicas}{10}{subsection.34}%
+\contentsline {subsection}{\numberline {2.1.2}Elementos do Processo de Ensino-Aprendizagem}{11}{subsection.35}%
+\contentsline {section}{\numberline {2.2}Teorias Sociopedag^^c3^^b3gicas}{12}{section.36}%
+\contentsline {subsection}{\numberline {2.2.1}A Constru^^c3^^a7^^c3^^a3o do Conhecimento a partir da Experi^^c3^^aancia}{12}{subsection.37}%
+\contentsline {subsubsection}{\numberline {2.2.1.1}M^^c3^^a9todo por Descoberta}{13}{subsubsection.38}%
+\contentsline {subsubsection}{\numberline {2.2.1.2}Educa^^c3^^a7^^c3^^a3o Emancipadora}{13}{subsubsection.43}%
+\contentsline {subsubsection}{\numberline {2.2.1.3}Conhecimento como constru^^c3^^a7^^c3^^a3o progressiva}{14}{subsubsection.44}%
+\contentsline {subsubsection}{\numberline {2.2.1.4}Zona de Desenvolvimento Proximal}{14}{subsubsection.45}%
+\contentsline {section}{\numberline {2.3}Computa^^c3^^a7^^c3^^a3o Aplicada ^^c3^^a0 Educa^^c3^^a7^^c3^^a3o}{15}{section.46}%
+\contentsline {subsection}{\numberline {2.3.1}Objetos de Aprendizagem}{15}{subsection.47}%
+\contentsline {subsection}{\numberline {2.3.2}Internet das Coisas (IoT)}{17}{subsection.48}%
+\contentsline {subsection}{\numberline {2.3.3}Sistemas Ciberf^^c3^^adsicos}{19}{subsection.50}%
+\contentsline {subsection}{\numberline {2.3.4}Interfaces Tang^^c3^^adveis de Usu^^c3^^a1rio}{20}{subsection.51}%
+\contentsline {subsection}{\numberline {2.3.5}Ferramentas de Autoria de OAs}{22}{subsection.58}%
+\contentsline {subsection}{\numberline {2.3.6}Avalia^^c3^^a7^^c3^^a3o da Aprendizagem}{24}{subsection.60}%
+\contentsline {section}{\numberline {2.4}Resumo}{25}{section.61}%
+\contentsline {chapter}{\numberline {3}Trabalhos Correlatos}{26}{chapter.62}%
+\contentsline {section}{\numberline {3.1}Sistemas Ciberf^^c3^^adsicos na Educa^^c3^^a7^^c3^^a3o}{26}{section.63}%
+\contentsline {subsection}{\numberline {3.1.1}Manipulativos F^^c3^^adsicos \textit {versus} Manipulativos Virtuais}{27}{subsection.64}%
+\contentsline {subsection}{\numberline {3.1.2}Manipulativos Tang^^c3^^adveis (F^^c3^^adsico-Digitais)}{30}{subsection.71}%
+\contentsline {subsection}{\numberline {3.1.3}Modelagem Bifocal}{34}{subsection.80}%
+\contentsline {subsection}{\numberline {3.1.4}Sistemas F^^c3^^adsico-Virtuais de Aprendizagem no Brasil}{35}{subsection.83}%
+\contentsline {section}{\numberline {3.2}Ferramentas de Autoria de Objetos de Aprendizagem}{43}{section.96}%
+\contentsline {section}{\numberline {3.3}Ferramentas e M^^c3^^a9tricas de Avalia^^c3^^a7^^c3^^a3o do Desempenho}{45}{section.100}%
+\contentsline {subsection}{\numberline {3.3.1}WebMonitor - monitoramento e acompanhamento}{45}{subsection.101}%
+\contentsline {subsection}{\numberline {3.3.2}Metodologia para \textit {Learning Analytics}}{46}{subsection.109}%
+\contentsline {subsection}{\numberline {3.3.3}M^^c3^^a9tricas de Desempenho para Estudantes e Professores}{48}{subsection.112}%
+\contentsline {subsection}{\numberline {3.3.4}Modelo \textit {Learning Vectors} para \textit {Moodle}}{49}{subsection.118}%
+\contentsline {section}{\numberline {3.4}Resumo}{50}{section.123}%
+\contentsline {chapter}{\numberline {4}M^^c3^^a9todo Proposto}{52}{chapter.124}%
+\contentsline {section}{\numberline {4.1}Compositor}{53}{section.126}%
+\contentsline {subsection}{\numberline {4.1.1}OA Question^^c3^^a1rio}{55}{subsection.129}%
+\contentsline {subsection}{\numberline {4.1.2}OA Tang^^c3^^advel}{56}{subsection.131}%
+\contentsline {subsection}{\numberline {4.1.3}Padr^^c3^^a3o de Metadados}{59}{subsection.137}%
+\contentsline {section}{\numberline {4.2}Servidor}{60}{section.138}%
+\contentsline {section}{\numberline {4.3}Player Tang^^c3^^advel}{61}{section.140}%
+\contentsline {subsection}{\numberline {4.3.1}Processo de conex^^c3^^a3o entre as entidades f^^c3^^adsica e digital}{62}{subsection.142}%
+\contentsline {section}{\numberline {4.4}Anal^^c3^^adticos}{69}{section.158}%
+\contentsline {subsection}{\numberline {4.4.1}M^^c3^^a9tricas Independentes}{69}{subsection.159}%
+\contentsline {subsubsection}{\numberline {4.4.1.1}Nota Tradicional}{69}{subsubsection.160}%
+\contentsline {subsubsection}{\numberline {4.4.1.2}Nota Ponderada}{70}{subsubsection.162}%
+\contentsline {subsubsection}{\numberline {4.4.1.3}D^^c3^^bavida da Quest^^c3^^a3o}{71}{subsubsection.166}%
+\contentsline {subsubsection}{\numberline {4.4.1.4}Grau de Assertividade}{72}{subsubsection.171}%
+\contentsline {subsubsection}{\numberline {4.4.1.5}Tempo de Resposta}{73}{subsubsection.173}%
+\contentsline {subsection}{\numberline {4.4.2}M^^c3^^a9tricas Compostas}{74}{subsection.175}%
+\contentsline {subsubsection}{\numberline {4.4.2.1}Prioridade}{74}{subsubsection.176}%
+\contentsline {subsubsection}{\numberline {4.4.2.2}N^^c3^^advel de Compreens^^c3^^a3o da Quest^^c3^^a3o}{75}{subsubsection.178}%
+\contentsline {subsubsection}{\numberline {4.4.2.3}N^^c3^^advel de Compreens^^c3^^a3o do Question^^c3^^a1rio}{76}{subsubsection.185}%
+\contentsline {subsection}{\numberline {4.4.3}M^^c3^^a9tricas aplicadas a Objetos Tang^^c3^^adveis de Aprendizagem (OTA)}{77}{subsection.188}%
+\contentsline {section}{\numberline {4.5}Ferramentas}{80}{section.196}%
+\contentsline {subsection}{\numberline {4.5.1}Compositor}{81}{subsection.198}%
+\contentsline {subsection}{\numberline {4.5.2}Player Tang^^c3^^advel}{82}{subsection.200}%
+\contentsline {subsubsection}{\numberline {4.5.2.1}Instancia^^c3^^a7^^c3^^a3o da descri^^c3^^a7^^c3^^a3o de um Objeto Tang^^c3^^advel de Aprendizagem}{82}{subsubsection.202}%
+\contentsline {subsubsection}{\numberline {4.5.2.2}Instancia^^c3^^a7^^c3^^a3o das Entradas, Sa^^c3^^addas e Casos de Teste de um OTA}{86}{subsubsection.206}%
+\contentsline {subsection}{\numberline {4.5.3}Servidor}{88}{subsection.212}%
+\contentsline {subsection}{\numberline {4.5.4}Anal^^c3^^adticos}{89}{subsection.215}%
+\contentsline {section}{\numberline {4.6}Resumo}{93}{section.222}%
+\contentsline {chapter}{\numberline {5}Resultados}{95}{chapter.223}%
+\contentsline {section}{\numberline {5.1}Estudo Explorat^^c3^^b3rio das M^^c3^^a9tricas de Aprendizagem}{95}{section.224}%
+\contentsline {subsection}{\numberline {5.1.1}Sobre a coleta dos dados}{96}{subsection.225}%
+\contentsline {subsection}{\numberline {5.1.2}An^^c3^^a1lise das M^^c3^^a9tricas}{96}{subsection.226}%
+\contentsline {subsubsection}{\numberline {5.1.2.1}Avaliando os estudantes}{96}{subsubsection.227}%
+\contentsline {subsubsection}{\numberline {5.1.2.2}Avaliando Disciplinas}{98}{subsubsection.231}%
+\contentsline {subsubsection}{\numberline {5.1.2.3}Composi^^c3^^a7^^c3^^a3o das m^^c3^^a9tricas: Grau de Assertividade versus N^^c3^^advel de Compreens^^c3^^a3o do Question^^c3^^a1rio}{100}{subsubsection.237}%
+\contentsline {subsection}{\numberline {5.1.3}Analisando os estudantes do Terceiro Quadrante}{101}{subsection.239}%
+\contentsline {section}{\numberline {5.2}Estudo de Caso}{104}{section.247}%
+\contentsline {subsection}{\numberline {5.2.1}Fase '1' - Impacto do uso de OTA na Aprendizagem em compara^^c3^^a7^^c3^^a3o com o ensino tradicional}{105}{subsection.253}%
+\contentsline {subsection}{\numberline {5.2.2}Sobre o impacto do uso de objeto tang^^c3^^advel na aprendizagem}{106}{subsection.256}%
+\contentsline {subsubsection}{\numberline {5.2.2.1}Quest^^c3^^b5es de Pesquisa}{108}{subsubsection.259}%
+\contentsline {subsubsection}{\numberline {5.2.2.2}Hip^^c3^^b3teses H01 e HA1}{112}{subsubsection.266}%
+\contentsline {subsection}{\numberline {5.2.3}Compara^^c3^^a7^^c3^^a3o entre o uso de objeto tang^^c3^^advel e o ensino tradicional}{112}{subsection.267}%
+\contentsline {subsubsection}{\numberline {5.2.3.1}Quest^^c3^^b5es de Pesquisa}{113}{subsubsection.270}%
+\contentsline {subsubsection}{\numberline {5.2.3.2}Hip^^c3^^b3teses H02 e HA2}{121}{subsubsection.276}%
+\contentsline {subsubsection}{\numberline {5.2.3.3}Sobre o P^^c3^^b3s-teste adicional do Grupo N}{121}{subsubsection.277}%
+\contentsline {subsection}{\numberline {5.2.4}Fase '2' - Percep^^c3^^a7^^c3^^a3o dos estudantes sobre o uso de OTA}{122}{subsection.279}%
+\contentsline {subsubsection}{\numberline {5.2.4.1}Formul^^c3^^a1rio TAM3}{123}{subsubsection.282}%
+\contentsline {subsubsection}{\numberline {5.2.4.2}Quest^^c3^^b5es abertas}{125}{subsubsection.287}%
+\contentsline {subsection}{\numberline {5.2.5}Fase '3' - Estudo de Viabilidade}{128}{subsection.288}%
+\contentsline {subsubsection}{\numberline {5.2.5.1}Exerc^^c3^^adcio 1 - Quadrantes}{129}{subsubsection.291}%
+\contentsline {subsubsection}{\numberline {5.2.5.2}Exerc^^c3^^adcio 2 - ^^c3^^82ngulos}{147}{subsubsection.313}%
+\contentsline {subsubsection}{\numberline {5.2.5.3}Exerc^^c3^^adcio 3 - Seno}{162}{subsubsection.342}%
+\contentsline {subsubsection}{\numberline {5.2.5.4}Exerc^^c3^^adcio 4 - Cosseno}{167}{subsubsection.351}%
+\contentsline {subsubsection}{\numberline {5.2.5.5}Exerc^^c3^^adcio 5 - Tangente}{172}{subsubsection.360}%
+\contentsline {section}{\numberline {5.3}Resumo}{177}{section.369}%
+\contentsline {chapter}{\numberline {6}Conclus^^c3^^a3o}{179}{chapter.370}%
+\contentsline {section}{\numberline {6.1}Considera^^c3^^a7^^c3^^b5es Finais}{179}{section.371}%
+\contentsline {section}{\numberline {6.2}Limita^^c3^^a7^^c3^^b5es}{181}{section.372}%
+\contentsline {section}{\numberline {6.3}Trabalhos Futuros}{182}{section.373}%
+\contentsline {chapter}{\numberline {A}Perfil de aplica^^c3^^a7^^c3^^a3o OBAA}{191}{appendix.375}%
+\contentsline {chapter}{\numberline {B}Estudo de Caso: Atividade 1}{199}{appendix.376}%
+\contentsline {section}{\numberline {B.1}Atividade 1: Plano de Aula}{199}{section.377}%
+\contentsline {section}{\numberline {B.2}Atividade 1: Apresenta^^c3^^a7^^c3^^a3o em Slides}{200}{section.379}%
+\contentsline {chapter}{\numberline {C}Estudo de Caso: Atividades 2 e 3}{207}{appendix.380}%
+\contentsline {section}{\numberline {C.1}Atividade 2: Plano de Aula}{207}{section.381}%
+\contentsline {section}{\numberline {C.2}Atividade 3: Plano de Aula}{208}{section.382}%
+\contentsline {section}{\numberline {C.3}Atividades 2 e 3: Apresenta^^c3^^a7^^c3^^a3o em Slides}{210}{section.383}%
+\contentsline {section}{\numberline {C.4}Atividade 2: Exerc^^c3^^adcio de Fixa^^c3^^a7^^c3^^a3o}{227}{section.384}%
+\contentsline {section}{\numberline {C.5}Atividade 3: Interfaces F^^c3^^adsicas do Player Tang^^c3^^advel}{229}{section.390}%
+\contentsline {subsection}{\numberline {C.5.1}Interface F^^c3^^adsica A01}{229}{subsection.391}%
+\contentsline {subsection}{\numberline {C.5.2}Interface F^^c3^^adsica A02}{230}{subsection.393}%
+\contentsline {subsection}{\numberline {C.5.3}Interface F^^c3^^adsica A03}{231}{subsection.395}%
+\contentsline {subsection}{\numberline {C.5.4}Interface F^^c3^^adsica A04}{232}{subsection.397}%
+\contentsline {subsection}{\numberline {C.5.5}Interface F^^c3^^adsica A05}{233}{subsection.399}%
+\contentsline {subsection}{\numberline {C.5.6}Interface F^^c3^^adsica A06}{234}{subsection.401}%
+\contentsline {chapter}{\numberline {D}OTA - Exerc^^c3^^adcio 1}{235}{appendix.403}%
+\contentsline {chapter}{\numberline {E}OTA - Exerc^^c3^^adcio 2}{246}{appendix.404}%
+\contentsline {chapter}{\numberline {F}OTA - Exerc^^c3^^adcio 3}{267}{appendix.405}%
+\contentsline {chapter}{\numberline {G}OTA - Exerc^^c3^^adcio 4}{275}{appendix.406}%
+\contentsline {chapter}{\numberline {H}OTA - Exerc^^c3^^adcio 5}{283}{appendix.407}%
+\contentsline {chapter}{\numberline {I}OTA - Exerc^^c3^^adcio 1 - Anal^^c3^^adticos}{289}{appendix.408}%
+\contentsline {chapter}{\numberline {J}OTA - Exerc^^c3^^adcio 2 - Anal^^c3^^adticos}{321}{appendix.409}%
+\contentsline {chapter}{\numberline {K}OTA - Exerc^^c3^^adcio 3 - Anal^^c3^^adticos}{353}{appendix.410}%
+\contentsline {chapter}{\numberline {L}OTA - Exerc^^c3^^adcio 4 - Anal^^c3^^adticos}{364}{appendix.411}%
+\contentsline {chapter}{\numberline {M}OTA - Exerc^^c3^^adcio 5 - Anal^^c3^^adticos}{374}{appendix.412}%
+\contentsline {chapter}{\numberline {N}Formul^^c3^^a1rio de Experi^^c3^^aancia do Usu^^c3^^a1rio}{379}{appendix.413}%

@@ -132,16 +132,23 @@ Os objetivos específicos são:
 %    \item Avaliar a experiência do usuário a partir dos pontos de vista do docente e do discente.
 %\end{enumerate}
 
+%\begin{enumerate}
+%    \item Propor um método de composição e execução de aulas que integre objetos tangíveis de aprendizagem;
+%    \item Propor uma forma de registro das interações entre os estudantes e o ambiente tangível, gerando métricas de aprendizagem que avaliem a experiência de aprendizado;
+%%    \item Propor uma forma de registro das interações entre os estudantes e o ambiente físico-virtual, gerando métricas de aprendizagem que avaliem a experiência de aprendizado e das condições do ambiente de ensino;
+%%    \item Gerar recomendações de atividades pedagógicas que integrem objetos de aprendizagem físico-virtuais que complementem ou reforcem os conteúdos estudados;
+%%    \item Avaliar a utilidade da interação entre os componentes físicos e virtuais para o ensino-aprendizagem
+%	\item Verificar se um objeto tangível de aprendizagem criado usando o modelo de processos proposto colabora positivamente para a aprendizagem;
+%	\item Comparar um objeto tangível de aprendizagem criado usando o modelo de processos proposto e o modelo tradicional de ensino;
+%	\item Identificar a aceitação dos estudantes com relação a utilização de objeto tangível de aprendizagem no processo de ensino-aprendizagem;
+%	\item Identificar como um objeto tangível de aprendizagem criado usando o modelo de processos proposto pode ser utilizado na avaliação/acompanhamento da aprendizagem dos estudantes.
+%\end{enumerate}
+
+
 \begin{enumerate}
-    \item Propor um método de composição e execução de aulas que integre objetos tangíveis de aprendizagem;
-    \item Propor uma forma de registro das interações entre os estudantes e o ambiente tangível, gerando métricas de aprendizagem que avaliem a experiência de aprendizado;
-%    \item Propor uma forma de registro das interações entre os estudantes e o ambiente físico-virtual, gerando métricas de aprendizagem que avaliem a experiência de aprendizado e das condições do ambiente de ensino;
-%    \item Gerar recomendações de atividades pedagógicas que integrem objetos de aprendizagem físico-virtuais que complementem ou reforcem os conteúdos estudados;
-%    \item Avaliar a utilidade da interação entre os componentes físicos e virtuais para o ensino-aprendizagem
-	\item Verificar se um objeto tangível de aprendizagem criado usando o modelo de processos proposto colabora positivamente para a aprendizagem;
-	\item Comparar um objeto tangível de aprendizagem criado usando o modelo de processos proposto e o modelo tradicional de ensino;
-	\item Identificar a aceitação dos estudantes com relação a utilização de objeto tangível de aprendizagem no processo de ensino-aprendizagem;
-	\item Identificar como um objeto tangível de aprendizagem criado usando o modelo de processos proposto pode ser utilizado na avaliação/acompanhamento da aprendizagem dos estudantes.
+	\item Registrar as interações dos estudantes com o ambiente tangível com o intuito de gerar métricas de aprendizagem;
+	\item  Avaliar experimentalmente os objetos tangíveis de aprendizagem verificando se efetivamente colaboram para o aprendizado, o grau de aceitação dos estudantes e o quanto são úteis no acompanhamento e na avaliação dos estudantes; e
+	\item Comparar um objeto tangível de aprendizagem com o modelo tradicional de ensino.
 \end{enumerate}
 
 % %%É necessário medir:
@@ -210,6 +217,18 @@ Esta tese apresenta uma abordagem
 onde são propostas uma arquitetura e um conjunto de ferramentas que permitam a criação de uma aula com utilização de objetos tangíveis de aprendizagem, inclusive no processo de avaliação da aprendizagem. Assim, o método proposto nesta tese consiste de quatro componentes, sendo: (i) compositor: ferramenta para autoria de objetos tangíveis de aprendizagem que implementa uma proposta de modelo para estes objetos; (ii) servidor: \textit{middleware} para trocas de mensagens entre os componentes físicos e digitais, além de recepção e consolidação dos dados coletados de interação dos estudantes com o material didático; (iii) player físico-virtual: interface de usuário para manipulação física ou digital dos objetos de aprendizagem, sendo também responsável pela coleta dos dados de interação e seu envio ao servidor; e, (iv) analíticos: módulo que implementa as métricas de avaliação da aprendizagem propostas nesta tese com o objetivo de gerar análises sobre as demandas dos estudantes.
 
 Além disso, será apresentado um estudo de caso que servirá para validar e aprimorar a abordagem apresentada. Tal estudo de caso consiste na criação e utilização de um objeto tangível de aprendizagem baseado no método proposto que implementa o manipulativo ``quadro trigonométrico'' e proverá dados para análise da aprendizagem.
+
+\section{Principais contribuições}
+
+Dentre as contribuições deste trabalho, pode-se citar:
+
+\begin{enumerate}
+	\item \textbf{Modelo referencial para Objetos Tangíveis:} o modelo referencial de \textit{IoT} proposto por \cite{serbanati:2011} foi adaptado em um modelo para objetos tangíveis de aprendizagem que proporcionasse um nível de formalização de modo que a explicitação dos componentes destes objetos servisse de base para a construção de objetos que pudessem ser integrados a plataformas digitais de aprendizagem;
+	\item \textbf{Modelo de processos para criação e integração de objetos tangíveis a plataformas educacionais:} uma proposta para aplicação do modelo referencial foi desenvolvida a partir da perspectiva do Compositor;
+	\item \textbf{Modelo de comunicação entre as entidades física e digital:} como parte do \textit{player} tangível, foram definidos os formatos e as sequências das mensagens trocadas entre as entidades física e digital implementadas;
+	\item \textbf{Métricas para acompanhamento da aprendizagem:} adaptando a proposta de~\cite{Biswas:2007}, foram propostas as métricas `nota ponderada' e `nível de compreensão da questão', além de novas métricas baseadas na exatidão ou frequência de respostas tais como `Prioridade', `Dúvida' e `Grau de Assertividade', que embasaram a proposta do `nível de compreensão do questionário';
+	\item \textbf{Modelo de processos para aplicação das métricas propostas:} uma proposta para formalização da definição dos parâmetros das métricas quando aplicadas a objetos tangíveis de aprendizagem.
+\end{enumerate}
 
 % -----------------------------------------------------------------
 % => Organização do Trabalho

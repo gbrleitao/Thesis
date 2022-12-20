@@ -80,7 +80,7 @@ O objeto `Vídeo' guarda informações relativas aos vídeos que serão exibidos
 % 	\label{fig:composerquestionario}
 % \end{figure}
 
-\textbf{OA Questionário}
+\subsection{OA Questionário}\label{section:OAquestionario}
 
 O objeto de aprendizagem `Questionário' é uma coleção de questões para verificação do aprendizado do aluno de acordo com as métricas apresentadas na Seção~\ref{section:analytics}. Assim, como o objeto Galeria, cada questão cadastrada é um único objeto de aprendizagem que pode ser reutilizado em outros questionários.
 % (Figura~\ref{fig:composerquestionario}). 
@@ -118,7 +118,7 @@ A Figura~\ref{fig:compositor_questao} apresenta uma pré-visualização de um qu
 
 % %A Figura~\ref{fig:composer} exibe uma tela com objetos de aprendizagem cadastrados no banco e associados a uma aula de Matemática. Tais objetos serão utilizados para compor o Player e serão utilizados durante a execução da aula presencial.
 
-\textbf{OA Tangível}\label{section:OA_fisicovirtual}
+\subsection{OA Tangível}\label{section:OA_fisicovirtual}
 
 Objetos Tangíveis de Aprendizagem (OTA) são manipulativos que contém, ao mesmo tempo, uma parte física e uma parte digital integradas entre si de modo que, ao ser criado no Compositor, cada OTA precisa ter componentes de ambas as partes devidamente instanciados e suas relações descritas.
 
@@ -156,7 +156,7 @@ Além disso, é preciso que o compositor de objetos de aprendizagem seja capaz d
 	\label{fig:bpmn_ofva_casos}
 \end{figure}
 
-É importante salientar que, no contexto deste trabalho, um caso de teste equivale uma situação-problema que pode ser instrumentada com parâmetros (regras) que permitam ao Player auxiliar o estudante no caminho de construção do conhecimento, de modo que ele possa corrigir as suas respostas até que descubra a resposta correta ao utilizar o objeto tangível no \textbf{modo estudo}. Além disso, para que o objeto tangível seja utilizado para o acompanhamento/avaliação da aprendizagem, um caso de teste também precisa estar associado aos parâmetros das diversas métricas propostas neste trabalho (Seção~\ref{section:analytics}).
+É importante salientar que, no contexto deste trabalho, um caso de teste equivale uma situação-problema que pode ser instrumentada com parâmetros (regras) que permitam ao Player auxiliar o estudante no caminho de construção do conhecimento, de modo que ele possa refletir e corrigir as suas respostas até que descubra a resposta correta ao utilizar o objeto tangível no \textbf{modo estudo}. De certo modo, essa característica incentiva um processo baseado na experiência e no conhecimento como construção progressiva, nos moldes das teorias sociopedagógicas apresentadas na Seção~\ref{section:sociopedagogicas}. Além disso, para que o objeto tangível seja utilizado para o acompanhamento/avaliação da aprendizagem, um caso de teste também precisa estar associado aos parâmetros das diversas métricas propostas neste trabalho (Seção~\ref{section:analytics}).
 
 %Além disso, para que o fluxo desse processo aconteça conforme o necessário, é preciso que o compositor de objetos de aprendizagem seja capaz de integrar um manipulativo físico instrumentado com sensores diversos a um conjunto de páginas web que implementam um manipulativo virtual com entradas e saídas equivalentes ao físico, de modo que o produto do processo seja um objeto com ambos os manipulativos físico e virtual integrados como um único objeto físico-virtual de aprendizagem.
 
@@ -202,7 +202,7 @@ Adicionalmente, o Compositor de OTA utiliza uma linguagem de programação em bl
 
 Além disso, é importante ressaltar que, ao desafio de modelar e padronizar os objetos tangíveis de aprendizagem, acrescentam-se: (i) a demanda por uma descrição adequada dos seus metadados de modo a facilitar não apenas a criação de repositórios, mas, a recomendação e o reuso desses tipos de objetos; e, (ii) a necessidade de estabelecer critérios de avaliação e verificação do aprendizado de maneira automática.
 
-\textbf{Padrão de Metadados}
+\subsection{Padrão de Metadados}
 
 Com relação a descrição dos metadados, após estudar alguns dos padrões existentes como Dublin Core, IEEE-LOM e OBAA, optou-se pelo último, que é derivado do padrão IEEE-LOM. Essa opção foi feita pelo fato do OBAA ser um padrão brasileiro presente implementado em importantes repositórios de objetos de aprendizagem nacionais, além de oferecer suporte a mídias de diferentes plataformas, dentre elas, TV Digital, Web e Móveis, ter descritores educacionais com uma base epistemológica interacionista e descritores de acessibilidade~\citep{vicari:2009}.
 
@@ -1163,7 +1163,7 @@ O `Player' é o módulo onde acontece a interação do aluno com o conteúdo edu
 
 \subsubsection{Instanciação da descrição de um Objeto Tangível de Aprendizagem}\label{subsubsec:descricaoOFVA}
 Tomando por base o perfil de aplicação OBAA escolhido (disponível no Apêndice~\ref{Chap:AppendixA}) e a Tabela~\ref{tabela:OFV}, que resume as especificações para criação de um OTA conforme o proposto nesta pesquisa, com o objetivo de validar o método e a arquitetura propostas nesta tese, foram implementados cinco OTAs. % de acordo com as especificações definidas na Seção~\ref{section:OA_fisicovirtual}.
-E, como afirmado na Seção~\ref{subsec:aplicacao_metricasOFVA}, tais objetos tangíveis são baseados nas atividades pedagógicas da sequência didática proposta por~\cite{silva:2011}, de modo que cada objeto representa uma parte da construção do ``Quadro Trigonométrico'' final.
+E, como afirmado na Seção~\ref{subsec:aplicacao_metricasOFVA}, tais objetos tangíveis são baseados nas atividades pedagógicas da sequência didática proposta por~\cite{silva:2011}, de modo que cada objeto representa uma parte da construção do ``Quadro Trigonométrico'' final como uma aplicação das teorias sociopedagógicas construtivistas apresentadas na Seção~\ref{section:sociopedagogicas}.
 
 \begin{figure}[htb]
 	\centering

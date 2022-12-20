@@ -1,101 +1,99 @@
 \babel@toc {brazilian}{}\relax 
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces Metodologia da pesquisa baseada no construcionismo de Papert\relax }}{7}{figure.caption.26}%
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Metodologia da pesquisa baseada no construcionismo de Papert\relax }}{7}{figure.caption.23}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Modelo de Refer^^c3^^aancia para IoT. Fonte:~\cite {serbanati:2011}\relax }}{18}{figure.caption.46}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces GUI e TUIs. Fonte:~\cite {ishii:1997}\relax }}{20}{figure.caption.49}%
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Modelo de intera^^c3^^a7^^c3^^a3o de TUI - MCRpd. Fonte:~\cite {ullmer:2000}\relax }}{21}{figure.caption.50}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Modelo de Refer^^c3^^aancia para IoT. Fonte:~\cite {serbanati:2011}\relax }}{18}{figure.caption.49}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces GUI e TUIs. Fonte:~\cite {ishii:1997}\relax }}{20}{figure.caption.52}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Modelo de intera^^c3^^a7^^c3^^a3o de TUI - MCRpd. Fonte:~\cite {ullmer:2000}\relax }}{21}{figure.caption.53}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces ThermoLab. Fonte:~\cite {zacharia:2011}\relax }}{27}{figure.caption.62}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Manipulativos usados por \cite {Salehi:2014}\relax }}{28}{figure.caption.63}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces ref1}}{28}{figure.caption.63}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces ref2}}{28}{figure.caption.63}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Manipulativo F^^c3^^adsico com placa e sensores. Fonte:~\cite {ha:2018}\relax }}{30}{figure.caption.69}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Manipulativo F^^c3^^adsico e seu correspondente Virtual. Fonte:~\cite {ha:2018}\relax }}{31}{figure.caption.70}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces RoCr com Ardu^^c3^^adno e sensores infravermelho integrados. Fonte:~\cite {Azad:2016}\relax }}{33}{figure.caption.73}%
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Sistemas Embarcados de Programa^^c3^^a7^^c3^^a3o Remota. Fonte:~\cite {Azad:2016}\relax }}{33}{figure.caption.74}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces ref1}}{33}{figure.caption.74}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces ref2}}{33}{figure.caption.74}%
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Exemplos de Modelos Bifocais: transfer^^c3^^aancia de calor e leis dos gases. Fonte:~\cite {Blikstein:2012}\relax }}{34}{figure.caption.78}%
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Arquitetura da Plataforma Toogle. Fonte:~\cite {Santos:2014}\relax }}{36}{figure.caption.81}%
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Modelo Conceitual de um Ambiente F^^c3^^adsico-Virtual de Aprendizagem proposto por~\cite {santos:2014ambientes}\relax }}{37}{figure.caption.82}%
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Exemplo de explora^^c3^^a7^^c3^^a3o do cen^^c3^^a1rio f^^c3^^adsico usando \textit {smartphone}. Fonte:~\cite {imamura:2018}\relax }}{38}{figure.caption.83}%
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Configura^^c3^^a7^^c3^^a3o da LCFV para o primeiro experimento. Fonte:~\cite {imamura:2018}\relax }}{39}{figure.caption.84}%
-\contentsline {figure}{\numberline {3.12}{\ignorespaces Processo de Design em Artefatos Tang^^c3^^adveis para Crian^^c3^^a7as. Fonte:~\cite {lima:2016}\relax }}{40}{figure.caption.85}%
-\contentsline {figure}{\numberline {3.13}{\ignorespaces Prot^^c3^^b3tipo do Tangram Tang^^c3^^advel\relax }}{40}{figure.caption.86}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces ref1}}{40}{figure.caption.86}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces ref2}}{40}{figure.caption.86}%
-\contentsline {figure}{\numberline {3.14}{\ignorespaces Tela do App para o Tangram Tang^^c3^^advel. Fonte:~\cite {lima:2016}\relax }}{41}{figure.caption.89}%
-\contentsline {figure}{\numberline {3.15}{\ignorespaces Integra^^c3^^a7^^c3^^a3o da MT e RV numa atividade pedag^^c3^^b3gica. Fonte:~\cite {gluz:2018}\relax }}{41}{figure.caption.90}%
-\contentsline {figure}{\numberline {3.16}{\ignorespaces Estrutura e componentes da mesa tang^^c3^^advel. Fonte:~\cite {gluz:2018}\relax }}{42}{figure.caption.91}%
-\contentsline {figure}{\numberline {3.17}{\ignorespaces Arquitetura do LECA. Fonte:~\cite {Orlandi:2012}\relax }}{44}{figure.caption.94}%
-\contentsline {figure}{\numberline {3.18}{\ignorespaces Estrutura da Plataforma ``F^^c3^^a1brica de Objetos''. Fonte:~\cite {Guterres:2014}\relax }}{44}{figure.caption.95}%
-\contentsline {figure}{\numberline {3.19}{\ignorespaces Estrutura dos OAs na plataforma ``F^^c3^^a1brica de Objetos''. Fonte:~\cite {Guterres:2014}\relax }}{45}{figure.caption.96}%
-\contentsline {figure}{\numberline {3.20}{\ignorespaces Arquitetura do WebMonitor. Fonte:~\cite {Lucena:2015}\relax }}{46}{figure.caption.99}%
-\contentsline {figure}{\numberline {3.21}{\ignorespaces Exemplo do Treemap das intera^^c3^^a7^^c3^^b5es de um estudante. Fonte:\cite {Lucena:2015}\relax }}{47}{figure.caption.105}%
-\contentsline {figure}{\numberline {3.22}{\ignorespaces Alunos Aprovados e Reprovados por Turma\relax }}{47}{figure.caption.108}%
-\contentsline {figure}{\numberline {3.23}{\ignorespaces Representa^^c3^^a7^^c3^^a3o do Vetor-Aprendizagem. Fonte:\cite {sales:2019}\relax }}{49}{figure.caption.116}%
-\contentsline {figure}{\numberline {3.24}{\ignorespaces Modelo de Avalia^^c3^^a7^^c3^^a3o usando Learning Vectors. Fonte:~\cite {sales:2019}\relax }}{50}{figure.caption.117}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces ThermoLab. Fonte:~\cite {zacharia:2011}\relax }}{27}{figure.caption.65}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Manipulativos usados por \cite {Salehi:2014}\relax }}{28}{figure.caption.66}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces ref1}}{28}{figure.caption.66}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces ref2}}{28}{figure.caption.66}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Manipulativo F^^c3^^adsico com placa e sensores. Fonte:~\cite {ha:2018}\relax }}{30}{figure.caption.72}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Manipulativo F^^c3^^adsico e seu correspondente Virtual. Fonte:~\cite {ha:2018}\relax }}{31}{figure.caption.73}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces RoCr com Ardu^^c3^^adno e sensores infravermelho integrados. Fonte:~\cite {Azad:2016}\relax }}{33}{figure.caption.76}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Sistemas Embarcados de Programa^^c3^^a7^^c3^^a3o Remota. Fonte:~\cite {Azad:2016}\relax }}{33}{figure.caption.77}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces ref1}}{33}{figure.caption.77}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces ref2}}{33}{figure.caption.77}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Exemplos de Modelos Bifocais: transfer^^c3^^aancia de calor e leis dos gases. Fonte:~\cite {Blikstein:2012}\relax }}{34}{figure.caption.81}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Arquitetura da Plataforma Toogle. Fonte:~\cite {Santos:2014}\relax }}{36}{figure.caption.84}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Modelo Conceitual de um Ambiente F^^c3^^adsico-Virtual de Aprendizagem proposto por~\cite {santos:2014ambientes}\relax }}{37}{figure.caption.85}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Exemplo de explora^^c3^^a7^^c3^^a3o do cen^^c3^^a1rio f^^c3^^adsico usando \textit {smartphone}. Fonte:~\cite {imamura:2018}\relax }}{38}{figure.caption.86}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Configura^^c3^^a7^^c3^^a3o da LCFV para o primeiro experimento. Fonte:~\cite {imamura:2018}\relax }}{39}{figure.caption.87}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Processo de Design em Artefatos Tang^^c3^^adveis para Crian^^c3^^a7as. Fonte:~\cite {lima:2016}\relax }}{40}{figure.caption.88}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Prot^^c3^^b3tipo do Tangram Tang^^c3^^advel\relax }}{40}{figure.caption.89}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces ref1}}{40}{figure.caption.89}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces ref2}}{40}{figure.caption.89}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Tela do App para o Tangram Tang^^c3^^advel. Fonte:~\cite {lima:2016}\relax }}{41}{figure.caption.92}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Integra^^c3^^a7^^c3^^a3o da MT e RV numa atividade pedag^^c3^^b3gica. Fonte:~\cite {gluz:2018}\relax }}{41}{figure.caption.93}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Estrutura e componentes da mesa tang^^c3^^advel. Fonte:~\cite {gluz:2018}\relax }}{42}{figure.caption.94}%
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Arquitetura do LECA. Fonte:~\cite {Orlandi:2012}\relax }}{44}{figure.caption.97}%
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Estrutura da Plataforma ``F^^c3^^a1brica de Objetos''. Fonte:~\cite {Guterres:2014}\relax }}{44}{figure.caption.98}%
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Estrutura dos OAs na plataforma ``F^^c3^^a1brica de Objetos''. Fonte:~\cite {Guterres:2014}\relax }}{45}{figure.caption.99}%
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Arquitetura do WebMonitor. Fonte:~\cite {Lucena:2015}\relax }}{46}{figure.caption.102}%
+\contentsline {figure}{\numberline {3.21}{\ignorespaces Exemplo do Treemap das intera^^c3^^a7^^c3^^b5es de um estudante. Fonte:\cite {Lucena:2015}\relax }}{47}{figure.caption.108}%
+\contentsline {figure}{\numberline {3.22}{\ignorespaces Alunos Aprovados e Reprovados por Turma\relax }}{47}{figure.caption.111}%
+\contentsline {figure}{\numberline {3.23}{\ignorespaces Representa^^c3^^a7^^c3^^a3o do Vetor-Aprendizagem. Fonte:\cite {sales:2019}\relax }}{49}{figure.caption.119}%
+\contentsline {figure}{\numberline {3.24}{\ignorespaces Modelo de Avalia^^c3^^a7^^c3^^a3o usando Learning Vectors. Fonte:~\cite {sales:2019}\relax }}{50}{figure.caption.120}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Arquitetura da Plataforma proposta\relax }}{52}{figure.caption.122}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Compositor: arquitetura b^^c3^^a1sica\relax }}{54}{figure.caption.124}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Compositor: Pr^^c3^^a9-visualiza^^c3^^a7^^c3^^a3o do Question^^c3^^a1rio\relax }}{55}{figure.caption.126}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Modelo de Objeto Tang^^c3^^advel de Aprendizagem proposto neste trabalho\relax }}{56}{figure.caption.127}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Modelo BPMN para Cria^^c3^^a7^^c3^^a3o de OTAs vinculados a uma plataforma educacional\relax }}{57}{figure.caption.128}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Subprocesso `Definir Servi^^c3^^a7os'\relax }}{57}{figure.caption.129}%
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Exemplo de defini^^c3^^a7^^c3^^a3o de regra para caso de teste e sua tradu^^c3^^a7^^c3^^a3o para linguagem JavaScript\relax }}{59}{figure.caption.131}%
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Arquitetura do Servidor\relax }}{60}{figure.caption.133}%
-\contentsline {figure}{\numberline {4.9}{\ignorespaces Arquitetura do Player Tang^^c3^^advel\relax }}{61}{figure.caption.135}%
-\contentsline {figure}{\numberline {4.10}{\ignorespaces Diagrama de Sequ^^c3^^aancia - Conex^^c3^^a3o Websocket\relax }}{63}{figure.caption.139}%
-\contentsline {figure}{\numberline {4.11}{\ignorespaces Diagrama de Sequ^^c3^^aancia para Pareamento\relax }}{64}{figure.caption.142}%
-\contentsline {figure}{\numberline {4.12}{\ignorespaces Diagrama de Sequ^^c3^^aancia para envio de dados\relax }}{67}{figure.caption.148}%
-\contentsline {figure}{\numberline {4.13}{\ignorespaces Diagrama de Sequ^^c3^^aancia para reconex^^c3^^a3o\relax }}{68}{figure.caption.150}%
-\contentsline {figure}{\numberline {4.14}{\ignorespaces D^^c3^^bavida da Quest^^c3^^a3o\relax }}{72}{figure.caption.164}%
-\contentsline {figure}{\numberline {4.15}{\ignorespaces Exemplo do `Tempo de Resposta' de um Question^^c3^^a1rio (em segundos)\relax }}{73}{figure.caption.168}%
-\contentsline {figure}{\numberline {4.16}{\ignorespaces Diagrama BPMN para Defini^^c3^^a7^^c3^^a3o dos Par^^c3^^a2metros das M^^c3^^a9tricas de Aprendizagem aplicadas a um OTA\relax }}{77}{figure.caption.183}%
-\contentsline {figure}{\numberline {4.17}{\ignorespaces Subprocesso para defini^^c3^^a7^^c3^^a3o dos par^^c3^^a2metros do N^^c3^^advel de Compreens^^c3^^a3o da Quest^^c3^^a3o\relax }}{77}{figure.caption.184}%
-\contentsline {figure}{\numberline {4.18}{\ignorespaces Subprocesso para defini^^c3^^a7^^c3^^a3o dos par^^c3^^a2metros da Nota Ponderada\relax }}{78}{figure.caption.185}%
-\contentsline {figure}{\numberline {4.19}{\ignorespaces Exemplo de defini^^c3^^a7^^c3^^a3o da NP para EF1 do Caso de Teste 1\relax }}{78}{figure.caption.186}%
-\contentsline {figure}{\numberline {4.20}{\ignorespaces Subprocesso para defini^^c3^^a7^^c3^^a3o dos par^^c3^^a2metros da Nota Tradicional\relax }}{79}{figure.caption.187}%
-\contentsline {figure}{\numberline {4.21}{\ignorespaces Subprocesso para defini^^c3^^a7^^c3^^a3o dos par^^c3^^a2metros da D^^c3^^bavida\relax }}{79}{figure.caption.188}%
-\contentsline {figure}{\numberline {4.22}{\ignorespaces Subprocesso para defini^^c3^^a7^^c3^^a3o dos par^^c3^^a2metros da Assertividade\relax }}{80}{figure.caption.189}%
-\contentsline {figure}{\numberline {4.23}{\ignorespaces Compositor de OTA - Casos de Teste\relax }}{80}{figure.caption.191}%
-\contentsline {figure}{\numberline {4.24}{\ignorespaces Compositor de OTA - Blockly\relax }}{81}{figure.caption.193}%
-\contentsline {figure}{\numberline {4.25}{\ignorespaces Player Tang^^c3^^advel - Interface F^^c3^^adsica\relax }}{83}{figure.caption.197}%
-\contentsline {figure}{\numberline {4.26}{\ignorespaces Player Tang^^c3^^advel - Interface Virtual\relax }}{83}{figure.caption.198}%
-\contentsline {figure}{\numberline {4.27}{\ignorespaces Esquem^^c3^^a1tico do Circuito El^^c3^^a9trico utilizado no Player Tang^^c3^^advel\relax }}{84}{figure.caption.199}%
-\contentsline {figure}{\numberline {4.28}{\ignorespaces Exemplo de Log de um objeto de aprendizagem tradicional\relax }}{89}{figure.caption.207}%
-\contentsline {figure}{\numberline {4.29}{\ignorespaces Exemplo de Log de um OTA\relax }}{89}{figure.caption.208}%
-\contentsline {figure}{\numberline {4.30}{\ignorespaces Exemplo de inst^^c3^^a2ncias da M^^c3^^a9dia Ponderada\relax }}{90}{figure.caption.210}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces ref1}}{90}{figure.caption.210}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces ref2}}{90}{figure.caption.210}%
-\contentsline {figure}{\numberline {4.31}{\ignorespaces Par^^c3^^a2metros do NCQ - T^^c3^^b3picos\relax }}{91}{figure.caption.213}%
-\contentsline {figure}{\numberline {4.32}{\ignorespaces Par^^c3^^a2metros do NCQ - Entradas\relax }}{91}{figure.caption.214}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Arquitetura da Plataforma proposta\relax }}{52}{figure.caption.125}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Compositor: arquitetura b^^c3^^a1sica\relax }}{54}{figure.caption.127}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Compositor: Pr^^c3^^a9-visualiza^^c3^^a7^^c3^^a3o do Question^^c3^^a1rio\relax }}{55}{figure.caption.130}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Modelo de Objeto Tang^^c3^^advel de Aprendizagem proposto neste trabalho\relax }}{56}{figure.caption.132}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Modelo BPMN para Cria^^c3^^a7^^c3^^a3o de OTAs vinculados a uma plataforma educacional\relax }}{57}{figure.caption.133}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Subprocesso `Definir Servi^^c3^^a7os'\relax }}{58}{figure.caption.134}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Exemplo de defini^^c3^^a7^^c3^^a3o de regra para caso de teste e sua tradu^^c3^^a7^^c3^^a3o para linguagem JavaScript\relax }}{59}{figure.caption.136}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Arquitetura do Servidor\relax }}{60}{figure.caption.139}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Arquitetura do Player Tang^^c3^^advel\relax }}{62}{figure.caption.141}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Diagrama de Sequ^^c3^^aancia - Conex^^c3^^a3o Websocket\relax }}{63}{figure.caption.145}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Diagrama de Sequ^^c3^^aancia para Pareamento\relax }}{65}{figure.caption.148}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Diagrama de Sequ^^c3^^aancia para envio de dados\relax }}{68}{figure.caption.154}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Diagrama de Sequ^^c3^^aancia para reconex^^c3^^a3o\relax }}{68}{figure.caption.156}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces D^^c3^^bavida da Quest^^c3^^a3o\relax }}{72}{figure.caption.170}%
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Exemplo do `Tempo de Resposta' de um Question^^c3^^a1rio (em segundos)\relax }}{74}{figure.caption.174}%
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Diagrama BPMN para Defini^^c3^^a7^^c3^^a3o dos Par^^c3^^a2metros das M^^c3^^a9tricas de Aprendizagem aplicadas a um OTA\relax }}{77}{figure.caption.189}%
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Subprocesso para defini^^c3^^a7^^c3^^a3o dos par^^c3^^a2metros do N^^c3^^advel de Compreens^^c3^^a3o da Quest^^c3^^a3o\relax }}{78}{figure.caption.190}%
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Subprocesso para defini^^c3^^a7^^c3^^a3o dos par^^c3^^a2metros da Nota Ponderada\relax }}{78}{figure.caption.191}%
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Exemplo de defini^^c3^^a7^^c3^^a3o da NP para EF1 do Caso de Teste 1\relax }}{79}{figure.caption.192}%
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Subprocesso para defini^^c3^^a7^^c3^^a3o dos par^^c3^^a2metros da Nota Tradicional\relax }}{79}{figure.caption.193}%
+\contentsline {figure}{\numberline {4.21}{\ignorespaces Subprocesso para defini^^c3^^a7^^c3^^a3o dos par^^c3^^a2metros da D^^c3^^bavida\relax }}{80}{figure.caption.194}%
+\contentsline {figure}{\numberline {4.22}{\ignorespaces Subprocesso para defini^^c3^^a7^^c3^^a3o dos par^^c3^^a2metros da Assertividade\relax }}{80}{figure.caption.195}%
+\contentsline {figure}{\numberline {4.23}{\ignorespaces Compositor de OTA - Casos de Teste\relax }}{81}{figure.caption.197}%
+\contentsline {figure}{\numberline {4.24}{\ignorespaces Compositor de OTA - Blockly\relax }}{82}{figure.caption.199}%
+\contentsline {figure}{\numberline {4.25}{\ignorespaces Player Tang^^c3^^advel - Interface F^^c3^^adsica\relax }}{84}{figure.caption.203}%
+\contentsline {figure}{\numberline {4.26}{\ignorespaces Player Tang^^c3^^advel - Interface Virtual\relax }}{84}{figure.caption.204}%
+\contentsline {figure}{\numberline {4.27}{\ignorespaces Esquem^^c3^^a1tico do Circuito El^^c3^^a9trico utilizado no Player Tang^^c3^^advel\relax }}{85}{figure.caption.205}%
+\contentsline {figure}{\numberline {4.28}{\ignorespaces Exemplo de Log de um objeto de aprendizagem tradicional\relax }}{90}{figure.caption.213}%
+\contentsline {figure}{\numberline {4.29}{\ignorespaces Exemplo de Log de um OTA\relax }}{90}{figure.caption.214}%
+\contentsline {figure}{\numberline {4.30}{\ignorespaces Exemplo de inst^^c3^^a2ncias da M^^c3^^a9dia Ponderada\relax }}{91}{figure.caption.216}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces ref1}}{91}{figure.caption.216}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces ref2}}{91}{figure.caption.216}%
+\contentsline {figure}{\numberline {4.31}{\ignorespaces Par^^c3^^a2metros do NCQ - T^^c3^^b3picos\relax }}{91}{figure.caption.219}%
+\contentsline {figure}{\numberline {4.32}{\ignorespaces Par^^c3^^a2metros do NCQ - Entradas\relax }}{92}{figure.caption.220}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Estudantes organizados por grupos de pontua^^c3^^a7^^c3^^b5es\relax }}{96}{figure.caption.223}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Estudantes agrupados por situa^^c3^^a7^^c3^^a3o na pontua^^c3^^a7^^c3^^a3o\relax }}{97}{figure.caption.224}%
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Tempo m^^c3^^a9dio gasto nas perguntas de cada disciplina\relax }}{98}{figure.caption.228}%
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Compara^^c3^^a7^^c3^^a3o A vs. NC - L^^c3^^adngua Portuguesa\relax }}{99}{figure.caption.232}%
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Tempo gasto pelos estudantes com menor $NC$\relax }}{102}{figure.caption.239}%
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Grupo T: NT, NP, A e NC do Pr^^c3^^a9 e P^^c3^^b3s-Teste\relax }}{107}{figure.caption.254}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces ref1}}{107}{figure.caption.254}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces ref2}}{107}{figure.caption.254}%
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces ref3}}{107}{figure.caption.254}%
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces ref4}}{107}{figure.caption.254}%
-\contentsline {figure}{\numberline {5.7}{\ignorespaces Grupo T - Tempo de Resposta no Pr^^c3^^a9 e P^^c3^^b3s-Teste\relax }}{109}{figure.caption.259}%
-\contentsline {figure}{\numberline {5.8}{\ignorespaces NT - Pr^^c3^^a9 e P^^c3^^b3s-Testes dos Grupos N e T\relax }}{113}{figure.caption.265}%
-\contentsline {figure}{\numberline {5.9}{\ignorespaces NP - Pr^^c3^^a9 e P^^c3^^b3s-Testes dos Grupos N e T\relax }}{115}{figure.caption.266}%
-\contentsline {figure}{\numberline {5.10}{\ignorespaces A - Pr^^c3^^a9 e P^^c3^^b3s-Testes dos Grupos N e T\relax }}{116}{figure.caption.267}%
-\contentsline {figure}{\numberline {5.11}{\ignorespaces TR - Pr^^c3^^a9 e P^^c3^^b3s-Testes dos Grupos N e T\relax }}{118}{figure.caption.268}%
-\contentsline {figure}{\numberline {5.12}{\ignorespaces NC - Pr^^c3^^a9 e P^^c3^^b3s-Testes dos Grupos N e T\relax }}{119}{figure.caption.269}%
-\contentsline {figure}{\numberline {5.13}{\ignorespaces Par^^c3^^a2metros do NCQ - Casos de Teste\relax }}{128}{figure.caption.284}%
-\contentsline {figure}{\numberline {5.14}{\ignorespaces Exerc^^c3^^adcio 1 - Quadrantes\relax }}{129}{figure.caption.286}%
-\contentsline {figure}{\numberline {5.15}{\ignorespaces Exerc^^c3^^adcio 2 - ^^c3^^82ngulos\relax }}{146}{figure.caption.308}%
-\contentsline {figure}{\numberline {5.16}{\ignorespaces Exerc^^c3^^adcio 3 - Seno\relax }}{161}{figure.caption.337}%
-\contentsline {figure}{\numberline {5.17}{\ignorespaces Exerc^^c3^^adcio 4 - Cosseno\relax }}{167}{figure.caption.346}%
-\contentsline {figure}{\numberline {5.18}{\ignorespaces Exerc^^c3^^adcio 5 - Tangente\relax }}{172}{figure.caption.355}%
-\addvspace {10\p@ }
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Estudantes organizados por grupos de pontua^^c3^^a7^^c3^^b5es\relax }}{97}{figure.caption.229}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Estudantes agrupados por situa^^c3^^a7^^c3^^a3o na pontua^^c3^^a7^^c3^^a3o\relax }}{98}{figure.caption.230}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Tempo m^^c3^^a9dio gasto nas perguntas de cada disciplina\relax }}{99}{figure.caption.234}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Compara^^c3^^a7^^c3^^a3o A vs. NC - L^^c3^^adngua Portuguesa\relax }}{100}{figure.caption.238}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Tempo gasto pelos estudantes com menor $NC$\relax }}{103}{figure.caption.245}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Grupo T: NT, NP, A e NC do Pr^^c3^^a9 e P^^c3^^b3s-Teste\relax }}{108}{figure.caption.260}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces ref1}}{108}{figure.caption.260}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces ref2}}{108}{figure.caption.260}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces ref3}}{108}{figure.caption.260}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces ref4}}{108}{figure.caption.260}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Grupo T - Tempo de Resposta no Pr^^c3^^a9 e P^^c3^^b3s-Teste\relax }}{110}{figure.caption.265}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces NT - Pr^^c3^^a9 e P^^c3^^b3s-Testes dos Grupos N e T\relax }}{114}{figure.caption.271}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces NP - Pr^^c3^^a9 e P^^c3^^b3s-Testes dos Grupos N e T\relax }}{116}{figure.caption.272}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces A - Pr^^c3^^a9 e P^^c3^^b3s-Testes dos Grupos N e T\relax }}{117}{figure.caption.273}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces TR - Pr^^c3^^a9 e P^^c3^^b3s-Testes dos Grupos N e T\relax }}{119}{figure.caption.274}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces NC - Pr^^c3^^a9 e P^^c3^^b3s-Testes dos Grupos N e T\relax }}{120}{figure.caption.275}%
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Par^^c3^^a2metros do NCQ - Casos de Teste\relax }}{129}{figure.caption.290}%
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Exerc^^c3^^adcio 1 - Quadrantes\relax }}{130}{figure.caption.292}%
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Exerc^^c3^^adcio 2 - ^^c3^^82ngulos\relax }}{147}{figure.caption.314}%
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Exerc^^c3^^adcio 3 - Seno\relax }}{162}{figure.caption.343}%
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Exerc^^c3^^adcio 4 - Cosseno\relax }}{168}{figure.caption.352}%
+\contentsline {figure}{\numberline {5.18}{\ignorespaces Exerc^^c3^^adcio 5 - Tangente\relax }}{173}{figure.caption.361}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
@@ -109,8 +107,10 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {N.1}{\ignorespaces Tela 1 - Apresenta^^c3^^a7^^c3^^a3o do Formul^^c3^^a1rio de Avalia^^c3^^a7^^c3^^a3o da Experi^^c3^^aancia do Usu^^c3^^a1rio\relax }}{378}{figure.caption.408}%
-\contentsline {figure}{\numberline {N.2}{\ignorespaces Tela 2 - Apresenta^^c3^^a7^^c3^^a3o do Formul^^c3^^a1rio de Avalia^^c3^^a7^^c3^^a3o da Experi^^c3^^aancia do Usu^^c3^^a1rio\relax }}{379}{figure.caption.409}%
-\contentsline {figure}{\numberline {N.3}{\ignorespaces Tela 3 - Apresenta^^c3^^a7^^c3^^a3o do Formul^^c3^^a1rio de Avalia^^c3^^a7^^c3^^a3o da Experi^^c3^^aancia do Usu^^c3^^a1rio\relax }}{380}{figure.caption.410}%
-\contentsline {figure}{\numberline {N.4}{\ignorespaces Tela 4 - Apresenta^^c3^^a7^^c3^^a3o do Formul^^c3^^a1rio de Avalia^^c3^^a7^^c3^^a3o da Experi^^c3^^aancia do Usu^^c3^^a1rio\relax }}{381}{figure.caption.411}%
-\contentsline {figure}{\numberline {N.5}{\ignorespaces Tela 5 - Apresenta^^c3^^a7^^c3^^a3o do Formul^^c3^^a1rio de Avalia^^c3^^a7^^c3^^a3o da Experi^^c3^^aancia do Usu^^c3^^a1rio\relax }}{382}{figure.caption.412}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {N.1}{\ignorespaces Tela 1 - Apresenta^^c3^^a7^^c3^^a3o do Formul^^c3^^a1rio de Avalia^^c3^^a7^^c3^^a3o da Experi^^c3^^aancia do Usu^^c3^^a1rio\relax }}{379}{figure.caption.414}%
+\contentsline {figure}{\numberline {N.2}{\ignorespaces Tela 2 - Apresenta^^c3^^a7^^c3^^a3o do Formul^^c3^^a1rio de Avalia^^c3^^a7^^c3^^a3o da Experi^^c3^^aancia do Usu^^c3^^a1rio\relax }}{380}{figure.caption.415}%
+\contentsline {figure}{\numberline {N.3}{\ignorespaces Tela 3 - Apresenta^^c3^^a7^^c3^^a3o do Formul^^c3^^a1rio de Avalia^^c3^^a7^^c3^^a3o da Experi^^c3^^aancia do Usu^^c3^^a1rio\relax }}{381}{figure.caption.416}%
+\contentsline {figure}{\numberline {N.4}{\ignorespaces Tela 4 - Apresenta^^c3^^a7^^c3^^a3o do Formul^^c3^^a1rio de Avalia^^c3^^a7^^c3^^a3o da Experi^^c3^^aancia do Usu^^c3^^a1rio\relax }}{382}{figure.caption.417}%
+\contentsline {figure}{\numberline {N.5}{\ignorespaces Tela 5 - Apresenta^^c3^^a7^^c3^^a3o do Formul^^c3^^a1rio de Avalia^^c3^^a7^^c3^^a3o da Experi^^c3^^aancia do Usu^^c3^^a1rio\relax }}{383}{figure.caption.418}%
