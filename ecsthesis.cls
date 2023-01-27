@@ -168,6 +168,8 @@
 \newcommand*{\membrodoisuniversity}[1]{\def\membrodoisuniversitydef{#1}}
 \newcommand*{\membrotresname}[1]{\def\membrotresnamedef{#1}}
 \newcommand*{\membrotresuniversity}[1]{\def\membrotresuniversitydef{#1}}
+\newcommand*{\membroquatroname}[1]{\def\membroquatronamedef{#1}}
+\newcommand*{\membroquatrouniversity}[1]{\def\membroquatrouniversitydef{#1}}
 \newcommand*{\textoFinalidadeDissertacao}[1]{\def\textoFinalidadeDissertacaodef{#1}}
 
 % \datadefesa					{Manaus - Amazonas \\ XX de XXXXXXXXXX de XXXX}
@@ -385,30 +387,29 @@
 	\begin{center}
 		\setlength{\parskip}{0pt}
 		\vspace*{0.4cm}
-		{\Large TERMO DE APROVA\c{C}\~{A}O}
+		{\Large FOLHA DE APROVA\c{C}\~{A}O}
 		\vspace*{0.4cm}
 		
 		{\Large \bf \@title \par}
-		{por \par}
+%		{por \par}
 		\smallskip
 		{\authornames \par}
 		
 		\vspace*{0.3cm}
 		
-		{Esta Tese foi julgada adequada para obten\c{c}\~{a}o do T\'{i}tulo de 
-		Doutor em Inform\'{a}tica e aprovada em sua forma final pelo Programa de P\'{o}s-Gradua\c{c}\~{a}o em 
-		Inform\'{a}tica da Universidade Federal do Amazonas.\par}
+%		{Esta Tese foi julgada adequada para obten\c{c}\~{a}o do T\'{i}tulo de 
+%		Doutor em Inform\'{a}tica e aprovada em sua forma final pelo Programa de P\'{o}s-Gradua\c{c}\~{a}o em 
+%		Inform\'{a}tica da Universidade Federal do Amazonas.\par}
+
+		{Tese de Doutorado defendida e aprovada pela banca examinadora constitu\'{i}da pelos Professores:\par}
+
 		
 		\vspace*{0.5cm}                      
 	\end{center}
 
-	\begin{flushleft}
-	{Aprovada em: {\bf \dataaprovacaodef} \par}
-	\end{flushleft}
-	
 	\begin{center}
-		\setlength{\parskip}{0pt}
-		{\textbf{BANCA EXAMINADORA} \par}
+%		\setlength{\parskip}{0pt}
+%		{\textbf{BANCA EXAMINADORA} \par}
 		
 % 		\bigskip
 		\bigskip
@@ -436,6 +437,12 @@
 		{\normalsize ------------------------------------------------------------------------------------ \\
 		\textbf{\membrotresnamedef} \\
 		\membrotresuniversitydef \par}
+
+		\bigskip
+		\bigskip
+		{\normalsize ------------------------------------------------------------------------------------ \\
+		\textbf{\membroquatronamedef} \\
+		\membroquatrouniversitydef \par}
 		
 		\vfill
 % 		\bigskip
@@ -443,6 +450,10 @@
 % 		\bigskip
 % 		{\LARGE \datadefesadef \par}
 	\end{center}
+
+	\begin{flushright}
+	{Manaus, {\bf \dataaprovacaodef} \par}
+	\end{flushright}
     \par
     \@thanks
     \vfil\null

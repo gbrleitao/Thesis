@@ -124,6 +124,38 @@
 
 \newcommand{\novo}[1]{\textcolor{blue}{#1}}
 
+\definecolor{eclipseStrings}{RGB}{42,0.0,255}
+\definecolor{eclipseKeywords}{RGB}{127,0,85}
+\colorlet{numb}{magenta!60!black}
+
+\lstdefinelanguage{json}{
+	basicstyle=\normalfont\ttfamily,
+	commentstyle=\color{eclipseStrings}, % style of comment
+	stringstyle=\color{eclipseKeywords}, % style of strings
+	numbers=left,
+	numberstyle=\scriptsize,
+	stepnumber=1,
+	numbersep=8pt,
+	showstringspaces=false,
+	breaklines=true,
+	frame=lines,
+	backgroundcolor=\color{white}, %only if you like
+	string=[s]{"}{"},
+	comment=[l]{:\ "},
+	morecomment=[l]{:"},
+	literate=
+	*{0}{{{\color{numb}0}}}{1}
+	{1}{{{\color{numb}1}}}{1}
+	{2}{{{\color{numb}2}}}{1}
+	{3}{{{\color{numb}3}}}{1}
+	{4}{{{\color{numb}4}}}{1}
+	{5}{{{\color{numb}5}}}{1}
+	{6}{{{\color{numb}6}}}{1}
+	{7}{{{\color{numb}7}}}{1}
+	{8}{{{\color{numb}8}}}{1}
+	{9}{{{\color{numb}9}}}{1}
+}
+
 \begin{document}
 % Desabilita a opção de impressão como livro
 \setboolean{@twoside}{false}
@@ -131,7 +163,7 @@
 \frontmatter
 %\title      {Método para Criação e Utilização de Objetos Tangíveis de Aprendizagem com Verificação da Aprendizagem Baseada em Métricas}
 %\title      {Objetos Tangíveis de Aprendizagem: um caminho para criação, utilização e verificação da aprendizagem baseada em métricas}
-\title      {Um Método baseado em Objetos Tangíveis para Acompanhamento da Aprendizagem}
+\title      {Um Método baseado em Objetos Tangíveis para Verificação da Aprendizagem}
 \authors    {\texorpdfstring
 	{\href{mailto:gabriel.leitao@gmail.com}{Gabriel de Souza Leitão}}
 	{Gabriel de Souza Leitão}
@@ -152,21 +184,18 @@
 
 % BEGIN... Informacoes_adicionais...
 \datadefesa		{Manaus - Amazonas\\ Janeiro de 2023}
-\dataaprovacao		{DD/MM/AAAA}
+\dataaprovacao		{25 de Janeiro de 2023}
 \orientadorname		{Prof. Dr. Raimundo da Silva Barreto}
-\orientadoruniversity		{Universidade Federal do Amazonas - UFAM}
-\membroumname		{Prof. Dra...}
-\membroumuniversity{Universidade Federal do Amazonas - UFAM}
-\membrodoisname		{Prof. Dra...}
-\membrodoisuniversity{Universidade Federal do Amazonas - UFAM}
-\membrotresname		{Prof. Dra...}
-\membrotresuniversity{Universidade...}
-% \membroumname		{Prof. Dra. Elaine Harada Teixeira de Oliveira}
-% \membroumuniversity		{Universidade Federal do Amazonas - UFAM}
-% \membrodoisname		{Prof. Dra. Francisca Maria Coelho Cavalcanti}
-% \membrodoisuniversity		{Universidade Federal do Amazonas - UFAM}
-% \membrotresname		{Prof. Dr. Tiago Thompsen Primo}
-% \membrotresuniversity{Universidade Federal de Pelotas - UFPel}
+\orientadoruniversity		{PRESIDENTE}
+\membroumname		{Prof. Dr. Juan Gabriel Colonna}
+\membroumuniversity{MEMBRO INTERNO}
+\membrodoisname		{Prof. Dra. Francisca Maria Coelho Cavalcanti}
+\membrodoisuniversity{MEMBRO EXTERNO}
+\membrotresname		{Prof. Dr. Credin\'{e} da Silva Menezes}
+\membrotresuniversity{MEMBRO EXTERNO}
+\membroquatroname		{Prof. Dr. Tiago Thompsen Primo}
+\membroquatrouniversity{MEMBRO EXTERNO}
+
 %END..Informacoes_adicionais...
 
 \maketitle % capa
@@ -175,6 +204,8 @@
 
 
 %\imprimirfolhadeaprovacao
+\includepdf[pages=-,offset=75 -75] {Presentation/Documentos/folhaaprovacao.pdf}
+
 
 %TODO:BEGIN: Parametros de inicializacao da pagina de catalogacao do trabalho...
 \nomeorientadorcatalogacao	{Barreto, Raimundo da Silva}

@@ -1,0 +1,115 @@
+Introdução: 00:00 - 04:30 (4:30)
+Trabalhos Correlatos: 04:30 - 09:10 (4:40)
+Método Proposto: 09:10 - 25:45 (16:35)
+Resultados: 25:45 - 47:45 (22:00) 08:36 12:46 18:01
+Considerações Finais: 47:45 - 53:00 (2:15)
+
+Método Proposto: (16:35) | 
+Resultados: (22:00) 08:36 12:46 18:01
+
+Tiago Primo
+Patenteamento dos objetos... startup... 
+Faltou valorizar mais os experimentos na introdução, o foco maior foi na plataforma
+Nos dias de hoje, é possível fazer essa conexão com a websemantica e outras áreas? já está na hora?
+Tem uma questão de evolução de tecnologia educacional até chegar neste momento.
+Dar uma olhada na espiral da aprendizagem criativa. baseada no modelo do papert.
+Dar uma olhada na tese do marcelo bender (encontrar no lattes do tiago primo. orientações concluídas)
+Após o doutorado, pode ser o momento pra brincar mais com os outros elementos e aspectos educacionais, paradigmas, com a rigidez dos textos acadêmicos (o  texto do marcelo quebra um pouco essa dimensão)
+Deixar explícito no texto que a revisão bibliográfica está até 2019, no período pré-pandemia. não era o objetivo abordar o periodo pandemico.
+Possibilidade de colaboração com a UFPel. Para uso do experimento.
+Juntar as Figuras 4.14 e 4.15. Pode ser interessante pra valorizar as inferências e até divulgação.
+
+*precisa explicar melhor no texto o motivo do uso do blockly. 
+
+Algumas Figuras não são citadas no texto. Verificar.
+
+Ao invés do GPS. Explorar Bluetooth low energy. Por exemplo, saber o andar que o estudante está, caso tenha mais de um.
+Publicação técnica dos recursos. Por exemplo: ProEdu.
+
+Crediné
+Formalizar as questões de pesquisa, uma vez que a tese é uma pesquisa. especialmente, pra síntese.
+Uma tese tem hipóteses, é bom deixar claro no sentido de facilitar o entendimento do trabalho. Uma preocupação devido a confluência da informática com a educação.
+A fundamentação teórica sobre educação está muito curta. Como Piaget está entrando na fundamentação teórica do trabalho?
+É razoável que esse "link" seja feito de modo mais evidente. epistemologia genética.
+"Piaget diz que o sujeito pra ter o conhecimento, precisa interagir com os objetos..."
+
+Distinção entre o que é um objeto de fato? tudo é objeto, mesmo o virtual emnbora não seja físico.
+O virtual já é diferente do ensino tradicional, uma vez que o tradicional é somente transmissível.
+
+Não há uma discussão teórica sobre a avaliação da aprendizagem. Como é uma parte importante do trabalho, é interessante que essa fundamentação seja feita.
+
+Deixar claro que vai tratar de um lado teórico apenas, não há cooperação, mas, há um enfoque na interação com os objetos.
+Fazer um recorte específico para o meu trabalho.
+
+De certa forma, avisar, deixar claro qual aspecto do construtivismo estou dando foco.
+
+Se o professor quisesse colocar de outra maneira a avaliação, como ele poderia fazer?
+Às vezes, a manifestação da avaliação pode ser somente pelo próprio uso, com observação do professor.
+Vincular o modelo com o estudo de caso (com o tipo de avaliação específica), mas, não fechar demais porque isso pode afastar as pessoas, uma vez que a plataforma não é somente pra avaliação, mas pra permitir que os objetos sejam integrados e usados.
+
+A está ótima. Está fechada. Não tem o que acrescentar. Quando é interessante, tem muito pra ser construido.
+
+
+Francisca
+Sobre educação 4.0: Educação é processo, é complexidade... depende de variados fatores... 
+Bourdieu: escola do rico x escola do pobre. 
+A melhoria da educação tenta euxiliar com relação a redução do fracasso escolar.
+Fala sobre analfabetismo, inclusive funcional.
+
+Sentiu falta:
+Preciso conversar mais com a base teórica na parte dos achados, dos resultados.
+
+
+Juan
+
+Cap. 1
+Na introdução, poderia ter um exemplo de recursos educacionais tangíveis.
+objetivo: propor é um objetivo fraco. o objetivo da tese vai além de propor.
+***********
+"registrar as interações" é uma tarefa e não objetivo. Definir as métricas que serão utilizadas poderia ser um objetivo.
+***********
+"comparar..." deixar claro para o quê a comparação vai servir.
+Talvez, colocar mais ilustrações pra ajudar a formar uma ideia geral.
+
+Cap. 4
+Algumas coisas talvez não precisassem estar no cap. e algumas coisas poderiam estar organizada diferente.
+Fig. 4.4 - Dar mais detalhes sobre a figura, como cada elemento interage com o outro.
+Fig. 4.5 - mesma coisa. especificar melhor 
+
+Websocket - o padrão de mensagens poderia ser definido no apêndice e não como parte do método proposto.
+É mais uma coisa necessária para que a plataforma funcione, mas, não colabora necessariamente com o entendimento da arquitetura.
+
+Que o exemplo sirva para todas as métricas. ws - faltou traduzir uma sigla.
+
+De alguma forma, a parte de analíticos pode ser parte do método. A construção dos gráficos analisados na tese, poderia ser feita e provida para o professor.
+
+A Figura do Blocly poderia ser melhor explicada... o que é, como se monta.
+
+Tem potencial pra virar um produto.
+
+Cap. 5
+
+Ressalvas com relação aos gráficos. np ponderada parece dar uma nota maior do que as outras métricas. é uma avaliação justa?
+
+A medição de tempo, deveria considerar o assunto? porque disciplinas, tópicos diferentes podem demandar tempos diferentes.
+Como interpretar o resultado? dependendo de como for o valor absoluto pode mudar.
+
+Fig. 5.4 : 
+A cor do ponto poderia ser uma terceira informação.
+Os limiares (eixos) poderiam ser a partir da turma, a média da turma por exemplo.
+
+Machine Learning.
+- os alunos podem representar os atributos. 
+- podem ser utilizados algoritmos de agrupamento e assim fornecer um feedback para o professor.
+- com ML tem espaço pra learning analytics.
+- qualquer método de ML se encaixa.
+
+Fig. 5.8: pra afirmar o que foi afirmado, precisa fazer testes estatísticos.
+Por exemplo, houve diferença significativa entre as médias? entre GN Pré e GT Pré. GN e GT Pós... 
+Poderia aplicar inclusive testes parametricos, por exemplo, will couson... poderia fazer teste AB.
+Uma coisa é ver correlação entre os dados, outra é ver causa e efeito.
+
+Fazer um addon para o moodle para utilizar as métricas.
+
+Pensar também a aplicação do objeto tangível em um contexto de ead.
+

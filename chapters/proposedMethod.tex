@@ -7,7 +7,7 @@
 
 Este capítulo descreve a arquitetura e as ferramentas propostas por este trabalho para a criação de um ambiente de educação apoiada por tecnologia que permita a inserção e o uso de objetos tangíveis de aprendizagem, além de métricas para acompanhamento e avaliação da aprendizagem que auxiliem o professor e os estudantes ao longo do processo de ensino-aprendizagem.
 
-\cite{Zilse:2016} afirmam que o processo de educação em sala de aula tem duas fases principais: (1) Composição da aula e (2) Execução da aula. Na fase de execução, há a possibilidade de avaliação da aula a partir de \textit{feedbacks} que o professor obtém através de comentários, comportamentos ou mesmo dos questionários que ele aplicou aos estudantes. Assim, o Modelo apresentado nesta Tese, consiste em uma arquitetura composta por quatro módulos que interagem entre si: (1) \textit{Compositor}, (2) \textit{Servidor}, (3)  \textit{Player} e (4) \textit{Analytics}.
+De acordo com \cite{Zilse:2016}, o processo de educação em sala de aula tem duas fases principais: (1) Composição da aula e (2) Execução da aula. Na fase de execução, há a possibilidade de avaliação da aula a partir de \textit{feedbacks} que o professor obtém através de comentários, comportamentos ou mesmo dos questionários que ele aplicou aos estudantes. Assim, o Modelo apresentado nesta Tese, consiste em uma arquitetura composta por quatro módulos que interagem entre si: (1) \textit{Compositor}, (2) \textit{Servidor}, (3)  \textit{Player} e (4) \textit{Analytics}.
 
 \begin{figure}[htb]
 \centering
@@ -289,25 +289,37 @@ Além disso, como parte da formalização desta proposta, para o processo de tro
 \end{table}
 
 A Listagem~\ref{JSON_exemplo} apresenta um exemplo inicial de modelo para o formato JSON a ser utilizado nas mensagens trocadas, note-se que alguns dos campos possuem subcampos que especificam mais informações.
+%	\begin{minted}[frame=lines,framesep=2mm,fontsize=\footnotesize,linenos]{json}
+%	{
+%		"type": "connection",
+%		"action": "connect",
+%		"data": {
+%			"connected": false,
+%		},
+%		"error": {
+%			"code": 1,
+%			"message": "Já existe um usuário conectado"
+%		}
+%	}
+	%	\end{minted}
 
 \begin{listing}[htb]
-	\begin{minted}[frame=lines,framesep=2mm,fontsize=\footnotesize,linenos]{json}
-		{
-			"type": "connection",
-			"action": "connect",
-			"data": {
-				"connected": false,
-			},
-			"error": {
-				"code": 1,
-				"message": "Já existe um usuário conectado"
-			}
-		}
-	\end{minted}
-	\caption{Exemplo de mensagem JSON}
-	\label{JSON_exemplo}
+\begin{lstlisting}[language=json,firstnumber=1]
+{
+	"type": "connection",
+	"action": "connect",
+	"data": {
+		"connected": false,
+	},
+	"error": {
+		"code": 1,
+		"message": "J\'{a} existe um usu\'{a}rio conectado"
+	}
+}
+\end{lstlisting}
+\caption{Exemplo de mensagem JSON}
+\label{JSON_exemplo}
 \end{listing}
-
 \textbf{Conexão via \textit{Websocket} e preparação para pareamento}
 
 O passo inicial para o pareamento entre as entidades física e virtual é o estabelecimento de uma conexão via \textit{websocket}, por onde todas as mensagens no formato JSON serão trocadas. Assim, a Figura~\ref{fig:diagrama-websockets} apresenta o diagrama de sequência que ilustra esse processo, onde pode-se notar que, após o estudante inserir o número identificador único da entidade física (URI) na parte virtual do Player Tangível, as mensagens seguintes estabelecem primeiro um canal \textit{websocket} e, em seguida, é feita uma primeira troca de mensagens para verificação da possibilidade de pareamento entre as entidades.
@@ -874,7 +886,7 @@ As métricas apresentadas nesta subseção são consideraras compostas porque de
 
 \begin{equation}
     \label{eq:prioridade}
-    P = (10 - TS)\cdot \frac{WS}{10}
+    P = (10 - NT)\cdot \frac{NP}{10}
 \end{equation}
 
 Como apresentado anteriormente na Subseção~\ref{sec:nota-ponderada}, para a disciplina ``A'', temos $NT = 6,67 $ e $NP = 8,75$; e para a disciplina ``B'', $NT = 1,67 $ e $NP = 7,92$. Em seguida, podemos usar a Equação~\ref{eq:prioridade} para calcular a prioridade de cada assunto, resultando em:
