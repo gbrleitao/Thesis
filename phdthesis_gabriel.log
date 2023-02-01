@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.12.8)  26 JAN 2023 20:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.12.8)  31 JAN 2023 23:01
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1656,53 +1656,59 @@ LaTeX Font Info:    Font shape `T1/txr/b/n' in size <14.4> not available
 
 
  <./imgs/brasao_federacao-eps-converted-to.pdf>]
-<Presentation/Documentos/folhaaprovacao.pdf, id=550, 597.51233pt x 845.0471pt>
+------------------------------------------------------------------------------
+ Ficha Catalogr\'{a}fica
+------------------------------------------------------------------------------
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 21
+5.
+(D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
+File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
+)
+[1
+
+
+]
+<Presentation/Documentos/folhaaprovacao.pdf, id=559, 597.51233pt x 845.0471pt>
 File: Presentation/Documentos/folhaaprovacao.pdf Graphic file (type pdf)
 <use Presentation/Documentos/folhaaprovacao.pdf>
 Package pdftex.def Info: Presentation/Documentos/folhaaprovacao.pdf  used on in
-put line 208.
+put line 220.
 (pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
 File: Presentation/Documentos/folhaaprovacao.pdf Graphic file (type pdf)
 <use Presentation/Documentos/folhaaprovacao.pdf>
 Package pdftex.def Info: Presentation/Documentos/folhaaprovacao.pdf  used on in
-put line 208.
+put line 220.
 (pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
-<Presentation/Documentos/folhaaprovacao.pdf, id=553, page=1, 597.51233pt x 845.
+<Presentation/Documentos/folhaaprovacao.pdf, id=562, page=1, 597.51233pt x 845.
 0471pt>
 File: Presentation/Documentos/folhaaprovacao.pdf Graphic file (type pdf)
 <use Presentation/Documentos/folhaaprovacao.pdf, page 1>
 Package pdftex.def Info: Presentation/Documentos/folhaaprovacao.pdf , page1 use
-d on input line 208.
+d on input line 220.
 (pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
 File: Presentation/Documentos/folhaaprovacao.pdf Graphic file (type pdf)
 <use Presentation/Documentos/folhaaprovacao.pdf, page 1>
 Package pdftex.def Info: Presentation/Documentos/folhaaprovacao.pdf , page1 use
-d on input line 208.
+d on input line 220.
 (pdftex.def)             Requested size: 598.13995pt x 845.93475pt.
 File: Presentation/Documentos/folhaaprovacao.pdf Graphic file (type pdf)
 <use Presentation/Documentos/folhaaprovacao.pdf, page 1>
 Package pdftex.def Info: Presentation/Documentos/folhaaprovacao.pdf , page1 use
-d on input line 208.
+d on input line 220.
 (pdftex.def)             Requested size: 598.13995pt x 845.93475pt.
 File: Presentation/Documentos/folhaaprovacao.pdf Graphic file (type pdf)
 <use Presentation/Documentos/folhaaprovacao.pdf, page 1>
 Package pdftex.def Info: Presentation/Documentos/folhaaprovacao.pdf , page1 use
-d on input line 208.
+d on input line 220.
 (pdftex.def)             Requested size: 598.13995pt x 845.93475pt.
 File: Presentation/Documentos/folhaaprovacao.pdf Graphic file (type pdf)
 <use Presentation/Documentos/folhaaprovacao.pdf, page 1>
 Package pdftex.def Info: Presentation/Documentos/folhaaprovacao.pdf , page1 use
-d on input line 208.
+d on input line 220.
 (pdftex.def)             Requested size: 598.13995pt x 845.93475pt.
  [1
 
  <./Presentation/Documentos/folhaaprovacao.pdf>]
-------------------------------------------------------------------------------
- CIP - CATALOGA\c {C}\~{A}O NA PUBLICA\c {C}\~{A}O
-------------------------------------------------------------------------------
-[1
-
-]
 (D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
@@ -1713,79 +1719,77 @@ File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 ------------------------------------------------------------------------------
  Dedicatory
 ------------------------------------------------------------------------------
-[1
-
-]) (chapters/agradecimentos.tex
+[2]) (chapters/agradecimentos.tex
 ------------------------------------------------------------------------------
  Agradecimentos
 ------------------------------------------------------------------------------
-[2
+[3
 
 ]) (chapters/epigrafe.tex
 ------------------------------------------------------------------------------
  Dedicatory
 ------------------------------------------------------------------------------
-[3
+[4
 
 ]) (chapters/resumo.tex
 ------------------------------------------------------------------------------
  Abstract Page
 ------------------------------------------------------------------------------
-[4
+[5
 
 ]) (chapters/abstract.tex
 ------------------------------------------------------------------------------
  Abstract Page
 ------------------------------------------------------------------------------
-[5
+[6
 
 ])
 ------------------------------------------------------------------------------
  Table of Contents
 ------------------------------------------------------------------------------
 LaTeX Font Info:    Font shape `T1/txr/b/n' in size <24.88> not available
-(Font)              Font shape `T1/txr/bx/n' tried instead on input line 284.
+(Font)              Font shape `T1/txr/bx/n' tried instead on input line 278.
 (phdthesis_gabriel.toc
 LaTeX Font Info:    Font shape `T1/txr/b/n' in size <10.95> not available
 (Font)              Font shape `T1/txr/bx/n' tried instead on input line 2.
- [6
+ [7
 
 
-] [7] [8])
+] [8] [9])
 \tf@toc=\write7
 \openout7 = `phdthesis_gabriel.toc'.
 
- [9]
+ [10]
 ------------------------------------------------------------------------------
  Lista de Figuras
 ------------------------------------------------------------------------------
-(phdthesis_gabriel.lof [10
+(phdthesis_gabriel.lof [11
 
 
-] [11])
+] [12])
 \tf@lof=\write8
 \openout8 = `phdthesis_gabriel.lof'.
 
- [12]
+ [13]
 ------------------------------------------------------------------------------
  Lista de Tabelas
 ------------------------------------------------------------------------------
-(phdthesis_gabriel.lot [13
+(phdthesis_gabriel.lot [14
 
 
-] [14])
+] [15])
 \tf@lot=\write9
 \openout9 = `phdthesis_gabriel.lot'.
 
- [15] (phdthesis_gabriel.lol)
+ [16] (phdthesis_gabriel.lol)
 \tf@lol=\write10
 \openout10 = `phdthesis_gabriel.lol'.
 
- [16
+ [17
 
 
 ]
-(chapters/listaAbreviacoesAcronimos.tex) [17] (chapters/introduction.tex
+(chapters/listaAbreviacoesAcronimos.tex) [18] (chapters/introduction.tex
 Cap\'{\i }tulo 1.
 ------------------------------------------------------------------------------
  1 Introdu^^c3^^a7^^c3^^a3o
@@ -1794,7 +1798,7 @@ Cap\'{\i }tulo 1.
 
 
 ] [2] [3] [4] [5]
-<imgs/METODOLOGIA_v2.png, id=1481, 526.96875pt x 419.31656pt>
+<imgs/METODOLOGIA_v2.png, id=1478, 526.96875pt x 419.31656pt>
 File: imgs/METODOLOGIA_v2.png Graphic file (type png)
 <use imgs/METODOLOGIA_v2.png>
 Package pdftex.def Info: imgs/METODOLOGIA_v2.png  used on input line 198.
@@ -1814,7 +1818,7 @@ LaTeX Font Info:    Trying to load font information for TS1+txr on input line 1
 (D:\Users\gabri\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\ts1txr.fd
 File: ts1txr.fd 2000/12/15 v3.1
 )
-<chapters/background/arquitetura_IoT.png, id=1671, 760.34062pt x 502.12593pt>
+<chapters/background/arquitetura_IoT.png, id=1668, 760.34062pt x 502.12593pt>
 File: chapters/background/arquitetura_IoT.png Graphic file (type png)
 <use chapters/background/arquitetura_IoT.png>
 Package pdftex.def Info: chapters/background/arquitetura_IoT.png  used on input
@@ -1822,14 +1826,14 @@ Package pdftex.def Info: chapters/background/arquitetura_IoT.png  used on input
 (pdftex.def)             Requested size: 388.73152pt x 256.72443pt.
 
 [17] [18 <./chapters/background/arquitetura_IoT.png>] [19]
-<chapters/background/GUIandTUI_redesenhado.png, id=1734, 410.7345pt x 218.7372p
+<chapters/background/GUIandTUI_redesenhado.png, id=1731, 410.7345pt x 218.7372p
 t>
 File: chapters/background/GUIandTUI_redesenhado.png Graphic file (type png)
 <use chapters/background/GUIandTUI_redesenhado.png>
 Package pdftex.def Info: chapters/background/GUIandTUI_redesenhado.png  used on
  input line 253.
 (pdftex.def)             Requested size: 302.34747pt x 161.01855pt.
-<chapters/background/MCRpd_2.png, id=1743, 385.44pt x 184.43906pt>
+<chapters/background/MCRpd_2.png, id=1740, 385.44pt x 184.43906pt>
 File: chapters/background/MCRpd_2.png Graphic file (type png)
 <use chapters/background/MCRpd_2.png>
 Package pdftex.def Info: chapters/background/MCRpd_2.png  used on input line 26
@@ -1847,30 +1851,30 @@ LaTeX Font Info:    Font shape `T1/txr/b/it' in size <12> not available
 [26
 
 ]
-<chapters/works/zacharia2011.png, id=1920, 781.92125pt x 550.055pt>
+<chapters/works/zacharia2011.png, id=1917, 781.92125pt x 550.055pt>
 File: chapters/works/zacharia2011.png Graphic file (type png)
 <use chapters/works/zacharia2011.png>
 Package pdftex.def Info: chapters/works/zacharia2011.png  used on input line 29
 .
 (pdftex.def)             Requested size: 388.73152pt x 273.45729pt.
  [27 <./chapters/works/zacharia2011.png>]
-<chapters/works/salehi-1.png, id=1938, 243.91125pt x 137.7647pt>
+<chapters/works/salehi-1.png, id=1935, 243.91125pt x 137.7647pt>
 File: chapters/works/salehi-1.png Graphic file (type png)
 <use chapters/works/salehi-1.png>
 Package pdftex.def Info: chapters/works/salehi-1.png  used on input line 53.
 (pdftex.def)             Requested size: 199.16928pt x 112.49478pt.
-<chapters/works/salehi-2.png, id=1939, 229.60782pt x 188.95593pt>
+<chapters/works/salehi-2.png, id=1936, 229.60782pt x 188.95593pt>
 File: chapters/works/salehi-2.png Graphic file (type png)
 <use chapters/works/salehi-2.png>
 Package pdftex.def Info: chapters/works/salehi-2.png  used on input line 55.
 (pdftex.def)             Requested size: 182.09746pt x 149.8646pt.
  [28 <./chapters/works/salehi-1.png> <./chapters/works/salehi-2.png>] [29]
-<chapters/works/ha2018.png, id=1976, 400.49625pt x 310.15875pt>
+<chapters/works/ha2018.png, id=1973, 400.49625pt x 310.15875pt>
 File: chapters/works/ha2018.png Graphic file (type png)
 <use chapters/works/ha2018.png>
 Package pdftex.def Info: chapters/works/ha2018.png  used on input line 102.
 (pdftex.def)             Requested size: 302.34747pt x 234.16133pt.
-<chapters/works/ha2018_VPM.png, id=1984, 444.91219pt x 328.22626pt>
+<chapters/works/ha2018_VPM.png, id=1981, 444.91219pt x 328.22626pt>
 File: chapters/works/ha2018_VPM.png Graphic file (type png)
 <use chapters/works/ha2018_VPM.png>
 Package pdftex.def Info: chapters/works/ha2018_VPM.png  used on input line 111.
@@ -1880,19 +1884,19 @@ LaTeX Font Info:    Font shape `TS1/txr/b/n' in size <10.95> not available
 (Font)              Font shape `TS1/txr/bx/n' tried instead on input line 124.
  [30 <./chapters/works/ha2018.png>]
 [31 <./chapters/works/ha2018_VPM.png>]
-<chapters/works/azad2016.png, id=2020, 459.21562pt x 318.43968pt>
+<chapters/works/azad2016.png, id=2017, 459.21562pt x 318.43968pt>
 File: chapters/works/azad2016.png Graphic file (type png)
 <use chapters/works/azad2016.png>
 Package pdftex.def Info: chapters/works/azad2016.png  used on input line 161.
 (pdftex.def)             Requested size: 259.15874pt x 179.71953pt.
  [32]
-<chapters/works/azad2016_remote1.png, id=2033, 281.55188pt x 198.7425pt>
+<chapters/works/azad2016_remote1.png, id=2030, 281.55188pt x 198.7425pt>
 File: chapters/works/azad2016_remote1.png Graphic file (type png)
 <use chapters/works/azad2016_remote1.png>
 Package pdftex.def Info: chapters/works/azad2016_remote1.png  used on input lin
 e 171.
 (pdftex.def)             Requested size: 199.16928pt x 140.58958pt.
-<chapters/works/azad2016_remote2.png, id=2034, 283.81032pt x 222.8325pt>
+<chapters/works/azad2016_remote2.png, id=2031, 283.81032pt x 222.8325pt>
 File: chapters/works/azad2016_remote2.png Graphic file (type png)
 <use chapters/works/azad2016_remote2.png>
 Package pdftex.def Info: chapters/works/azad2016_remote2.png  used on input lin
@@ -1900,7 +1904,7 @@ e 173.
 (pdftex.def)             Requested size: 182.09746pt x 142.97612pt.
  [33 <./chapters/works/azad2016.png (PNG copy)> <./chapters/works/azad2016_remo
 te1.png (PNG copy)> <./chapters/works/azad2016_remote2.png (PNG copy)>]
-<chapters/works/blikstein2012.png, id=2058, 546.54187pt x 438.13687pt>
+<chapters/works/blikstein2012.png, id=2055, 546.54187pt x 438.13687pt>
 File: chapters/works/blikstein2012.png Graphic file (type png)
 <use chapters/works/blikstein2012.png>
 Package pdftex.def Info: chapters/works/blikstein2012.png  used on input line 1
@@ -1910,14 +1914,14 @@ Package pdftex.def Info: chapters/works/blikstein2012.png  used on input line 1
 LaTeX Font Info:    Font shape `T1/txr/b/it' in size <10.95> not available
 (Font)              Font shape `T1/txr/bx/it' tried instead on input line 222.
  [35]
-<chapters/works/santos2014_arquitetura.png, id=2100, 532.23843pt x 463.7325pt>
+<chapters/works/santos2014_arquitetura.png, id=2097, 532.23843pt x 463.7325pt>
 File: chapters/works/santos2014_arquitetura.png Graphic file (type png)
 <use chapters/works/santos2014_arquitetura.png>
 Package pdftex.def Info: chapters/works/santos2014_arquitetura.png  used on inp
 ut line 227.
 (pdftex.def)             Requested size: 345.54279pt x 301.07582pt.
  [36 <./chapters/works/santos2014_arquitetura.png (PNG copy)>]
-<chapters/works/santos2014_modelo_v2.png, id=2119, 633.86812pt x 477.28313pt>
+<chapters/works/santos2014_modelo_v2.png, id=2116, 633.86812pt x 477.28313pt>
 File: chapters/works/santos2014_modelo_v2.png Graphic file (type png)
 <use chapters/works/santos2014_modelo_v2.png>
 Package pdftex.def Info: chapters/works/santos2014_modelo_v2.png  used on input
@@ -1925,32 +1929,32 @@ Package pdftex.def Info: chapters/works/santos2014_modelo_v2.png  used on input
 (pdftex.def)             Requested size: 388.73152pt x 292.70807pt.
 
 [37 <./chapters/works/santos2014_modelo_v2.png>]
-<chapters/works/imamura2018.png, id=2143, 319.94531pt x 234.1247pt>
+<chapters/works/imamura2018.png, id=2140, 319.94531pt x 234.1247pt>
 File: chapters/works/imamura2018.png Graphic file (type png)
 <use chapters/works/imamura2018.png>
 Package pdftex.def Info: chapters/works/imamura2018.png  used on input line 258
 .
 (pdftex.def)             Requested size: 259.15874pt x 189.6471pt.
  [38 <./chapters/works/imamura2018.png (PNG copy)>]
-<chapters/works/imamura2018_LCFV.png, id=2155, 517.935pt x 252.4632pt>
+<chapters/works/imamura2018_LCFV.png, id=2152, 517.935pt x 252.4632pt>
 File: chapters/works/imamura2018_LCFV.png Graphic file (type png)
 <use chapters/works/imamura2018_LCFV.png>
 Package pdftex.def Info: chapters/works/imamura2018_LCFV.png  used on input lin
 e 268.
 (pdftex.def)             Requested size: 302.34747pt x 147.38411pt.
  [39 <./chapters/works/imamura2018_LCFV.png>]
-<chapters/works/lima2016.png, id=2172, 980.16188pt x 401.24907pt>
+<chapters/works/lima2016.png, id=2169, 980.16188pt x 401.24907pt>
 File: chapters/works/lima2016.png Graphic file (type png)
 <use chapters/works/lima2016.png>
 Package pdftex.def Info: chapters/works/lima2016.png  used on input line 287.
 (pdftex.def)             Requested size: 431.92685pt x 176.8134pt.
-<chapters/works/lima2016-2.png, id=2178, 351.56343pt x 308.65312pt>
+<chapters/works/lima2016-2.png, id=2175, 351.56343pt x 308.65312pt>
 File: chapters/works/lima2016-2.png Graphic file (type png)
 <use chapters/works/lima2016-2.png>
 Package pdftex.def Info: chapters/works/lima2016-2.png  used on input line 297.
 
 (pdftex.def)             Requested size: 199.16928pt x 174.85559pt.
-<chapters/works/lima2016-3.png, id=2179, 392.21532pt x 277.035pt>
+<chapters/works/lima2016-3.png, id=2176, 392.21532pt x 277.035pt>
 File: chapters/works/lima2016-3.png Graphic file (type png)
 <use chapters/works/lima2016-3.png>
 Package pdftex.def Info: chapters/works/lima2016-3.png  used on input line 299.
@@ -1958,46 +1962,46 @@ Package pdftex.def Info: chapters/works/lima2016-3.png  used on input line 299.
 (pdftex.def)             Requested size: 182.09746pt x 128.62126pt.
  [40 <./chapters/works/lima2016.png> <./chapters/works/lima2016-2.png> <./chapt
 ers/works/lima2016-3.png>]
-<chapters/works/lima2016-4.png, id=2192, 423.08063pt x 322.95656pt>
+<chapters/works/lima2016-4.png, id=2189, 423.08063pt x 322.95656pt>
 File: chapters/works/lima2016-4.png Graphic file (type png)
 <use chapters/works/lima2016-4.png>
 Package pdftex.def Info: chapters/works/lima2016-4.png  used on input line 310.
 
 (pdftex.def)             Requested size: 259.15874pt x 197.8311pt.
-<chapters/works/gluz2018.png, id=2197, 590.205pt x 298.86656pt>
+<chapters/works/gluz2018.png, id=2194, 590.205pt x 298.86656pt>
 File: chapters/works/gluz2018.png Graphic file (type png)
 <use chapters/works/gluz2018.png>
 Package pdftex.def Info: chapters/works/gluz2018.png  used on input line 321.
 (pdftex.def)             Requested size: 345.54279pt x 174.97531pt.
  [41 <./chapters/works/lima2016-4.png> <./chapters/works/gluz2018.png>]
-<chapters/works/gluz2018-mesa.png, id=2213, 582.67688pt x 232.61906pt>
+<chapters/works/gluz2018-mesa.png, id=2210, 582.67688pt x 232.61906pt>
 File: chapters/works/gluz2018-mesa.png Graphic file (type png)
 <use chapters/works/gluz2018-mesa.png>
 Package pdftex.def Info: chapters/works/gluz2018-mesa.png  used on input line 3
 35.
 (pdftex.def)             Requested size: 388.73152pt x 155.19374pt.
  [42 <./chapters/works/gluz2018-mesa.png>]
-<chapters/works/orlandi2012.png, id=2244, 947.54pt x 598.235pt>
+<chapters/works/orlandi2012.png, id=2241, 947.54pt x 598.235pt>
 File: chapters/works/orlandi2012.png Graphic file (type png)
 <use chapters/works/orlandi2012.png>
 Package pdftex.def Info: chapters/works/orlandi2012.png  used on input line 404
 .
 (pdftex.def)             Requested size: 345.54279pt x 218.1577pt.
  [43]
-<chapters/works/guterres2014.png, id=2257, 991.705pt x 327.2225pt>
+<chapters/works/guterres2014.png, id=2254, 991.705pt x 327.2225pt>
 File: chapters/works/guterres2014.png Graphic file (type png)
 <use chapters/works/guterres2014.png>
 Package pdftex.def Info: chapters/works/guterres2014.png  used on input line 41
 3.
 (pdftex.def)             Requested size: 345.54279pt x 114.0153pt.
-<chapters/works/guterres2014_objetos.png, id=2266, 1241.63875pt x 372.39125pt>
+<chapters/works/guterres2014_objetos.png, id=2263, 1241.63875pt x 372.39125pt>
 File: chapters/works/guterres2014_objetos.png Graphic file (type png)
 <use chapters/works/guterres2014_objetos.png>
 Package pdftex.def Info: chapters/works/guterres2014_objetos.png  used on input
  line 423.
 (pdftex.def)             Requested size: 431.92685pt x 129.54337pt.
  [44 <./chapters/works/orlandi2012.png> <./chapters/works/guterres2014.png>]
-<chapters/works/Lucena2015_5162-6882-1-PB_arquitetura.png, id=2279, 1434.35875p
+<chapters/works/Lucena2015_5162-6882-1-PB_arquitetura.png, id=2276, 1434.35875p
 t x 741.77126pt>
 File: chapters/works/Lucena2015_5162-6882-1-PB_arquitetura.png Graphic file (ty
 pe png)
@@ -2006,21 +2010,21 @@ Package pdftex.def Info: chapters/works/Lucena2015_5162-6882-1-PB_arquitetura.p
 ng  used on input line 449.
 (pdftex.def)             Requested size: 388.73152pt x 201.02794pt.
  [45 <./chapters/works/guterres2014_objetos.png>]
-<chapters/works/Lucena2015.png, id=2297, 970.62625pt x 665.48625pt>
+<chapters/works/Lucena2015.png, id=2294, 970.62625pt x 665.48625pt>
 File: chapters/works/Lucena2015.png Graphic file (type png)
 <use chapters/works/Lucena2015.png>
 Package pdftex.def Info: chapters/works/Lucena2015.png  used on input line 468.
 
 (pdftex.def)             Requested size: 388.73152pt x 266.52487pt.
  [46 <./chapters/works/Lucena2015_5162-6882-1-PB_arquitetura.png>]
-<chapters/works/Nunes2016.png, id=2318, 1226.5825pt x 450.68375pt>
+<chapters/works/Nunes2016.png, id=2315, 1226.5825pt x 450.68375pt>
 File: chapters/works/Nunes2016.png Graphic file (type png)
 <use chapters/works/Nunes2016.png>
 Package pdftex.def Info: chapters/works/Nunes2016.png  used on input line 490.
 (pdftex.def)             Requested size: 431.92685pt x 158.70442pt.
  [47 <./chapters/works/Lucena2015.png> <./chapters/works/Nunes2016.png>]
 [48]
-<chapters/works/Sales2019_LearningVectors_FatorB2.png, id=2347, 695.59875pt x 4
+<chapters/works/Sales2019_LearningVectors_FatorB2.png, id=2344, 695.59875pt x 4
 76.78125pt>
 File: chapters/works/Sales2019_LearningVectors_FatorB2.png Graphic file (type p
 ng)
@@ -2028,7 +2032,7 @@ ng)
 Package pdftex.def Info: chapters/works/Sales2019_LearningVectors_FatorB2.png  
 used on input line 559.
 (pdftex.def)             Requested size: 194.36575pt x 133.22137pt.
-<chapters/works/Sales2019_LearningVectors.png, id=2358, 1057.9525pt x 560.0925p
+<chapters/works/Sales2019_LearningVectors.png, id=2355, 1057.9525pt x 560.0925p
 t>
 File: chapters/works/Sales2019_LearningVectors.png Graphic file (type png)
 <use chapters/works/Sales2019_LearningVectors.png>
@@ -2042,7 +2046,7 @@ Cap\'{\i }tulo 4.
 ------------------------------------------------------------------------------
  4 M^^c3^^a9todo Proposto
 ------------------------------------------------------------------------------
-<chapters/proposedMethod/arquitetura_v4_1.png, id=2439, 869.49844pt x 440.39531
+<chapters/proposedMethod/arquitetura_v4_1.png, id=2436, 869.49844pt x 440.39531
 pt>
 File: chapters/proposedMethod/arquitetura_v4_1.png Graphic file (type png)
 <use chapters/proposedMethod/arquitetura_v4_1.png>
@@ -2052,7 +2056,7 @@ input line 14.
 [52
 
  <./chapters/proposedMethod/arquitetura_v4_1.png>]
-<chapters/proposedMethod/arquitetura_compositor.png, id=2449, 554.289pt x 268.9
+<chapters/proposedMethod/arquitetura_compositor.png, id=2446, 554.289pt x 268.9
 32pt>
 File: chapters/proposedMethod/arquitetura_compositor.png Graphic file (type png
 )
@@ -2061,7 +2065,7 @@ Package pdftex.def Info: chapters/proposedMethod/arquitetura_compositor.png  us
 ed on input line 43.
 (pdftex.def)             Requested size: 388.73152pt x 188.60812pt.
  [53] [54 <./chapters/proposedMethod/arquitetura_compositor.png>]
-<chapters/proposedMethod/compositor_questoes.png, id=2470, 591.71063pt x 606.76
+<chapters/proposedMethod/compositor_questoes.png, id=2467, 591.71063pt x 606.76
 688pt>
 File: chapters/proposedMethod/compositor_questoes.png Graphic file (type png)
 <use chapters/proposedMethod/compositor_questoes.png>
@@ -2069,20 +2073,20 @@ Package pdftex.def Info: chapters/proposedMethod/compositor_questoes.png  used
 on input line 94.
 (pdftex.def)             Requested size: 388.73152pt x 398.63419pt.
  [55 <./chapters/proposedMethod/compositor_questoes.png>]
-<chapters/proposedMethod/modelo_OTA.png, id=2482, 571.38469pt x 377.15906pt>
+<chapters/proposedMethod/modelo_OTA.png, id=2479, 571.38469pt x 377.15906pt>
 File: chapters/proposedMethod/modelo_OTA.png Graphic file (type png)
 <use chapters/proposedMethod/modelo_OTA.png>
 Package pdftex.def Info: chapters/proposedMethod/modelo_OTA.png  used on input 
 line 131.
 (pdftex.def)             Requested size: 345.54279pt x 228.08698pt.
  [56 <./chapters/proposedMethod/modelo_OTA.png>]
-<chapters/proposedMethod/bpmn_ofva.png, id=2492, 1132.23pt x 453.94594pt>
+<chapters/proposedMethod/bpmn_ofva.png, id=2489, 1132.23pt x 453.94594pt>
 File: chapters/proposedMethod/bpmn_ofva.png Graphic file (type png)
 <use chapters/proposedMethod/bpmn_ofva.png>
 Package pdftex.def Info: chapters/proposedMethod/bpmn_ofva.png  used on input l
 ine 145.
 (pdftex.def)             Requested size: 431.92685pt x 173.17313pt.
-<chapters/proposedMethod/bpmn_servicos.png, id=2495, 745.28438pt x 328.22626pt>
+<chapters/proposedMethod/bpmn_servicos.png, id=2492, 745.28438pt x 328.22626pt>
 
 File: chapters/proposedMethod/bpmn_servicos.png Graphic file (type png)
 <use chapters/proposedMethod/bpmn_servicos.png>
@@ -2091,14 +2095,14 @@ ut line 154.
 (pdftex.def)             Requested size: 388.73152pt x 171.19449pt.
  [57 <./chapters/proposedMethod/bpmn_ofva.png>] [58 <./chapters/proposedMethod/
 bpmn_servicos.png>]
-<chapters/proposedMethod/Blockly.png, id=2517, 963.6pt x 312.41719pt>
+<chapters/proposedMethod/Blockly.png, id=2514, 963.6pt x 312.41719pt>
 File: chapters/proposedMethod/Blockly.png Graphic file (type png)
 <use chapters/proposedMethod/Blockly.png>
 Package pdftex.def Info: chapters/proposedMethod/Blockly.png  used on input lin
 e 197.
 (pdftex.def)             Requested size: 431.92685pt x 140.03821pt.
  [59 <./chapters/proposedMethod/Blockly.png>]
-<chapters/proposedMethod/arquitetura_servidor.png, id=2526, 465.23813pt x 270.2
+<chapters/proposedMethod/arquitetura_servidor.png, id=2523, 465.23813pt x 270.2
 5969pt>
 File: chapters/proposedMethod/arquitetura_servidor.png Graphic file (type png)
 <use chapters/proposedMethod/arquitetura_servidor.png>
@@ -2106,7 +2110,7 @@ Package pdftex.def Info: chapters/proposedMethod/arquitetura_servidor.png  used
  on input line 220.
 (pdftex.def)             Requested size: 345.54279pt x 200.73544pt.
  [60 <./chapters/proposedMethod/arquitetura_servidor.png>]
-<chapters/proposedMethod/arquitetura_player.png, id=2541, 738.50906pt x 304.889
+<chapters/proposedMethod/arquitetura_player.png, id=2538, 738.50906pt x 304.889
 07pt>
 File: chapters/proposedMethod/arquitetura_player.png Graphic file (type png)
 <use chapters/proposedMethod/arquitetura_player.png>
@@ -2128,7 +2132,7 @@ File: ts1txtt.fd 2000/12/15 v3.1
 )
 Package hyperref Info: bookmark level for unknown listing defaults to 0 on inpu
 t line 320.
-<chapters/proposedMethod/msg_websocket.png, id=2555, 584.1825pt x 305.64188pt>
+<chapters/proposedMethod/msg_websocket.png, id=2552, 584.1825pt x 305.64188pt>
 File: chapters/proposedMethod/msg_websocket.png Graphic file (type png)
 <use chapters/proposedMethod/msg_websocket.png>
 Package pdftex.def Info: chapters/proposedMethod/msg_websocket.png  used on inp
@@ -2136,21 +2140,21 @@ ut line 329.
 (pdftex.def)             Requested size: 388.73152pt x 203.38919pt.
 
 [63 <./chapters/proposedMethod/msg_websocket.png>]
-<chapters/proposedMethod/msg_token.png, id=2578, 542.77782pt x 343.2825pt>
+<chapters/proposedMethod/msg_token.png, id=2575, 542.77782pt x 343.2825pt>
 File: chapters/proposedMethod/msg_token.png Graphic file (type png)
 <use chapters/proposedMethod/msg_token.png>
 Package pdftex.def Info: chapters/proposedMethod/msg_token.png  used on input l
 ine 383.
 (pdftex.def)             Requested size: 388.73152pt x 245.86415pt.
  [64] [65 <./chapters/proposedMethod/msg_token.png>]
-<chapters/proposedMethod/msg_dadosv2.png, id=2596, 592.46344pt x 298.11375pt>
+<chapters/proposedMethod/msg_dadosv2.png, id=2593, 592.46344pt x 298.11375pt>
 File: chapters/proposedMethod/msg_dadosv2.png Graphic file (type png)
 <use chapters/proposedMethod/msg_dadosv2.png>
 Package pdftex.def Info: chapters/proposedMethod/msg_dadosv2.png  used on input
  line 496.
 (pdftex.def)             Requested size: 388.73152pt x 195.60483pt.
  [66]
-<chapters/proposedMethod/msg_reconexao.png, id=2603, 541.27219pt x 189.70876pt>
+<chapters/proposedMethod/msg_reconexao.png, id=2600, 541.27219pt x 189.70876pt>
 
 File: chapters/proposedMethod/msg_reconexao.png Graphic file (type png)
 <use chapters/proposedMethod/msg_reconexao.png>
@@ -2162,7 +2166,7 @@ d/msg_reconexao.png>] [69] [70]
 Package pgfplots info on input line 721: Using 'lua backend=false' for axis: x 
 coord trafo unsupported.
  [71] [72]
-<chapters/proposedMethod/exemplo_tempo_questao.png, id=2657, 738.50906pt x 417.
+<chapters/proposedMethod/exemplo_tempo_questao.png, id=2654, 738.50906pt x 417.
 05812pt>
 File: chapters/proposedMethod/exemplo_tempo_questao.png Graphic file (type png)
 
@@ -2176,14 +2180,14 @@ LaTeX Font Info:    Calculating math sizes for size <14> on input line 936.
 LaTeX Font Info:    Calculating math sizes for size <> on input line 940.
  [75]
 [76]
-<chapters/proposedMethod/bpmn_metricas.png, id=2709, 1719.42375pt x 853.68938pt
+<chapters/proposedMethod/bpmn_metricas.png, id=2706, 1719.42375pt x 853.68938pt
 >
 File: chapters/proposedMethod/bpmn_metricas.png Graphic file (type png)
 <use chapters/proposedMethod/bpmn_metricas.png>
 Package pdftex.def Info: chapters/proposedMethod/bpmn_metricas.png  used on inp
 ut line 1012.
 (pdftex.def)             Requested size: 431.92685pt x 214.4509pt.
-<chapters/proposedMethod/bpmn_metricas_NCQ.png, id=2711, 1012.5328pt x 404.2603
+<chapters/proposedMethod/bpmn_metricas_NCQ.png, id=2708, 1012.5328pt x 404.2603
 1pt>
 File: chapters/proposedMethod/bpmn_metricas_NCQ.png Graphic file (type png)
 <use chapters/proposedMethod/bpmn_metricas_NCQ.png>
@@ -2191,14 +2195,14 @@ Package pdftex.def Info: chapters/proposedMethod/bpmn_metricas_NCQ.png  used on
  input line 1021.
 (pdftex.def)             Requested size: 388.73152pt x 155.20581pt.
  [77 <./chapters/proposedMethod/bpmn_metricas.png>]
-<chapters/proposedMethod/bpmn_metricas_NP.png, id=2719, 701.62125pt x 219.82124
+<chapters/proposedMethod/bpmn_metricas_NP.png, id=2716, 701.62125pt x 219.82124
 pt>
 File: chapters/proposedMethod/bpmn_metricas_NP.png Graphic file (type png)
 <use chapters/proposedMethod/bpmn_metricas_NP.png>
 Package pdftex.def Info: chapters/proposedMethod/bpmn_metricas_NP.png  used on 
 input line 1034.
 (pdftex.def)             Requested size: 388.73152pt x 121.79427pt.
-<chapters/appendixAnalytics/CASO1NPEF1.png, id=2722, 402.00188pt x 338.76563pt>
+<chapters/appendixAnalytics/CASO1NPEF1.png, id=2719, 402.00188pt x 338.76563pt>
 
 File: chapters/appendixAnalytics/CASO1NPEF1.png Graphic file (type png)
 <use chapters/appendixAnalytics/CASO1NPEF1.png>
@@ -2207,14 +2211,14 @@ ut line 1044.
 (pdftex.def)             Requested size: 259.15874pt x 218.391pt.
  [78 <./chapters/proposedMethod/bpmn_metricas_NCQ.png> <./chapters/proposedMeth
 od/bpmn_metricas_NP.png>]
-<chapters/proposedMethod/bpmn_metricas_NT.png, id=2732, 716.6775pt x 322.95656p
+<chapters/proposedMethod/bpmn_metricas_NT.png, id=2729, 716.6775pt x 322.95656p
 t>
 File: chapters/proposedMethod/bpmn_metricas_NT.png Graphic file (type png)
 <use chapters/proposedMethod/bpmn_metricas_NT.png>
 Package pdftex.def Info: chapters/proposedMethod/bpmn_metricas_NT.png  used on 
 input line 1053.
 (pdftex.def)             Requested size: 388.73152pt x 175.17747pt.
-<chapters/proposedMethod/bpmn_metricas_Duvida.png, id=2736, 712.16063pt x 355.3
+<chapters/proposedMethod/bpmn_metricas_Duvida.png, id=2733, 712.16063pt x 355.3
 275pt>
 File: chapters/proposedMethod/bpmn_metricas_Duvida.png Graphic file (type png)
 <use chapters/proposedMethod/bpmn_metricas_Duvida.png>
@@ -2223,14 +2227,14 @@ Package pdftex.def Info: chapters/proposedMethod/bpmn_metricas_Duvida.png  used
 (pdftex.def)             Requested size: 388.73152pt x 193.95055pt.
  [79 <./chapters/appendixAnalytics/CASO1NPEF1.png> <./chapters/proposedMethod/b
 pmn_metricas_NT.png>]
-<chapters/proposedMethod/bpmn_metricas_NA.png, id=2744, 570.63188pt x 371.13657
+<chapters/proposedMethod/bpmn_metricas_NA.png, id=2741, 570.63188pt x 371.13657
 pt>
 File: chapters/proposedMethod/bpmn_metricas_NA.png Graphic file (type png)
 <use chapters/proposedMethod/bpmn_metricas_NA.png>
 Package pdftex.def Info: chapters/proposedMethod/bpmn_metricas_NA.png  used on 
 input line 1071.
 (pdftex.def)             Requested size: 345.54279pt x 224.73935pt.
-<chapters/proposedMethod/tools/composer_ota.png, id=2745, 730.22812pt x 511.159
+<chapters/proposedMethod/tools/composer_ota.png, id=2742, 730.22812pt x 511.159
 68pt>
 File: chapters/proposedMethod/tools/composer_ota.png Graphic file (type png)
 <use chapters/proposedMethod/tools/composer_ota.png>
@@ -2239,7 +2243,7 @@ n input line 1082.
 (pdftex.def)             Requested size: 410.32918pt x 287.23021pt.
  [80 <./chapters/proposedMethod/bpmn_metricas_Duvida.png> <./chapters/proposedM
 ethod/bpmn_metricas_NA.png>]
-<chapters/proposedMethod/tools/blockly_ota.png, id=2757, 726.46407pt x 455.4515
+<chapters/proposedMethod/tools/blockly_ota.png, id=2754, 726.46407pt x 455.4515
 7pt>
 File: chapters/proposedMethod/tools/blockly_ota.png Graphic file (type png)
 <use chapters/proposedMethod/tools/blockly_ota.png>
@@ -2248,7 +2252,7 @@ Package pdftex.def Info: chapters/proposedMethod/tools/blockly_ota.png  used on
 (pdftex.def)             Requested size: 410.32918pt x 257.26111pt.
  [81 <./chapters/proposedMethod/tools/composer_ota.png>] [82 <./chapters/propos
 edMethod/tools/blockly_ota.png>]
-<chapters/proposedMethod/tools/OFVA_quadrotrigonometrico.jpeg, id=2778, 1284.8p
+<chapters/proposedMethod/tools/OFVA_quadrotrigonometrico.jpeg, id=2775, 1284.8p
 t x 935.495pt>
 File: chapters/proposedMethod/tools/OFVA_quadrotrigonometrico.jpeg Graphic file
  (type jpg)
@@ -2256,7 +2260,7 @@ File: chapters/proposedMethod/tools/OFVA_quadrotrigonometrico.jpeg Graphic file
 Package pdftex.def Info: chapters/proposedMethod/tools/OFVA_quadrotrigonometric
 o.jpeg  used on input line 1182.
 (pdftex.def)             Requested size: 302.34747pt x 220.14111pt.
-<chapters/proposedMethod/tools/OFVA_VIRTUAL.png, id=2785, 556.32843pt x 487.069
+<chapters/proposedMethod/tools/OFVA_VIRTUAL.png, id=2782, 556.32843pt x 487.069
 69pt>
 File: chapters/proposedMethod/tools/OFVA_VIRTUAL.png Graphic file (type png)
 <use chapters/proposedMethod/tools/OFVA_VIRTUAL.png>
@@ -2264,7 +2268,7 @@ Package pdftex.def Info: chapters/proposedMethod/tools/OFVA_VIRTUAL.png  used o
 n input line 1191.
 (pdftex.def)             Requested size: 302.34747pt x 264.70822pt.
  [83]
-<chapters/proposedMethod/tools/OFVA_FISICO_SENSORES.png, id=2794, 383.9946pt x 
+<chapters/proposedMethod/tools/OFVA_FISICO_SENSORES.png, id=2791, 383.9946pt x 
 348.8232pt>
 File: chapters/proposedMethod/tools/OFVA_FISICO_SENSORES.png Graphic file (type
  png)
@@ -2275,41 +2279,41 @@ Package pdftex.def Info: chapters/proposedMethod/tools/OFVA_FISICO_SENSORES.png
  [84 <./chapters/proposedMethod/tools/OFVA_quadrotrigonometrico.jpeg> <./chapte
 rs/proposedMethod/tools/OFVA_VIRTUAL.png>] [85 <./chapters/proposedMethod/tools
 /OFVA_FISICO_SENSORES.png (PNG copy)>]
-<chapters/appendixC/entrada1.png, id=2807, 125.71968pt x 24.84282pt>
+<chapters/appendixC/entrada1.png, id=2804, 125.71968pt x 24.84282pt>
 File: chapters/appendixC/entrada1.png Graphic file (type png)
 <use chapters/appendixC/entrada1.png>
 Package pdftex.def Info: chapters/appendixC/entrada1.png  used on input line 12
 60.
 (pdftex.def)             Requested size: 86.38405pt x 17.0699pt.
-<chapters/appendixC/entrada2.png, id=2808, 127.22531pt x 24.09pt>
+<chapters/appendixC/entrada2.png, id=2805, 127.22531pt x 24.09pt>
 File: chapters/appendixC/entrada2.png Graphic file (type png)
 <use chapters/appendixC/entrada2.png>
 Package pdftex.def Info: chapters/appendixC/entrada2.png  used on input line 12
 63.
 (pdftex.def)             Requested size: 86.38405pt x 16.35744pt.
-<chapters/appendixC/entrada3.png, id=2809, 129.48375pt x 22.58438pt>
+<chapters/appendixC/entrada3.png, id=2806, 129.48375pt x 22.58438pt>
 File: chapters/appendixC/entrada3.png Graphic file (type png)
 <use chapters/appendixC/entrada3.png>
 Package pdftex.def Info: chapters/appendixC/entrada3.png  used on input line 12
 64.
 (pdftex.def)             Requested size: 86.38405pt x 15.06769pt.
-<chapters/appendixC/saidas.png, id=2810, 400.49625pt x 135.50626pt>
+<chapters/appendixC/saidas.png, id=2807, 400.49625pt x 135.50626pt>
 File: chapters/appendixC/saidas.png Graphic file (type png)
 <use chapters/appendixC/saidas.png>
 Package pdftex.def Info: chapters/appendixC/saidas.png  used on input line 1275
 .
 (pdftex.def)             Requested size: 345.54279pt x 116.91974pt.
-<chapters/appendixB/c1r1.png, id=2814, 202.50656pt x 147.55125pt>
+<chapters/appendixB/c1r1.png, id=2811, 202.50656pt x 147.55125pt>
 File: chapters/appendixB/c1r1.png Graphic file (type png)
 <use chapters/appendixB/c1r1.png>
 Package pdftex.def Info: chapters/appendixB/c1r1.png  used on input line 1316.
 (pdftex.def)             Requested size: 172.7681pt x 125.88518pt.
-<chapters/appendixB/c1r2.png, id=2815, 202.50656pt x 146.04562pt>
+<chapters/appendixB/c1r2.png, id=2812, 202.50656pt x 146.04562pt>
 File: chapters/appendixB/c1r2.png Graphic file (type png)
 <use chapters/appendixB/c1r2.png>
 Package pdftex.def Info: chapters/appendixB/c1r2.png  used on input line 1338.
 (pdftex.def)             Requested size: 172.7681pt x 124.60063pt.
-<chapters/appendixB/c1r3.png, id=2820, 203.25937pt x 145.29282pt>
+<chapters/appendixB/c1r3.png, id=2817, 203.25937pt x 145.29282pt>
 File: chapters/appendixB/c1r3.png Graphic file (type png)
 <use chapters/appendixB/c1r3.png>
 Package pdftex.def Info: chapters/appendixB/c1r3.png  used on input line 1370.
@@ -2317,14 +2321,14 @@ Package pdftex.def Info: chapters/appendixB/c1r3.png  used on input line 1370.
  [86] [87 <./chapters/appendixC/entrada1.png> <./chapters/appendixC/entrada2.pn
 g> <./chapters/appendixC/entrada3.png> <./chapters/appendixC/saidas.png>] [88 <
 ./chapters/appendixB/c1r1.png> <./chapters/appendixB/c1r2.png>]
-<chapters/proposedMethod/tools/servidor_log.png, id=2843, 405.76593pt x 303.383
+<chapters/proposedMethod/tools/servidor_log.png, id=2840, 405.76593pt x 303.383
 44pt>
 File: chapters/proposedMethod/tools/servidor_log.png Graphic file (type png)
 <use chapters/proposedMethod/tools/servidor_log.png>
 Package pdftex.def Info: chapters/proposedMethod/tools/servidor_log.png  used o
 n input line 1393.
 (pdftex.def)             Requested size: 345.54279pt x 258.3632pt.
-<chapters/proposedMethod/tools/servidor_log_tangivel.png, id=2845, 191.21437pt 
+<chapters/proposedMethod/tools/servidor_log_tangivel.png, id=2842, 191.21437pt 
 x 234.1247pt>
 File: chapters/proposedMethod/tools/servidor_log_tangivel.png Graphic file (typ
 e png)
@@ -2333,7 +2337,7 @@ Package pdftex.def Info: chapters/proposedMethod/tools/servidor_log_tangivel.pn
 g  used on input line 1402.
 (pdftex.def)             Requested size: 172.7681pt x 211.54979pt.
  [89 <./chapters/appendixB/c1r3.png>]
-<chapters/proposedMethod/tools/analiticos_ponderada_entradas_.png, id=2853, 200
+<chapters/proposedMethod/tools/analiticos_ponderada_entradas_.png, id=2850, 200
 .24812pt x 364.36125pt>
 File: chapters/proposedMethod/tools/analiticos_ponderada_entradas_.png Graphic 
 file (type png)
@@ -2341,7 +2345,7 @@ file (type png)
 Package pdftex.def Info: chapters/proposedMethod/tools/analiticos_ponderada_ent
 radas_.png  used on input line 1438.
 (pdftex.def)             Requested size: 193.47882pt x 352.06229pt.
-<chapters/proposedMethod/tools/analiticos_ponderada_casos.png, id=2854, 229.607
+<chapters/proposedMethod/tools/analiticos_ponderada_casos.png, id=2851, 229.607
 82pt x 359.84438pt>
 File: chapters/proposedMethod/tools/analiticos_ponderada_casos.png Graphic file
  (type png)
@@ -2351,7 +2355,7 @@ os.png  used on input line 1440.
 (pdftex.def)             Requested size: 207.7052pt x 325.53711pt.
  [90 <./chapters/proposedMethod/tools/servidor_log.png> <./chapters/proposedMet
 hod/tools/servidor_log_tangivel.png>]
-<chapters/proposedMethod/tools/NCQ_topicos.png, id=2865, 259.7203pt x 150.5625p
+<chapters/proposedMethod/tools/NCQ_topicos.png, id=2862, 259.7203pt x 150.5625p
 t>
 File: chapters/proposedMethod/tools/NCQ_topicos.png Graphic file (type png)
 <use chapters/proposedMethod/tools/NCQ_topicos.png>
@@ -2361,7 +2365,7 @@ Package pdftex.def Info: chapters/proposedMethod/tools/NCQ_topicos.png  used on
  [91 <./chapters/proposedMethod/tools/analiticos_ponderada_entradas_.png> <./ch
 apters/proposedMethod/tools/analiticos_ponderada_casos.png> <./chapters/propose
 dMethod/tools/NCQ_topicos.png>]
-<chapters/proposedMethod/tools/NCQ_entradas.png, id=2876, 653.44125pt x 245.416
+<chapters/proposedMethod/tools/NCQ_entradas.png, id=2873, 653.44125pt x 245.416
 87pt>
 File: chapters/proposedMethod/tools/NCQ_entradas.png Graphic file (type png)
 <use chapters/proposedMethod/tools/NCQ_entradas.png>
@@ -2440,14 +2444,14 @@ Overfull \hbox (4.59569pt too wide) in paragraph at lines 1868--1870
  []
 
 [118] [119] [120] [121] [122] [123] [124] [125] [126] [127]
-<chapters/proposedMethod/tools/NCQ_case.png, id=3209, 802.49812pt x 469.755pt>
+<chapters/proposedMethod/tools/NCQ_case.png, id=3206, 802.49812pt x 469.755pt>
 File: chapters/proposedMethod/tools/NCQ_case.png Graphic file (type png)
 <use chapters/proposedMethod/tools/NCQ_case.png>
 Package pdftex.def Info: chapters/proposedMethod/tools/NCQ_case.png  used on in
 put line 2280.
 (pdftex.def)             Requested size: 431.92685pt x 252.83961pt.
  [128]
-<chapters/results/Fase 3/E1_Virtual_2.png, id=3225, 718.93594pt x 586.44093pt>
+<chapters/results/Fase 3/E1_Virtual_2.png, id=3222, 718.93594pt x 586.44093pt>
 File: chapters/results/Fase 3/E1_Virtual_2.png Graphic file (type png)
 <use chapters/results/Fase 3/E1_Virtual_2.png>
 Package pdftex.def Info: chapters/results/Fase 3/E1_Virtual_2.png  used on inpu
@@ -2471,7 +2475,7 @@ Overfull \hbox (12.38136pt too wide) in paragraph at lines 3811--3858
  []
 
 [143] [144] [145] [146]
-<chapters/results/Fase 3/E2_Virtual.png, id=3371, 727.96968pt x 639.13782pt>
+<chapters/results/Fase 3/E2_Virtual.png, id=3368, 727.96968pt x 639.13782pt>
 File: chapters/results/Fase 3/E2_Virtual.png Graphic file (type png)
 <use chapters/results/Fase 3/E2_Virtual.png>
 Package pdftex.def Info: chapters/results/Fase 3/E2_Virtual.png  used on input 
@@ -2480,7 +2484,7 @@ line 4003.
  [147 <./chapters/results/Fase 3/E2_Virtual.png>]
 [148] [149] [150] [151] [152] [153] [154] [155] [156] [157] [158] [159]
 [160] [161]
-<chapters/results/Fase 3/E3_Virtual.png, id=3485, 727.96968pt x 541.27219pt>
+<chapters/results/Fase 3/E3_Virtual.png, id=3482, 727.96968pt x 541.27219pt>
 File: chapters/results/Fase 3/E3_Virtual.png Graphic file (type png)
 <use chapters/results/Fase 3/E3_Virtual.png>
 Package pdftex.def Info: chapters/results/Fase 3/E3_Virtual.png  used on input 
@@ -2488,7 +2492,7 @@ line 4990.
 (pdftex.def)             Requested size: 388.73152pt x 289.04504pt.
  [162 <./chapters/results/Fase 3/E3_Virtual.png>] [163] [164]
 [165] [166] [167]
-<chapters/results/Fase 3/E4_Virtual.png, id=3529, 723.45282pt x 496.10344pt>
+<chapters/results/Fase 3/E4_Virtual.png, id=3526, 723.45282pt x 496.10344pt>
 File: chapters/results/Fase 3/E4_Virtual.png Graphic file (type png)
 <use chapters/results/Fase 3/E4_Virtual.png>
 Package pdftex.def Info: chapters/results/Fase 3/E4_Virtual.png  used on input 
@@ -2496,7 +2500,7 @@ line 5394.
 (pdftex.def)             Requested size: 388.73152pt x 266.57469pt.
  [168 <./chapters/results/Fase 3/E4_Virtual.png>] [169]
 [170] [171] [172]
-<chapters/results/Fase 3/E5_Virtual.png, id=3566, 765.6103pt x 638.385pt>
+<chapters/results/Fase 3/E5_Virtual.png, id=3563, 765.6103pt x 638.385pt>
 File: chapters/results/Fase 3/E5_Virtual.png Graphic file (type png)
 <use chapters/results/Fase 3/E5_Virtual.png>
 Package pdftex.def Info: chapters/results/Fase 3/E5_Virtual.png  used on input 
@@ -2543,7 +2547,7 @@ Ap\^endice B.
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula1Base20220611.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 
-<chapters/appendixLesson/Aula1Base20220611.pdf, id=3724, 597.55246pt x 845.0772
+<chapters/appendixLesson/Aula1Base20220611.pdf, id=3721, 597.55246pt x 845.0772
 4pt>
 File: chapters/appendixLesson/Aula1Base20220611.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula1Base20220611.pdf>
@@ -2555,7 +2559,7 @@ Package pdftex.def Info: chapters/appendixLesson/Aula1Base20220611.pdf  used on
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula1Base20220611.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 
-<chapters/appendixLesson/Aula1Base20220611.pdf, id=3725, page=2, 597.55246pt x 
+<chapters/appendixLesson/Aula1Base20220611.pdf, id=3722, page=2, 597.55246pt x 
 845.07724pt>
 File: chapters/appendixLesson/Aula1Base20220611.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula1Base20220611.pdf, page 2>
@@ -2567,7 +2571,7 @@ used on input line 46.
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula1Base20220611.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 
-<chapters/appendixLesson/Aula1Base20220611.pdf, id=3726, page=3, 597.55246pt x 
+<chapters/appendixLesson/Aula1Base20220611.pdf, id=3723, page=3, 597.55246pt x 
 845.07724pt>
 File: chapters/appendixLesson/Aula1Base20220611.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula1Base20220611.pdf, page 3>
@@ -2579,7 +2583,7 @@ used on input line 47.
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula1Base20220611.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 
-<chapters/appendixLesson/Aula1Base20220611.pdf, id=3727, page=4, 597.55246pt x 
+<chapters/appendixLesson/Aula1Base20220611.pdf, id=3724, page=4, 597.55246pt x 
 845.07724pt>
 File: chapters/appendixLesson/Aula1Base20220611.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula1Base20220611.pdf, page 4>
@@ -2591,7 +2595,7 @@ used on input line 48.
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula1Base20220611.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 
-<chapters/appendixLesson/Aula1Base20220611.pdf, id=3728, page=5, 597.55246pt x 
+<chapters/appendixLesson/Aula1Base20220611.pdf, id=3725, page=5, 597.55246pt x 
 845.07724pt>
 File: chapters/appendixLesson/Aula1Base20220611.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula1Base20220611.pdf, page 5>
@@ -2603,7 +2607,7 @@ used on input line 49.
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula1Base20220611.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 
-<chapters/appendixLesson/Aula1Base20220611.pdf, id=3729, page=6, 597.55246pt x 
+<chapters/appendixLesson/Aula1Base20220611.pdf, id=3726, page=6, 597.55246pt x 
 845.07724pt>
 File: chapters/appendixLesson/Aula1Base20220611.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula1Base20220611.pdf, page 6>
@@ -2615,7 +2619,7 @@ used on input line 50.
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula1Base20220611.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 
-<chapters/appendixLesson/Aula1Base20220611.pdf, id=3730, page=7, 597.55246pt x 
+<chapters/appendixLesson/Aula1Base20220611.pdf, id=3727, page=7, 597.55246pt x 
 845.07724pt>
 File: chapters/appendixLesson/Aula1Base20220611.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula1Base20220611.pdf, page 7>
@@ -2688,7 +2692,7 @@ Overfull \hbox (1.72472pt too wide) in alignment at lines 78--78
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3843, 597.55246pt x 845.07724pt>
+<chapters/appendixLesson/Aula2.pdf, id=3840, 597.55246pt x 845.07724pt>
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf>
 Package pdftex.def Info: chapters/appendixLesson/Aula2.pdf  used on input line 
@@ -2698,7 +2702,7 @@ Package pdftex.def Info: chapters/appendixLesson/Aula2.pdf  used on input line
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3844, page=2, 597.55246pt x 845.07724pt>
+<chapters/appendixLesson/Aula2.pdf, id=3841, page=2, 597.55246pt x 845.07724pt>
 
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 2>
@@ -2709,7 +2713,7 @@ t line 91.
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3845, page=3, 597.55246pt x 845.07724pt>
+<chapters/appendixLesson/Aula2.pdf, id=3842, page=3, 597.55246pt x 845.07724pt>
 
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 3>
@@ -2720,7 +2724,7 @@ t line 92.
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3846, page=4, 597.55246pt x 845.07724pt>
+<chapters/appendixLesson/Aula2.pdf, id=3843, page=4, 597.55246pt x 845.07724pt>
 
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 4>
@@ -2731,7 +2735,7 @@ t line 93.
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3847, page=5, 597.55246pt x 845.07724pt>
+<chapters/appendixLesson/Aula2.pdf, id=3844, page=5, 597.55246pt x 845.07724pt>
 
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 5>
@@ -2742,7 +2746,7 @@ t line 94.
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3848, page=6, 597.55246pt x 845.07724pt>
+<chapters/appendixLesson/Aula2.pdf, id=3845, page=6, 597.55246pt x 845.07724pt>
 
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 6>
@@ -2753,7 +2757,7 @@ t line 95.
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3849, page=7, 597.55246pt x 845.07724pt>
+<chapters/appendixLesson/Aula2.pdf, id=3846, page=7, 597.55246pt x 845.07724pt>
 
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 7>
@@ -2764,7 +2768,7 @@ t line 96.
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3850, page=8, 597.55246pt x 845.07724pt>
+<chapters/appendixLesson/Aula2.pdf, id=3847, page=8, 597.55246pt x 845.07724pt>
 
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 8>
@@ -2775,7 +2779,7 @@ t line 97.
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3851, page=9, 597.55246pt x 845.07724pt>
+<chapters/appendixLesson/Aula2.pdf, id=3848, page=9, 597.55246pt x 845.07724pt>
 
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 9>
@@ -2786,7 +2790,7 @@ t line 98.
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3852, page=10, 597.55246pt x 845.07724pt
+<chapters/appendixLesson/Aula2.pdf, id=3849, page=10, 597.55246pt x 845.07724pt
 >
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 10>
@@ -2797,7 +2801,7 @@ ut line 99.
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3853, page=11, 597.55246pt x 845.07724pt
+<chapters/appendixLesson/Aula2.pdf, id=3850, page=11, 597.55246pt x 845.07724pt
 >
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 11>
@@ -2808,7 +2812,7 @@ ut line 100.
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3854, page=12, 597.55246pt x 845.07724pt
+<chapters/appendixLesson/Aula2.pdf, id=3851, page=12, 597.55246pt x 845.07724pt
 >
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 12>
@@ -2819,7 +2823,7 @@ ut line 101.
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3855, page=13, 597.55246pt x 845.07724pt
+<chapters/appendixLesson/Aula2.pdf, id=3852, page=13, 597.55246pt x 845.07724pt
 >
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 13>
@@ -2830,7 +2834,7 @@ ut line 102.
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3856, page=14, 597.55246pt x 845.07724pt
+<chapters/appendixLesson/Aula2.pdf, id=3853, page=14, 597.55246pt x 845.07724pt
 >
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 14>
@@ -2841,7 +2845,7 @@ ut line 103.
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3857, page=15, 597.55246pt x 845.07724pt
+<chapters/appendixLesson/Aula2.pdf, id=3854, page=15, 597.55246pt x 845.07724pt
 >
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 15>
@@ -2852,7 +2856,7 @@ ut line 104.
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3858, page=16, 597.55246pt x 845.07724pt
+<chapters/appendixLesson/Aula2.pdf, id=3855, page=16, 597.55246pt x 845.07724pt
 >
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 16>
@@ -2863,7 +2867,7 @@ ut line 105.
 
 pdfTeX warning: pdflatex.exe (file ./chapters/appendixLesson/Aula2.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/appendixLesson/Aula2.pdf, id=3859, page=17, 597.55246pt x 845.07724pt
+<chapters/appendixLesson/Aula2.pdf, id=3856, page=17, 597.55246pt x 845.07724pt
 >
 File: chapters/appendixLesson/Aula2.pdf Graphic file (type pdf)
 <use chapters/appendixLesson/Aula2.pdf, page 17>
@@ -2880,13 +2884,13 @@ a2.pdf>] [222 <./chapters/appendixLesson/Aula2.pdf>] [223 <./chapters/appendixL
 esson/Aula2.pdf>] [224 <./chapters/appendixLesson/Aula2.pdf>] [225 <./chapters/
 appendixLesson/Aula2.pdf>] [226 <./chapters/appendixLesson/Aula2.pdf>] [227 <./
 chapters/appendixLesson/Aula2.pdf>]
-<chapters/appendixLesson/Q2.jpg, id=4035, 281.55188pt x 234.8775pt>
+<chapters/appendixLesson/Q2.jpg, id=4032, 281.55188pt x 234.8775pt>
 File: chapters/appendixLesson/Q2.jpg Graphic file (type jpg)
 <use chapters/appendixLesson/Q2.jpg>
 Package pdftex.def Info: chapters/appendixLesson/Q2.jpg  used on input line 136
 .
 (pdftex.def)             Requested size: 281.55118pt x 234.87692pt.
-<chapters/appendixLesson/circulo_trigonometrico.png, id=4036, 579.1236pt x 803.
+<chapters/appendixLesson/circulo_trigonometrico.png, id=4033, 579.1236pt x 803.
 6424pt>
 File: chapters/appendixLesson/circulo_trigonometrico.png Graphic file (type png
 )
@@ -2896,7 +2900,7 @@ ed on input line 159.
 (pdftex.def)             Requested size: 431.92685pt x 599.40715pt.
  [228 <./chapters/appendixLesson/Q2.jpg>]
 [229 <./chapters/appendixLesson/circulo_trigonometrico.png>]
-<chapters/appendixLesson/Interface_A01.png, id=4050, 535.7616pt x 764.8575pt>
+<chapters/appendixLesson/Interface_A01.png, id=4047, 535.7616pt x 764.8575pt>
 File: chapters/appendixLesson/Interface_A01.png Graphic file (type png)
 <use chapters/appendixLesson/Interface_A01.png>
 Package pdftex.def Info: chapters/appendixLesson/Interface_A01.png  used on inp
@@ -2905,7 +2909,7 @@ ut line 176.
  [230
 
  <./chapters/appendixLesson/Interface_A01.png>]
-<chapters/appendixLesson/Interface_A02.png, id=4056, 598.3956pt x 846.0408pt>
+<chapters/appendixLesson/Interface_A02.png, id=4053, 598.3956pt x 846.0408pt>
 File: chapters/appendixLesson/Interface_A02.png Graphic file (type png)
 <use chapters/appendixLesson/Interface_A02.png>
 Package pdftex.def Info: chapters/appendixLesson/Interface_A02.png  used on inp
@@ -2914,7 +2918,7 @@ ut line 183.
  [231
 
  <./chapters/appendixLesson/Interface_A02.png>]
-<chapters/appendixLesson/Interface_A03.png, id=4062, 536.4843pt x 764.8575pt>
+<chapters/appendixLesson/Interface_A03.png, id=4059, 536.4843pt x 764.8575pt>
 File: chapters/appendixLesson/Interface_A03.png Graphic file (type png)
 <use chapters/appendixLesson/Interface_A03.png>
 Package pdftex.def Info: chapters/appendixLesson/Interface_A03.png  used on inp
@@ -2923,7 +2927,7 @@ ut line 190.
  [232
 
  <./chapters/appendixLesson/Interface_A03.png>]
-<chapters/appendixLesson/Interface_A04.png, id=4069, 536.4843pt x 764.8575pt>
+<chapters/appendixLesson/Interface_A04.png, id=4066, 536.4843pt x 764.8575pt>
 File: chapters/appendixLesson/Interface_A04.png Graphic file (type png)
 <use chapters/appendixLesson/Interface_A04.png>
 Package pdftex.def Info: chapters/appendixLesson/Interface_A04.png  used on inp
@@ -2932,7 +2936,7 @@ ut line 197.
  [233
 
  <./chapters/appendixLesson/Interface_A04.png>]
-<chapters/appendixLesson/Interface_A05.png, id=4075, 527.8119pt x 808.4604pt>
+<chapters/appendixLesson/Interface_A05.png, id=4072, 527.8119pt x 808.4604pt>
 File: chapters/appendixLesson/Interface_A05.png Graphic file (type png)
 <use chapters/appendixLesson/Interface_A05.png>
 Package pdftex.def Info: chapters/appendixLesson/Interface_A05.png  used on inp
@@ -2941,7 +2945,7 @@ ut line 204.
  [234
 
  <./chapters/appendixLesson/Interface_A05.png>]
-<chapters/appendixLesson/Interface_A06.png, id=4081, 579.1236pt x 808.4604pt>
+<chapters/appendixLesson/Interface_A06.png, id=4078, 579.1236pt x 808.4604pt>
 File: chapters/appendixLesson/Interface_A06.png Graphic file (type png)
 <use chapters/appendixLesson/Interface_A06.png>
 Package pdftex.def Info: chapters/appendixLesson/Interface_A06.png  used on inp
@@ -4027,31 +4031,31 @@ Ap\^endice N.
 ------------------------------------------------------------------------------
  N Formul^^c3^^a1rio de Experi^^c3^^aancia do Usu^^c3^^a1rio
 ------------------------------------------------------------------------------
-<chapters/appendixUX/UX_Tela1.png, id=4958, 492.33937pt x 621.07031pt>
+<chapters/appendixUX/UX_Tela1.png, id=4955, 492.33937pt x 621.07031pt>
 File: chapters/appendixUX/UX_Tela1.png Graphic file (type png)
 <use chapters/appendixUX/UX_Tela1.png>
 Package pdftex.def Info: chapters/appendixUX/UX_Tela1.png  used on input line 7
 .
 (pdftex.def)             Requested size: 302.34747pt x 381.42053pt.
-<chapters/appendixUX/UX_Tela2.png, id=4959, 399.74344pt x 670.75594pt>
+<chapters/appendixUX/UX_Tela2.png, id=4956, 399.74344pt x 670.75594pt>
 File: chapters/appendixUX/UX_Tela2.png Graphic file (type png)
 <use chapters/appendixUX/UX_Tela2.png>
 Package pdftex.def Info: chapters/appendixUX/UX_Tela2.png  used on input line 1
 4.
 (pdftex.def)             Requested size: 345.54279pt x 579.83768pt.
-<chapters/appendixUX/UX_Tela3.png, id=4960, 492.33937pt x 682.04813pt>
+<chapters/appendixUX/UX_Tela3.png, id=4957, 492.33937pt x 682.04813pt>
 File: chapters/appendixUX/UX_Tela3.png Graphic file (type png)
 <use chapters/appendixUX/UX_Tela3.png>
 Package pdftex.def Info: chapters/appendixUX/UX_Tela3.png  used on input line 2
 1.
 (pdftex.def)             Requested size: 345.54279pt x 478.71053pt.
-<chapters/appendixUX/UX_Tela4.png, id=4961, 489.32813pt x 697.10437pt>
+<chapters/appendixUX/UX_Tela4.png, id=4958, 489.32813pt x 697.10437pt>
 File: chapters/appendixUX/UX_Tela4.png Graphic file (type png)
 <use chapters/appendixUX/UX_Tela4.png>
 Package pdftex.def Info: chapters/appendixUX/UX_Tela4.png  used on input line 2
 8.
 (pdftex.def)             Requested size: 345.54279pt x 492.2777pt.
-<chapters/appendixUX/UX_Tela5.png, id=4962, 488.57532pt x 655.69969pt>
+<chapters/appendixUX/UX_Tela5.png, id=4959, 488.57532pt x 655.69969pt>
 File: chapters/appendixUX/UX_Tela5.png Graphic file (type png)
 <use chapters/appendixUX/UX_Tela5.png>
 Package pdftex.def Info: chapters/appendixUX/UX_Tela5.png  used on input line 3
@@ -4067,11 +4071,11 @@ Package rerunfilecheck Info: File `phdthesis_gabriel.out' has not changed.
 (rerunfilecheck)             Checksum: 17EBC22A50793860C91506C82B6FC9DE;29776.
  ) 
 Here is how much of TeX's memory you used:
- 49710 strings out of 475385
- 1113551 string characters out of 2776907
- 1917565 words of memory out of 3000000
- 68963 multiletter control sequences out of 15000+600000
- 587939 words of font info for 232 fonts, out of 8000000 for 9000
+ 49774 strings out of 475385
+ 1114477 string characters out of 2776907
+ 1917462 words of memory out of 3000000
+ 69022 multiletter control sequences out of 15000+600000
+ 595995 words of font info for 245 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,20n,89p,1705b,2623s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {D:/Users/gabri/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<D:
@@ -4086,14 +4090,15 @@ lic/txfonts/tcxtt.pfb><D:/Users/gabri/AppData/Local/Programs/MiKTeX/fonts/type1
 /public/txfonts/txex.pfb><D:/Users/gabri/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/public/txfonts/txsy.pfb><D:/Users/gabri/AppData/Local/Programs/MiKTeX/fonts
 /type1/public/txfonts/txsya.pfb><D:/Users/gabri/AppData/Local/Programs/MiKTeX/f
-onts/type1/urw/times/utmb8a.pfb><D:/Users/gabri/AppData/Local/Programs/MiKTeX/f
-onts/type1/urw/times/utmbi8a.pfb><D:/Users/gabri/AppData/Local/Programs/MiKTeX/
-fonts/type1/urw/times/utmr8a.pfb><D:/Users/gabri/AppData/Local/Programs/MiKTeX/
-fonts/type1/urw/times/utmr8a.pfb><D:/Users/gabri/AppData/Local/Programs/MiKTeX/
-fonts/type1/urw/times/utmri8a.pfb>
-Output written on phdthesis_gabriel.pdf (405 pages, 18975738 bytes).
+onts/type1/urw/helvetic/uhvr8a.pfb><D:/Users/gabri/AppData/Local/Programs/MiKTe
+X/fonts/type1/urw/times/utmb8a.pfb><D:/Users/gabri/AppData/Local/Programs/MiKTe
+X/fonts/type1/urw/times/utmbi8a.pfb><D:/Users/gabri/AppData/Local/Programs/MiKT
+eX/fonts/type1/urw/times/utmr8a.pfb><D:/Users/gabri/AppData/Local/Programs/MiKT
+eX/fonts/type1/urw/times/utmr8a.pfb><D:/Users/gabri/AppData/Local/Programs/MiKT
+eX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on phdthesis_gabriel.pdf (405 pages, 18988898 bytes).
 PDF statistics:
- 5258 PDF objects out of 6186 (max. 8388607)
+ 5259 PDF objects out of 6186 (max. 8388607)
  939 named destinations out of 1000 (max. 500000)
  2350 words of extra memory for PDF output out of 10000 (max. 10000000)
 

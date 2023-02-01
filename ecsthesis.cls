@@ -195,11 +195,11 @@
 \nomeorientadorcatalogacao	{Barreto, Raimundo da Silva}
 \nomeautorcatalogacao		{Leitão, Gabriel de Souza}
 \localcatalogacao			{Manaus, BR - AM}
-\anocatalogacao				{2019}
-\referenciacatalogacao		{XVII, 316f.: il.; 29,7cm}
-\graucatalogacao			{Tese (Doutorado)}
+\anocatalogacao				{2023}
+\referenciacatalogacao		{384 f.: il. color; 31 cm}
+\graucatalogacao			{Tese (Doutorado em Informática)}
 \paginarefbibcatalogacao	{XX - XX}
-\palavraschavecatalogacao	{1.. 2... 3.. 4...}
+\palavraschavecatalogacao	{1. Objetos tangíveis. 2. Educação. 3. Ambientes de aprendizagem. 4. Sistemas embarcados. 5. Manipulativos de aprendizagem.}
 %TODO:END...RAWLINSON...
 
 \renewcommand\maketitle{
@@ -474,71 +474,103 @@
 
 %folha de Catalogação na Publicação
 \newcommand\imprimirfolhadecatalogacao{
-\btypeout{CIP - CATALOGA\c{C}\~{A}O NA PUBLICA\c{C}\~{A}O}
-\thispagestyle{empty}
-\begin{titlepage}
-    \begin{flushleft}    
-     {\Large CIP - CATALOGA\c{C}\~{A}O NA PUBLICA\c{C}\~{A}O \par}
-    \end{flushleft}
-    
-    \null\vfill
-    \begin{center}
-    \begin{tabular}{|p{12cm}|}
-    \hline
-	\\
-	\nomeautorcatalogacaodef \\
-	\\
-	\parbox[c]{12cm}{\@title \hspace{0.1cm} / \hspace{0.1cm} \authornames. \localcatalogacaodef, \anocatalogacaodef.} \\
-	\\
-	{\hspace{0.8cm} \referenciacatalogacaodef \par}
-	{\hspace{0.8cm} Orientador: \orientadornamedef \par}
-	{\hspace{0.7cm} \graucatalogacaodef \hspace{0.1cm} - \univname. \deptname, \localcatalogacaodef, \anocatalogacaodef. \par}
-	{\hspace{0.8cm} Refer\^{e}ncias Bibliogr\'{a}ficas: p. \paginarefbibcatalogacaodef. \par}
-	{\hspace{0.8cm} \palavraschavecatalogacaodef  I. \nomeorientadorcatalogacaodef. II. \univname, \facname. III. \@title \par} \\
-    \hline
-    \end{tabular}
-    \end{center}
-    
-    \vfill
-    \bigskip
-	\bigskip
-	\bigskip
-	\bigskip
-	\bigskip
-	\bigskip
-	\bigskip
-	\bigskip
-	\bigskip
-	\bigskip
-	\bigskip
-	\bigskip
-	\bigskip
-	\bigskip
+	\btypeout{Ficha Catalogr\'{a}fica}
+	\thispagestyle{empty}
+	\begin{titlepage}
 
-    \begin{flushleft}    
-     {\fontsize{10}{10}\selectfont \large\textbf{\UNIVNAME}\par}
-     {\fontsize{10}{10}\selectfont Reitor: Prof. Dr. Sylvio M\'{a}rio Puga Ferreira \par}
-     {\fontsize{10}{10}\selectfont Pr\'{o}-Reitora de Pesquisa e P\'{o}s-Gradua\c{c}\~{a}o: Profa. Dra. Selma Suely Ba\'{c}al de Oliveira \par}
-    %  {\fontsize{10}{10}\selectfont Pr\'{o}-Reitor de Ensino e Gradua\c{c}\~{a}o: Prof. Luc\'{i}dio Rocha dos Santos \par}
-     {\fontsize{10}{10}\selectfont Coord. do Programa de P\'{o}s-Gradua\c{c}\~{a}o em Inform\'{a}tica: Prof. Dr. Juan Gabriel Colonna \par}
-     {\fontsize{10}{10}\selectfont Diretora do Instituto de Computa\c{c}\~{a}o: Profa. Dr. José Luís de Souza Pio \par}
-    \end{flushleft}
-    \par
-    \@thanks
-    \vfil\null
-\end{titlepage}
-  
-  \setcounter{footnote}{0}%
-  \global\let\thanks\relax
-  \global\let\makesubtitle\relax
-  \global\let\@thanks\@empty
-  \global\let\@author\@empty
-  \global\let\@date\@empty
-  \global\let\title\relax
-  \global\let\author\relax
-  \global\let\date\relax
-  \global\let\and\relax
-  \cleardoublepage
+		\null\vfill
+		\null\vfill
+		\begin{center}
+			\begin{small}
+			\fontfamily{phv} \selectfont \large Ficha Catalogr\'{a}fica \\ \small Ficha catalogr\'{a}fica elaborada automaticamente de acordo com os dados fornecidos pelo(a) autor(a).
+			\end{small}
+		\end{center}
+		
+		\begin{small}
+%		\null\vfill
+		\begin{center}
+			\begin{tabular}{|cp{11cm}p{0.5cm}|}
+				\hline
+				& & \\
+				& \fontfamily{phv} \selectfont \nomeautorcatalogacaodef & \\
+				\fontfamily{phv} \selectfont L533m & \fontfamily{phv} \selectfont \hspace{0.2cm} Um método baseado em objetos tangíveis para verificação da aprendizagem \hspace{0.1cm} / \hspace{0.1cm} \authornames . \anocatalogacaodef & \\
+				& \fontfamily{phv} \selectfont \hspace{0.2cm} \referenciacatalogacaodef \par & \\
+
+				& \fontfamily{phv} \selectfont \hspace{0.2cm} Orientador: Raimundo da Silva Barreto & \\
+				& \fontfamily{phv} \selectfont \hspace{0.2cm} \graucatalogacaodef \hspace{0.1cm} - \univname. & \par \\
+				& \fontfamily{phv} \selectfont \hspace{0.2cm} \palavraschavecatalogacaodef \hspace{0.1cm} I. \nomeorientadorcatalogacaodef \hspace{0.1cm} II. \univname  \hspace{0.1cm} III. \@title & \\
+				& & \\
+				& & \\
+				& & \\
+				& & \\
+				& & \\
+				\hline
+			\end{tabular}
+
+%		    \begin{tabular}{|c l|}
+%				\hline
+%				& \\
+%				& \nomeautorcatalogacaodef \\
+%				%	\\
+%				%	\parbox[c]{12cm}{\@title \hspace{0.1cm} / \hspace{0.1cm} \authornames. \localcatalogacaodef, \anocatalogacaodef.} \\
+%				L533m & \parbox[c]{10cm}{\hspace{0.3cm} \@title \hspace{0.1cm} / \hspace{0.1cm} \authornames . \anocatalogacaodef} \\
+%				& {\hspace{0.3cm} \referenciacatalogacaodef \par}	\\
+%				& \\
+%				& {\hspace{0.3cm} Orientador: \orientadornamedef \par} \\
+%				%	{\hspace{0.7cm} \graucatalogacaodef \hspace{0.1cm} - \univname. \deptname, \localcatalogacaodef, \anocatalogacaodef. \par}
+%				
+%				& \parbox[c]{10cm}{\hspace{0.3cm} \graucatalogacaodef \hspace{0.1cm} - \univname. \par}	\\
+%				
+%				%	{\hspace{0.8cm} Refer\^{e}ncias Bibliogr\'{a}ficas: p. \paginarefbibcatalogacaodef. \par}
+%				%	{\hspace{0.8cm} \palavraschavecatalogacaodef  I. \nomeorientadorcatalogacaodef. II. \univname, \facname. III. \@title \par} \\
+%				& \\
+%				& \parbox[c]{10cm}{\hspace{0.1cm} \palavraschavecatalogacaodef \hspace{0.1cm} I. \nomeorientadorcatalogacaodef \hspace{0.1cm} II. \univname \hspace{0.1cm} III. \@title \vspace{3.5cm} \par} \\
+%				
+%				\hline
+%			\end{tabular}
+		\end{center}
+		\end{small}
+		
+%		\vfill
+%		\bigskip
+%		\bigskip
+%		\bigskip
+%		\bigskip
+%		\bigskip
+%		\bigskip
+%		\bigskip
+%		\bigskip
+%		\bigskip
+%		\bigskip
+%		\bigskip
+%		\bigskip
+%		\bigskip
+%		\bigskip
+		
+%		\begin{flushleft}    
+%			{\fontsize{10}{10}\selectfont \large\textbf{\UNIVNAME}\par}
+%			{\fontsize{10}{10}\selectfont Reitor: Prof. Dr. Sylvio M\'{a}rio Puga Ferreira \par}
+%			{\fontsize{10}{10}\selectfont Pr\'{o}-Reitora de Pesquisa e P\'{o}s-Gradua\c{c}\~{a}o: Profa. Dra. Selma Suely Ba\'{c}al de Oliveira \par}
+%			%  {\fontsize{10}{10}\selectfont Pr\'{o}-Reitor de Ensino e Gradua\c{c}\~{a}o: Prof. Luc\'{i}dio Rocha dos Santos \par}
+%			{\fontsize{10}{10}\selectfont Coord. do Programa de P\'{o}s-Gradua\c{c}\~{a}o em Inform\'{a}tica: Prof. Dr. Juan Gabriel Colonna \par}
+%			{\fontsize{10}{10}\selectfont Diretora do Instituto de Computa\c{c}\~{a}o: Profa. Dr. José Luís de Souza Pio \par}
+%		\end{flushleft}
+%		\par
+		\@thanks
+		\vfil\null
+	\end{titlepage}
+	
+	\setcounter{footnote}{0}%
+	\global\let\thanks\relax
+	\global\let\makesubtitle\relax
+	\global\let\@thanks\@empty
+	\global\let\@author\@empty
+	\global\let\@date\@empty
+	\global\let\title\relax
+	\global\let\author\relax
+	\global\let\date\relax
+	\global\let\and\relax
+	\cleardoublepage
 }
 
 \newcommand\dedicatory[1]{

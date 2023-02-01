@@ -1,6 +1,6 @@
 \babel@toc {brazilian}{}\relax 
-\contentsline {chapter}{Lista de Figuras}{x}{dummy.3}%
-\contentsline {chapter}{Lista de Tabelas}{xiii}{dummy.5}%
+\contentsline {chapter}{Lista de Figuras}{xi}{dummy.3}%
+\contentsline {chapter}{Lista de Tabelas}{xiv}{dummy.5}%
 \contentsline {chapter}{\numberline {1}Introdu^^c3^^a7^^c3^^a3o}{1}{chapter.8}%
 \contentsline {section}{\numberline {1.1}Contexto}{2}{section.9}%
 \contentsline {section}{\numberline {1.2}Defini^^c3^^a7^^c3^^a3o do Problema}{3}{section.10}%
