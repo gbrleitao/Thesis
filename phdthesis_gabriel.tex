@@ -212,9 +212,9 @@
 \paginarefbibcatalogacao	{XX - XX}
 \palavraschavecatalogacao	{1. Objetos tangíveis. 2. Educação. 3. Ambientes de aprendizagem. 4. Sistemas embarcados. 5. Manipulativos de aprendizagem.}
 
-\imprimirfolhadecatalogacao
+%\imprimirfolhadecatalogacao
 %TODO: END : Parametros de inicializacao da pagina de catalogacao do trabalho...
-%\includepdf[pages=-,offset=75 -75] {Presentation/Documentos/fichacatalografica.pdf}
+\includepdf[pages=-,offset=75 -75] {Presentation/Documentos/fichacatalografica.pdf}
 
 %\imprimirfolhadeaprovacao
 \includepdf[pages=-,offset=75 -75] {Presentation/Documentos/folhaaprovacao.pdf}
@@ -270,12 +270,7 @@
 \input{chapters/abstract.tex} 
 
 
-
-% % % % % % 
-% Sumario
-% % % % % % 
-\pdfbookmark{\contentsname}{toc} % NEW
-\tableofcontents
+%%listas
 
 \listoffigures
 \listoftables
@@ -289,11 +284,17 @@
 \renewcommand\listoflistingscaption{Lista de Códigos-fonte}
 \listoflistings
 
-% Empty page
-\newpage
-\thispagestyle{empty} 
-\mbox{}
+%% Empty page
+%\newpage
+%\thispagestyle{empty} 
+%\mbox{}
 
+% % % % % % 
+% Sumario
+% % % % % % 
+
+\pdfbookmark{\contentsname}{toc} % NEW
+\tableofcontents
 
 
 
